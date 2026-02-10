@@ -1,0 +1,249 @@
+{
+  "timestamp": "2026-02-06T18:31:28.867Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 7,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$TSLA",
+      2
+    ],
+    [
+      "$FIRE",
+      1
+    ],
+    [
+      "$TALEX",
+      1
+    ],
+    [
+      "$BITWRE",
+      1
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$REKTOBER",
+      1
+    ],
+    [
+      "$AIRDROP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$FIRE",
+        "count": 1
+      },
+      {
+        "ticker": "$TALEX",
+        "count": 1
+      },
+      {
+        "ticker": "$BITWRE",
+        "count": 1
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$REKTOBER",
+        "count": 1
+      },
+      {
+        "ticker": "$AIRDROP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$TSLA",
+        "count": 2
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$FIRE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @GoatApple2944 verified earnings for $FIRE on @BagsApp 💰\n\nhttps://t.co/Apnq0FGAow",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @thekryptoking_ just bought $4.26K of $PENGUIN at $20.73M MC 🐳\n\nhttps://t.co/bpMw0bO1Xx",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.18K of $REKTOBER at $379.67K MC 🐳\n\nhttps://t.co/ElfCXeO4x4",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$TALEX": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/0z7gxSMq3n verified earnings for $TALEX on @BagsApp 💰\n\nhttps://t.co/4pAV75aLSl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BITWRE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @The_Bit_Wire verified earnings for $BITWRE on @BagsApp 💰\n\nhttps://t.co/PchTnT9m7S",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $9.91K of $ORE at $28.38M MC 🐳\n\nhttps://t.co/koRbvadwo9",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TSLA": [
+      {
+        "author": "0xDamien",
+        "text": "RT @TheSonOfWalkley: BREAKING: CATHIE WOOD BOUGHT $15 MILLION IN $TSLA STOCK YESTERDAY 👀\n\nShe’s back to buying ! https://t.co/d0Gl9NApDH",
+        "likes": 0,
+        "retweets": 86
+      },
+      {
+        "author": "kshitizkapoor_",
+        "text": "$TSLA has broken its trendline and is pulling back into a clear HTF support zone.\n\nKey levels to watch: $370-$375: expected support and long zone\n\nHow I’m trading it:\n• Scaling in near support using t",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$REKTOBER": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.18K of $REKTOBER at $379.67K MC 🐳\n\nhttps://t.co/ElfCXeO4x4",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$AIRDROP": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @treysocial just bought $1.25K of $AIRDROP at $119.08K MC 🐳\n\nhttps://t.co/5DK3G6LPKo",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "if it can go down this fast then it can also go up this fast",
+      "likes": 2040,
+      "retweets": 125,
+      "url": "https://x.com/mert/status/2019591471490560344"
+    },
+    {
+      "author": "frankdegods",
+      "text": "It's bullish that people are bearish because most people have to be bearish in order for it to actually be bullish",
+      "likes": 1791,
+      "retweets": 115,
+      "url": "https://x.com/frankdegods/status/1881521620470374529"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "\"okay now buy a rittle bit back\" https://t.co/8wdi95BbXw",
+      "likes": 549,
+      "retweets": 33,
+      "url": "https://x.com/DipWheeler/status/2019821499340009949"
+    },
+    {
+      "author": "frankdegods",
+      "text": "just remember who was bullish when the quants were bearish",
+      "likes": 449,
+      "retweets": 19,
+      "url": "https://x.com/frankdegods/status/2018353251419046231"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Longing some btc and eth",
+      "likes": 378,
+      "retweets": 8,
+      "url": "https://x.com/lBattleRhino/status/2019566087751496151"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Longing some btc and eth",
+      "likes": 378,
+      "retweets": 8,
+      "url": "https://x.com/lBattleRhino/status/2019566087751496151"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "The market will bend to the will of those who persist forever.",
+      "likes": 317,
+      "retweets": 64,
+      "url": "https://x.com/MustStopMurad/status/2019837108790390845"
+    },
+    {
+      "author": "headquarters68_",
+      "text": "AOC: This most recent election for the House, in many ways was stolen by the Republican majority. They have a 3 seat majority in the House. Those three seats were gerrymandered out of North Carolina last cycle. That is why I am so glad we fought back in California and Virginia to",
+      "likes": 288,
+      "retweets": 59,
+      "url": "https://x.com/headquarters68_/status/2019838574040891817"
+    },
+    {
+      "author": "elliotrades",
+      "text": "2026 is the year to transform yourself and stay the absolute fuck out of other peoples business \n\nGet jacked, vibe code, trade and swerve every single attempt by others to drag you into their emotional chaos\n\nFocus on you king, the world is yours",
+      "likes": 155,
+      "retweets": 8,
+      "url": "https://x.com/elliotrades/status/2019833430746243552"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Crypto is incredible.",
+      "likes": 150,
+      "retweets": 6,
+      "url": "https://x.com/jessepollak/status/2019830372012552240"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "timestamp": "2026-01-30T21:53:20.753Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 3,
+    "neutral": 93,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$LIBERAL",
+      2
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$DIS",
+      1
+    ],
+    [
+      "$LABUBU",
+      1
+    ],
+    [
+      "$STARKBOT",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$BMNR",
+      1
+    ],
+    [
+      "$JOE",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$ELON",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$LIBERAL",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$LABUBU",
+        "count": 1
+      },
+      {
+        "ticker": "$STARKBOT",
+        "count": 1
+      },
+      {
+        "ticker": "$BMNR",
+        "count": 1
+      },
+      {
+        "ticker": "$JOE",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$ELON",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$DIS",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 7,
+      "gold": 3
+    },
+    "metals": {
+      "silver": 7,
+      "gold": 3
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$DIS": [
+      {
+        "author": "DeItaone",
+        "text": "$DIS - *DISNEY BOARD EXPECTED TO VOTE ON NEXT CEO NEXT WEEK: WSJ",
+        "likes": 7,
+        "retweets": 1
+      }
+    ],
+    "$LABUBU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $1.07K of $LIBERAL at $296.48K MC 🐳\n\nhttps://t.co/8HvF8hJtmU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LIBERAL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $1.07K of $LIBERAL at $296.48K MC 🐳\n\nhttps://t.co/8HvF8hJtmU",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @mercularx just bought $1.36K of $LIBERAL at $394.68K MC 🐳\n\nhttps://t.co/vGZv3rLjNa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$STARKBOT": [
+      {
+        "author": "fbgThanos",
+        "text": "RT @CryptoTomYT: Why $STARKBOT is a sleeping monster as a payment infrastructure provider for AI agents and has potential to go 10x+ \n\nCA:…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "The surge in gold and silver in 2026 has been a vortex sucking risk appetite away from other asset classes \n\n- equity bull market still intact \n- crypto hurt by metals rally but also follows metal sur",
+        "likes": 89,
+        "retweets": 11
+      }
+    ],
+    "$BMNR": [
+      {
+        "author": "fundstrat",
+        "text": "The surge in gold and silver in 2026 has been a vortex sucking risk appetite away from other asset classes \n\n- equity bull market still intact \n- crypto hurt by metals rally but also follows metal sur",
+        "likes": 89,
+        "retweets": 11
+      }
+    ],
+    "$JOE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $JOE on MobyScreener 🖼️ https://t.co/0WqmwuUGtV",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $15.11K of $PENGUIN at $55.49M MC 🐳\n\nhttps://t.co/I6tBRKjeEm",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.47K of $ELON at $3.74M MC 🐳\n\nhttps://t.co/I63lKF8zet",
+        "likes": 5,
+        "retweets": 2
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "wrld_sol",
+        "text": "RT @miragemunny: the majority of volume going into $BUTTCOIN is coming from coinbase’s new solana on-chain integration\n\nthe wallet that ope…",
+        "likes": 0,
+        "retweets": 27
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.47K of $ELON at $3.74M MC 🐳\n\nhttps://t.co/I63lKF8zet",
+        "likes": 5,
+        "retweets": 2
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "chooserich",
+        "text": "Silver ⬇️ 30%\nGold ⬇️ 12%\nBitcoin ⬇️ 7%\n\n$MOLT ⬆️ 7700%...\nSince my friend who created it texted me and I didn't buy 😭😭😭 https://t.co/DuUNbDAFQJ",
+        "likes": 26,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1270,
+      "retweets": 210,
+      "url": "https://x.com/Neuravision_A/status/2010102620502011981"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "there’s a parallel universe where worldcoin was the best performing token ever",
+      "likes": 146,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2017249158281732511"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "watch me get raped in real time.\n\nhttps://t.co/NnlfoxZANX https://t.co/Fzbf7wSZ2a",
+      "likes": 117,
+      "retweets": 4,
+      "url": "https://x.com/DipWheeler/status/2017343504176058381"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 109,
+      "retweets": 1,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    },
+    {
+      "author": "Anchorage",
+      "text": "Anchorage Digital Ventures is more than a check. We’re your protocol’s first institutional partner. Tell us what you’re building for a chance to meet us at ETHDenver.",
+      "likes": 108,
+      "retweets": 15,
+      "url": "https://x.com/Anchorage/status/2011471012651729022"
+    },
+    {
+      "author": "mert",
+      "text": "just secured zodl dot com\n\n$10,000",
+      "likes": 100,
+      "retweets": 4,
+      "url": "https://x.com/mert/status/2017341454050304127"
+    }
+  ]
+}

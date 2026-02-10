@@ -1,0 +1,342 @@
+{
+  "timestamp": "2026-01-31T06:37:43.349Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 2,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SYNP",
+      2
+    ],
+    [
+      "$CLAWNCH",
+      1
+    ],
+    [
+      "$YE",
+      1
+    ],
+    [
+      "$GLD",
+      1
+    ],
+    [
+      "$SLV",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$LORB",
+      1
+    ],
+    [
+      "$MLM",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$CLANKER",
+      1
+    ],
+    [
+      "$CLAUDEGIFT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SYNP",
+        "count": 2
+      },
+      {
+        "ticker": "$CLAWNCH",
+        "count": 1
+      },
+      {
+        "ticker": "$YE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$LORB",
+        "count": 1
+      },
+      {
+        "ticker": "$MLM",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$CLANKER",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAUDEGIFT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$GLD",
+        "count": 1
+      },
+      {
+        "ticker": "$SLV",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$CLAWNCH": [
+      {
+        "author": "jessepollak",
+        "text": "RT @Clawnch_Bot: $CLAWNCH is live. 🦞\n\nA token launch platform exclusively for AI agents on @moltbook:\n\n🤖 Free to launch\n⚡ Deploy on Base vi…",
+        "likes": 0,
+        "retweets": 53
+      }
+    ],
+    "$YE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @RajkoomarR82812 verified earnings for $YE on @BagsApp 💰\n\nhttps://t.co/dyEYVwrGQV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GLD": [
+      {
+        "author": "fundstrat",
+        "text": "Give this a watch 👀\n\nSat down with @Downtown @michaelbatnick on @TheCompoundNews \n\n- bull market intact \n- gold $GLD and silver $SLV\n- how AI may drive higher tax revs\n- crypto and blockchain for fin",
+        "likes": 20,
+        "retweets": 0
+      }
+    ],
+    "$SLV": [
+      {
+        "author": "fundstrat",
+        "text": "Give this a watch 👀\n\nSat down with @Downtown @michaelbatnick on @TheCompoundNews \n\n- bull market intact \n- gold $GLD and silver $SLV\n- how AI may drive higher tax revs\n- crypto and blockchain for fin",
+        "likes": 20,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "Give this a watch 👀\n\nSat down with @Downtown @michaelbatnick on @TheCompoundNews \n\n- bull market intact \n- gold $GLD and silver $SLV\n- how AI may drive higher tax revs\n- crypto and blockchain for fin",
+        "likes": 20,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "fundstrat",
+        "text": "Give this a watch 👀\n\nSat down with @Downtown @michaelbatnick on @TheCompoundNews \n\n- bull market intact \n- gold $GLD and silver $SLV\n- how AI may drive higher tax revs\n- crypto and blockchain for fin",
+        "likes": 20,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.82K of $PENGUIN at $53.27M MC 🐳\n\nhttps://t.co/bsBeqOdh4p",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$LORB": [
+      {
+        "author": "yogchill_",
+        "text": "Sounds like @TBC_on_X wants to make another episode featuring the @ChurchOfLorb 👀\n\n$LORB https://t.co/h8khpe8NSL",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$MLM": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $MLM on MobyScreener 🖼️ https://t.co/GQdTiykm1W",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $1.98K of $Accelerando at $1.34M MC 🐳\n\nhttps://t.co/4k1a98rS7E",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $1.36K of $CLANKER at $232.05K MC 🐳\n\nhttps://t.co/3vDLIILERV",
+        "likes": 6,
+        "retweets": 2
+      }
+    ],
+    "$CLANKER": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $1.36K of $CLANKER at $232.05K MC 🐳\n\nhttps://t.co/3vDLIILERV",
+        "likes": 6,
+        "retweets": 2
+      }
+    ],
+    "$CLAUDEGIFT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @awedeeo verified earnings for $CLAUDEGIFT on @BagsApp 💰\n\nhttps://t.co/P7NNq5GWFe",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SYNP": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @exitliquid1ty just bought $1.45K of $SYNP at $126.7K MC 🐳\n\nhttps://t.co/fa1BuhooIM",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @exitliquid1ty just bought $2.9K of $SYNP at $334.96K MC 🐳\n\nhttps://t.co/SOWOakrbLx",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1518,
+      "retweets": 227,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "MattPRD",
+      "text": "Every VC firm is reaching out to me right now. @moltbook is something new that’s never been seen before.\n\nToday has been a weird day for Clawd Clawderberg and me 🦞🙃",
+      "likes": 1284,
+      "retweets": 63,
+      "url": "https://x.com/MattPRD/status/2017437564639318440"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "hyperliquid https://t.co/bihRkeXAGB",
+      "likes": 547,
+      "retweets": 38,
+      "url": "https://x.com/blknoiz06/status/2017315869387354615"
+    },
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 495,
+      "retweets": 44,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "jessepollak",
+      "text": "a launchpad built for agents on @moltbook",
+      "likes": 491,
+      "retweets": 46,
+      "url": "https://x.com/jessepollak/status/2017449872816017617"
+    },
+    {
+      "author": "Cbb0fe",
+      "text": "Got tagged hundred of times about our \"shorts\" (delta neutral positions) for the few last days\n\nNow no one is talking\n\nBrokies on CT are such pathetic larps 😂",
+      "likes": 406,
+      "retweets": 5,
+      "url": "https://x.com/Cbb0fe/status/2017297786782253178"
+    },
+    {
+      "author": "jessepollak",
+      "text": "ok both the agents and the humans are cooking on @base right now\n\nepic friday night",
+      "likes": 346,
+      "retweets": 16,
+      "url": "https://x.com/jessepollak/status/2017452930161643571"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "PODZ FROM THE LOGO 🔥 https://t.co/QIb3dPkdMb",
+      "likes": 303,
+      "retweets": 12,
+      "url": "https://x.com/TheNBACentel/status/2017479151733649638"
+    },
+    {
+      "author": "gainzy222",
+      "text": "elites absolutely shitting themselves with every epstein file dump\n\nit just gets worse and worse",
+      "likes": 285,
+      "retweets": 13,
+      "url": "https://x.com/gainzy222/status/2017454022974726423"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "looking back you can't even explain the silly shit that was going on in 2024, there was a crypto conference iggy azalea party with strippers &amp; a mechanical bull in the middle of a random venue in singapore, sounds like the most ridiculous ai slop scripted combination of thing",
+      "likes": 241,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2017465926090678351"
+    }
+  ]
+}

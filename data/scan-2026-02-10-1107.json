@@ -1,0 +1,360 @@
+{
+  "timestamp": "2026-02-10T11:07:21.713Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 6,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SERIOUS",
+      2
+    ],
+    [
+      "$BIO",
+      2
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$MEGA",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$TSX",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ],
+    [
+      "$TON",
+      1
+    ],
+    [
+      "$BNKR",
+      1
+    ],
+    [
+      "$ANTIHUNTER",
+      1
+    ],
+    [
+      "$AGAI",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$SHIZUKU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SERIOUS",
+        "count": 2
+      },
+      {
+        "ticker": "$BIO",
+        "count": 2
+      },
+      {
+        "ticker": "$MEGA",
+        "count": 1
+      },
+      {
+        "ticker": "$TSX",
+        "count": 1
+      },
+      {
+        "ticker": "$TON",
+        "count": 1
+      },
+      {
+        "ticker": "$BNKR",
+        "count": 1
+      },
+      {
+        "ticker": "$ANTIHUNTER",
+        "count": 1
+      },
+      {
+        "ticker": "$AGAI",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$SHIZUKU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "treasury": 1,
+      "bond": 1
+    },
+    "industry": {
+      "bankruptcy": 1
+    }
+  },
+  "tickerDetails": {
+    "$MEGA": [
+      {
+        "author": "waleswoosh",
+        "text": "5/10 MegaETH mafia apps are live so far.\n\nWhen the number reaches 10, we will see $MEGA TGE seven days later.\n\nThe question is when https://t.co/YLRqMnR2Lz",
+        "likes": 240,
+        "retweets": 14
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "based16z",
+        "text": "RT @saylor: $MSTR = Most Interesting. https://t.co/D0pp79ZKAK",
+        "likes": 0,
+        "retweets": 784
+      }
+    ],
+    "$TSX": [
+      {
+        "author": "chang_defi",
+        "text": "RT @Wild_Randomness: $TSX $SPX\n\nDead serious here—\n\nIf the second half of this decade is going to be defined by real things (atoms), and le…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "chang_defi",
+        "text": "RT @Wild_Randomness: $TSX $SPX\n\nDead serious here—\n\nIf the second half of this decade is going to be defined by real things (atoms), and le…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$TON": [
+      {
+        "author": "0xdamx",
+        "text": "The $TON price tag doesn’t really bother me.\n\nI’d much rather the pump be organic and sustainable, even if it takes a while, than just a temporary hype cycle that crashes right back.\n\nI’m not in any r",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$SERIOUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @PainCrypt0 just bought $1.26K of $SERIOUS at $329.76K MC 🐳\n\nhttps://t.co/hw618M2C3i",
+        "likes": 3,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @PainCrypt0 just bought $2.53K of $SERIOUS at $258.45K MC 🐳\n\nhttps://t.co/IVERQXcxid",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$BNKR": [
+      {
+        "author": "au_xbt",
+        "text": "$BNKR at $120M — $BIO (@BioUnit000) is undervalued here，time to ath（I shared in channel before at 300k）\n\n0xd655790B0486fa681c23B955F5Ca7Cd5f5C8Cb07\n\nYesterday, $BIO moved as an $ANTIHUNTER beta, track",
+        "likes": 10,
+        "retweets": 0
+      }
+    ],
+    "$BIO": [
+      {
+        "author": "au_xbt",
+        "text": "$BNKR at $120M — $BIO (@BioUnit000) is undervalued here，time to ath（I shared in channel before at 300k）\n\n0xd655790B0486fa681c23B955F5Ca7Cd5f5C8Cb07\n\nYesterday, $BIO moved as an $ANTIHUNTER beta, track",
+        "likes": 10,
+        "retweets": 0
+      },
+      {
+        "author": "au_xbt",
+        "text": "Looking forward to what’s coming next for $BIO https://t.co/xPORcQah5F",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$ANTIHUNTER": [
+      {
+        "author": "au_xbt",
+        "text": "$BNKR at $120M — $BIO (@BioUnit000) is undervalued here，time to ath（I shared in channel before at 300k）\n\n0xd655790B0486fa681c23B955F5Ca7Cd5f5C8Cb07\n\nYesterday, $BIO moved as an $ANTIHUNTER beta, track",
+        "likes": 10,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC\n\nPosted more than a year in advance. I was one of the earliest to estimate the top...\n\nAnd it all played out perfectly...\n\n... is what the engagement farmer would say.\n\nBut that is not my goal. T",
+        "likes": 46,
+        "retweets": 1
+      },
+      {
+        "author": "rektfencer",
+        "text": "The next 6 months of $BTC price action\n\nYou are NOT ready for this https://t.co/EYPtLZlDNf",
+        "likes": 690,
+        "retweets": 110
+      }
+    ],
+    "$AGAI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @agentropic verified earnings for $AGAI on @BagsApp 💰\n\nhttps://t.co/cVTsKswNme",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $PENGUIN on MobyScreener 🖼️ https://t.co/OiqRiEsobq",
+        "likes": 40,
+        "retweets": 6
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $6.54K of $Buttcoin at $24.21M MC 🐳\n\nhttps://t.co/fwWR5V3JFM",
+        "likes": 9,
+        "retweets": 2
+      }
+    ],
+    "$SHIZUKU": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ShizukuAIVtube verified earnings for $SHIZUKU on @BagsApp 💰\n\nhttps://t.co/oZzAwu6dlf",
+        "likes": 4,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "I turned 26 today.\n\nGive me some life advice",
+      "likes": 1139,
+      "retweets": 12,
+      "url": "https://x.com/waleswoosh/status/2021120978877878519"
+    },
+    {
+      "author": "rektfencer",
+      "text": "The next 6 months of $BTC price action\n\nYou are NOT ready for this https://t.co/EYPtLZlDNf",
+      "likes": 690,
+      "retweets": 110,
+      "url": "https://x.com/rektfencer/status/2020862272071926031"
+    },
+    {
+      "author": "litecoin",
+      "text": "Litecoin. I've got the meatz. https://t.co/7YTt1LDjDS",
+      "likes": 360,
+      "retweets": 28,
+      "url": "https://x.com/litecoin/status/2021009212382519403"
+    },
+    {
+      "author": "SBF_FTX",
+      "text": "Agree with almost all of this.\n\nBut FTX was never bankrupt. I never filed for it.\n\nThe lawyers took over the company and 4 hours later they filed a bogus bankruptcy so they could pilfer it for money. https://t.co/L7VWJK4Wny",
+      "likes": 258,
+      "retweets": 28,
+      "url": "https://x.com/SBF_FTX/status/2021165548306907339"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "5/10 MegaETH mafia apps are live so far.\n\nWhen the number reaches 10, we will see $MEGA TGE seven days later.\n\nThe question is when https://t.co/YLRqMnR2Lz",
+      "likes": 240,
+      "retweets": 14,
+      "url": "https://x.com/waleswoosh/status/2021151171616952478"
+    },
+    {
+      "author": "gainzy222",
+      "text": "We’re going lower, “forever top” narrative is coming",
+      "likes": 197,
+      "retweets": 7,
+      "url": "https://x.com/gainzy222/status/2021141030720958957"
+    },
+    {
+      "author": "himgajria",
+      "text": "Dear KOLs, \n\nGet a bag &lt;$10m. \nBull post it.\nRide it to &gt;$1b.\n\nRegards.",
+      "likes": 191,
+      "retweets": 22,
+      "url": "https://x.com/himgajria/status/2021158293771587674"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "your aram teammates are on the wrong server on airport wifi @CL207 https://t.co/wjo0SiWsl5",
+      "likes": 166,
+      "retweets": 0,
+      "url": "https://x.com/izebel_eth/status/2021111870170579031"
+    },
+    {
+      "author": "mert",
+      "text": "zcash https://t.co/66qdHTiETK",
+      "likes": 143,
+      "retweets": 13,
+      "url": "https://x.com/mert/status/2021152481409929271"
+    },
+    {
+      "author": "himgajria",
+      "text": "Mines &gt; Trenches",
+      "likes": 109,
+      "retweets": 12,
+      "url": "https://x.com/himgajria/status/2021135892832993309"
+    }
+  ]
+}

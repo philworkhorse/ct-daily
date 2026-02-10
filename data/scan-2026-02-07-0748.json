@@ -1,0 +1,160 @@
+{
+  "timestamp": "2026-02-07T07:48:06.362Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 4,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$POPCAT",
+      2
+    ],
+    [
+      "$AVAX",
+      1
+    ],
+    [
+      "$ELIZAOK",
+      1
+    ],
+    [
+      "$FONT",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$POPCAT",
+        "count": 2
+      },
+      {
+        "ticker": "$ELIZAOK",
+        "count": 1
+      },
+      {
+        "ticker": "$FONT",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$AVAX",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$AVAX": [
+      {
+        "author": "inversebrah",
+        "text": "RT @thetopsignal: @avery_bartlett @gerhardvonbier @0xSmitty @vohvohh Are you having fun on $AVAX?",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$POPCAT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $POPCAT whale just bought $4.77K of $Buttcoin at $42.8M MC 🐳\n\nhttps://t.co/8sEsV6h46a",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $POPCAT whale just bought $7.6K of $Buttcoin at $42.16M MC 🐳\n\nhttps://t.co/KaS8vF9lyT",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ELIZAOK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @shawmakesmagic verified earnings for $ELIZAOK on @BagsApp 💰\n\nhttps://t.co/R5oScSn3m7",
+        "likes": 4,
+        "retweets": 2
+      }
+    ],
+    "$FONT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Shorya_codes verified earnings for $FONT on @BagsApp 💰\n\nhttps://t.co/o5QApY9sVp",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $11.44K of $Buttcoin at $41.15M MC 🐳\n\nhttps://t.co/rjy8TQCyqa",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC shorts\n\nPOI rejection, 67.3k reached✅ Took first TP.\n\nAlright, called out to short 8 hours ago in live time at 70.7k and now they're up 3500 points.\n\nThat's halfway to midrange target from the hi",
+        "likes": 80,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet https://t.co/4EwU9TAHRz",
+      "likes": 496,
+      "retweets": 9,
+      "url": "https://x.com/waleswoosh/status/2020014724096905481"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Polymarket with more visits than the top crypto websites combined.\n\nAnd about to flip Robinhood.\n\nPolymarket supercycle",
+      "likes": 122,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2020033571449348426"
+    },
+    {
+      "author": "Icebergy",
+      "text": "that’s it?",
+      "likes": 113,
+      "retweets": 3,
+      "url": "https://x.com/Icebergy/status/2019641346244636776"
+    }
+  ]
+}

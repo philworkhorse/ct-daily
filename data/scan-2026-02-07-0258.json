@@ -1,0 +1,199 @@
+{
+  "timestamp": "2026-02-07T02:58:35.606Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 5,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$KLED",
+      1
+    ],
+    [
+      "$XRP",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$SPRM",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$KLED",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$SPRM",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$XRP",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1,
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 2,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "RT @_youngadz: Unstable coin coded $USDUC",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $TOILET with a PnL of +92.06%.\n\n$TOILET has been trending on Moby since $70.4K MC. Currently sitting at $2.38M MC. https://t.co/ETrO4kvc",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.99K of $KLED at $19.01M MC 🐳\n\nhttps://t.co/Y5zWh9PX9Z",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KLED": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.99K of $KLED at $19.01M MC 🐳\n\nhttps://t.co/Y5zWh9PX9Z",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XRP": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "$XRP holders are mentally ill",
+        "likes": 1328,
+        "retweets": 48
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @chillhousedev verified earnings for $CHILLHOUSE on @BagsApp 💰\n\nhttps://t.co/GzYxLwB35G",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$SPRM": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member @TheSPRMwhale just added a banner image for $SPRM on MobyScreener 🖼️ https://t.co/RrbUTntSLc",
+        "likes": 5,
+        "retweets": 3
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "crypto_bitlord7",
+      "text": "$XRP holders are mentally ill",
+      "likes": 1328,
+      "retweets": 48,
+      "url": "https://x.com/crypto_bitlord7/status/2019904000402006057"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "vibe check https://t.co/FgP4UMNAKY",
+      "likes": 479,
+      "retweets": 6,
+      "url": "https://x.com/blknoiz06/status/2019925683657666600"
+    },
+    {
+      "author": "udiWertheimer",
+      "text": "excuse me?",
+      "likes": 207,
+      "retweets": 7,
+      "url": "https://x.com/udiWertheimer/status/2019937517919957126"
+    },
+    {
+      "author": "trading_axe",
+      "text": "TLDR of comments:\n\nConspiracy theory about Patriots winning because of Vegas engineering a honeytrap, Jews wanting Patriots to win and they’ve done it before, something about Tom Brady etc.\n\nAnyway, I had heard enough.\n\nSeattles it is.\n\nALWAYS countertrade RETARDS who think they ",
+      "likes": 198,
+      "retweets": 0,
+      "url": "https://x.com/trading_axe/status/2019902886654710246"
+    },
+    {
+      "author": "0xIT4I",
+      "text": "you can steal the recipe but the sauce wont taste the same.\n\nDohn Jue https://t.co/niokwPDhZC",
+      "likes": 150,
+      "retweets": 10,
+      "url": "https://x.com/0xIT4I/status/2019798753717133390"
+    },
+    {
+      "author": "mdudas",
+      "text": "i’m extremely optimistic about the future of crypto \n\ni have an incredible partnership and a largely terrific group of founders and lp’s that i’m fortunate to work with\n\nthat being said, i would estimate the rate of shady / sketchy / unethical people in crypto is at least 5x that",
+      "likes": 139,
+      "retweets": 1,
+      "url": "https://x.com/mdudas/status/2019944993746559399"
+    }
+  ]
+}

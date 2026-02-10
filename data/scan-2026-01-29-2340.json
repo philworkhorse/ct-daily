@@ -1,0 +1,248 @@
+{
+  "timestamp": "2026-01-29T23:40:22.136Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 4,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ELON",
+      4
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$DONALD",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$LABUBU",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ELON",
+        "count": 4
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$DONALD",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$LABUBU",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 7,
+      "silver": 2,
+      "oil": 1,
+      "platinum": 1
+    },
+    "metals": {
+      "gold": 7,
+      "silver": 2,
+      "platinum": 1
+    },
+    "macro": {
+      "fed": 2,
+      "dollar": 3
+    }
+  },
+  "tickerDetails": {
+    "$ELON": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "The memecoin trenches have not been THIS HOT in SO LONG.\n\nChamath tweets a ticker, $ELON as if that may be signifying the combination of Tesla + SpaceX + xAI under the specualtion of a merger.\n\nDegens",
+        "likes": 32,
+        "retweets": 3
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @eyeamfin just bought $4.18K of $ELON at $2.76M MC 🐳\n\nhttps://t.co/s2RqmZ1eLQ",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $2.33K of $ELON at $2.85M MC 🐳\n\nhttps://t.co/e9HcNoqVA7",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $1.13K of $ELON at $2.38M MC 🐳\n\nhttps://t.co/eMu1zgSkjk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$DONALD": [
+      {
+        "author": "daumenxyz",
+        "text": "You are still failing to see how big the $DONALD situation really is\n\nIt's just making waves right now\n\nIt's more than just political; it's a representation of Europe's current status\n\n@dogeofficialce",
+        "likes": 12,
+        "retweets": 3
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $2.33K of $ELON at $2.85M MC 🐳\n\nhttps://t.co/e9HcNoqVA7",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "BobLoukas",
+        "text": "$MSTR led the last bear market and has been leading this one too. https://t.co/r6bwJPkOzK",
+        "likes": 821,
+        "retweets": 38
+      }
+    ],
+    "$LABUBU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $1.13K of $ELON at $2.38M MC 🐳\n\nhttps://t.co/eMu1zgSkjk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.05K of $PENGUIN at $83.84M MC 🐳\n\nhttps://t.co/eqIJzM7yYD",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.2K of $Win at $762K MC 🐳\n\nhttps://t.co/lZwAtpWyWJ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $5.19K of $GSD at $3.57M MC 🐳\n\nhttps://t.co/aR9HK6afVN",
+        "likes": 2,
+        "retweets": 2
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $5.19K of $GSD at $3.57M MC 🐳\n\nhttps://t.co/aR9HK6afVN",
+        "likes": 2,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "WClementeIII",
+      "text": "Just saw someone say this and had to verify myself — Gold has added about $1.75 trillion in market cap just today alone. The market cap of Bitcoin right now is $1.78 trillion.",
+      "likes": 6520,
+      "retweets": 417,
+      "url": "https://x.com/WClementeIII/status/2016633904057217349"
+    },
+    {
+      "author": "BobLoukas",
+      "text": "$MSTR led the last bear market and has been leading this one too. https://t.co/r6bwJPkOzK",
+      "likes": 821,
+      "retweets": 38,
+      "url": "https://x.com/BobLoukas/status/2016905148912537665"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "This is the best time to be in Crypto since 2020. Certain sectors are about to experience exponential growth. Don't let the doomers stuck in vaporous altcoins tell you otherwise.",
+      "likes": 655,
+      "retweets": 57,
+      "url": "https://x.com/ThinkingUSD/status/2016978334320660820"
+    },
+    {
+      "author": "LiveNation",
+      "text": "JUST ANNOUNCED! NE-YO and AKON are coming to a city near you for the Nights Like This Tour – it’s the party you don’t want to miss. Big hits. Big energy. Tickets on sale Friday, Jan 30th @ 10AM local.",
+      "likes": 602,
+      "retweets": 37,
+      "url": "https://x.com/LiveNation/status/2016317047953633753"
+    },
+    {
+      "author": "cobie",
+      "text": "@blknoiz06 @buyerofponzi @WClementeIII Wanna race ?",
+      "likes": 456,
+      "retweets": 2,
+      "url": "https://x.com/cobie/status/2016818109940699481"
+    },
+    {
+      "author": "Wayfair",
+      "text": "Best selling sideboards designed for storage and style from Wayfair",
+      "likes": 432,
+      "retweets": 29,
+      "url": "https://x.com/Wayfair/status/1989413020296994917"
+    },
+    {
+      "author": "thiccyth0t",
+      "text": "bitcoin is supposed to be a debasement hedge but it is a digital asset first and foremost amidst a secular rotation from the world of bits into the world of atoms, something thiel has predicted for over a decade https://t.co/p1p63IhXCt",
+      "likes": 200,
+      "retweets": 16,
+      "url": "https://x.com/thiccyth0t/status/2016994628931617262"
+    }
+  ]
+}

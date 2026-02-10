@@ -1,0 +1,325 @@
+{
+  "timestamp": "2026-01-31T09:00:33.746Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 4,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$TOWN",
+      3
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$KAITO",
+      1
+    ],
+    [
+      "$MOBY",
+      1
+    ],
+    [
+      "$EVA",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$MOLTX",
+      1
+    ],
+    [
+      "$LUCK",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$ORGO",
+      1
+    ],
+    [
+      "$MOLTCITY",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$TOWN",
+        "count": 3
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$KAITO",
+        "count": 1
+      },
+      {
+        "ticker": "$MOBY",
+        "count": 1
+      },
+      {
+        "ticker": "$EVA",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTX",
+        "count": 1
+      },
+      {
+        "ticker": "$LUCK",
+        "count": 1
+      },
+      {
+        "ticker": "$ORGO",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTCITY",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "copper": 1,
+      "coffee": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 5,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/JgbdgvTmXG",
+        "likes": 20,
+        "retweets": 1
+      }
+    ],
+    "$KAITO": [
+      {
+        "author": "waleswoosh",
+        "text": "This is a scheduled post from January 1st, 2026.\n\nBy the end of the month, I predict:\n\nBTC at $115,000 USD.\n\nETH at $4,250 USD.\n\nSOL at $180 USD.\n\n$KAITO at $1.25 USD",
+        "likes": 178,
+        "retweets": 5
+      }
+    ],
+    "$MOBY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $3.71K of $EVA at $2.68M MC 🐳\n\nhttps://t.co/xvPqL0A5vu",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EVA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $3.71K of $EVA at $2.68M MC 🐳\n\nhttps://t.co/xvPqL0A5vu",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $16.92K of $SKR at $175.53M MC 🐳\n\nhttps://t.co/QzS4JoIJoV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $16.92K of $SKR at $175.53M MC 🐳\n\nhttps://t.co/QzS4JoIJoV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTX": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @amritvt verified earnings for $MOLTX on @BagsApp 💰\n\nhttps://t.co/kFdXUEgrU8",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LUCK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @luckdotfun verified earnings for $LUCK on @BagsApp 💰\n\nhttps://t.co/RYc0SBV5yj",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $4.8K of $ORGO at $14.18M MC 🐳\n\nhttps://t.co/wHOS8dBVvK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ORGO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $4.8K of $ORGO at $14.18M MC 🐳\n\nhttps://t.co/wHOS8dBVvK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTCITY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @barnyxbt verified earnings for $MOLTCITY on @BagsApp 💰\n\nhttps://t.co/ss4fCMkpsZ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.7K of $TOWN at $1.25M MC 🐳\n\nhttps://t.co/Y7pzZInkHo",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.84K of $TOWN at $1.08M MC 🐳\n\nhttps://t.co/KQwML6wK5w",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TOWN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.7K of $TOWN at $1.25M MC 🐳\n\nhttps://t.co/Y7pzZInkHo",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.84K of $TOWN at $1.08M MC 🐳\n\nhttps://t.co/KQwML6wK5w",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @degnsol just bought $2.26K of $TOWN at $834.41K MC 🐳\n\nhttps://t.co/LNTfGtGLvE",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "StateFarm",
+      "text": "Something even bigger to be unveiled 2.8.26",
+      "likes": 1921,
+      "retweets": 90,
+      "url": "https://x.com/StateFarm/status/2015814352847392934"
+    },
+    {
+      "author": "0xSammy",
+      "text": "Kaparthy has spoken\n\nIf you’re not on Moltbook you’re missing something special evolving in plain sight\n\nKarma = Agent Reputation \n\nThey’re building an entire parallel financial system with reputation at its core\n\n37k agents are now registered and are co-ordinating resources",
+      "likes": 1282,
+      "retweets": 97,
+      "url": "https://x.com/0xSammy/status/2017320713548370092"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 439,
+      "retweets": 5,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "looking back you can't even explain the silly shit that was going on in 2024, there was a crypto conference iggy azalea party with strippers &amp; a mechanical bull in the middle of a random venue in singapore, sounds like the most ridiculous ai slop scripted combination of thing",
+      "likes": 348,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017465926090678351"
+    },
+    {
+      "author": "cryptomanran",
+      "text": "The difference between this bear market and all the others is that in the last bear markets people were still curious and interested in Bitcoin and crypto!\n\nEven though prices were low , people still asked about the asset and whether it’s time to buy.\n\nThis time is different. The",
+      "likes": 254,
+      "retweets": 11,
+      "url": "https://x.com/cryptomanran/status/2017483373220974657"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 216,
+      "retweets": 28,
+      "url": "https://x.com/Ledger/status/2010719908100005940"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "This is a scheduled post from January 1st, 2026.\n\nBy the end of the month, I predict:\n\nBTC at $115,000 USD.\n\nETH at $4,250 USD.\n\nSOL at $180 USD.\n\n$KAITO at $1.25 USD",
+      "likes": 178,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2017514470923505714"
+    },
+    {
+      "author": "Cricketnation",
+      "text": "$35, zero limits. Join Cricket and get a single line of unlimited for just $35/mo.",
+      "likes": 123,
+      "retweets": 1,
+      "url": "https://x.com/Cricketnation/status/2005457506114679112"
+    }
+  ]
+}

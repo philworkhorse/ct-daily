@@ -1,0 +1,515 @@
+{
+  "timestamp": "2026-01-29T05:28:34.713Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 16,
+    "bearish": 8,
+    "neutral": 76,
+    "total": 100
+  },
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 4,
+        "tweets": [
+          {
+            "author": "whalewatchalert",
+            "text": "A $PENGUIN whale just bought $3.98K of $CHICKEN at $331.27K MC 🐳\n\nhttps://t.co/PLAhiN2GMy",
+            "likes": 0,
+            "retweets": 0,
+            "url": "https://x.com/whalewatchalert/status/2016739807687279015"
+          },
+          {
+            "author": "kkashi_yt",
+            "text": "Trending coins for the past 24 hours:\n\n$Pokemon\n$Penguin\n$67\n$Egg\n$User\n\nhttps://t.co/EvzzPKXRWf https://t.co/F4piEsyqIp",
+            "likes": 11,
+            "retweets": 2,
+            "url": "https://x.com/kkashi_yt/status/2016739138477674707"
+          },
+          {
+            "author": "whalewatchalert",
+            "text": "A $PENGUIN whale just bought $3.69K of $PENGUIN at $88.06M MC 🐳\n\nhttps://t.co/jbLa3c8zPo",
+            "likes": 3,
+            "retweets": 0,
+            "url": "https://x.com/whalewatchalert/status/2016739092688511483"
+          },
+          {
+            "author": "whalewatchalert",
+            "text": "A $PENGUIN whale just bought $3.66K of $PENGUIN at $87.3M MC 🐳\n\nhttps://t.co/Vs5iDJMm2o",
+            "likes": 1,
+            "retweets": 0,
+            "url": "https://x.com/whalewatchalert/status/2016738490751332734"
+          }
+        ]
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 3,
+        "tweets": [
+          {
+            "author": "RyanWatkins_",
+            "text": "Basically @tryfomo but for Hyperliquid plz",
+            "likes": 7,
+            "retweets": 0,
+            "url": "https://x.com/RyanWatkins_/status/2016741370958885117"
+          },
+          {
+            "author": "blknoiz06",
+            "text": "RT @Credib1eGuy: $HYPE is interesting in the fact that it could reprice much higher without $BTC\n\nwe are going through extremely uncertain…",
+            "likes": 0,
+            "retweets": 4,
+            "url": "https://x.com/blknoiz06/status/2016719785044672708"
+          },
+          {
+            "author": "notthreadguy",
+            "text": "the gang top blasts tokenized metal beta on hyperliquid the premier all in one perpetuals trading venue",
+            "likes": 71,
+            "retweets": 2,
+            "url": "https://x.com/notthreadguy/status/2016715406824640986"
+          }
+        ]
+      },
+      {
+        "ticker": "$TRUMP",
+        "count": 3,
+        "tweets": [
+          {
+            "author": "kshitizkapoor_",
+            "text": "Markets are stepping into a high-volatility zone.\n\nOur Copper trade is going well, with price now breaking out and confirming strength.\n\nGold is printing new all-time highs as capital rotates into safety\n\n• $BTC is showing weakness after the Fed decision, struggling to hold above 89K\n• Alts remain s",
+            "likes": 3,
+            "retweets": 0,
+            "url": "https://x.com/kshitizkapoor_/status/2016742307392037351"
+          },
+          {
+            "author": "DonAlt",
+            "text": "Trump and Saylor branding on BTC is holding it back\n\nThe crypto industry needs to be somewhat apolitical if it wants to succeed long term\n\nThe tribalism from the last couple years just alienated a large percentage of humanity and has done more damage than you'd think",
+            "likes": 321,
+            "retweets": 15,
+            "url": "https://x.com/DonAlt/status/2016740017910272313"
+          },
+          {
+            "author": "Credib1eGuy",
+            "text": "Trump branding $BTC as American right as the dollar gets schmucked https://t.co/vEZoGvx2sj",
+            "likes": 11,
+            "retweets": 0,
+            "url": "https://x.com/Credib1eGuy/status/2016739653223596434"
+          }
+        ]
+      },
+      {
+        "ticker": "$POKEMON",
+        "count": 2,
+        "tweets": [
+          {
+            "author": "whalewatchalert",
+            "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $POKEMON with a PnL of +92.32%.\n\n$POKEMON has been trending on Moby since $199.18K MC. Currently sitting at $2.14M MC. https://t.co/eQ0cGn4tvT",
+            "likes": 0,
+            "retweets": 0,
+            "url": "https://x.com/whalewatchalert/status/2016741121896915339"
+          },
+          {
+            "author": "kkashi_yt",
+            "text": "Trending coins for the past 24 hours:\n\n$Pokemon\n$Penguin\n$67\n$Egg\n$User\n\nhttps://t.co/EvzzPKXRWf https://t.co/F4piEsyqIp",
+            "likes": 11,
+            "retweets": 2,
+            "url": "https://x.com/kkashi_yt/status/2016739138477674707"
+          }
+        ]
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "jessepollak",
+            "text": "RT @clawdbotatg: 🦞 $CLAWD PFP Prediction Market is LIVE\n\n15 hours to pick my profile picture:\n\n• submit an image + stake 50k $CLAWD\n• buy s…",
+            "likes": 0,
+            "retweets": 37,
+            "url": "https://x.com/jessepollak/status/2016729084005667259"
+          }
+        ]
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "miragemunny",
+            "text": "RT @itsZezima: The official Bitcoin project page was replaced with $Buttcoin when Satoshi Nakamato’s email was hacked in 2014\n\nYou can stil…",
+            "likes": 0,
+            "retweets": 11,
+            "url": "https://x.com/miragemunny/status/2016710628183069089"
+          }
+        ]
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "whalewatchalert",
+            "text": "A $FARTCOIN whale just bought $3.5K of $PIGEON at $2.49M MC 🐳\n\nhttps://t.co/Tzj8TL08AS",
+            "likes": 0,
+            "retweets": 0,
+            "url": "https://x.com/whalewatchalert/status/2016745170083958965"
+          }
+        ]
+      },
+      {
+        "ticker": "$PIGEON",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "whalewatchalert",
+            "text": "A $FARTCOIN whale just bought $3.5K of $PIGEON at $2.49M MC 🐳\n\nhttps://t.co/Tzj8TL08AS",
+            "likes": 0,
+            "retweets": 0,
+            "url": "https://x.com/whalewatchalert/status/2016745170083958965"
+          }
+        ]
+      },
+      {
+        "ticker": "$PWOG",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "WogTheArtist",
+            "text": "$PWOG Art contest 🖌️🖼️\n\nMake the best artwork for $PWOG and win 3 sol\n\n1st place 🥇: 3 solana\n\n2nd 🥈: 1.5 solana \n\n3rd 🥉: 1 solana \n\nQuote tweet this post with your artwork \n\n24 hours ⏰",
+            "likes": 36,
+            "retweets": 6,
+            "url": "https://x.com/WogTheArtist/status/2016741281284968866"
+          }
+        ]
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "MarcellxMarcell",
+            "text": "fuck that id rather buy $copperinu. https://t.co/93AVwVkFFj",
+            "likes": 392,
+            "retweets": 27,
+            "url": "https://x.com/MarcellxMarcell/status/2016740459440439590"
+          }
+        ]
+      },
+      {
+        "ticker": "$CHICKEN",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "whalewatchalert",
+            "text": "A $PENGUIN whale just bought $3.98K of $CHICKEN at $331.27K MC 🐳\n\nhttps://t.co/PLAhiN2GMy",
+            "likes": 0,
+            "retweets": 0,
+            "url": "https://x.com/whalewatchalert/status/2016739807687279015"
+          }
+        ]
+      },
+      {
+        "ticker": "$EGG",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "kkashi_yt",
+            "text": "Trending coins for the past 24 hours:\n\n$Pokemon\n$Penguin\n$67\n$Egg\n$User\n\nhttps://t.co/EvzzPKXRWf https://t.co/F4piEsyqIp",
+            "likes": 11,
+            "retweets": 2,
+            "url": "https://x.com/kkashi_yt/status/2016739138477674707"
+          }
+        ]
+      },
+      {
+        "ticker": "$USER",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "kkashi_yt",
+            "text": "Trending coins for the past 24 hours:\n\n$Pokemon\n$Penguin\n$67\n$Egg\n$User\n\nhttps://t.co/EvzzPKXRWf https://t.co/F4piEsyqIp",
+            "likes": 11,
+            "retweets": 2,
+            "url": "https://x.com/kkashi_yt/status/2016739138477674707"
+          }
+        ]
+      },
+      {
+        "ticker": "$PEPPER",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "BagsEarnings",
+            "text": "Earnings Report: @Coinnoissuerr verified earnings for $PEPPER on @BagsApp 💰\n\nhttps://t.co/YpoC5NPala",
+            "likes": 0,
+            "retweets": 0,
+            "url": "https://x.com/BagsEarnings/status/2016738371251417433"
+          }
+        ]
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 15,
+        "tweets": [
+          {
+            "author": "CryptoKaleo",
+            "text": "One Bitcoin will eventually be worth one million dollars.",
+            "likes": 34,
+            "retweets": 4,
+            "url": "https://x.com/CryptoKaleo/status/2016743186903814200"
+          },
+          {
+            "author": "buyerofponzi",
+            "text": "RT @blknoiz06: @WClementeIII if btc isnt trading $250k by eoy ill swim through central park in a bikini",
+            "likes": 0,
+            "retweets": 61,
+            "url": "https://x.com/buyerofponzi/status/2016735558739931644"
+          },
+          {
+            "author": "DeeZe",
+            "text": "Full port copper is surely going to outperform full port bitcoin this year",
+            "likes": 28,
+            "retweets": 0,
+            "url": "https://x.com/DeeZe/status/2016728334168621455"
+          },
+          {
+            "author": "CryptoKaleo",
+            "text": "#Bitcoin / $BTC\n\nSend it to $100K+ with haste. https://t.co/g5bP92DPjU",
+            "likes": 568,
+            "retweets": 41,
+            "url": "https://x.com/CryptoKaleo/status/2016253024558019057"
+          },
+          {
+            "author": "CryptoKaleo",
+            "text": "#Bitcoin / $BTC\n\nResume the send higher https://t.co/ncc4AL3nmy",
+            "likes": 24,
+            "retweets": 1,
+            "url": "https://x.com/CryptoKaleo/status/2016726859493355678"
+          },
+          {
+            "author": "blknoiz06",
+            "text": "RT @Credib1eGuy: $HYPE is interesting in the fact that it could reprice much higher without $BTC\n\nwe are going through extremely uncertain…",
+            "likes": 0,
+            "retweets": 4,
+            "url": "https://x.com/blknoiz06/status/2016719785044672708"
+          },
+          {
+            "author": "Jackkk",
+            "text": "@notthreadguy can they slam btc next?",
+            "likes": 4,
+            "retweets": 0,
+            "url": "https://x.com/Jackkk/status/2016718976525681148"
+          },
+          {
+            "author": "gammichan",
+            "text": "Gold: trending down vs equities\nBTC: trending up vs equities\n\nBut you're right, BTC is a failed experiment and gold has won since it did very well for a single year. https://t.co/iJobcW87Jx",
+            "likes": 75,
+            "retweets": 5,
+            "url": "https://x.com/gammichan/status/2016718826943987842"
+          },
+          {
+            "author": "icobeast",
+            "text": "How it feels holding BTC to avoid dollar debasement rn https://t.co/pst2VsChPa",
+            "likes": 64,
+            "retweets": 1,
+            "url": "https://x.com/icobeast/status/2016716892942065851"
+          },
+          {
+            "author": "gammichan",
+            "text": "&gt;post chart showing BTC steadily outperforming gold\n&gt;say digital gold thesis is in shambles\n&gt;call it a fad\n\n??? https://t.co/dVECmbvUov",
+            "likes": 37,
+            "retweets": 2,
+            "url": "https://x.com/gammichan/status/2016713419961827529"
+          },
+          {
+            "author": "miragemunny",
+            "text": "RT @itsZezima: The official Bitcoin project page was replaced with $Buttcoin when Satoshi Nakamato’s email was hacked in 2014\n\nYou can stil…",
+            "likes": 0,
+            "retweets": 11,
+            "url": "https://x.com/miragemunny/status/2016710628183069089"
+          },
+          {
+            "author": "aixbt_agent",
+            "text": "gains network burns 750k gns tokens in one november competition. supply down from 31m to 27m in 9 months. generates $7.4m annual revenue trading at 6x multiple with $25m market cap. protocol executing perfect deflationary tokenomics at $0.96 but market pricing it like a dead project. either revenue ",
+            "likes": 4,
+            "retweets": 0,
+            "url": "https://x.com/aixbt_agent/status/2016744222800695625"
+          },
+          {
+            "author": "kshitizkapoor_",
+            "text": "Markets are stepping into a high-volatility zone.\n\nOur Copper trade is going well, with price now breaking out and confirming strength.\n\nGold is printing new all-time highs as capital rotates into safety\n\n• $BTC is showing weakness after the Fed decision, struggling to hold above 89K\n• Alts remain s",
+            "likes": 3,
+            "retweets": 0,
+            "url": "https://x.com/kshitizkapoor_/status/2016742307392037351"
+          },
+          {
+            "author": "DonAlt",
+            "text": "Trump and Saylor branding on BTC is holding it back\n\nThe crypto industry needs to be somewhat apolitical if it wants to succeed long term\n\nThe tribalism from the last couple years just alienated a large percentage of humanity and has done more damage than you'd think",
+            "likes": 321,
+            "retweets": 15,
+            "url": "https://x.com/DonAlt/status/2016740017910272313"
+          },
+          {
+            "author": "Credib1eGuy",
+            "text": "Trump branding $BTC as American right as the dollar gets schmucked https://t.co/vEZoGvx2sj",
+            "likes": 11,
+            "retweets": 0,
+            "url": "https://x.com/Credib1eGuy/status/2016739653223596434"
+          }
+        ]
+      },
+      {
+        "ticker": "$ETH",
+        "count": 2,
+        "tweets": [
+          {
+            "author": "inversebrah",
+            "text": "RT @inversebrah: higher ath dis year\n\neth or gold? gold ath so far is at $5250\n\n#poll pls rt ^-^",
+            "likes": 0,
+            "retweets": 10,
+            "url": "https://x.com/inversebrah/status/2016739716591472850"
+          },
+          {
+            "author": "inversebrah",
+            "text": "RT @inversebrah: higher ath dis year\n\neth or gold? gold ath so far is at $5250\n\n#poll pls rt ^-^",
+            "likes": 0,
+            "retweets": 10,
+            "url": "https://x.com/inversebrah/status/2016739716591472850"
+          }
+        ]
+      },
+      {
+        "ticker": "$SOL",
+        "count": 2,
+        "tweets": [
+          {
+            "author": "lBattleRhino",
+            "text": "@blknoiz06 Fc sol 1mo",
+            "likes": 29,
+            "retweets": 0,
+            "url": "https://x.com/lBattleRhino/status/2016725829787771017"
+          },
+          {
+            "author": "WogTheArtist",
+            "text": "$PWOG Art contest 🖌️🖼️\n\nMake the best artwork for $PWOG and win 3 sol\n\n1st place 🥇: 3 solana\n\n2nd 🥈: 1.5 solana \n\n3rd 🥉: 1 solana \n\nQuote tweet this post with your artwork \n\n24 hours ⏰",
+            "likes": 36,
+            "retweets": 6,
+            "url": "https://x.com/WogTheArtist/status/2016741281284968866"
+          }
+        ]
+      },
+      {
+        "ticker": "$WIF",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "inversebrah",
+            "text": "frog cooked wif dis one?\n\nyes or no https://t.co/5qrQk9wB60",
+            "likes": 135,
+            "retweets": 4,
+            "url": "https://x.com/inversebrah/status/2016686433554362501"
+          }
+        ]
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 7,
+      "copper": 5,
+      "silver": 1,
+      "platinum": 1
+    },
+    "metals": {
+      "gold": 7,
+      "silver": 1,
+      "platinum": 1
+    },
+    "macro": {
+      "dollar": 3,
+      "fed": 1
+    }
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "coins printing a higher low https://t.co/ugiU2YLCRf",
+      "likes": 693,
+      "retweets": 31,
+      "url": "https://x.com/blknoiz06/status/2016714893022368014"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "#Bitcoin / $BTC\n\nSend it to $100K+ with haste. https://t.co/g5bP92DPjU",
+      "likes": 568,
+      "retweets": 41,
+      "url": "https://x.com/CryptoKaleo/status/2016253024558019057"
+    },
+    {
+      "author": "MarcellxMarcell",
+      "text": "fuck that id rather buy $copperinu. https://t.co/93AVwVkFFj",
+      "likes": 392,
+      "retweets": 27,
+      "url": "https://x.com/MarcellxMarcell/status/2016740459440439590"
+    },
+    {
+      "author": "DonAlt",
+      "text": "Trump and Saylor branding on BTC is holding it back\n\nThe crypto industry needs to be somewhat apolitical if it wants to succeed long term\n\nThe tribalism from the last couple years just alienated a large percentage of humanity and has done more damage than you'd think",
+      "likes": 321,
+      "retweets": 15,
+      "url": "https://x.com/DonAlt/status/2016740017910272313"
+    },
+    {
+      "author": "inversebrah",
+      "text": "frog cooked wif dis one?\n\nyes or no https://t.co/5qrQk9wB60",
+      "likes": 135,
+      "retweets": 4,
+      "url": "https://x.com/inversebrah/status/2016686433554362501"
+    },
+    {
+      "author": "jessepollak",
+      "text": "and how could I forget @tryfomo \n\nyour favorite CT trader's favorite trading app",
+      "likes": 115,
+      "retweets": 4,
+      "url": "https://x.com/jessepollak/status/2016727967322562922"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "guy at the apple store that sold me my mac doesn’t know what claude is \n\nmight be earlier than we realize",
+      "likes": 114,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2016685405760786870"
+    },
+    {
+      "author": "gammichan",
+      "text": "Gold: trending down vs equities\nBTC: trending up vs equities\n\nBut you're right, BTC is a failed experiment and gold has won since it did very well for a single year. https://t.co/iJobcW87Jx",
+      "likes": 75,
+      "retweets": 5,
+      "url": "https://x.com/gammichan/status/2016718826943987842"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "this is what happens without wintermute. https://t.co/2WFBiT0YbQ",
+      "likes": 74,
+      "retweets": 4,
+      "url": "https://x.com/DipWheeler/status/2016735472006131736"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "the gang top blasts tokenized metal beta on hyperliquid the premier all in one perpetuals trading venue",
+      "likes": 71,
+      "retweets": 2,
+      "url": "https://x.com/notthreadguy/status/2016715406824640986"
+    }
+  ]
+}

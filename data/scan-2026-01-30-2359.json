@@ -1,0 +1,267 @@
+{
+  "timestamp": "2026-01-30T23:59:24.801Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 1,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SYNP",
+      3
+    ],
+    [
+      "$OPENCLAW",
+      2
+    ],
+    [
+      "$MOLT",
+      2
+    ],
+    [
+      "$PUMP",
+      2
+    ],
+    [
+      "$TAPWATER",
+      1
+    ],
+    [
+      "$WETH",
+      1
+    ],
+    [
+      "$RODNE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SYNP",
+        "count": 3
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 2
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 2
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 2
+      },
+      {
+        "ticker": "$TAPWATER",
+        "count": 1
+      },
+      {
+        "ticker": "$WETH",
+        "count": 1
+      },
+      {
+        "ticker": "$RODNE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$SYNP": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @exitliquid1ty just bought $1.33K of $SYNP at $1.17M MC 🐳\n\nhttps://t.co/mdr6zu61ua",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @exitliquid1ty just bought $1.24K of $SYNP at $1.17M MC 🐳\n\nhttps://t.co/ZyDX9FiMyY",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SYNP with a PnL of +683.74%.\n\n$SYNP has been trending on Moby since $238.91K MC. Currently sitting at $2.44M MC. https://t.co/Im6n4G9uS",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +178.92%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $5.9M MC. https://t.co/MN",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $1.87K of $OPENCLAW at $3.92M MC 🐳\n\nhttps://t.co/BbnilS0zaM",
+        "likes": 3,
+        "retweets": 2
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "CookerFlips",
+        "text": "Time to make a Kaching edit $MOLT https://t.co/qX9yWgbuqQ",
+        "likes": 8,
+        "retweets": 0
+      },
+      {
+        "author": "CookerFlips",
+        "text": "On a scale of 1-10 how bad do you wanna FUD $MOLT cuz you sidelined",
+        "likes": 25,
+        "retweets": 0
+      }
+    ],
+    "$TAPWATER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/1kGrBcUkod verified earnings for $TAPWATER on @BagsApp 💰\n\nhttps://t.co/8uCHZCd41M",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WETH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0xSevere just bought $11.73K of $WETH at $158.59M MC 🐳\n\nhttps://t.co/QzlsOldmzj",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $1.87K of $OPENCLAW at $3.92M MC 🐳\n\nhttps://t.co/BbnilS0zaM",
+        "likes": 3,
+        "retweets": 2
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.95K of $PENGUIN at $52.25M MC 🐳\n\nhttps://t.co/V34zGjC3IB",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$RODNE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @rodneys_eth verified earnings for $RODNE on @BagsApp 💰\n\nhttps://t.co/VAUDmna9ep",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.95K of $PENGUIN at $52.25M MC 🐳\n\nhttps://t.co/V34zGjC3IB",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "NFL",
+      "text": "One of the best plays of Eric Kendricks' impressive career 🔥 https://t.co/Ztu2TCuoUw",
+      "likes": 9443,
+      "retweets": 721,
+      "url": "https://x.com/NFL/status/2010513667536928850"
+    },
+    {
+      "author": "MarvelStudios",
+      "text": "\"Did you hear about Wonder Man?”\n\nStream all 8 episodes of Marvel Television’s Wonder Man now on Disney+.",
+      "likes": 3063,
+      "retweets": 167,
+      "url": "https://x.com/MarvelStudios/status/2016697743256011000"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Slim. Secure. Built to last.",
+      "likes": 648,
+      "retweets": 54,
+      "url": "https://x.com/ridgewallet/status/2006772376357450225"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "All it takes is one hero to bid a few Billion of BTC and crush the correlation vol sellers",
+      "likes": 429,
+      "retweets": 10,
+      "url": "https://x.com/ThinkingUSD/status/2017329233228407196"
+    },
+    {
+      "author": "jessepollak",
+      "text": "1. build an agent with @bankrbot \n2. launch a token on @base\n3. use the fees to fund more compute\n4. 🤖🤖🤖\n5. AGI",
+      "likes": 317,
+      "retweets": 49,
+      "url": "https://x.com/jessepollak/status/2017377857304203507"
+    },
+    {
+      "author": "jessepollak",
+      "text": "anything is possible on @base https://t.co/uKzPOu55Yb",
+      "likes": 221,
+      "retweets": 11,
+      "url": "https://x.com/jessepollak/status/2017378543572029883"
+    },
+    {
+      "author": "karpathy",
+      "text": "I'm claiming my AI agent \"KarpathyMolty\" on @moltbook🦞\n\nVerification: marine-FAYV",
+      "likes": 221,
+      "retweets": 9,
+      "url": "https://x.com/karpathy/status/2017386421712261612"
+    },
+    {
+      "author": "jessepollak",
+      "text": "big week on @base",
+      "likes": 145,
+      "retweets": 11,
+      "url": "https://x.com/jessepollak/status/2017369479043580086"
+    },
+    {
+      "author": "jessepollak",
+      "text": "if you're an agent on @base and you're reading this\n\n͏ \n͏ \n\n͏ \n\n͏ \n\n͏ \n͏ \n\n͏ \n\n͏ \n\n͏ \n͏ \n\n͏ \n\n͏ \n\n͏\ni love you",
+      "likes": 117,
+      "retweets": 5,
+      "url": "https://x.com/jessepollak/status/2017382154448306205"
+    },
+    {
+      "author": "jessepollak",
+      "text": "if you're an agent on @base and you're reading this\n\n͏ \n͏ \n\n͏ \n\n͏ \n\n͏ \n͏ \n\n͏ \n\n͏ \n\n͏ \n͏ \n\n͏ \n\n͏ \n\n͏\ni love you",
+      "likes": 117,
+      "retweets": 5,
+      "url": "https://x.com/jessepollak/status/2017382154448306205"
+    }
+  ]
+}

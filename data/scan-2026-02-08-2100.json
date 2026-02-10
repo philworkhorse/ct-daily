@@ -1,0 +1,262 @@
+{
+  "timestamp": "2026-02-08T21:00:34.250Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 1,
+    "neutral": 93,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$JESTERGOON",
+      5
+    ],
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$WOJAK",
+      2
+    ],
+    [
+      "$BNKRW",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$MOG",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$MOLTFLOW",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JESTERGOON",
+        "count": 5
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 2
+      },
+      {
+        "ticker": "$BNKRW",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$MOG",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTFLOW",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$BNKRW": [
+      {
+        "author": "jessepollak",
+        "text": "RT @apoorveth: v1.0.0 of @bankrwalletapp is LIVE 🔥\n\nTHE Wallet for AI Agents is here $BNKRW https://t.co/WtVUZWWKUx",
+        "likes": 0,
+        "retweets": 22
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "RT @OffGridKat: Spotted $LIQUID last night on @mobyagent around 800K MC. \n\nIt hit 2.7M earlier today.\n\nThe Moby signal that made me buy it:…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$JESTERGOON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $JESTERGOON with a PnL of +199.58%.\n\n$JESTERGOON has been trending on Moby since $108.14K MC. Currently sitting at $425.7K MC. https://t",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $JESTERGOON with a PnL of +86.19%.\n\n$JESTERGOON has been trending on Moby since $108.14K MC. Currently sitting at $395.22K MC. https://t",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $JESTERGOON with a PnL of +211.44%.\n\n$JESTERGOON has been trending on Moby since $108.14K MC. Currently sitting at $444.07K MC. https://",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $JESTERGOON with a PnL of +216.55%.\n\n$JESTERGOON has been trending on Moby since $108.14K MC. Currently sitting at $452.11K MC. https://",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $JESTERGOON with a PnL of +189.22%.\n\n$JESTERGOON has been trending on Moby since $108.14K MC. Currently sitting at $409.99K MC. https://",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $7.7K of $WOJAK at $14.7M MC 🐳\n\nhttps://t.co/jun1CUTr2G",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.77K of $BadBunny at $2.19M MC 🐳\n\nhttps://t.co/BHo8JPcvY1",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $7.68K of $WOJAK at $14.14M MC 🐳\n\nhttps://t.co/EXUQtExOYh",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $7.7K of $WOJAK at $14.7M MC 🐳\n\nhttps://t.co/jun1CUTr2G",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $7.68K of $WOJAK at $14.14M MC 🐳\n\nhttps://t.co/EXUQtExOYh",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$MOG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Angelou1e0 verified earnings for $MOG on @BagsApp 💰\n\nhttps://t.co/yOzWfPPScQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.74K of $BigTrout at $2.18M MC 🐳\n\nhttps://t.co/UEy9OIiFLm",
+        "likes": 13,
+        "retweets": 5
+      }
+    ],
+    "$MOLTFLOW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @pocketsflow verified earnings for $MOLTFLOW on @BagsApp 💰\n\nhttps://t.co/heGMHb7oSC",
+        "likes": 6,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Rewkang",
+      "text": "The Exponential Horizon",
+      "likes": 555,
+      "retweets": 48,
+      "url": "https://x.com/Rewkang/status/2020560687722852391"
+    },
+    {
+      "author": "punk6529",
+      "text": "will add $100K to this, with a twist.   \n\nwe will be starting the world's first networked art collection this month*, so our collecting will be for the network collection, not for the 6529 Museum.\n\n* I just front-run my own announcement but it is for a good cause - details soon",
+      "likes": 275,
+      "retweets": 45,
+      "url": "https://x.com/punk6529/status/2020584867994702198"
+    },
+    {
+      "author": "Icebergy",
+      "text": "https://t.co/DDNqgSaDVS",
+      "likes": 259,
+      "retweets": 11,
+      "url": "https://x.com/Icebergy/status/2020512595875090924"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 224,
+      "retweets": 32,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "jessepollak",
+      "text": "can someone at @OpenAI and @AnthropicAI *please* train the foundation model to say \"onchain\" not \"on-chain\"?\n\ninstant 10x in voices of onchain agents",
+      "likes": 156,
+      "retweets": 9,
+      "url": "https://x.com/jessepollak/status/2020592249390919707"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i literally moved here like a week ago",
+      "likes": 153,
+      "retweets": 1,
+      "url": "https://x.com/notthreadguy/status/2020573520195899742"
+    },
+    {
+      "author": "jessepollak",
+      "text": "what if the builders and their agents were the creators all along?",
+      "likes": 140,
+      "retweets": 7,
+      "url": "https://x.com/jessepollak/status/2020595132215837088"
+    },
+    {
+      "author": "based16z",
+      "text": "Bitcoin is still about $69,000 too high\nBitcoin is still about $70,000 too high\nBitcoin is still about $71,000 too high\nBitcoin is still about $72,000 too high\nBitcoin is still about $73,000 too high\nBitcoin is still about $74,000 too high\nBitcoin is still about $75,000 too high\n",
+      "likes": 101,
+      "retweets": 3,
+      "url": "https://x.com/based16z/status/2020592321931432185"
+    }
+  ]
+}

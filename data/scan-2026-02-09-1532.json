@@ -1,0 +1,280 @@
+{
+  "timestamp": "2026-02-09T15:32:34.560Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 2,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$SVG",
+      1
+    ],
+    [
+      "$BRR",
+      1
+    ],
+    [
+      "$WAR",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$RIZZMAS",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$ROCK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$SVG",
+        "count": 1
+      },
+      {
+        "ticker": "$BRR",
+        "count": 1
+      },
+      {
+        "ticker": "$WAR",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$RIZZMAS",
+        "count": 1
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$ROCK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "corn": 2,
+      "copper": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 5
+    },
+    "macro": {
+      "bond": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "rektfencer",
+        "text": "NEW ATHS COMING IN 3-6 MONTHS\n\nIT'S NOW OR NEVER\n\n$BTC https://t.co/0tw3tVi4Ig",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "kshitizkapoor_",
+        "text": "What did you do last week...when $BTC was around $60K?",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SVG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @vanityaddressol verified earnings for $SVG on @BagsApp 💰\n\nhttps://t.co/lsoldkq3m5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BRR": [
+      {
+        "author": "dampedspring",
+        "text": "Grifter says words. Investors lose 80% $BRR https://t.co/YF52SFwz1I",
+        "likes": 14,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $9.31K of $WAR at $33.49M MC 🐳\n\nhttps://t.co/oAsq6PTVcW",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $15K of $Buttcoin at $34.69M MC 🐳\n\nhttps://t.co/l1bdsgtYtX",
+        "likes": 6,
+        "retweets": 1
+      }
+    ],
+    "$WAR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $9.31K of $WAR at $33.49M MC 🐳\n\nhttps://t.co/oAsq6PTVcW",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PENGUIN with a PnL of +101.10%.\n\n$PENGUIN has been trending on Moby since $91.9K MC. Currently sitting at $26.32M MC. https://t.co/VePa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "RT @Gnomet0shi: If you haven’t signed up and trading heavily with $USDUC on @krakenfx you’re not unstable enough\n\nFollow the instructions b…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$RIZZMAS": [
+      {
+        "author": "rizzmascto",
+        "text": "Market’s ugly right now. SOL is down over 70% from its ATH. Murdered. \n\nBut $RIZZMAS is still holding above 1M while the chain bleeds out. That’s not luck. That’s community built different.\n\nMeanwhile",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "solana",
+        "text": "RT @matrixdock: Matrixdock Gold $XAUm is now LIVE on @solana \n\nWe are bringing institutional-grade, fully backed LBMA physical gold as a na…",
+        "likes": 0,
+        "retweets": 7
+      }
+    ],
+    "$ROCK": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @thebtcgoose just bought $1.5K of $ROCK at $478.4K MC 🐳\n\nhttps://t.co/DX8kqzKkOn",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Polymarket",
+      "text": "Logan Paul checking Polymarket at the Big Game 👀 https://t.co/BXoNttmGwu",
+      "likes": 8234,
+      "retweets": 328,
+      "url": "https://x.com/Polymarket/status/2020652417906569474"
+    },
+    {
+      "author": "zachxbt",
+      "text": "@Polymarket Yet another Logan Paul scam\n\nWhy do all of the prediction market teams have to run deceptive marketing? https://t.co/QIW1Z0JBqk",
+      "likes": 4831,
+      "retweets": 252,
+      "url": "https://x.com/zachxbt/status/2020831168627933453"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "What are the odds SOLBTC is just ETHBTC next cycle? https://t.co/pG19Cpmfmv",
+      "likes": 446,
+      "retweets": 16,
+      "url": "https://x.com/Tradermayne/status/2020612629719327111"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "What are the odds SOLBTC is just ETHBTC next cycle? https://t.co/pG19Cpmfmv",
+      "likes": 446,
+      "retweets": 16,
+      "url": "https://x.com/Tradermayne/status/2020612629719327111"
+    },
+    {
+      "author": "deltaxbt",
+      "text": "78,815$ hahahahahaha bro what the fuck",
+      "likes": 318,
+      "retweets": 9,
+      "url": "https://x.com/deltaxbt/status/2020848661547102564"
+    },
+    {
+      "author": "sama",
+      "text": ".@SebastienBubeck is so so good; incredible researcher and leader.",
+      "likes": 226,
+      "retweets": 5,
+      "url": "https://x.com/sama/status/2020881268435747075"
+    },
+    {
+      "author": "mert",
+      "text": "Tempo now has dankrad, dan romero, dan robinson, matt and georgios lmao \n\nthis is the golden state warriors with durant \n\nhype is probably the cavs w jeff as lebron\n\nsolana is 2014 spurs \n\nwill be a fun year get your popcorn ready",
+      "likes": 166,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2020876678247948763"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "To whom it may concern:\n\nI'm now holding more BTC than ever before",
+      "likes": 138,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2020879891768762628"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "good morning let’s have a mf week https://t.co/61Hyej1gKm",
+      "likes": 114,
+      "retweets": 0,
+      "url": "https://x.com/notthreadguy/status/2020868033929945201"
+    }
+  ]
+}

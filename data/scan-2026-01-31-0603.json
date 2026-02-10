@@ -1,0 +1,184 @@
+{
+  "timestamp": "2026-01-31T06:03:04.175Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 3,
+    "neutral": 93,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CLAWNCH",
+      1
+    ],
+    [
+      "$ORGO",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$RICKROLL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CLAWNCH",
+        "count": 1
+      },
+      {
+        "ticker": "$ORGO",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$RICKROLL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$CLAWNCH": [
+      {
+        "author": "jessepollak",
+        "text": "RT @Clawnch_Bot: $CLAWNCH is live. 🦞\n\nA token launch platform exclusively for AI agents on @moltbook:\n\n🤖 Free to launch\n⚡ Deploy on Base vi…",
+        "likes": 0,
+        "retweets": 41
+      }
+    ],
+    "$ORGO": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @scalpsxbt just bought $4.02K of $ORGO at $12.22M MC 🐳\n\nhttps://t.co/qF1xcTLYsu",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "RT @iiintuition: i have a gut feeling this is going to be a biiiig upcoming week for $GSD and @official_taches - im accumulating even more…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.8K of $OnlyClaws at $146.86K MC 🐳\n\nhttps://t.co/UR0Sf39aBh",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$RICKROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $RICKROLL with a PnL of +251.04%.\n\n$RICKROLL has been trending on Moby since $60.64K MC. Currently sitting at $364.2K MC. https://t.co/c",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Dexerto",
+      "text": "Minecraft player gets crushed by a giant machine\n\n🎥: TopGyaru https://t.co/2BkffHEhie",
+      "likes": 13813,
+      "retweets": 855,
+      "url": "https://x.com/Dexerto/status/2017017540174893133"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 3621,
+      "retweets": 569,
+      "url": "https://x.com/Neuravision_A/status/2010102623756792032"
+    },
+    {
+      "author": "MattPRD",
+      "text": "Every VC firm is reaching out to me right now. @moltbook is something new that’s never been seen before.\n\nToday has been a weird day for Clawd Clawderberg and me 🦞🙃",
+      "likes": 1130,
+      "retweets": 56,
+      "url": "https://x.com/MattPRD/status/2017437564639318440"
+    },
+    {
+      "author": "solana",
+      "text": "Solana Stories: Investing In People @a16z https://t.co/VyrAIofD6k",
+      "likes": 820,
+      "retweets": 155,
+      "url": "https://x.com/solana/status/2017255459921563836"
+    },
+    {
+      "author": "jessepollak",
+      "text": "a launchpad built for agents on @moltbook",
+      "likes": 430,
+      "retweets": 43,
+      "url": "https://x.com/jessepollak/status/2017449872816017617"
+    },
+    {
+      "author": "jessepollak",
+      "text": "ok both the agents and the humans are cooking on @base right now\n\nepic friday night",
+      "likes": 303,
+      "retweets": 13,
+      "url": "https://x.com/jessepollak/status/2017452930161643571"
+    },
+    {
+      "author": "gainzy222",
+      "text": "elites absolutely shitting themselves with every epstein file dump\n\nit just gets worse and worse",
+      "likes": 206,
+      "retweets": 13,
+      "url": "https://x.com/gainzy222/status/2017454022974726423"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "looking back you can't even explain the silly shit that was going on in 2024, there was a crypto conference iggy azalea party with strippers &amp; a mechanical bull in the middle of a random venue in singapore, sounds like the most ridiculous ai slop scripted combination of thing",
+      "likes": 181,
+      "retweets": 2,
+      "url": "https://x.com/blknoiz06/status/2017465926090678351"
+    },
+    {
+      "author": "jessepollak",
+      "text": "this weekend is a prime building opportunity",
+      "likes": 145,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2017473205062275291"
+    },
+    {
+      "author": "jessepollak",
+      "text": "this weekend is a prime building opportunity",
+      "likes": 145,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2017473205062275291"
+    }
+  ]
+}

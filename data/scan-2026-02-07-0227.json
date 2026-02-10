@@ -1,0 +1,174 @@
+{
+  "timestamp": "2026-02-07T02:27:21.275Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 3,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$BLOXX",
+      1
+    ],
+    [
+      "$SOBAT",
+      1
+    ],
+    [
+      "$SIDELINED",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$JLP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$BLOXX",
+        "count": 1
+      },
+      {
+        "ticker": "$SOBAT",
+        "count": 1
+      },
+      {
+        "ticker": "$SIDELINED",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$JLP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 2,
+      "bond": 1,
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.35K of $PENGUIN at $20.52M MC 🐳\n\nhttps://t.co/tfrkD3NAVt",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.93K of $Buttcoin at $32.9M MC 🐳\n\nhttps://t.co/rMl0SwghVG",
+        "likes": 4,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.08K of $SIDELINED at $141.77K MC 🐳\n\nhttps://t.co/bbWrhv9IG4",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BLOXX": [
+      {
+        "author": "BloxApi",
+        "text": "RT @jdale19: I told you not to fade $BLOXX \n\nYou didn’t listen\n\nWill you take action or will you let this happen again?\n\nB1rGc4HM4Q6q4nU78A…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$SOBAT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member @GunnaAgang just added a banner image for $SOBAT on MobyScreener 🖼️ https://t.co/TjYTdC5fHO",
+        "likes": 8,
+        "retweets": 5
+      }
+    ],
+    "$SIDELINED": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.08K of $SIDELINED at $141.77K MC 🐳\n\nhttps://t.co/bbWrhv9IG4",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $42.98K of $JLP at $1.21B MC 🐳\n\nhttps://t.co/CFp3XSbCGi",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JLP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $42.98K of $JLP at $1.21B MC 🐳\n\nhttps://t.co/CFp3XSbCGi",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "X",
+      "text": "The clock is ticking!",
+      "likes": 237,
+      "retweets": 21,
+      "url": "https://x.com/X/status/2019956827514106167"
+    },
+    {
+      "author": "udiWertheimer",
+      "text": "excuse me?",
+      "likes": 176,
+      "retweets": 7,
+      "url": "https://x.com/udiWertheimer/status/2019937517919957126"
+    },
+    {
+      "author": "jessepollak",
+      "text": "there are 26 local stablecoins on @base — growing fast https://t.co/ygdp5WOx5X",
+      "likes": 138,
+      "retweets": 16,
+      "url": "https://x.com/jessepollak/status/2019932016196874634"
+    },
+    {
+      "author": "heart_",
+      "text": "so it's confirmed now that the \"uponlytv nft\" was bought  as a joke, and the whole $400M went for echo\n\nthe show may or may not come back in the future but it's not in the picture as of today. https://t.co/Dkn74PpPT3",
+      "likes": 129,
+      "retweets": 2,
+      "url": "https://x.com/heart_/status/2019762102857081340"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "timestamp": "2026-02-05T21:49:08.686Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 1,
+    "neutral": 93,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$STRC",
+      2
+    ],
+    [
+      "$GSD",
+      2
+    ],
+    [
+      "$ZM",
+      1
+    ],
+    [
+      "$ADAM",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$LIT",
+      1
+    ],
+    [
+      "$DOOMER",
+      1
+    ],
+    [
+      "$KLED",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$STRC",
+        "count": 2
+      },
+      {
+        "ticker": "$GSD",
+        "count": 2
+      },
+      {
+        "ticker": "$ZM",
+        "count": 1
+      },
+      {
+        "ticker": "$ADAM",
+        "count": 1
+      },
+      {
+        "ticker": "$LIT",
+        "count": 1
+      },
+      {
+        "ticker": "$DOOMER",
+        "count": 1
+      },
+      {
+        "ticker": "$KLED",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      },
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "fed": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$ZM": [
+      {
+        "author": "0xsmac",
+        "text": "RT @JackFarley96: Flirting with becoming a Zoom bull $ZM",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$ADAM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @AdamTradingBot verified earnings for $ADAM on @BagsApp 💰\n\nhttps://t.co/l5j94RchNW",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "saylor",
+        "text": "Join us for an update on $MSTR financial results, digital credit instruments like $STRC, and the state of the digital asset marketplace, followed by live Q&amp;A with equity analysts and industry lead",
+        "likes": 225,
+        "retweets": 34
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "saylor",
+        "text": "Join us for an update on $MSTR financial results, digital credit instruments like $STRC, and the state of the digital asset marketplace, followed by live Q&amp;A with equity analysts and industry lead",
+        "likes": 225,
+        "retweets": 34
+      },
+      {
+        "author": "saylor",
+        "text": "Strategy announces Q4 2025 results:\n- 713,502 $BTC held\n- 22.8% BTC Yield in 2025\n- Largest US equity issuer, raised $25.3 billion in 2025\n- $STRC scaled to $3.4 billion; 11.25% current dividend rate ",
+        "likes": 5092,
+        "retweets": 480
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "Yay or nay for my next $GSD buyback?",
+        "likes": 2,
+        "retweets": 1
+      },
+      {
+        "author": "official_taches",
+        "text": "Guys.. GSD won $10,000 for having the best story on @BagsApp!\n\nOnce it hits my wallet, I'm buying $2,500 $GSD and will either lock, burn or add liquidity to the token with it (still undecided on what'",
+        "likes": 30,
+        "retweets": 11
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $11.51K of $LIT at $332.79K MC 🐳\n\nhttps://t.co/i9ibzJNLGH",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$LIT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $11.51K of $LIT at $332.79K MC 🐳\n\nhttps://t.co/i9ibzJNLGH",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$DOOMER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/J0VpSKWtbR verified earnings for $DOOMER on @BagsApp 💰\n\nhttps://t.co/7z47gy8uAi",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$KLED": [
+      {
+        "author": "0xDamien",
+        "text": "$KLED holding up well all things considered https://t.co/iDL9qzkihH",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "saylor",
+        "text": "Strategy announces Q4 2025 results:\n- 713,502 $BTC held\n- 22.8% BTC Yield in 2025\n- Largest US equity issuer, raised $25.3 billion in 2025\n- $STRC scaled to $3.4 billion; 11.25% current dividend rate ",
+        "likes": 5092,
+        "retweets": 480
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "Strategy announces Q4 2025 results:\n- 713,502 $BTC held\n- 22.8% BTC Yield in 2025\n- Largest US equity issuer, raised $25.3 billion in 2025\n- $STRC scaled to $3.4 billion; 11.25% current dividend rate https://t.co/d6oGz8jHI8",
+      "likes": 5092,
+      "retweets": 480,
+      "url": "https://x.com/saylor/status/2019517425805590717"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "insane tbh",
+      "likes": 303,
+      "retweets": 12,
+      "url": "https://x.com/blknoiz06/status/2019519199417356570"
+    },
+    {
+      "author": "leap_xyz",
+      "text": "There’s legit no catalysts left, nothing to believe in, btc coopted by DATS/mstr, nations not bidding, tradfi making their own chains (tempo), alt season probably won’t happen again, quantum fud, crypto as a whole tied way too much to trump/republicans and democrats probably win ",
+      "likes": 290,
+      "retweets": 26,
+      "url": "https://x.com/leap_xyz/status/2019483358837801209"
+    },
+    {
+      "author": "saylor",
+      "text": "Join us for an update on $MSTR financial results, digital credit instruments like $STRC, and the state of the digital asset marketplace, followed by live Q&amp;A with equity analysts and industry leaders.\nhttps://t.co/64lQbNVJdO",
+      "likes": 225,
+      "retweets": 34,
+      "url": "https://x.com/saylor/status/2019528211324104924"
+    },
+    {
+      "author": "toly",
+      "text": "Some smart people tell me there is an earnest smart developer community in crypto, and now that the awful opportunistic money people have been washed out, the industry has a bright future.\n\nHard for me to tell as a phone salesman, but I hope the community gets its fair chance to ",
+      "likes": 147,
+      "retweets": 10,
+      "url": "https://x.com/toly/status/2019526628682985859"
+    },
+    {
+      "author": "thiccyth0t",
+      "text": "the moas is a mindset",
+      "likes": 119,
+      "retweets": 4,
+      "url": "https://x.com/thiccyth0t/status/2019509265862410523"
+    },
+    {
+      "author": "mert",
+      "text": "pred markets seem to think we're going to at least 50k https://t.co/qxh49Jx6RH",
+      "likes": 103,
+      "retweets": 5,
+      "url": "https://x.com/mert/status/2019522628965339296"
+    }
+  ]
+}

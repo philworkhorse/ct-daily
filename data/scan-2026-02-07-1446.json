@@ -1,0 +1,272 @@
+{
+  "timestamp": "2026-02-07T14:46:10.424Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 7,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$BLOWFISH",
+      1
+    ],
+    [
+      "$GBOY",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$MET",
+      1
+    ],
+    [
+      "$DEX",
+      1
+    ],
+    [
+      "$BABYAGI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 1
+      },
+      {
+        "ticker": "$GBOY",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$MET",
+        "count": 1
+      },
+      {
+        "ticker": "$DEX",
+        "count": 1
+      },
+      {
+        "ticker": "$BABYAGI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 2,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/3IDBLPAYyI",
+        "likes": 69,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.85K of $PENGUIN at $20.99M MC 🐳\n\nhttps://t.co/RFSnl8dHkg",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.85K of $PENGUIN at $20.99M MC 🐳\n\nhttps://t.co/RFSnl8dHkg",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "saylor",
+        "text": "Digital Credit Outperforms Conventional Credit. $STRC https://t.co/SlCIDkpZSv",
+        "likes": 536,
+        "retweets": 57
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "RT @MarketProphit: Congrats @cryptosanthoshK\n\nYou're a top Market Prophit for your call on $SOL\n\nGo to https://t.co/HQDyBNv73S and check ou…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$BLOWFISH": [
+      {
+        "author": "au_xbt",
+        "text": "$BLOWFISH\nCFB4Ff7W87uN9Gf2DSj63L7prZycJvzQeg1MbGxwBcqC\n\nIt’s pretty clear that @blowfishbot is backed by @solanaventures, @seedclub, and leaders from @Meta, @Amazon, and @Spotify. They’re building Blo",
+        "likes": 29,
+        "retweets": 8
+      }
+    ],
+    "$GBOY": [
+      {
+        "author": "au_xbt",
+        "text": "$BLOWFISH\nCFB4Ff7W87uN9Gf2DSj63L7prZycJvzQeg1MbGxwBcqC\n\nIt’s pretty clear that @blowfishbot is backed by @solanaventures, @seedclub, and leaders from @Meta, @Amazon, and @Spotify. They’re building Blo",
+        "likes": 29,
+        "retweets": 8
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $14.96K of $MET at $210.94M MC 🐳\n\nhttps://t.co/Nj8LleMElK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $14.96K of $MET at $210.94M MC 🐳\n\nhttps://t.co/Nj8LleMElK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$DEX": [
+      {
+        "author": "yogchill_",
+        "text": "RT @bundledbyhaan: “AND THEN THEY PAID $DEX ON AN ANTI-DEX\nMEME” https://t.co/kNjHiTJhWj",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$BABYAGI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @yoheinakajma verified earnings for $BABYAGI3 on @BagsApp 💰\n\nhttps://t.co/DllUU5F6lN",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "Digital Credit Outperforms Conventional Credit. $STRC https://t.co/SlCIDkpZSv",
+      "likes": 536,
+      "retweets": 57,
+      "url": "https://x.com/saylor/status/2020145183082320053"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "How will you explain to your kids and grandkids that you had one final chance to buy BTC under $65k USD before it runs to $250k USD.\n\nBut you chose to doompost on CT instead?\n\nYou're an embarrassment to your bloodline",
+      "likes": 351,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2020112230176477255"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 328,
+      "retweets": 12,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "retardmode",
+      "text": "the first voting period is over\n\nwe’ve already had 626 registered accounts, with 5,782 votes cast across 5,322 cells\n\n459 cells were upgraded and 2,697 were downgraded\n\n10,780 points were earned (useful in future)\n\nshould i add a smoke alarm chirp sound when you cast a vote? http",
+      "likes": 170,
+      "retweets": 2,
+      "url": "https://x.com/retardmode/status/2020142204681867593"
+    },
+    {
+      "author": "inversebrah",
+      "text": "HOWS SHE SO FAST WTF",
+      "likes": 167,
+      "retweets": 2,
+      "url": "https://x.com/inversebrah/status/2020106163946180745"
+    },
+    {
+      "author": "CL207",
+      "text": "ski'd with my nmeow jez today 😎 https://t.co/CqM0SEmPSH",
+      "likes": 137,
+      "retweets": 1,
+      "url": "https://x.com/CL207/status/2020120489209868515"
+    },
+    {
+      "author": "icobeast",
+      "text": "I find it kinda funny that CT is wrong about basically everything but is also convinced they’ve uncovered some hidden subplot about a HK tradfi fund that blew up sparking the global BTC selloff",
+      "likes": 112,
+      "retweets": 4,
+      "url": "https://x.com/icobeast/status/2020114228565184910"
+    },
+    {
+      "author": "inversebrah",
+      "text": ". https://t.co/kpTC1vwcBW",
+      "likes": 111,
+      "retweets": 0,
+      "url": "https://x.com/inversebrah/status/2019951921176670353"
+    }
+  ]
+}

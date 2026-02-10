@@ -1,0 +1,219 @@
+{
+  "timestamp": "2026-02-05T10:06:25.373Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 8,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$MOLTIFY",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$ELON",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ],
+    [
+      "$JOOBI",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$JITOSOL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MOLTIFY",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$ELON",
+        "count": 1
+      },
+      {
+        "ticker": "$JOOBI",
+        "count": 1
+      },
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "gold": 2,
+      "corn": 1,
+      "oil": 1
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$MOLTIFY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/js60NsnUln verified earnings for $MOLTIFY on @BagsApp 💰\n\nhttps://t.co/Wi5ipENW6d",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.41K of $ELON at $1.23M MC 🐳\n\nhttps://t.co/YDvSKBxw0G",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.41K of $ELON at $1.23M MC 🐳\n\nhttps://t.co/YDvSKBxw0G",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nStocks still at the highs. Commodities already rolled. Crypto in free fall.\n\nThe $SPX (1M) could roll over from here and work its way down toward 6000 at the lower boundary of the channel. \n\nUn",
+        "likes": 28,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "0xFinish",
+        "text": "$BTC is about to enter accumulation on MVRV Z-Score\n\nThis only happened 4 times before and always generated the best returns\n\nBrace for impact, a generational opportunity is on the way https://t.co/5E",
+        "likes": 9,
+        "retweets": 1
+      },
+      {
+        "author": "Saint_Pump",
+        "text": "I expect $BTC to hold $70k in the short term before eventually falling lower.\n\nThe next major support is at $58k–$54k.\n\nI will be shorting $80k if offered. https://t.co/HqMYLwC5H1",
+        "likes": 36,
+        "retweets": 1
+      },
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC\n\nStill at 71.3k. Expecting a strong bounce (and a range) rather here, before hitting 63k, which is  also what we want for spot buy 1\n\nAlright so, after losing 81k, talked about bearish continuati",
+        "likes": 73,
+        "retweets": 3
+      }
+    ],
+    "$JOOBI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @lazymau verified earnings for $JOOBI on @BagsApp 💰\n\nhttps://t.co/jD6BrtybDl",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC\n\nStill at 71.3k. Expecting a strong bounce (and a range) rather here, before hitting 63k, which is  also what we want for spot buy 1\n\nAlright so, after losing 81k, talked about bearish continuati",
+        "likes": 73,
+        "retweets": 3
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $904.04K of $hSOL at $53.6M MC 🐳\n\nhttps://t.co/9ryGIEgEyu",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "gainzy222",
+      "text": "imagine giving tom lee money and he loses 7B and the founder of the coin he invested in is actually selling his own stack lmao\n\nvitalik a legend, wear unicorn shirts like an autistic retard, get photographed wearing socks with holes in them on stage, fud L2s and sell ur own eth",
+      "likes": 481,
+      "retweets": 18,
+      "url": "https://x.com/gainzy222/status/2019309920995405958"
+    },
+    {
+      "author": "NewsyJohnson",
+      "text": "majors bleeding 5% daily on zero news\n\nNewsy Johnson https://t.co/gfQXHtLcgn",
+      "likes": 419,
+      "retweets": 43,
+      "url": "https://x.com/NewsyJohnson/status/2019088360942297095"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Just revealed by Moneybadger NFT by my partners at Paradex, dope animation.\n\nGmoney https://t.co/i0UiUPMu93",
+      "likes": 300,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2019309125197517296"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "My birthday is next week and all I wish for is BTC to go back to my entry",
+      "likes": 272,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2019324064511516766"
+    },
+    {
+      "author": "gainzy222",
+      "text": "bro it’s been literally 8+ years of this shit\n\ncz replying to absolute bottom of the barrel retards writing drivel and the rest of us pretending this is somehow normal https://t.co/H9RthmtDvP",
+      "likes": 130,
+      "retweets": 6,
+      "url": "https://x.com/gainzy222/status/2019337621600890911"
+    }
+  ]
+}

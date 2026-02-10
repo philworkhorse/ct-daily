@@ -1,0 +1,310 @@
+{
+  "timestamp": "2026-02-08T08:26:42.546Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 5,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$KLAUS",
+      4
+    ],
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$SHT",
+      2
+    ],
+    [
+      "$BLOWFISH",
+      2
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$DXY",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$KLAUS",
+        "count": 4
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$SHT",
+        "count": 2
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 2
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$DXY",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "silver": 1,
+      "oil": 2
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "dxy": 1
+    }
+  },
+  "tickerDetails": {
+    "$KLAUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $KLAUS with a PnL of +167.83%.\n\n$KLAUS has been trending on Moby since $98.91K MC. Currently sitting at $443.31K MC. https://t.co/B4YIHb",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $KLAUS with a PnL of +149.64%.\n\n$KLAUS has been trending on Moby since $98.91K MC. Currently sitting at $376.38K MC. https://t.co/KzDQWs",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $KLAUS with a PnL of +170.32%.\n\n$KLAUS has been trending on Moby since $98.91K MC. Currently sitting at $498.67K MC. https://t.co/ppmLWC",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $KLAUS with a PnL of +248.56%.\n\n$KLAUS has been trending on Moby since $98.91K MC. Currently sitting at $307.21K MC. https://t.co/dSyBAW",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.07K of $SHT at $1.21M MC 🐳\n\nhttps://t.co/uKQzxoxqKO",
+        "likes": 3,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.35K of $SHT at $1.11M MC 🐳\n\nhttps://t.co/VqhanwQwgC",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.07K of $SHT at $1.21M MC 🐳\n\nhttps://t.co/uKQzxoxqKO",
+        "likes": 3,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.35K of $SHT at $1.11M MC 🐳\n\nhttps://t.co/VqhanwQwgC",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @degnsol just bought $3.5K of $BLOWFISH at $1.37M MC 🐳\n\nhttps://t.co/RZwRmo5BJY",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @degnsol just bought $3.51K of $BLOWFISH at $1.3M MC 🐳\n\nhttps://t.co/5rMrTPyTpE",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "This Selling Pressure Isn’t Random....Here’s What’s Actually Happening \n\nAlright guys, let’s break this down properly. This isn’t just a dip. Confidence has clearly taken a hit. \n\n• We saw open intere",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$DXY": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "This Selling Pressure Isn’t Random....Here’s What’s Actually Happening \n\nAlright guys, let’s break this down properly. This isn’t just a dip. Confidence has clearly taken a hit. \n\n• We saw open intere",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.21K of $PENGUIN at $28.57M MC 🐳\n\nhttps://t.co/bMkDQKi2Jc",
+        "likes": 12,
+        "retweets": 3
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.21K of $PENGUIN at $28.57M MC 🐳\n\nhttps://t.co/bMkDQKi2Jc",
+        "likes": 12,
+        "retweets": 3
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "Let's have a little competition to see who can design the next $GSD banner for Dex and X. Here is the plain logo.\n\nDrop 'em in the comments below. https://t.co/Z1EEHFVJJb",
+        "likes": 31,
+        "retweets": 10
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "0x_dyan",
+        "text": "RT @tontheneko: Today, a big brand that matches with the $TOILET's brand gave an ad for $7.5k. Dude Wipes.\n\nPeople outside of US doesn't kn…",
+        "likes": 0,
+        "retweets": 20
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, taking some time off today https://t.co/hZU29fcv8d",
+      "likes": 498,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2020380982587847011"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Overnight into Saturday, Russia carried out another massive attack on Ukraine, deploying over 400 drones and nearly 40 missiles of various types. Producing this weaponry would be impossible without critical foreign components, which the Russians continue to obtain by circumventin",
+      "likes": 429,
+      "retweets": 115,
+      "url": "https://x.com/ZelenskyyUa/status/2020407480501616815"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Why does nobody question how computers or iPhones were made in the first place?\n\nHow the fuck did they put together random metals pieces and suddenly you could touch the screen to open apps?\n\nHow do you just \"discover\" the technology in the first place to make something touch scr",
+      "likes": 263,
+      "retweets": 6,
+      "url": "https://x.com/trading_axe/status/2020388725516104184"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Words can't describe how nice it is to finally be tapped into the Twitter firehose. Previous versions of this stuff were heavily limited by being glorified web scrapers.\n\nNow... everyone has access to efficiently query all of Twitter. Insane. Thanks @XDevelopers",
+      "likes": 233,
+      "retweets": 11,
+      "url": "https://x.com/frankdegods/status/2020366023162225137"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 216,
+      "retweets": 14,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "gainzy222",
+      "text": "kalshi is actually such a piece of shit company that zooko has just retweeted a post about how evil they are\n\nbro i have never seen zooko go after anything ever lmao",
+      "likes": 205,
+      "retweets": 16,
+      "url": "https://x.com/gainzy222/status/2020352838803812784"
+    },
+    {
+      "author": "im_roy_lee",
+      "text": "if ur building in true consumer then please bro think twice about marketing on X\n\ntech twitter is TINY and at best will brutally force you into the hell hole of a plateau that is $300k/mo\n\nif u can find me irl and are not extremely unlikable, i will eagerly share all learnings ht",
+      "likes": 180,
+      "retweets": 5,
+      "url": "https://x.com/im_roy_lee/status/2020399699270713698"
+    },
+    {
+      "author": "toly",
+      "text": "If energy demand grows at 2% a year by year 5000 we should be using all the energy in the Milky Way galaxy.",
+      "likes": 155,
+      "retweets": 7,
+      "url": "https://x.com/toly/status/2020357661867528367"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "У ніч на суботу Росія завдала чергового масованого удару по Україні: більш ніж 400 дронів і майже 40 ракет різних типів. Виробництво цієї зброї було б неможливим без іноземних критичних компонентів, які росіяни продовжують отримувати в обхід санкцій. І саме проти таких компаній –",
+      "likes": 145,
+      "retweets": 17,
+      "url": "https://x.com/ZelenskyyUa/status/2020407482657522127"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "The 4 year cycle is repeating, Bitcoin is cooked. \n\nBut there is a silver lining. \n\nhttps://t.co/pH2cL94wFm",
+      "likes": 140,
+      "retweets": 7,
+      "url": "https://x.com/Tradermayne/status/2020378816473100420"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-02-08T06:49:12.214Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 5,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$JTO",
+      3
+    ],
+    [
+      "$NEXUS",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JTO",
+        "count": 3
+      },
+      {
+        "ticker": "$NEXUS",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 2,
+      "silver": 2,
+      "oil": 1
+    },
+    "metals": {
+      "silver": 2
+    },
+    "macro": {
+      "fed": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$JTO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JTO whale just bought $49.98K of $cbBTC at $294.02M MC 🐳\n\nhttps://t.co/aQkOE3gJTR",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JTO whale just bought $49.94K of $cbBTC at $294.1M MC 🐳\n\nhttps://t.co/izpJQmM6gq",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JTO whale just bought $44.71K of $cbBTC at $294.45M MC 🐳\n\nhttps://t.co/eibXy3JmFa",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$NEXUS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @NEXUS3CLAW verified earnings for $NEXUS on @BagsApp 💰\n\nhttps://t.co/OZOYbV6YGN",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +465.26%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.26M MC. https://t.co/N6o6BsF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $3.47K of $FWOG at $6.1M MC 🐳\n\nhttps://t.co/unohGZRExR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "0xSisyphus",
+      "text": "The non financial use cases of crypto have failed unequivocally \n\nBillions of dollars of other people’s money have been destroyed in the pursuit of web3, Hyperliquid with zero external funding will change the way traditional assets are traded",
+      "likes": 336,
+      "retweets": 18,
+      "url": "https://x.com/0xSisyphus/status/2019912835938037967"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, taking some time off today https://t.co/hZU29fcv8d",
+      "likes": 282,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2020380982587847011"
+    },
+    {
+      "author": "gainzy222",
+      "text": "kalshi is actually such a piece of shit company that zooko has just retweeted a post about how evil they are\n\nbro i have never seen zooko go after anything ever lmao",
+      "likes": 170,
+      "retweets": 10,
+      "url": "https://x.com/gainzy222/status/2020352838803812784"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 127,
+      "retweets": 7,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Words can't describe how nice it is to finally be tapped into the Twitter firehose. Previous versions of this stuff were heavily limited by being glorified web scrapers.\n\nNow... everyone has access to efficiently query all of Twitter. Insane. Thanks @XDevelopers",
+      "likes": 117,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2020366023162225137"
+    }
+  ]
+}

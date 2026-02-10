@@ -1,0 +1,244 @@
+{
+  "timestamp": "2026-02-10T11:47:21.613Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 2,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MET",
+      2
+    ],
+    [
+      "$MEGA",
+      1
+    ],
+    [
+      "$USDG",
+      1
+    ],
+    [
+      "$ON",
+      1
+    ],
+    [
+      "$MOGTALK",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$GIRAFFES",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MET",
+        "count": 2
+      },
+      {
+        "ticker": "$MEGA",
+        "count": 1
+      },
+      {
+        "ticker": "$USDG",
+        "count": 1
+      },
+      {
+        "ticker": "$ON",
+        "count": 1
+      },
+      {
+        "ticker": "$MOGTALK",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$GIRAFFES",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "treasury": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$MEGA": [
+      {
+        "author": "waleswoosh",
+        "text": "5/10 MegaETH mafia apps are live so far.\n\nWhen the number reaches 10, we will see $MEGA TGE seven days later.\n\nThe question is when https://t.co/YLRqMnR2Lz",
+        "likes": 256,
+        "retweets": 14
+      }
+    ],
+    "$MET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $172.05K of $USDG at $832.85M MC 🐳\n\nhttps://t.co/XYUWFMPIvb",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $99.95K of $ONyc at $91.57M MC 🐳\n\nhttps://t.co/jdscCDzPmG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $172.05K of $USDG at $832.85M MC 🐳\n\nhttps://t.co/XYUWFMPIvb",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $99.95K of $ONyc at $91.57M MC 🐳\n\nhttps://t.co/jdscCDzPmG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOGTALK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @bc1pIainview verified earnings for $MOGTALK on @BagsApp 💰\n\nhttps://t.co/SCnOAR7ANP",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.16K of $GIRAFFES at $3.17M MC 🐳\n\nhttps://t.co/T08Mp3hSqx",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.16K of $GIRAFFES at $3.17M MC 🐳\n\nhttps://t.co/T08Mp3hSqx",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "watchingmarkets",
+        "text": "I’m not rushing anything. This is a slow process.\n\n$ETH (1W) in 2022 vs $SOL (1W) in 2026 https://t.co/Q32c1sHU7h",
+        "likes": 37,
+        "retweets": 3
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "I’m not rushing anything. This is a slow process.\n\n$ETH (1W) in 2022 vs $SOL (1W) in 2026 https://t.co/Q32c1sHU7h",
+        "likes": 37,
+        "retweets": 3
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "5/10 MegaETH mafia apps are live so far.\n\nWhen the number reaches 10, we will see $MEGA TGE seven days later.\n\nThe question is when https://t.co/YLRqMnR2Lz",
+      "likes": 256,
+      "retweets": 14,
+      "url": "https://x.com/waleswoosh/status/2021151171616952478"
+    },
+    {
+      "author": "himgajria",
+      "text": "Dear KOLs, \n\nGet a bag &lt;$10m. \nBull post it.\nRide it to &gt;$1b.\n\nRegards.",
+      "likes": 249,
+      "retweets": 26,
+      "url": "https://x.com/himgajria/status/2021158293771587674"
+    },
+    {
+      "author": "gainzy222",
+      "text": "We’re going lower, “forever top” narrative is coming",
+      "likes": 212,
+      "retweets": 8,
+      "url": "https://x.com/gainzy222/status/2021141030720958957"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Opus 4.6 is an absolute beast",
+      "likes": 184,
+      "retweets": 19,
+      "url": "https://x.com/frankdegods/status/2021100603032612895"
+    },
+    {
+      "author": "mert",
+      "text": "zcash https://t.co/66qdHTiETK",
+      "likes": 158,
+      "retweets": 14,
+      "url": "https://x.com/mert/status/2021152481409929271"
+    },
+    {
+      "author": "himgajria",
+      "text": "Mines &gt; Trenches",
+      "likes": 118,
+      "retweets": 13,
+      "url": "https://x.com/himgajria/status/2021135892832993309"
+    },
+    {
+      "author": "based16z",
+      "text": "Crazy that these were the same as shitcoin USA the whole time https://t.co/OY73PgphQK",
+      "likes": 106,
+      "retweets": 1,
+      "url": "https://x.com/based16z/status/2021132605249429702"
+    },
+    {
+      "author": "mert",
+      "text": "this is a false equivalence\n\na DEX does not \"list\" all tokens, it is [in theory] a non-custodial permissionless backend and it's the job of frontends to curate\n\non the contrary, a CEX literally custodies the tokens and is thus responsible for them",
+      "likes": 101,
+      "retweets": 4,
+      "url": "https://x.com/mert/status/2021178263872196979"
+    }
+  ]
+}

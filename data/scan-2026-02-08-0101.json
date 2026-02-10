@@ -1,0 +1,202 @@
+{
+  "timestamp": "2026-02-08T01:01:17.675Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 4,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PERC",
+      2
+    ],
+    [
+      "$CMEM",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$AP",
+      1
+    ],
+    [
+      "$CHUD",
+      1
+    ],
+    [
+      "$NOTHING",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PERC",
+        "count": 2
+      },
+      {
+        "ticker": "$CMEM",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$AP",
+        "count": 1
+      },
+      {
+        "ticker": "$CHUD",
+        "count": 1
+      },
+      {
+        "ticker": "$NOTHING",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "fed": 1,
+      "dollar": 3
+    }
+  },
+  "tickerDetails": {
+    "$CMEM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Claude_Memory verified earnings for $CMEM on @BagsApp 💰\n\nhttps://t.co/bKJZzsiDfZ",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.03K of $PERC at $3.36M MC 🐳\n\nhttps://t.co/mG2QtcjxQg",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PERC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.03K of $PERC at $3.36M MC 🐳\n\nhttps://t.co/mG2QtcjxQg",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $4.97K of $PERC at $3.08M MC 🐳\n\nhttps://t.co/BrDppTfQpN",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $4.97K of $PERC at $3.08M MC 🐳\n\nhttps://t.co/BrDppTfQpN",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$AP": [
+      {
+        "author": "hoodg3nius",
+        "text": "A$$AP Rocky could never",
+        "likes": 73,
+        "retweets": 2
+      }
+    ],
+    "$CHUD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @DOGEonRunes verified earnings for $CHUD on @BagsApp 💰\n\nhttps://t.co/X1XIJTEcZe",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$NOTHING": [
+      {
+        "author": "_Shadow36",
+        "text": "RT @PumpfunEco: $NOTHING has pumped 58% today! 🔥 https://t.co/RJPoAsfKYi",
+        "likes": 0,
+        "retweets": 8
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "cz_binance",
+      "text": "We need less divide in the world. More building.",
+      "likes": 109177,
+      "retweets": 1430,
+      "url": "https://x.com/cz_binance/status/1554445653929066496"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "Built a quick tool for crowdsourcing punks aesthetic premiums:\n\nhttps://t.co/sstPYvkAsK https://t.co/jkfWiFUeUX",
+      "likes": 251,
+      "retweets": 31,
+      "url": "https://x.com/jackbutcher/status/2019825566522978796"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "You can retire next bullrun if you enter with $100k.\n\n\"If you make the right trades you will be able to retire if you enter the next bull with $100k, you can turn that into $3-$4 millon\"\n https://t.co/txTIi7EuoQ",
+      "likes": 162,
+      "retweets": 3,
+      "url": "https://x.com/rasmr_eth/status/2020275397636812998"
+    },
+    {
+      "author": "based16z",
+      "text": "I'm working on dying",
+      "likes": 156,
+      "retweets": 3,
+      "url": "https://x.com/based16z/status/2020190882121806218"
+    },
+    {
+      "author": "d_gilz",
+      "text": "You people are fucking retarded",
+      "likes": 118,
+      "retweets": 3,
+      "url": "https://x.com/d_gilz/status/2020214649329770997"
+    },
+    {
+      "author": "toly",
+      "text": "Is the build verified? Is the upgrade key a multisig at least? Is admin burned etc….  Come on sheeple",
+      "likes": 116,
+      "retweets": 8,
+      "url": "https://x.com/toly/status/2020298327351583165"
+    }
+  ]
+}

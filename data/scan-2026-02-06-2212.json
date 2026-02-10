@@ -1,0 +1,216 @@
+{
+  "timestamp": "2026-02-06T22:12:38.770Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 1,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CONCHO",
+      2
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$SPLAT",
+      1
+    ],
+    [
+      "$PETAH",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$BLOXX",
+      1
+    ],
+    [
+      "$ASHBOUND",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CONCHO",
+        "count": 2
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SPLAT",
+        "count": 1
+      },
+      {
+        "ticker": "$PETAH",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOXX",
+        "count": 1
+      },
+      {
+        "ticker": "$ASHBOUND",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "unemployment": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$HYPE": [
+      {
+        "author": "DeeZe",
+        "text": "RT @rediamondjr: Real economics in a rapidly growing marketplace, not simply a store of value. That’s why  $HYPE continues to outperform BT…",
+        "likes": 0,
+        "retweets": 100
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "inversebrah",
+        "text": "RT @lookonchain: Feb 6 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: -6,201 $BTC(-$422.85M)🔴\n7D NetFlow: -17,435 $BTC(-$1.19B)🔴\n\n#Ethereum ETFs:\n1D N…",
+        "likes": 0,
+        "retweets": 19
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @alexxxx: Wow $BUTTCOIN strength in this current market is remarkable. \n\nThis is THE one. https://t.co/Dk30MfiDuR",
+        "likes": 0,
+        "retweets": 26
+      }
+    ],
+    "$SPLAT": [
+      {
+        "author": "leftcurvemaxing",
+        "text": "For anyone interested in the progress of @splatworldvr, I've got a development update for you. I appreciate everybody's patience, it's been a pretty large overhaul that's taken a lot of time and thoug",
+        "likes": 56,
+        "retweets": 17
+      }
+    ],
+    "$CONCHO": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @XScharo just bought $1.41K of $CONCHO at $115.23K MC 🐳\n\nhttps://t.co/8VdTLrOTqE",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0GAntD just bought $1.52K of $CONCHO at $112.54K MC 🐳\n\nhttps://t.co/5cyGYlmbBz",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PETAH": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PETAH with a PnL of +421.23%.\n\n$PETAH has been trending on Moby since $153.83K MC. Currently sitting at $825.51K MC. https://t.co/UfDt6",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "NullFUD",
+        "text": "RT @Grayscale: .@VitalikButerin 🤝 $ZEC\nhttps://t.co/aRnVJyYvLn",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$BLOXX": [
+      {
+        "author": "BloxApi",
+        "text": "$BLOXX | BloxAPI Revenue Model @Pumpfun #BuildInPublic Hackathon https://t.co/ZBkq7LD0xc",
+        "likes": 40,
+        "retweets": 11
+      }
+    ],
+    "$ASHBOUND": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @CoderCohl verified earnings for $ASHBOUND on @BagsApp 💰\n\nhttps://t.co/lMfid64RvA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "GwartyGwart",
+      "text": "I mean I wouldn’t call it all a “failed experiment” we did create an exchange that makes a cow moo sound when you make a swap which, to my knowledge, did not exist before crypto",
+      "likes": 2286,
+      "retweets": 156,
+      "url": "https://x.com/GwartyGwart/status/2019484675203383366"
+    },
+    {
+      "author": "TradingTerminal",
+      "text": "Welcome, pow! https://t.co/8nFyyd8YWr",
+      "likes": 174,
+      "retweets": 7,
+      "url": "https://x.com/TradingTerminal/status/2019873748657270892"
+    },
+    {
+      "author": "mert",
+      "text": "I have seen people on crack throw more money on the 1h fartcoin chart than france is throwing at science",
+      "likes": 170,
+      "retweets": 10,
+      "url": "https://x.com/mert/status/2019883774889402384"
+    },
+    {
+      "author": "heart_",
+      "text": "feel like i’m falling more and more down the rabbit hole \n\nupgraded cable and rubber tips\nthey feel so good now https://t.co/Ywl1hKrnDS",
+      "likes": 137,
+      "retweets": 0,
+      "url": "https://x.com/heart_/status/2019749973563199816"
+    }
+  ]
+}

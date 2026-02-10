@@ -1,0 +1,89 @@
+{
+  "timestamp": "2026-01-29T21:21:48.493Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 0,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 1,
+    "neutral": 42,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$ZRO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ZRO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$ZRO": [
+      {
+        "author": "Evan_ss6",
+        "text": "𝟏) 𝐖𝐡𝐚𝐭 ...\n\nhas been holding $ZRO down (besides BTC being -$14k the last 2 weeks) is, the last 5 days the FTX Estate woke up and decided to sell **its entire liquid position** (their first ZRO s",
+        "likes": 34,
+        "retweets": 3
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "intern",
+      "text": "Some personal news: I’ll be stepping down as Director of Growth at the Monad Foundation.\n\nI've been working on Monad over the last 3 years.\n\nI’ve spent the last 9 years in crypto and been full time in the industry since joining the VC team at CMS in 2020.\n\nAfter fielding 1,000+ s",
+      "likes": 515,
+      "retweets": 11,
+      "url": "https://x.com/intern/status/2016965624807788958"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "CZ walking to his computer to absolutely rape the market. https://t.co/qvKK1ngJzW",
+      "likes": 224,
+      "retweets": 22,
+      "url": "https://x.com/DipWheeler/status/2016971746692452796"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "scared money don't make money.\n\nlet your nuts hang.",
+      "likes": 196,
+      "retweets": 25,
+      "url": "https://x.com/DipWheeler/status/2016968559478640676"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "This is the best time to be in Crypto since 2020. Certain sectors are about to experience exponential growth. Don't let the doomers stuck in vaporous altcoins tell you otherwise.",
+      "likes": 158,
+      "retweets": 14,
+      "url": "https://x.com/ThinkingUSD/status/2016978334320660820"
+    },
+    {
+      "author": "based16z",
+      "text": "At least crypto is finally following gold price action",
+      "likes": 131,
+      "retweets": 1,
+      "url": "https://x.com/based16z/status/2016947432521626019"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "timestamp": "2026-02-07T12:04:16.817Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 3,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GSD",
+      2
+    ],
+    [
+      "$SIGIL",
+      1
+    ],
+    [
+      "$INDEXCLAW",
+      1
+    ],
+    [
+      "$PUNCAR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GSD",
+        "count": 2
+      },
+      {
+        "ticker": "$SIGIL",
+        "count": 1
+      },
+      {
+        "ticker": "$INDEXCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$PUNCAR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$SIGIL": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ihateoop just bought $2.26K of $SIGIL at $330.02K MC 🐳\n\nhttps://t.co/oTQMNSMXyF",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "RT @DaliCommas: UPDATE: \n\n$GSD is IN-CRED-IBLE\n\nI was initially working on a project without it to simply get a feel of what it takes or bu…",
+        "likes": 0,
+        "retweets": 6
+      },
+      {
+        "author": "official_taches",
+        "text": "RT @DaliCommas: Running $GSD.\n\nThe framework is amazing. It asks all the right questions and now I have 4 researchers game planning while I…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$INDEXCLAW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @IndexClaw verified earnings for $INDEXCLAW on @BagsApp 💰\n\nhttps://t.co/lWsF2ut0Ja",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$PUNCAR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Puncar_defi verified earnings for $PUNCAR on @BagsApp 💰\n\nhttps://t.co/8fKFB9yX5U",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "intocryptoverse",
+      "text": "The price of Bitcoin went up $10k and the fear and greed index dropped from 9 to 6 🤣 https://t.co/WrssqqzkKa",
+      "likes": 3176,
+      "retweets": 133,
+      "url": "https://x.com/intocryptoverse/status/2019932234988335108"
+    },
+    {
+      "author": "jessepollak",
+      "text": "who's building an agent on @base that I should follow?",
+      "likes": 544,
+      "retweets": 30,
+      "url": "https://x.com/jessepollak/status/2019921504151171101"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 321,
+      "retweets": 12,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Polymarket with more visits than the top crypto websites combined.\n\nAnd about to flip Robinhood.\n\nPolymarket supercycle",
+      "likes": 255,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020033571449348426"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "snow, japan https://t.co/i0yfKPoOI1",
+      "likes": 198,
+      "retweets": 1,
+      "url": "https://x.com/izebel_eth/status/2020045284907090219"
+    },
+    {
+      "author": "gainzy222",
+      "text": "vitalik finally using his influence for good, supporting zec\n\ninstead of fudding assets down 90%\n\ngood guy vitalik \n https://t.co/8rHo7lfcKp",
+      "likes": 177,
+      "retweets": 4,
+      "url": "https://x.com/gainzy222/status/2020023786146566502"
+    },
+    {
+      "author": "CL207",
+      "text": "❄️❄️❄️ https://t.co/sW11h07C2o",
+      "likes": 130,
+      "retweets": 0,
+      "url": "https://x.com/CL207/status/2020025668990619719"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Genuinely how would this even work. \n\nIf this were to pass could I simply move to Calgary and then become American.",
+      "likes": 125,
+      "retweets": 0,
+      "url": "https://x.com/Tradermayne/status/2020020193951625704"
+    }
+  ]
+}

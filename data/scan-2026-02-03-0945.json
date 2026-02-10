@@ -1,0 +1,187 @@
+{
+  "timestamp": "2026-02-03T09:45:29.084Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 0,
+    "neutral": 94,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$JUPSOL",
+      2
+    ],
+    [
+      "$RENTAHUMAN",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$JITOSOL",
+      1
+    ],
+    [
+      "$THISYOU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$JUPSOL",
+        "count": 2
+      },
+      {
+        "ticker": "$RENTAHUMAN",
+        "count": 1
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$THISYOU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "gold": 2,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {
+      "fed": 2,
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$RENTAHUMAN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @tomaki_x verified earnings for $RENTAHUMAN on @BagsApp 💰\n\nhttps://t.co/wb9ibmNDKY",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.56K of $Jmail at $291.54K MC 🐳\n\nhttps://t.co/hbDijJqaHt",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $9.57K of $Goyim at $6.91M MC 🐳\n\nhttps://t.co/cQfu2xauDP",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "$XAU/ usdt ( update) \n\nGold reclaims $4900.\n\nJust made 800,000$ from this trade.\n\nGgz if u followed. https://t.co/9pRcgDBhAQ",
+        "likes": 25,
+        "retweets": 5
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $11.3K of $JitoSOL at $1.46B MC 🐳\n\nhttps://t.co/f6jxmRJ4WH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JUPSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $66.91K of $JupSOL at $504.1M MC 🐳\n\nhttps://t.co/yPLYZuVjGi",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $66.44K of $JupSOL at $504.09M MC 🐳\n\nhttps://t.co/z1zvp9OKSw",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$THISYOU": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Thiss_Youu verified earnings for $THISYOU on @BagsApp 💰\n\nhttps://t.co/kH5OOOC4UC",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ZelenskyyUa",
+      "text": "Maidan Nezalezhnosti. The People’s Memorial of National Remembrance. A memorial honoring our heroes, warriors, our people who defended Ukraine against the enemy, fought, and made the ultimate sacrifice in this war.\n\nTogether with @SecGenNATO Mark Rutte, we honored the memory of f",
+      "likes": 473,
+      "retweets": 116,
+      "url": "https://x.com/ZelenskyyUa/status/2018618166000156896"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Money Badger Boxes currently trading at $230 USD.\n\nPicked one up here.\n\nThey will reveal into Money Badger NFTs at some point which is the cultural layer for Paradex.\n\nPlus there are two airdrops coming up.\n\nObviously some risk to it but NFTs are down bad anyway at the moment so ",
+      "likes": 262,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2018584283657785815"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Perps are fun and all, I get it.\n\nAnd I like trading them too.\n\nBut really the best thing you can do if you think BTC, ETH or SOL is at a good entry, is buy spot.\n\nNo need to buy on 40x leverage and get liquidated before the next leg up.\n\nBuild your portfolio slowly",
+      "likes": 210,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2018599450856562810"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Майдан Незалежності. Народний меморіал національної пам’яті. Меморіал пам’яті про наших героїв, воїнів, наших людей, які захищали Україну від ворога, боролися і віддали найцінніше в цій війні. \n\nРазом із Марком Рютте сьогодні тут ушанували пам'ять загиблих українських захисників ",
+      "likes": 171,
+      "retweets": 23,
+      "url": "https://x.com/ZelenskyyUa/status/2018618169133277579"
+    },
+    {
+      "author": "himgajria",
+      "text": "Another 5,000,000 units of copper (inu) melted permanently. 3.5% of the total supply is now out of circulation. \n\nThis time, purely off fees (just from 1 week)\n\n&gt;$300,000 USD has been burnt.",
+      "likes": 128,
+      "retweets": 32,
+      "url": "https://x.com/himgajria/status/2018574648771015035"
+    }
+  ]
+}

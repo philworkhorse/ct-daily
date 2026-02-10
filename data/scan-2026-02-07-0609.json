@@ -1,0 +1,171 @@
+{
+  "timestamp": "2026-02-07T06:09:19.898Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 3,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$AVAX",
+      2
+    ],
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$XAUUSD",
+      1
+    ],
+    [
+      "$RECAP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$RECAP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$AVAX",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$XAUUSD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$AVAX": [
+      {
+        "author": "inversebrah",
+        "text": "RT @thetopsignal: @avery_bartlett @gerhardvonbier @0xSmitty @vohvohh Are you having fun on $AVAX?",
+        "likes": 0,
+        "retweets": 7
+      },
+      {
+        "author": "inversebrah",
+        "text": "RT @thetopsignal: @avery_bartlett @gerhardvonbier @0xSmitty @vohvohh Are you having fun on $AVAX?",
+        "likes": 0,
+        "retweets": 7
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "Tradermayne",
+        "text": "$MSTR\n\nSigh looking back the signs were everywhere. \n\nBig zone here for Strategy could find a decent temp bottom but ultimately I'd love to buy this thing around $40-$50. https://t.co/hmfvnOvj3q",
+        "likes": 88,
+        "retweets": 3
+      }
+    ],
+    "$XAUUSD": [
+      {
+        "author": "Tradermayne",
+        "text": "$XAUUSD\n\nGot to be one of the craziest charts out there right now. https://t.co/Y83VO9VBQX",
+        "likes": 67,
+        "retweets": 1
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $2.51K of $Dihcoin at $243.82K MC 🐳\n\nhttps://t.co/o30cNN5IQU",
+        "likes": 3,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.67K of $Goyim at $1.82M MC 🐳\n\nhttps://t.co/44cvu0GvlX",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$RECAP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @RecapThisBot verified earnings for $RECAP on @BagsApp 💰\n\nhttps://t.co/44TsH27FaV",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mdudas",
+      "text": "nothing has changed about team, thesis or process at @6thManVentures \n\nconsistency of excellence is scarce in crypto, we exude it\n\nhit me up if you’re raising or want to work with us\n\nmuch, much higher is an inevitability, and we’ll make it much easier for you to get there \n\nxo",
+      "likes": 241,
+      "retweets": 5,
+      "url": "https://x.com/mdudas/status/2019881200895291772"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Technically this is a short. \n\nUnsure if this can push up again and make a slightly higher high. \n\nBut the unwind is coming soon I reckon. https://t.co/OUNanASJee",
+      "likes": 187,
+      "retweets": 3,
+      "url": "https://x.com/Tradermayne/status/2019986161020924040"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "Built a quick tool for crowdsourcing punks aesthetic premiums:\n\nhttps://t.co/sstPYvkAsK https://t.co/jkfWiFUeUX",
+      "likes": 166,
+      "retweets": 20,
+      "url": "https://x.com/jackbutcher/status/2019825566522978796"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet https://t.co/4EwU9TAHRz",
+      "likes": 134,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020014724096905481"
+    },
+    {
+      "author": "Icebergy",
+      "text": "that’s it?",
+      "likes": 112,
+      "retweets": 3,
+      "url": "https://x.com/Icebergy/status/2019641346244636776"
+    }
+  ]
+}

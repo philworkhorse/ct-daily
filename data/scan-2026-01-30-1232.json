@@ -1,0 +1,212 @@
+{
+  "timestamp": "2026-01-30T12:32:44.746Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 5,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$OPENCLAW",
+      3
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$LORB",
+      1
+    ],
+    [
+      "$TOSHI",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$MERIT",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$OPENCLAW",
+        "count": 3
+      },
+      {
+        "ticker": "$LORB",
+        "count": 1
+      },
+      {
+        "ticker": "$TOSHI",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$MERIT",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "gold": 3,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 3,
+      "silver": 1
+    },
+    "macro": {
+      "fed": 1,
+      "powell": 1
+    }
+  },
+  "tickerDetails": {
+    "$LORB": [
+      {
+        "author": "yogchill_",
+        "text": "Just woke up to see we’re in a lobster/ crustacean ai meta?\n\nThe leviathan lobster god $lorb front ran the lobster meta by nearly 3 months \n\n$moltbook on base went to 40m+ and I see coins like $opencl",
+        "likes": 2,
+        "retweets": 2
+      }
+    ],
+    "$TOSHI": [
+      {
+        "author": "Toshi_base",
+        "text": "We move as one.\n\n$TOSHI GANG https://t.co/0NsAedBNlK",
+        "likes": 16,
+        "retweets": 5
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "frontrunnersx",
+        "text": "$BTC - If we get below Saylor's 76k average there might be enough retail thinking \"shit, he has to sell\". That alone could push price lower.\n\nIt's all about predicting what the majority will think, an",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: This chart doesn't let me sleep at night \n\nM2/$BTC is completely uncorrelated since Jun '25\n\n$BTC has underperformed any asse…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $9.25K of $EURC at $89.57M MC 🐳\n\nhttps://t.co/nVuY1kRRpL",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $9.25K of $EURC at $89.57M MC 🐳\n\nhttps://t.co/nVuY1kRRpL",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @clukzSOL just bought $4K of $OPENCLAW at $3.37M MC 🐳\n\nhttps://t.co/qlD0OeFdwO",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @onchainrobber just bought $1.92K of $OPENCLAW at $3.34M MC 🐳\n\nhttps://t.co/CuqRRlbFf0",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @onchainrobber just bought $1.75K of $OPENCLAW at $3.98M MC 🐳\n\nhttps://t.co/MSuKrQYGxR",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$MERIT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @shafuOx verified earnings for $MERIT on @BagsApp 💰\n\nhttps://t.co/DcEKI8SGy7",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $11.41K of $PENGUIN at $70.81M MC 🐳\n\nhttps://t.co/MuJEH5Lwwv",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 505,
+      "retweets": 60,
+      "url": "https://x.com/Neuravision_A/status/2012979139880566854"
+    },
+    {
+      "author": "hosseeb",
+      "text": "This is... fascinating.\n\n@moltbook is an AI agent social network created for Moltbots (FKA Clawdbot). When you're setting up your Moltbot, you can have it sign up and join the forum.\n\nSo all over the world, people are setting up their Moltbots and letting them join the forum, int",
+      "likes": 299,
+      "retweets": 42,
+      "url": "https://x.com/hosseeb/status/2017188140549808627"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Thank you for your support!",
+      "likes": 198,
+      "retweets": 31,
+      "url": "https://x.com/ZelenskyyUa/status/2017211381699752145"
+    }
+  ]
+}

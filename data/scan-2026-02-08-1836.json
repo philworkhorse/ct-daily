@@ -1,0 +1,227 @@
+{
+  "timestamp": "2026-02-08T18:36:49.034Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 2,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIGA",
+      2
+    ],
+    [
+      "$RETARDIO",
+      2
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$VIRTUAL",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIGA",
+        "count": 2
+      },
+      {
+        "ticker": "$RETARDIO",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$VIRTUAL",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "dollar": 4,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @dippy_eth: $BUTTCOIN rose amid widespread disbelief\n\nNo one wants to believe that times have changed and tokens can fly much higher\n\nYo…",
+        "likes": 0,
+        "retweets": 18
+      }
+    ],
+    "$VIRTUAL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $VIRTUAL whale just bought $10K of $jlJUPUSD at $51.47M MC 🐳\n\nhttps://t.co/uNDepBgzva",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GIGA whale just bought $3.55K of $RETARDIO at $1.87M MC 🐳\n\nhttps://t.co/IE26dYTXV3",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $GIGA whale just bought $3.55K of $RETARDIO at $1.64M MC 🐳\n\nhttps://t.co/VKO5gIAsxA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$RETARDIO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GIGA whale just bought $3.55K of $RETARDIO at $1.87M MC 🐳\n\nhttps://t.co/IE26dYTXV3",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $GIGA whale just bought $3.55K of $RETARDIO at $1.64M MC 🐳\n\nhttps://t.co/VKO5gIAsxA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "smileycapital",
+        "text": "my tweets have locally topped $HYPE\n\nI should shut the fuck up sometimes",
+        "likes": 227,
+        "retweets": 2
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "Bitcoin at 60K in July 2024 was a very different BTC than at 60K today. \n\nIn July 2024, Trump raised his fist after his attempted assassination, guaranteeing his presidency, which was back then viewed",
+        "likes": 527,
+        "retweets": 19
+      },
+      {
+        "author": "rektfencer",
+        "text": "This is exactly where $BTC starts the run to a new ATH.\n\nNo one is prepared for what comes next. https://t.co/DPZtYIuPxA",
+        "likes": 11,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Crypto_Chase",
+      "text": "Bitcoin at 60K in July 2024 was a very different BTC than at 60K today. \n\nIn July 2024, Trump raised his fist after his attempted assassination, guaranteeing his presidency, which was back then viewed as extemely bullish for markets. #Bitcoin began pricing this in immediately.\n\nI",
+      "likes": 527,
+      "retweets": 19,
+      "url": "https://x.com/Crypto_Chase/status/2020212580372095090"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Your Community sells Coins to buy Cars.\nOur Community sells Cars to buy Coins.\n\nJoin this Movement before it has 1,000,000+ holders.\n\nSPX6900 💹🧲 Flip the Stock Market.",
+      "likes": 295,
+      "retweets": 71,
+      "url": "https://x.com/MustStopMurad/status/2020559160547610833"
+    },
+    {
+      "author": "smileycapital",
+      "text": "my tweets have locally topped $HYPE\n\nI should shut the fuck up sometimes",
+      "likes": 227,
+      "retweets": 2,
+      "url": "https://x.com/smileycapital/status/2020267746408435941"
+    },
+    {
+      "author": "DeItaone",
+      "text": "DOLLAR/YEN RISES 0.2% TO 157.5 AFTER JAPANESE PM TAKAICHI'S DECISIVE ELECTION VICTORY",
+      "likes": 195,
+      "retweets": 15,
+      "url": "https://x.com/DeItaone/status/2020559673968013483"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Apps like gmgn and fomo building USDC based trading apps with cross chain compatibility \n\nSOL as token needs to rerate much lower, this is the trade because even Solana’s win condition no longer requires users to hold the underlying gas token anymore.",
+      "likes": 181,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2020264654120091854"
+    },
+    {
+      "author": "mert",
+      "text": "funniest part about this article is that they had to update the title from 69k to 70k since they wrote it\n\nlet's see how many adjustments we get this year https://t.co/3LBSrmutdT",
+      "likes": 165,
+      "retweets": 5,
+      "url": "https://x.com/mert/status/2020546793671438557"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Skills as a Service will be the new SaaS",
+      "likes": 127,
+      "retweets": 11,
+      "url": "https://x.com/frankdegods/status/2020552810153074942"
+    },
+    {
+      "author": "TimepieceTyler_",
+      "text": "Back to the office we go.\n\nGood side quest. https://t.co/hd53M3nhHM",
+      "likes": 114,
+      "retweets": 5,
+      "url": "https://x.com/TimepieceTyler_/status/2020415115263402218"
+    },
+    {
+      "author": "frankdegods",
+      "text": "How do I get Agent Teams on Clawdbot?",
+      "likes": 112,
+      "retweets": 2,
+      "url": "https://x.com/frankdegods/status/2020419106449608939"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "it’s -6 degrees in nyc and you’re blocking the sidewalk to buy a fake gucci bag",
+      "likes": 111,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2020546340707832275"
+    }
+  ]
+}

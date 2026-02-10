@@ -1,0 +1,325 @@
+{
+  "timestamp": "2026-02-06T07:46:19.630Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 8,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ],
+    [
+      "$ZHC",
+      1
+    ],
+    [
+      "$WIF",
+      1
+    ],
+    [
+      "$MOG",
+      1
+    ],
+    [
+      "$MEW",
+      1
+    ],
+    [
+      "$MICHI",
+      1
+    ],
+    [
+      "$MOTHER",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$COIN",
+      1
+    ],
+    [
+      "$TSLA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      },
+      {
+        "ticker": "$ZHC",
+        "count": 1
+      },
+      {
+        "ticker": "$MOG",
+        "count": 1
+      },
+      {
+        "ticker": "$MEW",
+        "count": 1
+      },
+      {
+        "ticker": "$MICHI",
+        "count": 1
+      },
+      {
+        "ticker": "$MOTHER",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$WIF",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$COIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TSLA",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $11.54K of $WhiteWhale at $122.46M MC 🐳\n\nhttps://t.co/6HPvmAeKNc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $23.4K of $lanternSOL at $8.03M MC 🐳\n\nhttps://t.co/BPLeAH5Ghv",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $3.46K of $ZHC at $720.54K MC 🐳\n\nhttps://t.co/enP9Arn1eZ",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$ZHC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $3.46K of $ZHC at $720.54K MC 🐳\n\nhttps://t.co/enP9Arn1eZ",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$WIF": [
+      {
+        "author": "blknoiz06",
+        "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+        "likes": 1853,
+        "retweets": 279
+      }
+    ],
+    "$MOG": [
+      {
+        "author": "blknoiz06",
+        "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+        "likes": 1853,
+        "retweets": 279
+      }
+    ],
+    "$MEW": [
+      {
+        "author": "blknoiz06",
+        "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+        "likes": 1853,
+        "retweets": 279
+      }
+    ],
+    "$MICHI": [
+      {
+        "author": "blknoiz06",
+        "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+        "likes": 1853,
+        "retweets": 279
+      }
+    ],
+    "$MOTHER": [
+      {
+        "author": "blknoiz06",
+        "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+        "likes": 1853,
+        "retweets": 279
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "Palgrani2",
+        "text": "RT @DreamInWeb3: $BUTTCOIN is simply unstoppable. \nThe way it's holding up in one of the biggest market crash of the history is remarkable…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC tested $60K yesterday, officially down 50%+ from ATH.\n\nOver $2T has been wiped from total market cap since the ATH in October 2025.\n\nWhat we’re seeing:\n• Altcoins are completely red\n• Tech stocks",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC tested $60K yesterday, officially down 50%+ from ATH.\n\nOver $2T has been wiped from total market cap since the ATH in October 2025.\n\nWhat we’re seeing:\n• Altcoins are completely red\n• Tech stocks",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$COIN": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC tested $60K yesterday, officially down 50%+ from ATH.\n\nOver $2T has been wiped from total market cap since the ATH in October 2025.\n\nWhat we’re seeing:\n• Altcoins are completely red\n• Tech stocks",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$TSLA": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC tested $60K yesterday, officially down 50%+ from ATH.\n\nOver $2T has been wiped from total market cap since the ATH in October 2025.\n\nWhat we’re seeing:\n• Altcoins are completely red\n• Tech stocks",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MustStopMurad",
+      "text": "Delusional Bulls Will Win in the End.",
+      "likes": 3329,
+      "retweets": 503,
+      "url": "https://x.com/MustStopMurad/status/2019476877124022300"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+      "likes": 1853,
+      "retweets": 279,
+      "url": "https://x.com/blknoiz06/status/1814852234292928932"
+    },
+    {
+      "author": "MarcellxMarcell",
+      "text": "i can’t believe $67 was the bottom\n\nMarket makers 10000% fucking with us https://t.co/lGpF7liJzp",
+      "likes": 596,
+      "retweets": 30,
+      "url": "https://x.com/MarcellxMarcell/status/2019671832471957910"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, buy the dip https://t.co/n5l3kB8U9Z",
+      "likes": 560,
+      "retweets": 13,
+      "url": "https://x.com/waleswoosh/status/2019652297283026961"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "You can be right and still fuck it up though. \n\nI expected the 4 year cycle to remain.\n\nI sold some on the way up but I didn't cash out all my spot. \n\nMissed the actual top and then was too bullish on where the lower high would form. \n\nExecution is all that really matters, not wh",
+      "likes": 365,
+      "retweets": 18,
+      "url": "https://x.com/Tradermayne/status/2019576101170024670"
+    },
+    {
+      "author": "Icebergy",
+      "text": "they really pumped zcash 20x in a month and i didnt sell everything",
+      "likes": 280,
+      "retweets": 14,
+      "url": "https://x.com/Icebergy/status/2019549485333115294"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Let’s go https://t.co/632iiesMkH",
+      "likes": 171,
+      "retweets": 2,
+      "url": "https://x.com/lBattleRhino/status/2019654827392061900"
+    },
+    {
+      "author": "Bitcoin",
+      "text": "Did you stay on? #HODL https://t.co/18d4nWajeA",
+      "likes": 155,
+      "retweets": 39,
+      "url": "https://x.com/Bitcoin/status/2019672038236188674"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "A lot of doom and gloom on the timeline.\n\nTake a breath, I don't think the thesis has changed.\n\nIf you still believe, this might be the time to double down",
+      "likes": 154,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2019672495587225765"
+    }
+  ]
+}

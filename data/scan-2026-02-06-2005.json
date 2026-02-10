@@ -1,0 +1,343 @@
+{
+  "timestamp": "2026-02-06T20:05:59.855Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 7,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ETH",
+      3
+    ],
+    [
+      "$SHARK",
+      3
+    ],
+    [
+      "$BMNR",
+      2
+    ],
+    [
+      "$SHANNON",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$GLY",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$RNGR",
+      1
+    ],
+    [
+      "$MOLTPAY",
+      1
+    ],
+    [
+      "$SWARMA",
+      1
+    ],
+    [
+      "$ANONMUSK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SHARK",
+        "count": 3
+      },
+      {
+        "ticker": "$BMNR",
+        "count": 2
+      },
+      {
+        "ticker": "$SHANNON",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$GLY",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$RNGR",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTPAY",
+        "count": 1
+      },
+      {
+        "ticker": "$SWARMA",
+        "count": 1
+      },
+      {
+        "ticker": "$ANONMUSK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 3
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      },
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1,
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @jaymesrogers: Time to get $REKT https://t.co/li2z9Bgnmf",
+        "likes": 0,
+        "retweets": 10
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "FinX, tune into @CNBCClosingBell at 3:10pm ET with @ScottWapnerCNBC \n\n- I will be on to discuss the crypto carnage of the past week $ETH $BTC $BMNR\n\nDon’t miss it\n\n@fs_insight @FundstratCap @BitMNR ht",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "fundstrat",
+        "text": "🧵🪡\nEthereum and Bitcoin and crypto prices have fallen sharply in the past 10 days\n\n- $ETH down -40% and Bitcoin -30%\n- crypto sentiment is reflexive\n- so there is a lot of “rage quitting”\n- and many",
+        "likes": 20,
+        "retweets": 2
+      },
+      {
+        "author": "fundstrat",
+        "text": "9/\nAnd it’s best to avoid excessive debt leverage in crypto when times are volatile \n\n- $BMNR has zero debt and has a positive cash balance\n- all of it earning $ETH staking rewards and cash interest i",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "fundstrat",
+        "text": "FinX, tune into @CNBCClosingBell at 3:10pm ET with @ScottWapnerCNBC \n\n- I will be on to discuss the crypto carnage of the past week $ETH $BTC $BMNR\n\nDon’t miss it\n\n@fs_insight @FundstratCap @BitMNR ht",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BMNR": [
+      {
+        "author": "fundstrat",
+        "text": "FinX, tune into @CNBCClosingBell at 3:10pm ET with @ScottWapnerCNBC \n\n- I will be on to discuss the crypto carnage of the past week $ETH $BTC $BMNR\n\nDon’t miss it\n\n@fs_insight @FundstratCap @BitMNR ht",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "fundstrat",
+        "text": "9/\nAnd it’s best to avoid excessive debt leverage in crypto when times are volatile \n\n- $BMNR has zero debt and has a positive cash balance\n- all of it earning $ETH staking rewards and cash interest i",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "fundstrat",
+        "text": "9/\nAnd it’s best to avoid excessive debt leverage in crypto when times are volatile \n\n- $BMNR has zero debt and has a positive cash balance\n- all of it earning $ETH staking rewards and cash interest i",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GLY": [
+      {
+        "author": "cwantcg",
+        "text": "people are getting attached to their agents - the personality, not the model.\n\n$GLY is identity infrastructure for that. verifiable, permanent, onchain identity solution",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $5.14K of $SHARK at $932.75K MC 🐳\n\nhttps://t.co/KBlcaCURz8",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SHARK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $5.14K of $SHARK at $932.75K MC 🐳\n\nhttps://t.co/KBlcaCURz8",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Loopierr just bought $1.6K of $SHARK at $743.6K MC 🐳\n\nhttps://t.co/8LBxAPZVrb",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Loopierr just bought $2.19K of $SHARK at $743.6K MC 🐳\n\nhttps://t.co/IHpF0ZrbbY",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SHANNON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHANNON with a PnL of +148.41%.\n\n$SHANNON has been trending on Moby since $50.61K MC. Currently sitting at $177.78K MC. https://t.co/dZ",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHANNON with a PnL of +149.52%.\n\n$SHANNON has been trending on Moby since $50.61K MC. Currently sitting at $187.34K MC. https://t.co/0H",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $22.73K of $RNGR at $11.75M MC 🐳\n\nhttps://t.co/yIxchgwuB7",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$RNGR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $22.73K of $RNGR at $11.75M MC 🐳\n\nhttps://t.co/yIxchgwuB7",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MOLTPAY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @MoltpayAI verified earnings for $MOLTPAY on @BagsApp 💰\n\nhttps://t.co/W9kldA31yv",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SWARMA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @__vrsen__ verified earnings for $SWARMA on @BagsApp 💰\n\nhttps://t.co/vAmDEih9gG",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ANONMUSK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @humanzweb3 verified earnings for $ANONMUSK on @BagsApp 💰\n\nhttps://t.co/MGWmRjIcrf",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "CryptoKaleo",
+      "text": "$70K Bitcoin yesterday vs. $70K Bitcoin today. https://t.co/4wZFGEBGM5",
+      "likes": 2285,
+      "retweets": 86,
+      "url": "https://x.com/CryptoKaleo/status/2019811812527796610"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "Hey all. I'm proud to announce that I've partnered with @krakenpro to bring you guys livestreams, education, charts, n more. \n\nI’ve waited years for a highly reputable company to support me in creating content the way I always have. A big thank you to them, show Kraken some love!",
+      "likes": 545,
+      "retweets": 5,
+      "url": "https://x.com/Crypto_Chase/status/2019816782861856833"
+    },
+    {
+      "author": "gainzy222",
+      "text": "ok now i need to know \n\nwho roundtripped 20M https://t.co/UpBXg2ZSZe",
+      "likes": 367,
+      "retweets": 8,
+      "url": "https://x.com/gainzy222/status/2019704054671360054"
+    },
+    {
+      "author": "hosseeb",
+      "text": "I woke up today still thinking about Kyle leaving Multicoin.\n\nKyle and I are very different--that's obvious to anyone who knows us. But among crypto VCs, deep down, he was the most like me.\n\nHe was a dark horse. He built an online following and a platform he had no business havin",
+      "likes": 158,
+      "retweets": 0,
+      "url": "https://x.com/hosseeb/status/2019853507403432091"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 153,
+      "retweets": 5,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Watch Bitcoin V straight back up to $100K within a couple weeks of everyone in the world grave dancing on it.",
+      "likes": 114,
+      "retweets": 3,
+      "url": "https://x.com/CryptoKaleo/status/2019860682095620428"
+    }
+  ]
+}

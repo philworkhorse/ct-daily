@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-02-06T08:17:52.722Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 11,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$USELESS",
+      2
+    ],
+    [
+      "$IBIT",
+      1
+    ],
+    [
+      "$MICHI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USELESS",
+        "count": 2
+      },
+      {
+        "ticker": "$IBIT",
+        "count": 1
+      },
+      {
+        "ticker": "$MICHI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "unemployment": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$IBIT": [
+      {
+        "author": "RunnerXBT",
+        "text": "RT @TheOtherParker_: This was the highest volume day on $IBIT, ever, by a factor of nearly 2x, trading $10.7B today. Additionally, roughly…",
+        "likes": 0,
+        "retweets": 238
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $7.74K of $USELESS at $31.02M MC 🐳\n\nhttps://t.co/vbMnqDaQ2H",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $8.15K of $USELESS at $31.01M MC 🐳\n\nhttps://t.co/3TrKeyPPuY",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MICHI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MICHI whale just bought $2.47K of $littlestjeff1 at $273.29K MC 🐳\n\nhttps://t.co/LljI0akN3Z",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, buy the dip https://t.co/n5l3kB8U9Z",
+      "likes": 608,
+      "retweets": 13,
+      "url": "https://x.com/waleswoosh/status/2019652297283026961"
+    },
+    {
+      "author": "Icebergy",
+      "text": "they really pumped zcash 20x in a month and i didnt sell everything",
+      "likes": 287,
+      "retweets": 14,
+      "url": "https://x.com/Icebergy/status/2019549485333115294"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "A lot of doom and gloom on the timeline.\n\nTake a breath, I don't think the thesis has changed.\n\nIf you still believe, this might be the time to double down",
+      "likes": 207,
+      "retweets": 7,
+      "url": "https://x.com/waleswoosh/status/2019672495587225765"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Let’s go https://t.co/632iiesMkH",
+      "likes": 189,
+      "retweets": 2,
+      "url": "https://x.com/lBattleRhino/status/2019654827392061900"
+    },
+    {
+      "author": "rektmando",
+      "text": "A lot of rumours yday that the BTC move was caused by someone blowing up\n\nThis might have been it",
+      "likes": 156,
+      "retweets": 6,
+      "url": "https://x.com/rektmando/status/2019667486636229025"
+    },
+    {
+      "author": "cryptomanran",
+      "text": "UNBELIEVABLE: Currently down $10bn for his shareholders and still has a FULL head of hair! https://t.co/2zzT0xQVGe",
+      "likes": 118,
+      "retweets": 3,
+      "url": "https://x.com/cryptomanran/status/2019679843022172514"
+    },
+    {
+      "author": "traderpow",
+      "text": "Yes",
+      "likes": 100,
+      "retweets": 5,
+      "url": "https://x.com/traderpow/status/2019608191093600628"
+    }
+  ]
+}

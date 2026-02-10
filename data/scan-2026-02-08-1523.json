@@ -1,0 +1,194 @@
+{
+  "timestamp": "2026-02-08T15:23:08.305Z",
+  "stats": {
+    "listTweets": 0,
+    "followingTweets": 50,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 1,
+    "bearish": 1,
+    "neutral": 48,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$LIQUID",
+      8
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$LIQUID",
+        "count": 8
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +140.12%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $2.79M MC. https://t.co/7ME6vPv",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.28K of $LIQUID at $2.46M MC 🐳\n\nhttps://t.co/gb1FGgk6BG",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +279.65%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $2.22M MC. https://t.co/xMF7F7n",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +102.28%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $2.16M MC. https://t.co/N0n1lsI",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +104.11%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.9M MC. https://t.co/p3yhZB3U",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +127.89%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.8M MC. https://t.co/kg4CDK24",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +92.37%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.71M MC. https://t.co/oAHxrgup",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +97.08%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.8M MC. https://t.co/kcLfRjkPO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "SolidTradesz",
+        "text": "There's a lot of liquidity sitting above $72,000 $BTC https://t.co/twE1UR1m2u",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.28K of $LIQUID at $2.46M MC 🐳\n\nhttps://t.co/gb1FGgk6BG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $10.52K of $WOJAK at $15.57M MC 🐳\n\nhttps://t.co/lAQsMJaxXx",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $10.52K of $WOJAK at $15.57M MC 🐳\n\nhttps://t.co/lAQsMJaxXx",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $12.65K of $SKR at $249.34M MC 🐳\n\nhttps://t.co/LQi1kO1pQQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "&gt;run liquid fund\n&gt;don’t own hyperliquid in size\n\nyou will not have a job",
+      "likes": 493,
+      "retweets": 25,
+      "url": "https://x.com/ThinkingUSD/status/1862686956120920455"
+    },
+    {
+      "author": "solana",
+      "text": "TradFi and AI agents just found common ground. It's Solana.\n\nA white-glove trading program for institutions went live. Agents started managing DAOs, funding their own keys, and deploying tokens via X.\n\nHere’s what happened over the week:\n\n📰 Headline News\n\n- @SolanaFndn unveiled ",
+      "likes": 392,
+      "retweets": 67,
+      "url": "https://x.com/solana/status/2020497853676978223"
+    },
+    {
+      "author": "based16z",
+      "text": "Kyle realized he missed the one good project and became washed eth maxi equivalent and said fuck it I’m leavin",
+      "likes": 191,
+      "retweets": 4,
+      "url": "https://x.com/based16z/status/2020494296693268969"
+    }
+  ]
+}

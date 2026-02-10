@@ -1,0 +1,228 @@
+{
+  "timestamp": "2026-02-08T14:51:30.269Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$LIQUID",
+      4
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$GOYIM",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$KLAUS",
+      1
+    ],
+    [
+      "$ZIRO",
+      1
+    ],
+    [
+      "$GROKBUILD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$LIQUID",
+        "count": 4
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$GOYIM",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$KLAUS",
+        "count": 1
+      },
+      {
+        "ticker": "$ZIRO",
+        "count": 1
+      },
+      {
+        "ticker": "$GROKBUILD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "corn": 1,
+      "gold": 1
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 1
+    },
+    "macro": {
+      "gdp": 1,
+      "fed": 1,
+      "inflation": 1,
+      "bond": 1,
+      "treasury": 2
+    }
+  },
+  "tickerDetails": {
+    "$USELESS": [
+      {
+        "author": "theunipcs",
+        "text": "RT @skmakeit: A lot of people are extremely quick to write-off $USELESS coin as “just another SOL meme that trends to zero” and here’s why…",
+        "likes": 0,
+        "retweets": 19
+      }
+    ],
+    "$GOYIM": [
+      {
+        "author": "LexaproTrader",
+        "text": "RT @maxwin: normies shall be watching the superbowl and see “ $GOYIM “ trending on dex, they then will click and see “GOY OS” and liquidate…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +96.35%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.37M MC. https://t.co/6ypSHzJe",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +94.11%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.33M MC. https://t.co/i3T7XisY",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +86.54%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.26M MC. https://t.co/f8gfUA00",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +106.09%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.42M MC. https://t.co/gLQx82j",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $44.94K of $EURC at $94.32M MC 🐳\n\nhttps://t.co/piJo253bZB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $44.94K of $EURC at $94.32M MC 🐳\n\nhttps://t.co/piJo253bZB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KLAUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $KLAUS with a PnL of +144.92%.\n\n$KLAUS has been trending on Moby since $98.91K MC. Currently sitting at $509.82K MC. https://t.co/HIpVSy",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ZIRO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @sellmeyours0l verified earnings for $ZIRO on @BagsApp 💰\n\nhttps://t.co/xQRwqwy9S5",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$GROKBUILD": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $1.04K of $GROKBUILD at $133.41K MC 🐳\n\nhttps://t.co/gc4B8OYCcU",
+        "likes": 4,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "hosseeb",
+      "text": "With all due respect to Chris, I completely disagree with this take.\n\nChris argues that \"web3,\" particularly crypto-powered gaming and media, failed due to scams and regulation, and that better regulation will unlock these non-financial cases.\n\nOK, think about this for a second. ",
+      "likes": 204,
+      "retweets": 9,
+      "url": "https://x.com/hosseeb/status/2020451853633511696"
+    },
+    {
+      "author": "based16z",
+      "text": "Kyle realized he missed the one good project and became washed eth maxi equivalent and said fuck it I’m leavin",
+      "likes": 143,
+      "retweets": 1,
+      "url": "https://x.com/based16z/status/2020494296693268969"
+    },
+    {
+      "author": "punk6529",
+      "text": "all NFTs have to do to make it is survive.   this is why I am so calm.",
+      "likes": 140,
+      "retweets": 11,
+      "url": "https://x.com/punk6529/status/2020495664682307709"
+    },
+    {
+      "author": "KookCapitalLLC",
+      "text": "insane, never before seen levels of cope\n\nthis guy runs the 'leading solana treasury co' (lololol)\n\njust another 85iq solana bro\n\nhe left multicoin capital over them wanting to take a significant stake in hype\n\nnow he's gone and they took the $hype position\n\nhype $200+",
+      "likes": 126,
+      "retweets": 1,
+      "url": "https://x.com/KookCapitalLLC/status/2020483439615529139"
+    },
+    {
+      "author": "himgajria",
+      "text": "At my shisha spot, a table of trenchers in front of me talking about their impressive entry on fartcoin.\n\nIf only they knew.",
+      "likes": 114,
+      "retweets": 6,
+      "url": "https://x.com/himgajria/status/2020496449931485593"
+    }
+  ]
+}

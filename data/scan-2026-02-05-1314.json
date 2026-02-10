@@ -1,0 +1,191 @@
+{
+  "timestamp": "2026-02-05T13:14:02.823Z",
+  "stats": {
+    "listTweets": 0,
+    "followingTweets": 50,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 1,
+    "neutral": 41,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$SATOSHI",
+      3
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$GME",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SATOSHI",
+        "count": 3
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      },
+      {
+        "ticker": "$GME",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $1.81K of $BigTrout at $4.36M MC 🐳\n\nhttps://t.co/Kmlre4CjJs",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "milesdeutscher",
+        "text": "this is nothing like the 2022 bear market\n\nbelief is totally gone\n\nbut this time not just in alts\n\nin $BTC too\n\nseeing many OG whales/bulls finally capitulating\n\nnow i'm just trying to work out whethe",
+        "likes": 24,
+        "retweets": 0
+      },
+      {
+        "author": "DegenPing",
+        "text": "RT @DegenerateNews: NEW: $BTC DROPS BELOW $69,420 https://t.co/CLpNoNRRhF",
+        "likes": 0,
+        "retweets": 7
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $4.38K of $META at $86.09M MC 🐳\n\nhttps://t.co/BsnuEexrNb",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.62K of $BigTrout at $4.13M MC 🐳\n\nhttps://t.co/Mq77Nldh4Q",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GME": [
+      {
+        "author": "postedgo",
+        "text": "Need Ryan Cohen to announce acquisitions soon before market remembers that $GME is down ~$200 million since its bitcoin purchase.\n\nOn Feb 3rd, Michael Burry wrote that he thinks Gamestop will acquire ",
+        "likes": 7,
+        "retweets": 0
+      }
+    ],
+    "$SATOSHI": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Dior100x just bought $1.24K of $SATOSHI at $309.32K MC 🐳\n\nhttps://t.co/sm5KQaZteO",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Dior100x just bought $1.54K of $SATOSHI at $309.32K MC 🐳\n\nhttps://t.co/MMJGQNuVKo",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Dior100x just bought $1.42K of $SATOSHI at $309.32K MC 🐳\n\nhttps://t.co/5lLX8zwvaa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ZelenskyyUa",
+      "text": "We are bringing our people home—157 Ukrainians. Warriors from the Armed Forces, National Guard, and the State Border Guard Service. Soldiers, sergeants, and officers. Along with our defenders, civilians are also returning. Most of them had been in captivity since 2022.\n\nToday's e",
+      "likes": 402,
+      "retweets": 118,
+      "url": "https://x.com/ZelenskyyUa/status/2019396039724191983"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Повертаємо наших додому – 157 українців. Воїни Збройних Сил, Національної гвардії, Державної прикордонної служби. Солдати, сержанти та офіцери. І також із захисниками повертаються цивільні. Більшість були в полоні ще з 22-го року.\n\nСьогоднішній обмін відбувся після довгої паузи, ",
+      "likes": 195,
+      "retweets": 50,
+      "url": "https://x.com/ZelenskyyUa/status/2019396043733876854"
+    },
+    {
+      "author": "cryptomanran",
+      "text": "Is HODL still a thing?",
+      "likes": 169,
+      "retweets": 3,
+      "url": "https://x.com/cryptomanran/status/2019387042266862013"
+    },
+    {
+      "author": "BobLoukas",
+      "text": "Every crypto bear cycle we see a washout of some shady centralized entities.   \n\nOne’s involved in shady practices or bet with customer money.  This has been the pattern.  \n\nOnce the tide goes out you don’t know who’s naked.  \n\nNot trying to cause FUD but if you’re on any 2nd tie",
+      "likes": 151,
+      "retweets": 9,
+      "url": "https://x.com/BobLoukas/status/2019397249604731339"
+    },
+    {
+      "author": "DeItaone",
+      "text": "JPMORGAN: BITCOIN NOW MORE ATTRACTIVE THAN GOLD LONG TERM\n\nJPMorgan says Bitcoin’s long-term appeal versus gold has improved after gold’s strong outperformance and rising volatility.\n\nDespite recent crypto weakness, liquidations have been modest, though spot Bitcoin ETFs continue",
+      "likes": 136,
+      "retweets": 27,
+      "url": "https://x.com/DeItaone/status/2019398313192096010"
+    }
+  ]
+}

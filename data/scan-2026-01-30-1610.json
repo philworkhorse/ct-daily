@@ -1,0 +1,319 @@
+{
+  "timestamp": "2026-01-30T16:10:34.991Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 4,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$OPENCLAW",
+      3
+    ],
+    [
+      "$GOLD",
+      2
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$MOLTBOOK",
+      1
+    ],
+    [
+      "$BLIPS",
+      1
+    ],
+    [
+      "$AAPL",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$BLOOP",
+      1
+    ],
+    [
+      "$EA",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$OPENCLAW",
+        "count": 3
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTBOOK",
+        "count": 1
+      },
+      {
+        "ticker": "$BLIPS",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOOP",
+        "count": 1
+      },
+      {
+        "ticker": "$EA",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$AAPL",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$GOLD",
+        "count": 2
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 7,
+      "copper": 1,
+      "silver": 2
+    },
+    "metals": {
+      "gold": 7,
+      "silver": 2
+    },
+    "macro": {
+      "fed": 6,
+      "inflation": 1,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$OPENCLAW": [
+      {
+        "author": "jessepollak",
+        "text": "RT @jai_prasad17: Shit got even crazier since the Clawdbot days:\n\nClawdbot fully rebranded to Moltnot and then to OpenClaw. $OPENCLAW token…",
+        "likes": 0,
+        "retweets": 3
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.17K of $OPENCLAW at $3.12M MC 🐳\n\nhttps://t.co/IaJ9Pv8o5o",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "jessepollak",
+        "text": "RT @jai_prasad17: Shit got even crazier since the Clawdbot days:\n\nClawdbot fully rebranded to Moltnot and then to OpenClaw. $OPENCLAW token…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @Flowslikeosmo: @himgajria Smart money has doubled its $COPPERINU supply over the past day. \n\nFear is opportunity. https://t.co/GZxE3cOw…",
+        "likes": 0,
+        "retweets": 5
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @0xLapom: Giving free drinks to people, and talking about @rektdrinks 💦\n\nFor me the best way to onboard people into $REKT 💀 https://t.co…",
+        "likes": 0,
+        "retweets": 7
+      }
+    ],
+    "$MOLTBOOK": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @beaverd just bought $1.17K of $MOLTBOOK at $137.04K MC 🐳\n\nhttps://t.co/BP1g6kMN75",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @PARABOLIT verified earnings for $GOLD on @BagsApp 💰\n\nhttps://t.co/BiE9GOIG5Y",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "PARABOLIT",
+        "text": "Malleable Gold - $GOLD - @MalleableGold \n\nhttps://t.co/7uHzOshHVf",
+        "likes": 25,
+        "retweets": 3
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.17K of $OPENCLAW at $3.12M MC 🐳\n\nhttps://t.co/IaJ9Pv8o5o",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.24K of $PENGUIN at $67.41M MC 🐳\n\nhttps://t.co/myfPUSjau0",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BLIPS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ChrisUniverseB verified earnings for $BLIPS on @BagsApp 💰\n\nhttps://t.co/awB7eQQSIl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AAPL": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Apple beats earnings but price tells a more cautious story.\n\n$AAPL just posted a record quarter, driven by all-time-high iPhone sales and strong demand (notably China and India).\n\nBut the stock sold o",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.24K of $PENGUIN at $67.41M MC 🐳\n\nhttps://t.co/myfPUSjau0",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BLOOP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @BloopAIFun verified earnings for $BLOOP on @BagsApp 💰\n\nhttps://t.co/8HHTVOacaF",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$EA": [
+      {
+        "author": "junkbondinvest",
+        "text": "JPM selling $EA's TLA: $3B, SOFR+250-275.\n\nMiddle East and Asian banks buying now. TLB and bonds in April.\n\n$20B total. Biggest LBO financing EVER.\n\nBanks desperate for M&A fees finally eating.",
+        "likes": 7,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $50.27K of $AVICI at $21.74M MC 🐳\n\nhttps://t.co/jLBi7mUzFQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "intern",
+      "text": "Some personal news: I’ll be stepping down as Director of Growth at the Monad Foundation.\n\nI've been working on Monad over the last 3 years.\n\nI’ve spent the last 9 years in crypto and been full time in the industry since joining the VC team at CMS in 2020.\n\nAfter fielding 1,000+ s",
+      "likes": 1870,
+      "retweets": 28,
+      "url": "https://x.com/intern/status/2016965624807788958"
+    },
+    {
+      "author": "itsPolloAI",
+      "text": "Vidu Q3 is LIVE on Pollo AI.\n\nSupport 16s generation with Audio (Dialogue & SFX) and Smart Camera control.\n\n50% OFF for all users this week.\n24H Only: Follow + RT + Comment = 133 FREE Credits!\n\nNote: To prevent bot farming, we only issue credits to X accounts with a profile photo",
+      "likes": 866,
+      "retweets": 253,
+      "url": "https://x.com/itsPolloAI/status/2017129756849033418"
+    },
+    {
+      "author": "mert",
+      "text": "I joke a lot but it will be the case that BTC, ZEC, and SOL will take over the universe\n\nthe \"we're early\" shit got cringe af\n\nbut after seeing gold trade **2x the entire mcap** of all crypto in just 3 days, it should be clear to you that it is still day 1 in crypto\n\ntrillions",
+      "likes": 415,
+      "retweets": 28,
+      "url": "https://x.com/mert/status/2017242536759209992"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Ridge Wallet 2.0, Power Banks &amp; more in impossible-to-miss yellow.",
+      "likes": 271,
+      "retweets": 16,
+      "url": "https://x.com/ridgewallet/status/2011151263539298511"
+    },
+    {
+      "author": "fejau_inc",
+      "text": "The fact that so many people think Warsh will be a hawk and that Trump somehow missed this in his vetting process is ill thought out and laughable\n\nReally?",
+      "likes": 178,
+      "retweets": 6,
+      "url": "https://x.com/fejau_inc/status/2017259271856206206"
+    },
+    {
+      "author": "TheDemocrats",
+      "text": "FREE DON LEMON.\nPROTECT FREE SPEECH.",
+      "likes": 148,
+      "retweets": 17,
+      "url": "https://x.com/TheDemocrats/status/2017268331707855281"
+    },
+    {
+      "author": "goodalexander",
+      "text": "The silver dev was just waiting for the Binance listing it turns out",
+      "likes": 136,
+      "retweets": 8,
+      "url": "https://x.com/goodalexander/status/2017244842783396014"
+    },
+    {
+      "author": "icobeast",
+      "text": "The next great farm?",
+      "likes": 107,
+      "retweets": 3,
+      "url": "https://x.com/icobeast/status/2017218520036106430"
+    }
+  ]
+}

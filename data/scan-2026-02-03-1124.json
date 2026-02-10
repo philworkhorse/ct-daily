@@ -1,0 +1,294 @@
+{
+  "timestamp": "2026-02-03T11:24:20.119Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 9,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$SHARK",
+      3
+    ],
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$DARKO",
+      1
+    ],
+    [
+      "$TAC",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SHARK",
+        "count": 3
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$DARKO",
+        "count": 1
+      },
+      {
+        "ticker": "$TAC",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1,
+      "copper": 1,
+      "gold": 1,
+      "silver": 2
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 2
+    },
+    "macro": {
+      "fed": 3,
+      "dollar": 1,
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/w6cpMPFilz",
+        "likes": 63,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "chang_defi",
+        "text": "In the most aggressive scenario, I think you need a bit under 30% annual returns to hold HYPE through 2030.\n\nI think the most aggressive assumption of true supply of HYPE is ~60% of fd, so its $20bn m",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$DARKO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @darkokareen verified earnings for $DARKO on @BagsApp 💰\n\nhttps://t.co/JoKQHAkLf1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "Sometimes I don't get the altcoin perma bears or any perma bears in general.\n\nIt's certainly true that they haven't performed in a similar sense as last cycles. But at certain times, there still have ",
+        "likes": 15,
+        "retweets": 1
+      },
+      {
+        "author": "crypto_banter",
+        "text": "$BTC OG's are losing interest... Is Bitcoin dead? 🫥 https://t.co/GDTCIV2Wth",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC\n\nNice reaction so far, keep in mind our levels (with patience)\n\nAlright, nice reaction so far after taking the weak lows (TPO wise), and weekend lows at the same time.\n\nYou may remember last post",
+        "likes": 60,
+        "retweets": 6
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.01K of $SHARK at $2.01M MC 🐳\n\nhttps://t.co/E9ewxwAaye",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.17K of $Buttcoin at $23.21M MC 🐳\n\nhttps://t.co/Xqklbz1hVc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SHARK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.01K of $SHARK at $2.01M MC 🐳\n\nhttps://t.co/E9ewxwAaye",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHARK with a PnL of +443.10%.\n\n$SHARK has been trending on Moby since $333.84K MC. Currently sitting at $1.81M MC. https://t.co/vnv8gTe",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.01K of $SHARK at $1.72M MC 🐳\n\nhttps://t.co/E252ddCoE3",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TAC": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Fibonacci69 verified earnings for $TAC on @BagsApp 💰\n\nhttps://t.co/TdSKY9Cqtw",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.7K of $PENGUIN at $36.5M MC 🐳\n\nhttps://t.co/3mKmH3Vywo",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.01K of $SHARK at $1.72M MC 🐳\n\nhttps://t.co/E252ddCoE3",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $81.11K of $EURC at $94.31M MC 🐳\n\nhttps://t.co/Bpmwz0xNCf",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $81.11K of $EURC at $94.31M MC 🐳\n\nhttps://t.co/Bpmwz0xNCf",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $1.06K of $Grushky at $130.95K MC 🐳\n\nhttps://t.co/gPCQI2dN2u",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ZelenskyyUa",
+      "text": "I presented the Order \"For Courage\" to warrior Vladyslav Rozhkovskyi and war reporter Maryan Kushnir for rescuing people after Russian shelling.\n\nSergeant Vladyslav, call sign Omar, of the 93rd Separate Mechanized Brigade, “Kholodny Yar,” rescued people after the Russian terroris",
+      "likes": 662,
+      "retweets": 121,
+      "url": "https://x.com/ZelenskyyUa/status/2018639149134151867"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Відзначив орденами «За мужність» воїна Владислава Рожковського та воєнкора Мар’яна Кушніра за порятунок людей після російських обстрілів. \n\nСержант 93-ї окремої механізованої бригади «Холодний Яр» Владислав на позивний Омар рятував людей після російської терористичної атаки ударн",
+      "likes": 232,
+      "retweets": 21,
+      "url": "https://x.com/ZelenskyyUa/status/2018639151159984428"
+    },
+    {
+      "author": "remusofmars",
+      "text": "Everyone tells you to buy strength.    \n\nThat’s the easy way out and it’s not as rewarding.\n\nI say buy the most dogshit beaten down coin that still has people posting everyday with a -90% bag.  \n\nIndentured servants to the community.   \n\nJoin their struggle and BUILD.",
+      "likes": 161,
+      "retweets": 11,
+      "url": "https://x.com/remusofmars/status/2018351660158861423"
+    },
+    {
+      "author": "Citrini7",
+      "text": "The problem with being early to a really large theme is that while, yes, you make good money early on, the late cycle is tough. \n\nBy the time the cycle gets to “but what about <really large theme> in space” or “we put <really large theme> into some structurally leveraged instrume",
+      "likes": 140,
+      "retweets": 9,
+      "url": "https://x.com/Citrini7/status/2018636872675696969"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "My partners at Open Campus announced a partnership with Luvia today.\n\nTogether, they're bringing verifiable credentials on-chain to Vietnamese students through Open Campus ID.\n\nStudents will start to build up a lifelong learner passport, portable across schools, universities and ",
+      "likes": 119,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2018629224710697129"
+    }
+  ]
+}

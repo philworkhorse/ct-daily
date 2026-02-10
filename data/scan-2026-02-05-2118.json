@@ -1,0 +1,240 @@
+{
+  "timestamp": "2026-02-05T21:18:16.888Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 4,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$CASH",
+      1
+    ],
+    [
+      "$XPRIZE",
+      1
+    ],
+    [
+      "$AMZN",
+      1
+    ],
+    [
+      "$TON",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$CASH",
+        "count": 1
+      },
+      {
+        "ticker": "$XPRIZE",
+        "count": 1
+      },
+      {
+        "ticker": "$TON",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$AMZN",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "treasury": 1
+    }
+  },
+  "tickerDetails": {
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $19.75K of $CASH at $104.42M MC 🐳\n\nhttps://t.co/FkLtXP6ELz",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CASH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $19.75K of $CASH at $104.42M MC 🐳\n\nhttps://t.co/FkLtXP6ELz",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$XPRIZE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @RichardStrocher verified earnings for $XPRIZE on @BagsApp 💰\n\nhttps://t.co/pwG7tdvkAt",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$AMZN": [
+      {
+        "author": "dampedspring",
+        "text": "May I have an extra 50BN hamburgers that I will gladly pay for on Tuesday.  $AMZN https://t.co/bxYLnDfv4b",
+        "likes": 22,
+        "retweets": 1
+      }
+    ],
+    "$TON": [
+      {
+        "author": "0xdamx",
+        "text": "with this update, Durov will be indirectly buying the dip on $TON. \n\nbtw, to convert a username to an NFT still costs 10 $TON. that hasn’t changed. \n\nand with the crash in the market atm, that cost ju",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $64.13K of $xBTC at $32.35M MC 🐳\n\nhttps://t.co/sacSNIA9Ku",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "saylor",
+        "text": "Strategy announces Q4 2025 results:\n- 713,502 $BTC held\n- 22.8% BTC Yield in 2025\n- Largest US equity issuer, raised $25.3 billion in 2025\n- $STRC scaled to $3.4 billion; 11.25% current dividend rate ",
+        "likes": 2592,
+        "retweets": 279
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "saylor",
+        "text": "Strategy announces Q4 2025 results:\n- 713,502 $BTC held\n- 22.8% BTC Yield in 2025\n- Largest US equity issuer, raised $25.3 billion in 2025\n- $STRC scaled to $3.4 billion; 11.25% current dividend rate ",
+        "likes": 2592,
+        "retweets": 279
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "Strategy announces Q4 2025 results:\n- 713,502 $BTC held\n- 22.8% BTC Yield in 2025\n- Largest US equity issuer, raised $25.3 billion in 2025\n- $STRC scaled to $3.4 billion; 11.25% current dividend rate https://t.co/d6oGz8jHI8",
+      "likes": 2592,
+      "retweets": 279,
+      "url": "https://x.com/saylor/status/2019517425805590717"
+    },
+    {
+      "author": "MarcellxMarcell",
+      "text": "Blessing your TL right now because you need it. https://t.co/6wQWVWM3QR",
+      "likes": 964,
+      "retweets": 52,
+      "url": "https://x.com/MarcellxMarcell/status/2019440083276034255"
+    },
+    {
+      "author": "solana",
+      "text": "https://t.co/R6iYwtLmQB",
+      "likes": 900,
+      "retweets": 108,
+      "url": "https://x.com/solana/status/2019510849917063174"
+    },
+    {
+      "author": "RunnerXBT",
+      "text": "125k to 69k in a straight line\n\nlets get excited for a bounce right before US session start",
+      "likes": 345,
+      "retweets": 6,
+      "url": "https://x.com/RunnerXBT/status/2019403968724815993"
+    },
+    {
+      "author": "a1lon9",
+      "text": "excited to talk all things onchain &amp; dive into what makes building on pump fun one of the best ways for founders &amp; startups to bootstrap their projects for success \n\nif you’re a builder, tune in on Tuesday!",
+      "likes": 312,
+      "retweets": 20,
+      "url": "https://x.com/a1lon9/status/2019517602976985494"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "https://t.co/Y4PfmTBLl0",
+      "likes": 227,
+      "retweets": 12,
+      "url": "https://x.com/Pentosh1/status/2019516018553757969"
+    },
+    {
+      "author": "mert",
+      "text": "feeling pretty burdened by what has been",
+      "likes": 182,
+      "retweets": 10,
+      "url": "https://x.com/mert/status/2019511698525417554"
+    },
+    {
+      "author": "DeItaone",
+      "text": "*AMAZON SINKS 11% ON HIGHER-THAN-EXPECTED 2026 CAPEX FORECAST",
+      "likes": 170,
+      "retweets": 23,
+      "url": "https://x.com/DeItaone/status/2019519008714936647"
+    },
+    {
+      "author": "mert",
+      "text": "if you're homeless from recent price action, I am hiring at least half a dozen engineers for Helius btw\n\nrequirements:\n\n- high pain tolerance\n- highly disagreeable\n- no concept of work/life \"balance\"\n- fervent capitalism and free market enthusiast\n- rust\n- performance maxi",
+      "likes": 135,
+      "retweets": 4,
+      "url": "https://x.com/mert/status/2019514131460591967"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "FullStackEpstein",
+      "likes": 125,
+      "retweets": 2,
+      "url": "https://x.com/lBattleRhino/status/2019517109362127013"
+    }
+  ]
+}

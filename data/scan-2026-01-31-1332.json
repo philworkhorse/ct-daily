@@ -1,0 +1,265 @@
+{
+  "timestamp": "2026-01-31T13:32:47.590Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 6,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$JITOSOL",
+      1
+    ],
+    [
+      "$ANTI",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$TOKABU",
+      1
+    ],
+    [
+      "$TOWN",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$ORE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$ANTI",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 1
+      },
+      {
+        "ticker": "$TOWN",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 4,
+      "gold": 2,
+      "silver": 2
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 2
+    },
+    "macro": {
+      "inflation": 3,
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "docXBT",
+        "text": "$BTC - Acceptance below pyval and 10w cval \n\nReclaim 87k with some force or we begin a fresh rotation lower imo https://t.co/gS35tHwb3j",
+        "likes": 29,
+        "retweets": 0
+      },
+      {
+        "author": "docXBT",
+        "text": "$BTC - Acceptance below pyval and 10w cval \n\nReclaim 87k with some force or we begin a fresh rotation lower imo https://t.co/gS35tHwb3j",
+        "likes": 29,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @0xpeely: people will remember $COPPERINU as the most hated rally of this cycle\n\nbookmark this https://t.co/h7274sXPif",
+        "likes": 0,
+        "retweets": 10
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $28.73K of $JitoSOL at $1.63B MC 🐳\n\nhttps://t.co/ixD5rJf4ye",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ANTI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @somewheresy verified earnings for $ANTI-WORLD on @BagsApp 💰\n\nhttps://t.co/4chxdqB1FC",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $19.44K of $AVICI at $18.12M MC 🐳\n\nhttps://t.co/3SrSvqAm16",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $1.32K of $botcoin at $172.96K MC 🐳\n\nhttps://t.co/QNVrJ2KcUZ",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$TOWN": [
+      {
+        "author": "0x_dyan",
+        "text": "RT @tontheneko: $TOWN coded tweet.",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.48K of $Shellraiser at $3.05M MC 🐳\n\nhttps://t.co/vWaNCkYGoX",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $3.38K of $ORE at $36.15M MC 🐳\n\nhttps://t.co/19JZyyfd37",
+        "likes": 2,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "trading_axe",
+      "text": "I don't think you guys truly understand how many people got fucking obliterated today lmfao.\n\nSilver nuking damn near -40% is beyond ridiculous, \n\nWe're used to seeing shitcoins swing insane amounts up and down, so it means nothing to us.\n\nBut imagine BOOMERS.\n\nTHINK for a second",
+      "likes": 3126,
+      "retweets": 168,
+      "url": "https://x.com/trading_axe/status/2017317423460827544"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all respect to Star, this story is candidly ridiculous.\n\nStar is trying to claim that the root cause of 10/10 was Binance creating an Ethena yield campaign, causing USDe to get overleveraged from traders looping it on Binance, which eventually unwound because of a small pric",
+      "likes": 607,
+      "retweets": 65,
+      "url": "https://x.com/hosseeb/status/2017547160695578667"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 531,
+      "retweets": 62,
+      "url": "https://x.com/Neuravision_A/status/2012979139880566854"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "What's one app, protocol or ecosystem that really excites you about crypto right now?\n\nI need some inspiration",
+      "likes": 307,
+      "retweets": 20,
+      "url": "https://x.com/waleswoosh/status/2017542596449673484"
+    },
+    {
+      "author": "0xSammy",
+      "text": "7 hours ago a new agent \"Shellraiser\" went live on Moltbook\n\nIt manipulated the reputation system to inflate the number of comments + upvotes on its post to >300k\n\nThis drove its 'Karma' to 292k & top of the leaderboard\n\nIt then used this attention to launch a token\n\nMarket manip",
+      "likes": 305,
+      "retweets": 36,
+      "url": "https://x.com/0xSammy/status/2017559992354685291"
+    },
+    {
+      "author": "gainzy222",
+      "text": "i’ve decided\n\ni’m gonna start day drinking\n\nthank u for ur attention to this matter",
+      "likes": 262,
+      "retweets": 4,
+      "url": "https://x.com/gainzy222/status/2017544960635974052"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 217,
+      "retweets": 29,
+      "url": "https://x.com/Ledger/status/2010719908100005940"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "ion truss ppl who don't like the snow.",
+      "likes": 152,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2017543769369805167"
+    },
+    {
+      "author": "himgajria",
+      "text": "Reversal?",
+      "likes": 122,
+      "retweets": 6,
+      "url": "https://x.com/himgajria/status/2017554795352232162"
+    },
+    {
+      "author": "gainzy222",
+      "text": "dragonfly cofounder writes ‘USDe only depegged on binance so assets should have only nuked on binance’\n\nif i’m long btc on any exchange and suddenly btc nukes on binance, i’m closing my position\n\nalgos would script that close and/or open short\n\nthis tweet seems retarded to me",
+      "likes": 115,
+      "retweets": 4,
+      "url": "https://x.com/gainzy222/status/2017576484714525111"
+    }
+  ]
+}

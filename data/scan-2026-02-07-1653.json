@@ -1,0 +1,235 @@
+{
+  "timestamp": "2026-02-07T16:53:48.102Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 4,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$FBTC",
+      1
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$PIGEON",
+      1
+    ],
+    [
+      "$SAIRI",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$ARC",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$FBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$PIGEON",
+        "count": 1
+      },
+      {
+        "ticker": "$SAIRI",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$ARC",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "gdp": 2,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "Icebergy",
+        "text": "RT @ColonelCoochi3: Claude, make me a profitable $ETH MM algo, make no mistakes, ULTRATHINK",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @CarpeNoctom: Weekly $BTC ETF net flows = -$358m*\n\ndont blame the ETFs for last week's move\n\n* $FBTC still unreported for Fri https://t.…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$FBTC": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @CarpeNoctom: Weekly $BTC ETF net flows = -$358m*\n\ndont blame the ETFs for last week's move\n\n* $FBTC still unreported for Fri https://t.…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @bellx_crypto: reminder there are still some hats available on the website - https://t.co/6gJqQRVQyK\n\n$REKT WORLD DOMINATION https://t.c…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$PIGEON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @nosanityxbt just bought $3.23K of $PIGEON at $634.1K MC 🐳\n\nhttps://t.co/60AmMW7TBH",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SAIRI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @samtisiri verified earnings for $SAIRI on @BagsApp 💰\n\nhttps://t.co/BS4jWj4Tw6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "GSD (the AI coding framework) users are often not the same people who hold the $GSD token.\n\nThe real question I'd like to answer is how to make it so both parties win without needing to forcefully mer",
+        "likes": 25,
+        "retweets": 4
+      }
+    ],
+    "$ARC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ARC whale just bought $5.18K of $arc at $59.21M MC 🐳\n\nhttps://t.co/UvYWsEEwy1",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $4.74K of $Percolator at $2.08M MC 🐳\n\nhttps://t.co/TfpONLDkTB",
+        "likes": 4,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "docXBT",
+      "text": "Now that over a year has passed it’s wild to think I really closed my giga delusional conviction trades, took cash to the bank, moved across the country, got a house and changed my life at the top. Also had enough experience or foresight by then to stay in trader mode waiting to ",
+      "likes": 442,
+      "retweets": 15,
+      "url": "https://x.com/docXBT/status/2019962192305525155"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "hi i’m equinox and i cost $400 a month to be a shockingly mid gym  and im always so crowded you’ll never do the workout you planned oh and also i close at 7pm because i fucking hate you fuck you. bitch",
+      "likes": 281,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2019950976040317203"
+    },
+    {
+      "author": "mert",
+      "text": "dev talking about price",
+      "likes": 229,
+      "retweets": 6,
+      "url": "https://x.com/mert/status/2020149312852774962"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "gm to everyone still here",
+      "likes": 171,
+      "retweets": 1,
+      "url": "https://x.com/CryptoKaleo/status/2020140863301484854"
+    },
+    {
+      "author": "mert",
+      "text": "if ai agents are trained on past data, then the way they'll use crypto is not via 402 but via creating their own chain and dumping on you",
+      "likes": 155,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2020143831123918953"
+    },
+    {
+      "author": "DeeZe",
+      "text": "People who use metamask in 2026 are the equivalent of people using AOL in 2007",
+      "likes": 140,
+      "retweets": 4,
+      "url": "https://x.com/DeeZe/status/2020156697306706364"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Last night, the Russians struck facilities critical to the operation of Ukraine’s nuclear power plants. Today, units at Ukraine’s NPPs reduced power generation, and one unit was automatically shut down. This is a level of attack that no terrorist in the world has ever dared, and ",
+      "likes": 102,
+      "retweets": 30,
+      "url": "https://x.com/ZelenskyyUa/status/2020178576448913881"
+    }
+  ]
+}

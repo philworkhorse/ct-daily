@@ -1,0 +1,175 @@
+{
+  "timestamp": "2026-02-07T22:45:21.110Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 5,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$MOLTGRAM",
+      1
+    ],
+    [
+      "$CLAWCRAFT",
+      1
+    ],
+    [
+      "$JITOSOL",
+      1
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$MARKET",
+      1
+    ],
+    [
+      "$RETARDMODE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MOLTGRAM",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWCRAFT",
+        "count": 1
+      },
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$MARKET",
+        "count": 1
+      },
+      {
+        "ticker": "$RETARDMODE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "heart_",
+        "text": "they dumped $BTC to $60K to distract you from the fact that Clavicular was frame mogged by the ASU frat leader",
+        "likes": 25,
+        "retweets": 0
+      }
+    ],
+    "$MOLTGRAM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Moltgramapps verified earnings for $MOLTGRAM on @BagsApp 💰\n\nhttps://t.co/3d0lyvyBQg",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWCRAFT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @santsalison verified earnings for $CLAWCRAFT on @BagsApp 💰\n\nhttps://t.co/SkNxeBNQ1W",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $3.32K of $ORE at $28.47M MC 🐳\n\nhttps://t.co/FkbqDQ6KmR",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $3.32K of $ORE at $28.47M MC 🐳\n\nhttps://t.co/FkbqDQ6KmR",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Latuche95 just bought $1.21K of $LIQUID at $130.01K MC 🐳\n\nhttps://t.co/MlxpA9CfQZ",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$MARKET": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @achxvi verified earnings for $MARKET on @BagsApp 💰\n\nhttps://t.co/4ycmUxYROc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$RETARDMODE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @retardmode verified earnings for $RETARDMODE on @BagsApp 💰\n\nhttps://t.co/rDOyKKWhr1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "has anyone built this?\n\nbasic idea: prediction market agents\n\ni) create prediction market trader agent with custom strategy (i.e only bet on SOL markets, never over $10, always wait until 2 min to expiry, only on bets where the yes/no split is at least 60/40)\n\nii) deploy\n\niii) ag",
+      "likes": 282,
+      "retweets": 10,
+      "url": "https://x.com/mert/status/2020216613279060433"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "timestamp": "2026-02-05T19:08:09.288Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 6,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MXCL",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$DOG",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$GOLD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MXCL",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$DOG",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$GOLD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 3,
+      "coffee": 1,
+      "gold": 3
+    },
+    "metals": {
+      "silver": 3,
+      "gold": 3
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$MXCL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Max202854659754 verified earnings for $MXCL on @BagsApp 💰\n\nhttps://t.co/mDwoDezfia",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.02K of $DOG at $740.77K MC 🐳\n\nhttps://t.co/LL1wiuSvR1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$DOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.02K of $DOG at $740.77K MC 🐳\n\nhttps://t.co/LL1wiuSvR1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "cat_maxxxed",
+        "text": "Vitalik is selling $ETH because ETH foundation needs lots of runway for the next 6 years figuring out identity crisis after selling ETH nonstop giving runway for ETH foundation to try and fail L2 mode",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "RT @Cryptor_dot: Well, you've heard it right. $GSD is the hottest thing in AI  right now apart from OpenClaw.  Biggest corporate devs shill…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $5K of $GOLD at $2.98M MC 🐳\n\nhttps://t.co/UOsD6tRe4g",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $5K of $GOLD at $2.98M MC 🐳\n\nhttps://t.co/UOsD6tRe4g",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "cobie",
+      "text": "@Crypto_McKenna In some ways worse tbh. More like 2015",
+      "likes": 1265,
+      "retweets": 37,
+      "url": "https://x.com/cobie/status/2019459370770104754"
+    },
+    {
+      "author": "AlexOnchain",
+      "text": "come and join my team at coinbase\n\nmust haves:\n- spends too much time on twitter\n- deep understanding of crypto/CT\n- top-tier content creator\n- direct communicator\n- proactive + ambitious\n- fast learner\n- can talk to real people\n\nif that sounds like you, link to apply below",
+      "likes": 897,
+      "retweets": 22,
+      "url": "https://x.com/AlexOnchain/status/2019123268561826139"
+    },
+    {
+      "author": "Crypto_McKenna",
+      "text": "It may be the worst sentiment I've seen since FTX.",
+      "likes": 507,
+      "retweets": 22,
+      "url": "https://x.com/Crypto_McKenna/status/2019452689961062744"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "pulse check",
+      "likes": 482,
+      "retweets": 19,
+      "url": "https://x.com/blknoiz06/status/2019462671372878245"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Been trying Codex 5.2 x-high to see what the hype is about.\n\nIt’s powerful + larger context is nice, but it’s just so… passive. \n\nClaude Code is great because it always finds a way to turn whatever nonsense I say to it into something productive. That’s why CC is still the best",
+      "likes": 353,
+      "retweets": 6,
+      "url": "https://x.com/frankdegods/status/2013714240872362216"
+    },
+    {
+      "author": "headquarters_67",
+      "text": "Professional wrestling crowd erupts into chants of \"FUCK ICE\" https://t.co/JUcMhLzAwe",
+      "likes": 348,
+      "retweets": 54,
+      "url": "https://x.com/headquarters_67/status/2019486222029037719"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "What’s the point of having cash if you’re not bidding on a day like today.\n\nWatching for $60k sweep!",
+      "likes": 263,
+      "retweets": 6,
+      "url": "https://x.com/ThinkingUSD/status/2019480472368070730"
+    },
+    {
+      "author": "goodalexander",
+      "text": "anyone else feel exhilarated when there is blood on the streets or is there something deeply wrong with me",
+      "likes": 191,
+      "retweets": 7,
+      "url": "https://x.com/goodalexander/status/2019479311422537932"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Will say, this type of trading with no headline is wild",
+      "likes": 185,
+      "retweets": 6,
+      "url": "https://x.com/ThinkingUSD/status/2019483834220212453"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "This is clearly some deca/centibillionaire selling BTC + ETH specifically. \n\nIt will eventually end.",
+      "likes": 163,
+      "retweets": 5,
+      "url": "https://x.com/ThinkingUSD/status/2019484859358408713"
+    }
+  ]
+}

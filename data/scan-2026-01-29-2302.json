@@ -1,0 +1,192 @@
+{
+  "timestamp": "2026-01-29T23:02:28.516Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 3,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$BIER",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$NIKITABORG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$BIER",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$NIKITABORG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 4
+    },
+    "metals": {
+      "gold": 4
+    },
+    "macro": {
+      "fed": 3,
+      "dollar": 4,
+      "dxy": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.49K of $PENGUIN at $83.09M MC 🐳\n\nhttps://t.co/qMlsBNRuLy",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BIER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @nikitebier verified earnings for $BIER on @BagsApp 💰\n\nhttps://t.co/8oDyiUQdIk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.23K of $Win at $1.63M MC 🐳\n\nhttps://t.co/60FZdXYDUx",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "NickPlaysCrypto",
+        "text": "Check out $MOLT on fomo:\n\nhttps://t.co/DQigJMijA6",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$NIKITABORG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @boneGPT verified earnings for $NIKITABORG on @BagsApp 💰\n\nhttps://t.co/7EJeJlPiDU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "WClementeIII",
+      "text": "Just saw someone say this and had to verify myself — Gold has added about $1.75 trillion in market cap just today alone. The market cap of Bitcoin right now is $1.78 trillion.",
+      "likes": 6517,
+      "retweets": 418,
+      "url": "https://x.com/WClementeIII/status/2016633904057217349"
+    },
+    {
+      "author": "DeItaone",
+      "text": "TRUMP ADMITS LAST CABINET MEETING GOT 'PRETTY BORING' BUT INSISTS 'I CLOSED MY EYES BUT DIDN'T SLEEP'",
+      "likes": 1206,
+      "retweets": 63,
+      "url": "https://x.com/DeItaone/status/2016920780106346550"
+    },
+    {
+      "author": "LiveNation",
+      "text": "JUST ANNOUNCED! NE-YO and AKON are coming to a city near you for the Nights Like This Tour – it’s the party you don’t want to miss. Big hits. Big energy. Tickets on sale Friday, Jan 30th @ 10AM local.",
+      "likes": 598,
+      "retweets": 37,
+      "url": "https://x.com/LiveNation/status/2016317047953633753"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "This is the best time to be in Crypto since 2020. Certain sectors are about to experience exponential growth. Don't let the doomers stuck in vaporous altcoins tell you otherwise.",
+      "likes": 581,
+      "retweets": 55,
+      "url": "https://x.com/ThinkingUSD/status/2016978334320660820"
+    },
+    {
+      "author": "cobie",
+      "text": "@blknoiz06 @buyerofponzi @WClementeIII Wanna race ?",
+      "likes": 456,
+      "retweets": 2,
+      "url": "https://x.com/cobie/status/2016818109940699481"
+    },
+    {
+      "author": "Wayfair",
+      "text": "Best selling Wayfair rugs that add warmth, comfort, and value",
+      "likes": 456,
+      "retweets": 24,
+      "url": "https://x.com/Wayfair/status/1989413775254933799"
+    },
+    {
+      "author": "ChillHouseSOL",
+      "text": "This is the kind of community you join when you’re with us\n\nWe don’t slow-exit on people with 200 wallet terminals and tell others to buy\n\nWe hold\n\nThat’s how memecoins used to run to multi-hundred millions\n\nLet’s make memecoins great again, starting with a real narrative\n\n$chill",
+      "likes": 273,
+      "retweets": 18,
+      "url": "https://x.com/ChillHouseSOL/status/2016811249418588682"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Ridge Wallet 2.0, Power Banks &amp; more in impossible-to-miss yellow.",
+      "likes": 221,
+      "retweets": 15,
+      "url": "https://x.com/ridgewallet/status/2011151263539298511"
+    },
+    {
+      "author": "mert",
+      "text": "who's the ceo of this trash chain",
+      "likes": 196,
+      "retweets": 5,
+      "url": "https://x.com/mert/status/2016993595710947498"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "fellas you can only save one which you saving https://t.co/LKG93Yo3he",
+      "likes": 175,
+      "retweets": 8,
+      "url": "https://x.com/blknoiz06/status/2016991301758042572"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-01-29T20:12:31.132Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 4,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGU",
+      1
+    ],
+    [
+      "$CANCER",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGU",
+        "count": 1
+      },
+      {
+        "ticker": "$CANCER",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 6,
+      "silver": 2,
+      "copper": 3
+    },
+    "metals": {
+      "gold": 6,
+      "silver": 2
+    },
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$PENGU": [
+      {
+        "author": "LucaNetz",
+        "text": "Can I get a $PENGU morning?",
+        "likes": 370,
+        "retweets": 17
+      }
+    ],
+    "$CANCER": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CANCER with a PnL of +173.55%.\n\n$CANCER has been trending on Moby since $118.93K MC. Currently sitting at $1.84M MC. https://t.co/rk30A",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $9.31K of $WhiteWhale at $85.98M MC 🐳\n\nhttps://t.co/Cufc1OnOsh",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "googlechrome",
+      "text": "Now Chrome is even better with major updates to Gemini in Chrome. Easier to use. More personalized. And more helpful than ever, with Gemini 3. 🎢 \n\nAvailable in the U.S., auto browse for Google AI Pro and Ultra subscribers. https://t.co/tILRW3osyO",
+      "likes": 1966,
+      "retweets": 179,
+      "url": "https://x.com/googlechrome/status/2016617431989371124"
+    },
+    {
+      "author": "LucaNetz",
+      "text": "Can I get a $PENGU morning?",
+      "likes": 370,
+      "retweets": 17,
+      "url": "https://x.com/LucaNetz/status/2016894456293650666"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "We're entering the Endgame",
+      "likes": 205,
+      "retweets": 6,
+      "url": "https://x.com/ThinkingUSD/status/2016948585900671194"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "https://t.co/y3kijTppXn",
+      "likes": 205,
+      "retweets": 1,
+      "url": "https://x.com/notthreadguy/status/2016906901162729937"
+    },
+    {
+      "author": "iwitaly",
+      "text": "Pricing by gut feeling in 2025?\nBold move. Adapty Pricing Index shows real data on what works - turns out it's not the same everywhere👇",
+      "likes": 189,
+      "retweets": 14,
+      "url": "https://x.com/iwitaly/status/1995802120134738407"
+    },
+    {
+      "author": "based16z",
+      "text": "Capital hyperstition: the more trade and investment ideas are sourced from LLMs, the more LlMs create reality via resource allocation",
+      "likes": 146,
+      "retweets": 0,
+      "url": "https://x.com/based16z/status/2016802706887766471"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "When Crypto pumps 1% https://t.co/Nd7d6stOb7",
+      "likes": 143,
+      "retweets": 1,
+      "url": "https://x.com/Pentosh1/status/2016960188545454449"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "on my way to mortgage my house to buy more bitcoin. https://t.co/A3bs7ceotp",
+      "likes": 142,
+      "retweets": 13,
+      "url": "https://x.com/DipWheeler/status/2016953291012554877"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "she's forcing him to dump the market so she can get a good entry for the big re-launch of alameda research.",
+      "likes": 115,
+      "retweets": 4,
+      "url": "https://x.com/DipWheeler/status/2016953872175288424"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "timestamp": "2026-01-31T01:00:34.666Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 3,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$THELOOP",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$SUCCESSKID",
+      1
+    ],
+    [
+      "$SYNP",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$THELOOP",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$SUCCESSKID",
+        "count": 1
+      },
+      {
+        "ticker": "$SYNP",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.81K of $crust at $2.56M MC 🐳\n\nhttps://t.co/oltt8IdLS3",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.68K of $SYNP at $469.57K MC 🐳\n\nhttps://t.co/OfsJ61DPkz",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$THELOOP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @steflovaludmila verified earnings for $THELOOP on @BagsApp 💰\n\nhttps://t.co/BmfpsYnEtC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.8K of $crust at $2.67M MC 🐳\n\nhttps://t.co/ws3FLVO1oU",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $8.96K of $PENGUIN at $51.34M MC 🐳\n\nhttps://t.co/muT79F5hLr",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $9.94K of $PENGUIN at $50.37M MC 🐳\n\nhttps://t.co/OQPN4dAVq1",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $8.96K of $PENGUIN at $51.34M MC 🐳\n\nhttps://t.co/muT79F5hLr",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SUCCESSKID": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/wRRrKlgxyV verified earnings for $SUCCESSKID on @BagsApp 💰\n\nhttps://t.co/KNcs2YMhrm",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SYNP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.68K of $SYNP at $469.57K MC 🐳\n\nhttps://t.co/OfsJ61DPkz",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @emeka_boris verified earnings for $MOLT on @BagsApp 💰\n\nhttps://t.co/pYyrIbWTsi",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MarvelStudios",
+      "text": "\"Did you hear about Wonder Man?”\n\nStream all 8 episodes of Marvel Television’s Wonder Man now on Disney+.",
+      "likes": 3404,
+      "retweets": 187,
+      "url": "https://x.com/MarvelStudios/status/2016697743256011000"
+    },
+    {
+      "author": "jessepollak",
+      "text": "You can make it trading on @base. https://t.co/pAC9SwAdq2",
+      "likes": 583,
+      "retweets": 34,
+      "url": "https://x.com/jessepollak/status/2017321360234844624"
+    },
+    {
+      "author": "BlueChew",
+      "text": "No Surprises, Just Results. BlueChew gives you upfront pricing, free consultation, and a prescription if approved. -- Compounded prescription med. Not FDA approved. See website for details",
+      "likes": 121,
+      "retweets": 6,
+      "url": "https://x.com/BlueChew/status/1980728294569042318"
+    }
+  ]
+}

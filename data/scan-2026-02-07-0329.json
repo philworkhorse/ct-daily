@@ -1,0 +1,215 @@
+{
+  "timestamp": "2026-02-07T03:29:49.049Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 2,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$META",
+      1
+    ],
+    [
+      "$LEGION",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$HSL",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$SOBAT",
+      1
+    ],
+    [
+      "$KLED",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$LEGION",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$HSL",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$SOBAT",
+        "count": 1
+      },
+      {
+        "ticker": "$KLED",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $13.91K of $Buttcoin at $37.96M MC 🐳\n\nhttps://t.co/Mpy2Hie1Yw",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LEGION": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $LEGION on MobyScreener 🖼️ https://t.co/XExGSG0vL4",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $8.74K of $PENGUIN at $19.45M MC 🐳\n\nhttps://t.co/3lovlsYgjs",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$HSL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @amuse verified earnings for $HSL on @BagsApp 💰\n\nhttps://t.co/MBTpJTO9wv",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.1K of $SOBAT at $428.53K MC 🐳\n\nhttps://t.co/RgmX2kN3Ml",
+        "likes": 6,
+        "retweets": 4
+      }
+    ],
+    "$SOBAT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.1K of $SOBAT at $428.53K MC 🐳\n\nhttps://t.co/RgmX2kN3Ml",
+        "likes": 6,
+        "retweets": 4
+      }
+    ],
+    "$KLED": [
+      {
+        "author": "0xDamien",
+        "text": "Once again @useKled ‘s PMF is being proven\n\nAnother validation for $KLED",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "More proof that\n\nethereum is the future of finance\n\n$ETH",
+        "likes": 959,
+        "retweets": 51
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "fundstrat",
+      "text": "More proof that\n\nethereum is the future of finance\n\n$ETH",
+      "likes": 959,
+      "retweets": 51,
+      "url": "https://x.com/fundstrat/status/2019904152361660447"
+    },
+    {
+      "author": "SexyyRed314_",
+      "text": "Jus so yal kno https://t.co/ph6fEqGftH",
+      "likes": 276,
+      "retweets": 22,
+      "url": "https://x.com/SexyyRed314_/status/2019971353168998589"
+    },
+    {
+      "author": "RainsRevenge",
+      "text": "Sol at 85 and theres is ALOT of volume in the trenches right now despite majors being down so much, People who compared tokens to NFTs looking dumb here lmao\n\nThere will always be opportunities in the trenches no matter what level majors are at, lock in.",
+      "likes": 199,
+      "retweets": 13,
+      "url": "https://x.com/RainsRevenge/status/2019882205569601556"
+    },
+    {
+      "author": "retardmode",
+      "text": "you can now participate on https://t.co/u1vkr5gwIU\n\nour Peace and Quiet Index cells score over 220,000 neighborhoods based on a variety of socioeconomic factors\n\nour algorithm can be wrong, so we’re letting you correct it\n\nclick any cell on the map, vote to lower, agree, or raise",
+      "likes": 148,
+      "retweets": 3,
+      "url": "https://x.com/retardmode/status/2019970057464402006"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "hi i’m equinox and i cost $400 a month to be a shockingly mid gym  and im always so crowded you’ll never do the workout you planned oh and also i close at 7pm because i fucking hate you fuck you. bitch",
+      "likes": 108,
+      "retweets": 1,
+      "url": "https://x.com/notthreadguy/status/2019950976040317203"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "hi i’m equinox and i cost $400 a month to be a shockingly mid gym  and im always so crowded you’ll never do the workout you planned oh and also i close at 7pm because i fucking hate you fuck you. bitch",
+      "likes": 108,
+      "retweets": 1,
+      "url": "https://x.com/notthreadguy/status/2019950976040317203"
+    },
+    {
+      "author": "icobeast",
+      "text": "There are so many questions here....",
+      "likes": 102,
+      "retweets": 0,
+      "url": "https://x.com/icobeast/status/2019937956874838054"
+    }
+  ]
+}

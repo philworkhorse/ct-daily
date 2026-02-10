@@ -1,0 +1,356 @@
+{
+  "timestamp": "2026-01-30T16:42:48.955Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 8,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      3
+    ],
+    [
+      "$OPENCLAW",
+      3
+    ],
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$MOLT",
+      2
+    ],
+    [
+      "$GOLD",
+      2
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$MANNY",
+      1
+    ],
+    [
+      "$BP",
+      1
+    ],
+    [
+      "$HEAVYPULP",
+      1
+    ],
+    [
+      "$XRP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 3
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 3
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$MANNY",
+        "count": 1
+      },
+      {
+        "ticker": "$BP",
+        "count": 1
+      },
+      {
+        "ticker": "$HEAVYPULP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      },
+      {
+        "ticker": "$XRP",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$GOLD",
+        "count": 2
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 7,
+      "copper": 1,
+      "silver": 2
+    },
+    "metals": {
+      "gold": 7,
+      "silver": 2
+    },
+    "macro": {
+      "fed": 11,
+      "inflation": 4,
+      "powell": 1
+    }
+  },
+  "tickerDetails": {
+    "$MOLT": [
+      {
+        "author": "jessepollak",
+        "text": "$MOLT is #1 trending on @coinbase right now https://t.co/GR9QW1XwEY",
+        "likes": 30,
+        "retweets": 5
+      },
+      {
+        "author": "jessepollak",
+        "text": "$MOLT is #1 trending on @coinbase right now https://t.co/GR9QW1XwEY",
+        "likes": 30,
+        "retweets": 5
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "i think it is important to never underestimate our community\n\n$REKT https://t.co/SQXIRqSrgx",
+        "likes": 48,
+        "retweets": 9
+      },
+      {
+        "author": "osf_rekt",
+        "text": "RT @0xLapom: $REKT GM ☀️ https://t.co/Rncl4wa8Ih",
+        "likes": 0,
+        "retweets": 9
+      },
+      {
+        "author": "osf_rekt",
+        "text": "RT @0xLapom: Giving free drinks to people, and talking about @rektdrinks 💦\n\nFor me the best way to onboard people into $REKT 💀 https://t.co…",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "jessepollak",
+        "text": "RT @flaunchgg: ICYMI: @MattPRD's @yesnoerror was bridged to Base ~5 months ago, and is picking up steam 🔥\n\n$YNE has done over $67,000 volum…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "jessepollak",
+        "text": "RT @jai_prasad17: Shit got even crazier since the Clawdbot days:\n\nClawdbot fully rebranded to Moltnot and then to OpenClaw. $OPENCLAW token…",
+        "likes": 0,
+        "retweets": 3
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.75K of $OPENCLAW at $3.01M MC 🐳\n\nhttps://t.co/zVcJtJe7vq",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.17K of $OPENCLAW at $3.3M MC 🐳\n\nhttps://t.co/c20WTzc6y4",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @Flowslikeosmo: @himgajria Smart money has doubled its $COPPERINU supply over the past day. \n\nFear is opportunity. https://t.co/GZxE3cOw…",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$MANNY": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Latuche95 just bought $1.41K of $MANNY at $329.39K MC 🐳\n\nhttps://t.co/zBncPmYAbt",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "Was funny to see people shit on me bearposting $BTC for months and saying I'm waiting for 83K, be patient. Every tweet I made.. reply guy: \"bottom\".\n\nFunny I get long per my plan, first long in a whil",
+        "likes": 323,
+        "retweets": 4
+      },
+      {
+        "author": "milesdeutscher",
+        "text": "If $BTC loses this level, things are going to get f*cking ugly.\n\nI just recorded a BANGER episode with @_FabianHD &amp; @TraderMorin breaking down:\n\n- Why $BTC is struggling\n- The trade setup we've be",
+        "likes": 14,
+        "retweets": 1
+      },
+      {
+        "author": "crypto_banter",
+        "text": "🔴 Something strange is going on... \n\nWhy is the $BTC price continuing to go down?\n\n\"Bitcoin is NOT a hedge against inflation...\"\nWhat is Bitcoin to you? 👇 https://t.co/WCZcfi2s2H",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @zinceth just bought $5.29K of $BP at $8.65M MC 🐳\n\nhttps://t.co/93MwBJSYfL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HEAVYPULP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Muhaimi08 verified earnings for $HEAVYPULP on @BagsApp 💰\n\nhttps://t.co/gFuB5VTeWv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XRP": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "$XRP founders admitted dumping billions on us since $0.10c\n\nThey sold us this dream: “the future of payments”. Gaslighting us for years with cryptic messages and false statements\n\nThe reality is they’",
+        "likes": 12,
+        "retweets": 0
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "PARABOLIT",
+        "text": "RT @MalleableGold: Soon you will be given the choice:\n\nA) Do you hold your $GOLD as is\n\nB) Do you transform your $GOLD into Gold Bars\n\nC) D…",
+        "likes": 0,
+        "retweets": 4
+      },
+      {
+        "author": "PARABOLIT",
+        "text": "It's not just $GOLD, it's Malleable.\n\nIt can transform its fungibility state back and forth\n\nIt's crypto alchemy, built on top of the Solana Hybrid Standard\n\nImagine being able to do anything with you",
+        "likes": 21,
+        "retweets": 6
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.75K of $OPENCLAW at $3.01M MC 🐳\n\nhttps://t.co/zVcJtJe7vq",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.17K of $OPENCLAW at $3.3M MC 🐳\n\nhttps://t.co/c20WTzc6y4",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "garrytan",
+      "text": "Is there any way I can connect Claude Code to use my browser and iOS simulator so it can find mobile css bugs and make things responsive on tablet, web, and mobile automatically?",
+      "likes": 694,
+      "retweets": 19,
+      "url": "https://x.com/garrytan/status/2017009882004877489"
+    },
+    {
+      "author": "mert",
+      "text": "I joke a lot but it will be the case that BTC, ZEC, and SOL will take over the universe\n\nthe \"we're early\" shit got cringe af\n\nbut after seeing gold trade **2x the entire mcap** of all crypto in just 3 days, it should be clear to you that it is still day 1 in crypto\n\ntrillions",
+      "likes": 483,
+      "retweets": 31,
+      "url": "https://x.com/mert/status/2017242536759209992"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "Was funny to see people shit on me bearposting $BTC for months and saying I'm waiting for 83K, be patient. Every tweet I made.. reply guy: \"bottom\".\n\nFunny I get long per my plan, first long in a while. Every 5 minute down candle, reply guy: \"told you so, lower\".\n\nCrypto traders ",
+      "likes": 323,
+      "retweets": 4,
+      "url": "https://x.com/Crypto_Chase/status/2017262180454846563"
+    },
+    {
+      "author": "fejau_inc",
+      "text": "The fact that so many people think Warsh will be a hawk and that Trump somehow missed this in his vetting process is ill thought out and laughable\n\nReally?",
+      "likes": 271,
+      "retweets": 10,
+      "url": "https://x.com/fejau_inc/status/2017259271856206206"
+    },
+    {
+      "author": "Austen",
+      "text": "I know this will sound insane but hear me out:\n\nAutonomous AI agents is the killer use case the crypto industry has been waiting for.\n\nEvery agent will need its own wallet and to be able to quickly and seamlessly transact.",
+      "likes": 127,
+      "retweets": 14,
+      "url": "https://x.com/Austen/status/2017270942846632211"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "I thought metals dumping too would make me feel better about being invested in crypto.\n\nBut it doesn’t.\n\nI don’t really feel anything anymore",
+      "likes": 124,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2017271176931017199"
+    },
+    {
+      "author": "jessepollak",
+      "text": "You can make it on @base.",
+      "likes": 116,
+      "retweets": 11,
+      "url": "https://x.com/jessepollak/status/2017272179470340533"
+    },
+    {
+      "author": "ByzGeneral",
+      "text": "So inflation came in hot and Trump picked a hawkish FED chair? https://t.co/H4U6f2khSh",
+      "likes": 112,
+      "retweets": 6,
+      "url": "https://x.com/ByzGeneral/status/2017261055982870762"
+    },
+    {
+      "author": "icobeast",
+      "text": "The next great farm?",
+      "likes": 110,
+      "retweets": 3,
+      "url": "https://x.com/icobeast/status/2017218520036106430"
+    }
+  ]
+}

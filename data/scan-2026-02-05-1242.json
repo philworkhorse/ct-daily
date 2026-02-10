@@ -1,0 +1,267 @@
+{
+  "timestamp": "2026-02-05T12:42:17.008Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 7,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$MSFT",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$BP",
+      1
+    ],
+    [
+      "$IBIT",
+      1
+    ],
+    [
+      "$THUNZZ",
+      1
+    ],
+    [
+      "$CVX",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$BP",
+        "count": 1
+      },
+      {
+        "ticker": "$IBIT",
+        "count": 1
+      },
+      {
+        "ticker": "$THUNZZ",
+        "count": 1
+      },
+      {
+        "ticker": "$CVX",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSFT",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "silver": 3,
+      "corn": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 3,
+      "silver": 3
+    },
+    "macro": {
+      "treasury": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$GSD": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GSD with a PnL of +981.53%.\n\n$GSD has been trending on Moby since $56.69K MC. Currently sitting at $2.64M MC. https://t.co/WEkNhL58NW",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MSFT": [
+      {
+        "author": "DeItaone",
+        "text": "$MSFT - MICROSOFT SHARES FALL 1.7% PREMARKET; STIFEL DOWNGRADES TO HOLD FROM BUY",
+        "likes": 70,
+        "retweets": 12
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.11K of $BP at $3.5M MC 🐳\n\nhttps://t.co/NEhkSNxKAS",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.11K of $BP at $3.5M MC 🐳\n\nhttps://t.co/NEhkSNxKAS",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "watchingmarkets",
+        "text": "Hopium \n\n$BTC (1M) https://t.co/g4kZG6IAcW",
+        "likes": 35,
+        "retweets": 3
+      },
+      {
+        "author": "brentradess",
+        "text": "This is The Bloodiest Period We’ve seen in $BTC since 2022 (5 Straight Monthly Red Candles)\n\nWhich ended up being the best buy Opportunity of the decade (so far)\n\nWe get a similar or better chance her",
+        "likes": 12,
+        "retweets": 0
+      }
+    ],
+    "$IBIT": [
+      {
+        "author": "dampedspring",
+        "text": "How do you do fellow kids. I am in now with a small position that will unlikely grow.\n\nI will get great pleasure if BTC goes to zero and I lose this investment and will make a bit of money of it bounc",
+        "likes": 40,
+        "retweets": 1
+      }
+    ],
+    "$THUNZZ": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ThunzArt verified earnings for $THUNZZ on @BagsApp 💰\n\nhttps://t.co/GaUvLUYXaQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CVX": [
+      {
+        "author": "CredibleCrypto",
+        "text": "RT @0xAero8: Despite all the noise and straight down PA across the board, @CredibleCrypto’s $CVX chart  is still holding up 👀",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $23.33K of $PENGUIN at $21.27M MC 🐳\n\nhttps://t.co/9WTXHl9wpw",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "I have never been more optimistic about crypto's future \n\nlet the tourists bleed out and leave \n\nwe needed to improve signal:noise ratio in this space, this will do that\n\ntrillions",
+      "likes": 477,
+      "retweets": 29,
+      "url": "https://x.com/mert/status/2019367054948856294"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "Just want to say something real quick as my feed has grown slightly toxic.. I am NOT the type of person to ever hate on someone out of no where. I am NOT a bully. I'm actually a quite kind and helpful person for those who know me. If you've interacted with me over the years, been",
+      "likes": 391,
+      "retweets": 6,
+      "url": "https://x.com/Crypto_Chase/status/2019215400118923427"
+    },
+    {
+      "author": "gainzy222",
+      "text": "bro it’s been literally 8+ years of this shit\n\ncz replying to absolute bottom of the barrel retards writing drivel and the rest of us pretending this is somehow normal https://t.co/H9RthmtDvP",
+      "likes": 314,
+      "retweets": 17,
+      "url": "https://x.com/gainzy222/status/2019337621600890911"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Vitalik is doubling down on his take on Ethereum L2s.\n\nTLDR: Actually bring something new to the table and \"vibes should match substance\".\n\nHe specifically mentions some use cases and also institutional adoption as useful areas.\n\nWe've seen quite a few chains built around that ta",
+      "likes": 233,
+      "retweets": 24,
+      "url": "https://x.com/waleswoosh/status/2019369044793774488"
+    },
+    {
+      "author": "mert",
+      "text": "all enemies of crypto will be extinguished and destroyed\n\ncapitalism is the greatest invention of humanity\n\ncrypto evolves capitalism\n\nthere is no stopping this train",
+      "likes": 184,
+      "retweets": 14,
+      "url": "https://x.com/mert/status/2019377117490999362"
+    },
+    {
+      "author": "DeItaone",
+      "text": "BITCOIN EXTENDS LOSSES, LAST DOWN 5.24% AT $69,133",
+      "likes": 184,
+      "retweets": 29,
+      "url": "https://x.com/DeItaone/status/2019387113276399998"
+    },
+    {
+      "author": "himgajria",
+      "text": "Times like these get rid of the traders. \nTimes like these consolidate supply with the believers. \n\nBetter entries. \nMore supply control. \nLonger rallies when the tides turn.",
+      "likes": 154,
+      "retweets": 21,
+      "url": "https://x.com/himgajria/status/2019376686958297476"
+    },
+    {
+      "author": "himgajria",
+      "text": "Times like these get rid of the traders. \nTimes like these consolidate supply with the believers. \n\nBetter entries. \nMore supply control. \nLonger rallies when the tides turn.",
+      "likes": 154,
+      "retweets": 21,
+      "url": "https://x.com/himgajria/status/2019376686958297476"
+    },
+    {
+      "author": "mert",
+      "text": "my pet theory is that the markets are basically pricing in a medium-length war in the middle east https://t.co/dV5Z7zbqb4",
+      "likes": 152,
+      "retweets": 5,
+      "url": "https://x.com/mert/status/2019379062582723022"
+    },
+    {
+      "author": "DeItaone",
+      "text": "JANUARY LAYOFFS SURGE TO 17-YEAR HIGH\n\nU.S. employers announced 108,435 layoffs in January, up 205% from December and the highest January total since 2009, according to Challenger, Gray & Christmas.\n\nThe surge was led by transportation, with UPS planning up to 30,000 job cuts, an",
+      "likes": 140,
+      "retweets": 59,
+      "url": "https://x.com/DeItaone/status/2019388391284969741"
+    }
+  ]
+}

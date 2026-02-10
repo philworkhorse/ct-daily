@@ -1,0 +1,257 @@
+{
+  "timestamp": "2026-02-09T13:50:58.212Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 5,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      4
+    ],
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ],
+    [
+      "$CLAWSTRA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWSTRA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 4
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {
+      "inflation": 1,
+      "gdp": 1,
+      "treasury": 1,
+      "yields": 1,
+      "bond": 1,
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @saylor: Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~…",
+        "likes": 0,
+        "retweets": 491
+      },
+      {
+        "author": "docXBT",
+        "text": "$BTC - Looking for us to build out value here; starting off by using prev week's vah/val and anchored vwap as a guide. https://t.co/qvjy8k0WZp",
+        "likes": 47,
+        "retweets": 2
+      },
+      {
+        "author": "saylor",
+        "text": "Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~$54.35 billion at ~$76,056 per bitcoin. $MSTR $STRC https://t.co/4X2c81LQ",
+        "likes": 4329,
+        "retweets": 491
+      },
+      {
+        "author": "cryptomanran",
+        "text": "This Bear Market is moving FASTER than normal.\n\n$BTC reached the generational bottom zone quicker than any prior bear, compressing what used to be a multi-phase drawdown into weeks.\n\nThat’s compressio",
+        "likes": 41,
+        "retweets": 9
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "$REKT Weekly https://t.co/trWDrdfeOZ",
+        "likes": 48,
+        "retweets": 10
+      },
+      {
+        "author": "osf_rekt",
+        "text": "impromptu $REKT weekly in a few mins, while i have a spare moment! https://t.co/pCyKcj4jdN",
+        "likes": 43,
+        "retweets": 7
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.66K of $WhiteWhale at $90.84M MC 🐳\n\nhttps://t.co/2qY2QTJsmF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "Raydium",
+        "text": "$XAUm is live on Raydium.\n\nIssued by Matrixdock, each token represents 1 oz of LBMA-accredited gold, vaulted, audited, and now built on Solana. https://t.co/AlexecWGgW",
+        "likes": 9,
+        "retweets": 1
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "saylor",
+        "text": "Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~$54.35 billion at ~$76,056 per bitcoin. $MSTR $STRC https://t.co/4X2c81LQ",
+        "likes": 4329,
+        "retweets": 491
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "saylor",
+        "text": "Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~$54.35 billion at ~$76,056 per bitcoin. $MSTR $STRC https://t.co/4X2c81LQ",
+        "likes": 4329,
+        "retweets": 491
+      }
+    ],
+    "$CLAWSTRA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @clawostra_xyz verified earnings for $CLAWSTRA on @BagsApp 💰\n\nhttps://t.co/88arGhhCHd",
+        "likes": 1,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~$54.35 billion at ~$76,056 per bitcoin. $MSTR $STRC https://t.co/4X2c81LQwm",
+      "likes": 4329,
+      "retweets": 491,
+      "url": "https://x.com/saylor/status/2020846107685695931"
+    },
+    {
+      "author": "vaneck_us",
+      "text": "you know it’s a bear market when the coinbase logo comes up and the whole crowd of normies boos",
+      "likes": 1078,
+      "retweets": 46,
+      "url": "https://x.com/vaneck_us/status/2020669589168734589"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 497,
+      "retweets": 67,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "The more time I spend in this space, the more I just want to hold BTC over everything else.\n\nWhen I first entered crypto, I couldn't understand why anyone would buy Bitcoin over alts.\n\nNow I get it",
+      "likes": 390,
+      "retweets": 20,
+      "url": "https://x.com/waleswoosh/status/2020821348717871479"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Congratulations to António José Seguro on his victory in the presidential election, and I wish him every success. Portugal supports Ukraine and the Ukrainian people in this war against Russian aggression, and we will always be grateful for all the assistance provided. We value th",
+      "likes": 379,
+      "retweets": 51,
+      "url": "https://x.com/ZelenskyyUa/status/2020852846388728235"
+    },
+    {
+      "author": "DeItaone",
+      "text": "🇨🇳 CHINA TELLS BANKS TO CUT US TREASURY EXPOSURE\n\nChinese regulators have instructed major banks to limit new purchases of US Treasuries and reduce large existing positions, citing concentration risk and market volatility, according to people familiar with the matter.\n\nThe guid",
+      "likes": 198,
+      "retweets": 39,
+      "url": "https://x.com/DeItaone/status/2020853114065089000"
+    },
+    {
+      "author": "mert",
+      "text": "think the coinbase ad was good actually\n\nnot david ogilvy but nothing wrong with it \n\nit should be a big alarm bell that ppl have this negative of a reaction to crypto, not coinbase's fault",
+      "likes": 194,
+      "retweets": 10,
+      "url": "https://x.com/mert/status/2020819946926698660"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Espresso is doing a Binance Prime sale at $250M USD FDV.\n\nNot long ago they raised at $400M USD on Kaito's Capital Launchpad.\n\nNone of the above groups will break even https://t.co/yXSJpxRDPn",
+      "likes": 150,
+      "retweets": 2,
+      "url": "https://x.com/waleswoosh/status/2020850576775389206"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Вітаю Антоніу Жозе Сегуру з перемогою на президентських виборах і бажаю успіхів. Португалія підтримує Україну та український народ у цій війні проти російської агресії, і ми завжди будемо вдячні за всю допомогу. Цінуємо дружбу між нашими країнами та сподіваємося, що відносини між",
+      "likes": 129,
+      "retweets": 15,
+      "url": "https://x.com/ZelenskyyUa/status/2020852848523641220"
+    },
+    {
+      "author": "deltaxbt",
+      "text": "there can be an ongoing nuclear attack with warheads flying in the sky, and some motherfucker is gonna tweet some bullshit like \"fear and greed index is at 10, this is clearly a good time to buy while everyone is fearful\"",
+      "likes": 128,
+      "retweets": 4,
+      "url": "https://x.com/deltaxbt/status/2020823125995208868"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "timestamp": "2026-02-07T11:32:15.877Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 1,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PUMP",
+      2
+    ],
+    [
+      "$FARTCOIN",
+      2
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$PUNCAR",
+      1
+    ],
+    [
+      "$SIRIUS",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$WETH",
+      1
+    ],
+    [
+      "$GERO",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$NOBODY",
+      1
+    ],
+    [
+      "$CLAWNEWS",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PUMP",
+        "count": 2
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$PUNCAR",
+        "count": 1
+      },
+      {
+        "ticker": "$SIRIUS",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$WETH",
+        "count": 1
+      },
+      {
+        "ticker": "$GERO",
+        "count": 1
+      },
+      {
+        "ticker": "$NOBODY",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWNEWS",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $4.94K of $ORE at $27.28M MC 🐳\n\nhttps://t.co/fwkmN3TmJ9",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $7.06K of $arc at $74.17M MC 🐳\n\nhttps://t.co/iMWaCMK1me",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $7.05K of $arc at $69.14M MC 🐳\n\nhttps://t.co/DnRWlEgtGv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUNCAR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @fernstrades verified earnings for $PUNCAR on @BagsApp 💰\n\nhttps://t.co/EzefdxaewT",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SIRIUS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @thesiriusreport verified earnings for $SIRIUS on @BagsApp 💰\n\nhttps://t.co/dtA1JeSHXY",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $21.76K of $WETH at $130.21M MC 🐳\n\nhttps://t.co/Fsna3Q41Jf",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$WETH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $21.76K of $WETH at $130.21M MC 🐳\n\nhttps://t.co/Fsna3Q41Jf",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$GERO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @GeromanAT verified earnings for $GERO on @BagsApp 💰\n\nhttps://t.co/Cw3uBAqCD8",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nThe white lines act as alert levels. When they trigger, I take a closer look at the price action. Until then, I mostly stay inactive regarding majors. Below those levels, I’m primarily focused ",
+        "likes": 25,
+        "retweets": 1
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nThe white lines act as alert levels. When they trigger, I take a closer look at the price action. Until then, I mostly stay inactive regarding majors. Below those levels, I’m primarily focused ",
+        "likes": 25,
+        "retweets": 1
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nThe white lines act as alert levels. When they trigger, I take a closer look at the price action. Until then, I mostly stay inactive regarding majors. Below those levels, I’m primarily focused ",
+        "likes": 25,
+        "retweets": 1
+      }
+    ],
+    "$NOBODY": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "It's about time for $NOBODY\n\nC29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon\n\n🤝 https://t.co/ciSlbMwD0O",
+        "likes": 121,
+        "retweets": 16
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $276.13K of $JitoSOL at $1.16B MC 🐳\n\nhttps://t.co/jYVJ3W1vjK",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $276.08K of $JitoSOL at $1.16B MC 🐳\n\nhttps://t.co/aKztD4Oimo",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWNEWS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @qy_acc verified earnings for $CLAWNEWS on @BagsApp 💰\n\nhttps://t.co/yZZSpXzAh7",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $8.28K of $TOILET at $1.97M MC 🐳\n\nhttps://t.co/h14FG3DMWV",
+        "likes": 7,
+        "retweets": 0
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $8.28K of $TOILET at $1.97M MC 🐳\n\nhttps://t.co/h14FG3DMWV",
+        "likes": 7,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet https://t.co/4EwU9TAHRz",
+      "likes": 706,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2020014724096905481"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 319,
+      "retweets": 12,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Polymarket with more visits than the top crypto websites combined.\n\nAnd about to flip Robinhood.\n\nPolymarket supercycle",
+      "likes": 248,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020033571449348426"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "snow, japan https://t.co/i0yfKPoOI1",
+      "likes": 189,
+      "retweets": 1,
+      "url": "https://x.com/izebel_eth/status/2020045284907090219"
+    },
+    {
+      "author": "gainzy222",
+      "text": "vitalik finally using his influence for good, supporting zec\n\ninstead of fudding assets down 90%\n\ngood guy vitalik \n https://t.co/8rHo7lfcKp",
+      "likes": 165,
+      "retweets": 3,
+      "url": "https://x.com/gainzy222/status/2020023786146566502"
+    },
+    {
+      "author": "CL207",
+      "text": "❄️❄️❄️ https://t.co/sW11h07C2o",
+      "likes": 122,
+      "retweets": 0,
+      "url": "https://x.com/CL207/status/2020025668990619719"
+    },
+    {
+      "author": "cryptosanthoshK",
+      "text": "It's about time for $NOBODY\n\nC29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon\n\n🤝 https://t.co/ciSlbMwD0O",
+      "likes": 121,
+      "retweets": 16,
+      "url": "https://x.com/cryptosanthoshK/status/2020087032861847585"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Genuinely how would this even work. \n\nIf this were to pass could I simply move to Calgary and then become American.",
+      "likes": 118,
+      "retweets": 0,
+      "url": "https://x.com/Tradermayne/status/2020020193951625704"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "This NFT sold for $8,000,000 in 2021. \n\nThe best offer on it now is $4.27 and 3 packs of ramen noodles. https://t.co/sLsJmXkf2b",
+      "likes": 117,
+      "retweets": 2,
+      "url": "https://x.com/boldleonidas/status/2020092677371691061"
+    },
+    {
+      "author": "DeeZe",
+      "text": "Baby falls asleep in my arms\n\nPut baby in bassinet \n\nBaby wakes up and is pissed\n\nPick up baby and rock her\n\nBaby falls asleep in my arms https://t.co/6JDWLQOeRr",
+      "likes": 106,
+      "retweets": 1,
+      "url": "https://x.com/DeeZe/status/2019992878475538504"
+    }
+  ]
+}

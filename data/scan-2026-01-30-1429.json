@@ -1,0 +1,147 @@
+{
+  "timestamp": "2026-01-30T14:29:25.018Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 0,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 3,
+    "neutral": 42,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$MOLTBOOK",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$MEGA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTBOOK",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$MEGA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 3,
+      "gold": 3,
+      "copper": 3,
+      "oil": 1,
+      "corn": 2
+    },
+    "metals": {
+      "silver": 3,
+      "gold": 3
+    },
+    "macro": {
+      "fed": 2,
+      "treasury": 1,
+      "powell": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @scopescan_io: 17 Smart Money Wallets are accumulating a huge amount of $COPPERINU\n\nMoneyflow:\nhttps://t.co/FnlNbowOcZ",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$MOLTBOOK": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Moltbook has the CRYPTO && TECH worlds in SHOCK! \n\nFor those unaware, Moltbook, is basically Reddit, but only for AI Agents. \n\nIt allows Claude (now Molt) Bot, to be able to post and interact with oth",
+        "likes": 31,
+        "retweets": 1
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Moltbook has the CRYPTO && TECH worlds in SHOCK! \n\nFor those unaware, Moltbook, is basically Reddit, but only for AI Agents. \n\nIt allows Claude (now Molt) Bot, to be able to post and interact with oth",
+        "likes": 31,
+        "retweets": 1
+      }
+    ],
+    "$MEGA": [
+      {
+        "author": "waleswoosh",
+        "text": "The cabal is trying to manipulate the MegaETH pre-market price on Hyperliquid.\n\nWe all know $MEGA gonna trade above $0.4 USD https://t.co/wGW3MSEFH0",
+        "likes": 210,
+        "retweets": 3
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "after getting brutally violated by the market last night, I woke up thinking \"how much worse could it get?\"\n\nso I enter my study, and somehow a bird got in and shit LITERALLY everywhere\n\nas if cz and wintermute weren't enough I am now getting dumped on by mother nature https://t.",
+      "likes": 239,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2017213178367905924"
+    },
+    {
+      "author": "mert",
+      "text": "solana remains the most usable, battle-hardened, and scalable chain in the real world\n\npayments, programmability, spot trading and soon perps and predictions\n\nas AI reduces friction for creating apps, it will emerge as the universal API for world finance",
+      "likes": 212,
+      "retweets": 13,
+      "url": "https://x.com/mert/status/2017230473693458942"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "The cabal is trying to manipulate the MegaETH pre-market price on Hyperliquid.\n\nWe all know $MEGA gonna trade above $0.4 USD https://t.co/wGW3MSEFH0",
+      "likes": 210,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2017225627133465063"
+    },
+    {
+      "author": "ColdBloodShill",
+      "text": "feels like a good % of those of us left here don't actually care if BTC trades lower, because we just want SOMETHING to happen",
+      "likes": 134,
+      "retweets": 3,
+      "url": "https://x.com/ColdBloodShill/status/2017225854812663924"
+    },
+    {
+      "author": "mert",
+      "text": "4 rough asset classes in crypto:\n\n- SoV / shared social myth (BTC and ZEC)\n- blockchain / universal finance API (SOL)\n- exchange (HYPE, LIT, etc)\n- protocol (e.g lending)\n\nconflating them for each other in your valuations is a great way to become poor",
+      "likes": 101,
+      "retweets": 0,
+      "url": "https://x.com/mert/status/2017228861306540470"
+    }
+  ]
+}

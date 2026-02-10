@@ -1,0 +1,320 @@
+{
+  "timestamp": "2026-02-10T09:16:59.610Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 4,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MEGA",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$TSX",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ],
+    [
+      "$GIRAFFES",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$AGENCY",
+      1
+    ],
+    [
+      "$ALLEN",
+      1
+    ],
+    [
+      "$BAGSKR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MEGA",
+        "count": 1
+      },
+      {
+        "ticker": "$TSX",
+        "count": 1
+      },
+      {
+        "ticker": "$GIRAFFES",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$AGENCY",
+        "count": 1
+      },
+      {
+        "ticker": "$ALLEN",
+        "count": 1
+      },
+      {
+        "ticker": "$BAGSKR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2
+    },
+    "metals": {},
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$MEGA": [
+      {
+        "author": "waleswoosh",
+        "text": "5/10 MegaETH mafia apps are live so far.\n\nWhen the number reaches 10, we will see $MEGA TGE seven days later.\n\nThe question is when https://t.co/YLRqMnR2Lz",
+        "likes": 19,
+        "retweets": 2
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "based16z",
+        "text": "RT @saylor: $MSTR = Most Interesting. https://t.co/D0pp79ZKAK",
+        "likes": 0,
+        "retweets": 779
+      }
+    ],
+    "$TSX": [
+      {
+        "author": "chang_defi",
+        "text": "RT @Wild_Randomness: $TSX $SPX\n\nDead serious here—\n\nIf the second half of this decade is going to be defined by real things (atoms), and le…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "chang_defi",
+        "text": "RT @Wild_Randomness: $TSX $SPX\n\nDead serious here—\n\nIf the second half of this decade is going to be defined by real things (atoms), and le…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @zinceth just bought $4.47K of $GIRAFFES at $2.64M MC 🐳\n\nhttps://t.co/UaqWnLjr16",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "$BTC / USDT ( update )\n\nI warned y'all this exact scenario at 90,000$. Pattern repeats. Bitcoin at crucial levels.\n\n50,000$ is editable. https://t.co/XVTwNAKs7S",
+        "likes": 16,
+        "retweets": 1
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "DirMoE is a breakthrough in Mixture-of-Experts for LLMs: a fully differentiable router that cleanly separates which experts to pick (Bernoulli/Gumbel-Sigmoid) from how much to trust them (Dirichlet). ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $4.53K of $TROLL at $15.55M MC 🐳\n\nhttps://t.co/ja9BEcsPFQ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $4.53K of $TROLL at $15.55M MC 🐳\n\nhttps://t.co/ja9BEcsPFQ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $9.43K of $COPPERINU at $7.55M MC 🐳\n\nhttps://t.co/AAKCRd8o6q",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $9.43K of $COPPERINU at $7.55M MC 🐳\n\nhttps://t.co/AAKCRd8o6q",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AGENCY": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @leens just bought $1.5K of $AGENCY at $218.76K MC 🐳\n\nhttps://t.co/xR8PGEtJMt",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ALLEN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @SajiBhai011 verified earnings for $ALLEN on @BagsApp 💰\n\nhttps://t.co/HAHnBBoQza",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BAGSKR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @0xRennn verified earnings for $BAGSKR on @BagsApp 💰\n\nhttps://t.co/fq41Biz9RH",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm friends https://t.co/jdzN1zNbQh",
+      "likes": 1045,
+      "retweets": 23,
+      "url": "https://x.com/waleswoosh/status/2021101865530953759"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "I turned 26 today.\n\nGive me some life advice",
+      "likes": 827,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2021120978877878519"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "Roblox looks like a buy @ $74 https://t.co/SGUafK84MU",
+      "likes": 428,
+      "retweets": 26,
+      "url": "https://x.com/blknoiz06/status/2020957169290768397"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Opus 4.6 is an absolute beast",
+      "likes": 141,
+      "retweets": 16,
+      "url": "https://x.com/frankdegods/status/2021100603032612895"
+    },
+    {
+      "author": "gainzy222",
+      "text": "You can straight up lie about binance right now and rack up 2k likes as long as it’s negative\n\nDoing something like this should have negative consequences https://t.co/EOWkEyD53i",
+      "likes": 141,
+      "retweets": 5,
+      "url": "https://x.com/gainzy222/status/2021096942915174781"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "One year older. Grateful for an amazing year. Love y'all and excited for the next chapter",
+      "likes": 134,
+      "retweets": 1,
+      "url": "https://x.com/waleswoosh/status/2021102036729856446"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "your aram teammates are on the wrong server on airport wifi @CL207 https://t.co/wjo0SiWsl5",
+      "likes": 131,
+      "retweets": 0,
+      "url": "https://x.com/izebel_eth/status/2021111870170579031"
+    },
+    {
+      "author": "gainzy222",
+      "text": "We’re going lower, “forever top” narrative is coming",
+      "likes": 107,
+      "retweets": 3,
+      "url": "https://x.com/gainzy222/status/2021141030720958957"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "timestamp": "2026-02-10T09:53:02.862Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 6,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ZRO",
+      2
+    ],
+    [
+      "$GIRAFFES",
+      2
+    ],
+    [
+      "$MEGA",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$TSX",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$SERIOUS",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$SHT",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$RISK",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ZRO",
+        "count": 2
+      },
+      {
+        "ticker": "$GIRAFFES",
+        "count": 2
+      },
+      {
+        "ticker": "$MEGA",
+        "count": 1
+      },
+      {
+        "ticker": "$TSX",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$SERIOUS",
+        "count": 1
+      },
+      {
+        "ticker": "$SHT",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$RISK",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2,
+      "precious metals": 1
+    },
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$MEGA": [
+      {
+        "author": "waleswoosh",
+        "text": "5/10 MegaETH mafia apps are live so far.\n\nWhen the number reaches 10, we will see $MEGA TGE seven days later.\n\nThe question is when https://t.co/YLRqMnR2Lz",
+        "likes": 159,
+        "retweets": 10
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "based16z",
+        "text": "RT @saylor: $MSTR = Most Interesting. https://t.co/D0pp79ZKAK",
+        "likes": 0,
+        "retweets": 779
+      }
+    ],
+    "$TSX": [
+      {
+        "author": "chang_defi",
+        "text": "RT @Wild_Randomness: $TSX $SPX\n\nDead serious here—\n\nIf the second half of this decade is going to be defined by real things (atoms), and le…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "chang_defi",
+        "text": "RT @Wild_Randomness: $TSX $SPX\n\nDead serious here—\n\nIf the second half of this decade is going to be defined by real things (atoms), and le…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$ZRO": [
+      {
+        "author": "Gold_Cryptoz",
+        "text": "Not a bad spot for a narrative trade off the back of such a market wipe out. \n\n- Easily invalidation\n- very short runway going into Feb 10\n\n$ZRO",
+        "likes": 39,
+        "retweets": 0
+      },
+      {
+        "author": "Gold_Cryptoz",
+        "text": "$ZRO above $2 \n\nGreat trade https://t.co/TjJm7GwmLY",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $2.24K of $SERIOUS at $112.4K MC 🐳\n\nhttps://t.co/z7TLq5JW5P",
+        "likes": 7,
+        "retweets": 3
+      }
+    ],
+    "$SERIOUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $2.24K of $SERIOUS at $112.4K MC 🐳\n\nhttps://t.co/z7TLq5JW5P",
+        "likes": 7,
+        "retweets": 3
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Final $SOL H&amp;S target: low $50s.\n\nA bearish retest of the neckline around the $110-120 area is possible, but given the current momentum, I consider it unlikely.\n\nBack in 2022, ETH did not retest t",
+        "likes": 19,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ethisluv just bought $3K of $SHT at $1.16M MC 🐳\n\nhttps://t.co/1BSUz3Fddv",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +113.18%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $2.21M MC. https://t.co/I",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @zinceth just bought $4.47K of $GIRAFFES at $2.64M MC 🐳\n\nhttps://t.co/UaqWnLjr16",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $5K of $WhiteWhale at $64.81M MC 🐳\n\nhttps://t.co/1i5jnP0lTi",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$RISK": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @bruhbearr just bought $1K of $RISK at $292.58K MC 🐳\n\nhttps://t.co/wqOSXUmp0z",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "$BTC / USDT ( update )\n\nI warned y'all this exact scenario at 90,000$. Pattern repeats. Bitcoin at crucial levels.\n\n50,000$ is editable. https://t.co/XVTwNAKs7S",
+        "likes": 113,
+        "retweets": 10
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "DirMoE is a breakthrough in Mixture-of-Experts for LLMs: a fully differentiable router that cleanly separates which experts to pick (Bernoulli/Gumbel-Sigmoid) from how much to trust them (Dirichlet). ",
+        "likes": 7,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "lobotomy_user",
+      "text": "when you get too Japanese and end up becoming the head of equities at goldman in Japan https://t.co/8UqKePmskA",
+      "likes": 1838,
+      "retweets": 71,
+      "url": "https://x.com/lobotomy_user/status/2021073068106600514"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm friends https://t.co/jdzN1zNbQh",
+      "likes": 1137,
+      "retweets": 26,
+      "url": "https://x.com/waleswoosh/status/2021101865530953759"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "I turned 26 today.\n\nGive me some life advice",
+      "likes": 953,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2021120978877878519"
+    },
+    {
+      "author": "DonAlt",
+      "text": "There is one coin I'm excited to dip buy \n\nBeen a while since that's been the case \nI've got a really really dumb thesis for it\n\nI'll let you know what it is once I've done so",
+      "likes": 198,
+      "retweets": 5,
+      "url": "https://x.com/DonAlt/status/2021155840615416039"
+    },
+    {
+      "author": "gainzy222",
+      "text": "We’re going lower, “forever top” narrative is coming",
+      "likes": 161,
+      "retweets": 5,
+      "url": "https://x.com/gainzy222/status/2021141030720958957"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "5/10 MegaETH mafia apps are live so far.\n\nWhen the number reaches 10, we will see $MEGA TGE seven days later.\n\nThe question is when https://t.co/YLRqMnR2Lz",
+      "likes": 159,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2021151171616952478"
+    },
+    {
+      "author": "gainzy222",
+      "text": "You can straight up lie about binance right now and rack up 2k likes as long as it’s negative\n\nDoing something like this should have negative consequences https://t.co/EOWkEyD53i",
+      "likes": 152,
+      "retweets": 7,
+      "url": "https://x.com/gainzy222/status/2021096942915174781"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "One year older. Grateful for an amazing year. Love y'all and excited for the next chapter",
+      "likes": 146,
+      "retweets": 1,
+      "url": "https://x.com/waleswoosh/status/2021102036729856446"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Opus 4.6 is an absolute beast",
+      "likes": 146,
+      "retweets": 18,
+      "url": "https://x.com/frankdegods/status/2021100603032612895"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "your aram teammates are on the wrong server on airport wifi @CL207 https://t.co/wjo0SiWsl5",
+      "likes": 144,
+      "retweets": 0,
+      "url": "https://x.com/izebel_eth/status/2021111870170579031"
+    }
+  ]
+}

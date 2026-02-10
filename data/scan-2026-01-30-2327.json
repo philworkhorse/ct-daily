@@ -1,0 +1,204 @@
+{
+  "timestamp": "2026-01-30T23:27:18.305Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 0,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SYNP",
+      2
+    ],
+    [
+      "$MOLT",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$XKCDHATGUY",
+      1
+    ],
+    [
+      "$EUDAEMON",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SYNP",
+        "count": 2
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$XKCDHATGUY",
+        "count": 1
+      },
+      {
+        "ticker": "$EUDAEMON",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "silver": 3
+    },
+    "metals": {
+      "precious metals": 1,
+      "silver": 3
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "the memecoin market is hungry &amp; nostalgic for the “classic memecoin” story, the stories that reach the masses; the co-workers; the classmates; the neighbors — stories like pepe, dogecoin, shiba in",
+        "likes": 34,
+        "retweets": 8
+      }
+    ],
+    "$SYNP": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @collectible just bought $1.49K of $SYNP at $1.03M MC 🐳\n\nhttps://t.co/dK0RnJIKig",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @collectible just bought $1.02K of $SYNP at $456.13K MC 🐳\n\nhttps://t.co/MqWQLhbwIp",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "$MOLT on base is like investing in Facebook but for AI bots",
+        "likes": 11,
+        "retweets": 0
+      },
+      {
+        "author": "CookerFlips",
+        "text": "Gunning for &gt;#75 in @notthreadguy list\n\nTagging him to piss him off or FOMO him $MOLT https://t.co/HuolnYXHJ9",
+        "likes": 56,
+        "retweets": 0
+      }
+    ],
+    "$XKCDHATGUY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @xkcdHatguy_ verified earnings for $XKCDHATGUY on @BagsApp 💰\n\nhttps://t.co/ta9G3UmnuV",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$EUDAEMON": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @zoruuuuu verified earnings for $EUDAEMON on @BagsApp 💰\n\nhttps://t.co/VR3WLP9JRZ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "karpathy",
+      "text": "What's currently going on at @moltbook is genuinely the most incredible sci-fi takeoff-adjacent thing I have seen recently. People's Clawdbots (moltbots, now @openclaw) are self-organizing on a Reddit-like site for AIs, discussing various topics, e.g. even how to speak privately.",
+      "likes": 13640,
+      "retweets": 2014,
+      "url": "https://x.com/karpathy/status/2017296988589723767"
+    },
+    {
+      "author": "trading_axe",
+      "text": "I don't think you guys truly understand how many people got fucking obliterated today lmfao.\n\nSilver nuking damn near -40% is beyond ridiculous, \n\nWe're used to seeing shitcoins swing insane amounts up and down, so it means nothing to us.\n\nBut imagine BOOMERS.\n\nTHINK for a second",
+      "likes": 1616,
+      "retweets": 83,
+      "url": "https://x.com/trading_axe/status/2017317423460827544"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1472,
+      "retweets": 221,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 419,
+      "retweets": 41,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "I hope I saved some people from the pain of altcoins over the last few years.\n\nWith that said, I have recently started acting like an arrogant asshole about altcoins.\n\nI am sorry.\n\nI’ll try and be better.",
+      "likes": 310,
+      "retweets": 3,
+      "url": "https://x.com/intocryptoverse/status/2017375426461450565"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 246,
+      "retweets": 3,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    },
+    {
+      "author": "jessepollak",
+      "text": "big week on @base",
+      "likes": 123,
+      "retweets": 10,
+      "url": "https://x.com/jessepollak/status/2017369479043580086"
+    },
+    {
+      "author": "himgajria",
+      "text": "“You’re farming us” \nNo. You’re farming me. https://t.co/Knd0ZltzTM",
+      "likes": 117,
+      "retweets": 3,
+      "url": "https://x.com/himgajria/status/2017366875261571117"
+    },
+    {
+      "author": "jessepollak",
+      "text": "1. build an agent with @bankrbot \n2. launch a token on @base\n3. use the fees to fund more compute\n4. 🤖🤖🤖\n5. AGI",
+      "likes": 110,
+      "retweets": 20,
+      "url": "https://x.com/jessepollak/status/2017377857304203507"
+    },
+    {
+      "author": "jessepollak",
+      "text": "1. build an agent with @bankrbot \n2. launch a token on @base\n3. use the fees to fund more compute\n4. 🤖🤖🤖\n5. AGI",
+      "likes": 110,
+      "retweets": 20,
+      "url": "https://x.com/jessepollak/status/2017377857304203507"
+    }
+  ]
+}

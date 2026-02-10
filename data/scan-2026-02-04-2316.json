@@ -1,0 +1,268 @@
+{
+  "timestamp": "2026-02-04T23:16:06.927Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 15,
+    "neutral": 76,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$NVDA",
+      1
+    ],
+    [
+      "$CRWV",
+      1
+    ],
+    [
+      "$FREEDE",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$SHIB",
+      1
+    ],
+    [
+      "$BLOXX",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$KABUTO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$CRWV",
+        "count": 1
+      },
+      {
+        "ticker": "$FREEDE",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOXX",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$KABUTO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$SHIB",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$NVDA",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 3,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$BTC https://t.co/rS20gypLLy",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GIGA whale just bought $4.94K of $GIGA at $22.36M MC 🐳\n\nhttps://t.co/himA5Lcl4L",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$NVDA": [
+      {
+        "author": "0xSisyphus",
+        "text": "RT @DarioCpx: Kind reminder: just barely a week ago $NVDA invested additional 2bn$ in $CRWV at 87.20$ a share\n\nIf you were looking for a ca…",
+        "likes": 0,
+        "retweets": 44
+      }
+    ],
+    "$CRWV": [
+      {
+        "author": "0xSisyphus",
+        "text": "RT @DarioCpx: Kind reminder: just barely a week ago $NVDA invested additional 2bn$ in $CRWV at 87.20$ a share\n\nIf you were looking for a ca…",
+        "likes": 0,
+        "retweets": 44
+      }
+    ],
+    "$FREEDE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @dani_avila4 verified earnings for $FREEDE on @BagsApp 💰\n\nhttps://t.co/EBJkelc2EA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $1.18K of $BigTrout at $1.14M MC 🐳\n\nhttps://t.co/Z2OIbpLCIb",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SHIB": [
+      {
+        "author": "rekt_tekashi",
+        "text": "$SHIB working on it's lowest candle close ever\non coinbase. iz truly over. https://t.co/4glfp4HiEz",
+        "likes": 8,
+        "retweets": 2
+      }
+    ],
+    "$BLOXX": [
+      {
+        "author": "BloxApi",
+        "text": "Wow! This was inspiring watching @kosgoood talk about the vision. \n\nBloxAPI is thinking way too small!\n\nTime to turn it up a notch with $BLOXX.",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "TradingAloha",
+        "text": "Show me on the chart where the $ZEC shills hurt you?\n\nOnce again you followed them and they dumped on you, just like the 2 cycles before this one.\n\nThe worst part is if you look at their history they ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KABUTO": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @onchainrobber just bought $3.02K of $KABUTO at $1.81M MC 🐳\n\nhttps://t.co/8iwJkLXU5f",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "FidelCacheFlow",
+      "text": "Will die on this hill \n\n$250-500k/yr job\n$750k-1.5m Home \n$&gt;1m, &lt;$5m NW\n6 figure garage \n1-2 vacations per year \n\nIs middle class not ‘rich’\n\n&amp; you can’t convince me otherwise",
+      "likes": 1363,
+      "retweets": 24,
+      "url": "https://x.com/FidelCacheFlow/status/2019102497512779808"
+    },
+    {
+      "author": "0xdoug",
+      "text": "So to recap, AI is expected to create huge amounts of wealth, yet…\n\nWorkers lose because they’ll be replaced by robots…\n\nSoftware corps lose because they’ll be replaced by Claude code… \n\nTech giants lose because all their free cash flow is now capex…\n\nFrontier labs lose because t",
+      "likes": 541,
+      "retweets": 20,
+      "url": "https://x.com/0xdoug/status/2019114408522268681"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Quarter of a billion dollars worth of shorts liquidated above $50 on HYPE https://t.co/kKKoH2xD0A",
+      "likes": 385,
+      "retweets": 24,
+      "url": "https://x.com/ThinkingUSD/status/2019154052819349514"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Multicoin full SOL capitulation into market bottom and new HYPE ATH\n\nmovie",
+      "likes": 189,
+      "retweets": 9,
+      "url": "https://x.com/ThinkingUSD/status/2019175771907018952"
+    },
+    {
+      "author": "moonpay",
+      "text": "100 people left \n\nbrief intermission then we continue the fun",
+      "likes": 170,
+      "retweets": 29,
+      "url": "https://x.com/moonpay/status/2019186521480523818"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "lmao",
+      "likes": 147,
+      "retweets": 12,
+      "url": "https://x.com/blknoiz06/status/2019174105296380083"
+    },
+    {
+      "author": "himgajria",
+      "text": "The greatest irony of this cycle will be boomers outperforming cryptards over the past year with equities, just for cryptards to sell the bottom of crypto to enter the top of equities, while the boomers sell them the top of equities to enter crypto at the bottom, outperforming th",
+      "likes": 145,
+      "retweets": 15,
+      "url": "https://x.com/himgajria/status/2019174822149062982"
+    },
+    {
+      "author": "himgajria",
+      "text": "The greatest irony of this cycle will be boomers outperforming cryptards over the past year with equities, just for cryptards to sell the bottom of crypto to enter the top of equities, while the boomers sell them the top of equities to enter crypto at the bottom, outperforming th",
+      "likes": 145,
+      "retweets": 15,
+      "url": "https://x.com/himgajria/status/2019174822149062982"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "what is the best vehicle  to long x402",
+      "likes": 110,
+      "retweets": 7,
+      "url": "https://x.com/notthreadguy/status/2019136894999883884"
+    }
+  ]
+}

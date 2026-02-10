@@ -1,0 +1,240 @@
+{
+  "timestamp": "2026-02-10T01:51:14.740Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 2,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$PEPE",
+      1
+    ],
+    [
+      "$MOG",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ],
+    [
+      "$BITCOIN",
+      1
+    ],
+    [
+      "$TRUMP",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$AGENCY",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$MOG",
+        "count": 1
+      },
+      {
+        "ticker": "$BITCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TRUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$AGENCY",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$PEPE",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1,
+      "gold": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Gold\n\n$BTC / $XAU:     🥇  13.816 oz https://t.co/uwz3tlDt1A",
+        "likes": 43,
+        "retweets": 8
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Gold\n\n$BTC / $XAU:     🥇  13.816 oz https://t.co/uwz3tlDt1A",
+        "likes": 43,
+        "retweets": 8
+      }
+    ],
+    "$PEPE": [
+      {
+        "author": "ShisuiXBT",
+        "text": "A Letter to the 2023 Memecoin OGs\n\nWhether you held $PEPE, $MOG, $SPX, or $BITCOIN, all of our bags have gotten smoked. First on the $TRUMP launch, then on 10/10, and most recently on 2/5. If you were",
+        "likes": 25,
+        "retweets": 6
+      }
+    ],
+    "$MOG": [
+      {
+        "author": "ShisuiXBT",
+        "text": "A Letter to the 2023 Memecoin OGs\n\nWhether you held $PEPE, $MOG, $SPX, or $BITCOIN, all of our bags have gotten smoked. First on the $TRUMP launch, then on 10/10, and most recently on 2/5. If you were",
+        "likes": 25,
+        "retweets": 6
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "ShisuiXBT",
+        "text": "A Letter to the 2023 Memecoin OGs\n\nWhether you held $PEPE, $MOG, $SPX, or $BITCOIN, all of our bags have gotten smoked. First on the $TRUMP launch, then on 10/10, and most recently on 2/5. If you were",
+        "likes": 25,
+        "retweets": 6
+      }
+    ],
+    "$BITCOIN": [
+      {
+        "author": "ShisuiXBT",
+        "text": "A Letter to the 2023 Memecoin OGs\n\nWhether you held $PEPE, $MOG, $SPX, or $BITCOIN, all of our bags have gotten smoked. First on the $TRUMP launch, then on 10/10, and most recently on 2/5. If you were",
+        "likes": 25,
+        "retweets": 6
+      }
+    ],
+    "$TRUMP": [
+      {
+        "author": "ShisuiXBT",
+        "text": "A Letter to the 2023 Memecoin OGs\n\nWhether you held $PEPE, $MOG, $SPX, or $BITCOIN, all of our bags have gotten smoked. First on the $TRUMP launch, then on 10/10, and most recently on 2/5. If you were",
+        "likes": 25,
+        "retweets": 6
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $1.02K of $AGENCY at $275.62K MC 🐳\n\nhttps://t.co/7YNq9w93eQ",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$AGENCY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $1.02K of $AGENCY at $275.62K MC 🐳\n\nhttps://t.co/7YNq9w93eQ",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "0xStari",
+        "text": "If a coin can’t survive the pullback, I’m not interested.\n\n$WOJAK passing the test.\n\n5 Green Days! steady climb after the retrace. \n\nAdded to my bag. Strength showing https://t.co/vOHYDwRvpD",
+        "likes": 5,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TheNBACentel",
+      "text": "MOUSSA AND JALEN DUREN FIGHT THROWING PUNCHES!! 😳😳https://t.co/RylZn635Yv",
+      "likes": 470,
+      "retweets": 45,
+      "url": "https://x.com/TheNBACentel/status/2021036634859503658"
+    },
+    {
+      "author": "imperooterxbt",
+      "text": "I don’t have it in me to hate or fud anymore it was a good run. Maybe I just need the spark in me reignited. I will be in search of finding unhappiness so I can retain relevancy on this app and motivation to spread fud and fear. Help me on my conquest https://t.co/LX6jRwBY7K",
+      "likes": 351,
+      "retweets": 16,
+      "url": "https://x.com/imperooterxbt/status/2020955896193708043"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "ISAIAH STEWART PUNCHED MILES BRIDGES 😭😭😭 https://t.co/11CBWH2SHd",
+      "likes": 253,
+      "retweets": 34,
+      "url": "https://x.com/TheNBACentel/status/2021037837228048495"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "if i wanted to cop a camera to start doing photography w/ which one should i cop",
+      "likes": 178,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2020963512005317053"
+    },
+    {
+      "author": "imperooterxbt",
+      "text": "I saw someone make a Fortnite edit of $5 profit on memecoin and I wanted to congratulate him for not losing. I have lost my ability to hate. I don’t know what could bring it back. I am a shell of my former self",
+      "likes": 131,
+      "retweets": 1,
+      "url": "https://x.com/imperooterxbt/status/2020980230224216276"
+    }
+  ]
+}

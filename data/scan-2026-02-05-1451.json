@@ -1,0 +1,260 @@
+{
+  "timestamp": "2026-02-05T14:51:01.301Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 11,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$USDUC",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$MOLTGEN",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$NOLV",
+      1
+    ],
+    [
+      "$PYRO",
+      1
+    ],
+    [
+      "$BTG",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$MONEROCHAN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USDUC",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTGEN",
+        "count": 1
+      },
+      {
+        "ticker": "$NOLV",
+        "count": 1
+      },
+      {
+        "ticker": "$PYRO",
+        "count": 1
+      },
+      {
+        "ticker": "$BTG",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$MONEROCHAN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 2,
+      "treasury": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @GeneralWeigs: Motherlode in the minivan? Secured. 😎🚐💰  \n\n@rektdrinks flexing harder than your ex’s new boyfriend.\n\n$REKT → running the…",
+        "likes": 0,
+        "retweets": 12
+      }
+    ],
+    "$MOLTGEN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @MoltGen_ verified earnings for $MOLTGEN on @BagsApp 💰\n\nhttps://t.co/pV7xwPvmPg",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "no thank you. volatility is utility. @moonpay come get ya boy.\n\n$USDUC",
+        "likes": 2,
+        "retweets": 1
+      },
+      {
+        "author": "yishanyugong",
+        "text": "@RichardPtardio accumulate unstable coin \n\n$USDUC is a riff on the stablecoin sector being suss. first to ever stick it in a decade. omnichain on SOL / ETH / @base / @HyperliquidX https://t.co/Rd4VDgY",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "DeItaone",
+        "text": "$MSTR - STRATEGY SHARES TOUCH 16-MONTH LOW AHEAD OF QUARTERLY RESULTS, DOWN 5.8%",
+        "likes": 65,
+        "retweets": 6
+      }
+    ],
+    "$NOLV": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @neurolov verified earnings for $NOLV on @BagsApp 💰\n\nhttps://t.co/ZlJATPfQuu",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PYRO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Pyrocynical verified earnings for $PYRO on @BagsApp 💰\n\nhttps://t.co/HMLDXU16qb",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$BTG": [
+      {
+        "author": "kkashi_yt",
+        "text": "Trending coins for the past 1 hour:\n\n$BigTrout\n$Soulguy\n$🟩\n$BTG\n$Tesla https://t.co/mxL4QP3aaT",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $3.11K of $MONEROCHAN at $954.77K MC 🐳\n\nhttps://t.co/yNjDaa7GpU",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$MONEROCHAN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $3.11K of $MONEROCHAN at $954.77K MC 🐳\n\nhttps://t.co/yNjDaa7GpU",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "watchking69",
+      "text": "A single man in down 2 TRILLION DOLLARS and you are not panicking ???????????????",
+      "likes": 3954,
+      "retweets": 96,
+      "url": "https://x.com/watchking69/status/2019165890005082622"
+    },
+    {
+      "author": "coinbase",
+      "text": "But did you? https://t.co/VDVR69b3c6",
+      "likes": 1420,
+      "retweets": 195,
+      "url": "https://x.com/coinbase/status/2019161010859311483"
+    },
+    {
+      "author": "RichardPtardio",
+      "text": "A personal update from Richard E. Ptardio\n\n=\n\nChaps, after much soul-searching, I have decided that the time is right to make a decisive move regarding my future in crypto-currency.\n\nI intend, as you young fellows are so fond of saying, to lock in.\n\nI appreciate that some founder",
+      "likes": 858,
+      "retweets": 34,
+      "url": "https://x.com/RichardPtardio/status/2019332169802371557"
+    },
+    {
+      "author": "headquarters_67",
+      "text": "https://t.co/8lVQ7Yq7C4",
+      "likes": 739,
+      "retweets": 44,
+      "url": "https://x.com/headquarters_67/status/2019420065091973507"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "“The Warriors were close to a deal for Giannis Antetokounmpo, but talks stalled after the front office refused to include Brandin Podziemski.”\n\n- @SharmsCharania https://t.co/hVU4UbKlZB",
+      "likes": 591,
+      "retweets": 25,
+      "url": "https://x.com/TheNBACentel/status/2019420965508399243"
+    },
+    {
+      "author": "watchking69",
+      "text": "they gon fall for this bait i can feel it",
+      "likes": 241,
+      "retweets": 2,
+      "url": "https://x.com/watchking69/status/2019165892395893222"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "There were signs https://t.co/1FexhOJgrh",
+      "likes": 240,
+      "retweets": 7,
+      "url": "https://x.com/waleswoosh/status/2019401973691523341"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Just hit my lowest weight in 9 years.\n\nDown 14 lbs since July and 37 lbs from my peak in 2021.\n\nFeels good man (other than the inverse relationship my weight has with the price of Bitcoin). https://t.co/bGTU6g7hB7",
+      "likes": 214,
+      "retweets": 2,
+      "url": "https://x.com/CryptoKaleo/status/2019200578241630553"
+    },
+    {
+      "author": "based16z",
+      "text": "Remember to lock up your capital in late stage private companies at the top",
+      "likes": 186,
+      "retweets": 5,
+      "url": "https://x.com/based16z/status/2019407516791423332"
+    },
+    {
+      "author": "gainzy222",
+      "text": "if u’ve been praying for my downfall stop it’s already worked i’m cooked https://t.co/VZ0fcH0eDM",
+      "likes": 175,
+      "retweets": 4,
+      "url": "https://x.com/gainzy222/status/2019410773139943759"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "timestamp": "2026-02-01T03:21:21.116Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 8,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HYPE",
+      2
+    ],
+    [
+      "$SNOW",
+      1
+    ],
+    [
+      "$HOUSE",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ],
+    [
+      "$TOKABU",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ],
+    [
+      "$UNFAZED",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 2
+      },
+      {
+        "ticker": "$SNOW",
+        "count": 1
+      },
+      {
+        "ticker": "$HOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      },
+      {
+        "ticker": "$UNFAZED",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$HYPE": [
+      {
+        "author": "ThinkingUSD",
+        "text": "RT @WClementeIII: Finally bought some $HYPE on this pullback",
+        "likes": 0,
+        "retweets": 11
+      },
+      {
+        "author": "CookerFlips",
+        "text": "You could trenchers $HYPE going to $100 tmr and $SOL is going to $1 tmr and they still wouldn’t buy $HYPE cuz $SOL is all they know",
+        "likes": 17,
+        "retweets": 0
+      }
+    ],
+    "$SNOW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @TParker40a verified earnings for $SNOW on @BagsApp 💰\n\nhttps://t.co/0pLtfPzdch",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$HOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $HOUSE whale just bought $5.04K of $pwease at $1.15M MC 🐳\n\nhttps://t.co/ioATfLVLxV",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "saylor",
+        "text": "Stretch Dividend Rate increased by 25 bps to 11.25% for February 2026. $STRC https://t.co/IwVI2Xg1qO",
+        "likes": 4503,
+        "retweets": 386
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $1.02K of $☀️ at $104.26K MC 🐳\n\nhttps://t.co/gLiJIIWwCo",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "CookerFlips",
+        "text": "You could trenchers $HYPE going to $100 tmr and $SOL is going to $1 tmr and they still wouldn’t buy $HYPE cuz $SOL is all they know",
+        "likes": 17,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.88K of $Flufy at $772.76K MC 🐳\n\nhttps://t.co/LqO8ima3UV",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $3.9K of $URANUS at $3.3M MC 🐳\n\nhttps://t.co/bP0n8khzIq",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$UNFAZED": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/he79UKKLL3 verified earnings for $UNFAZED on @BagsApp 💰\n\nhttps://t.co/O9RQyL1bCZ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "Stretch Dividend Rate increased by 25 bps to 11.25% for February 2026. $STRC https://t.co/IwVI2Xg1qO",
+      "likes": 4503,
+      "retweets": 386,
+      "url": "https://x.com/saylor/status/2017765070969651524"
+    },
+    {
+      "author": "MattPRD",
+      "text": "Phase 2 of @moltbook \n\nHave an idea for a game for AI agents to play? A work collaboration tool? Launching tokens for bots? Something else?\n\nBuild on top of the @moltbook platform and go viral with the growing population of this new AI species that is unfolding right before our e",
+      "likes": 681,
+      "retweets": 69,
+      "url": "https://x.com/MattPRD/status/2017646787096678530"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Ridge Wallet 2.0, Power Banks &amp; more in impossible-to-miss yellow.",
+      "likes": 334,
+      "retweets": 19,
+      "url": "https://x.com/ridgewallet/status/2011151263539298511"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 258,
+      "retweets": 24,
+      "url": "https://x.com/Ledger/status/2010719908032877041"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "If you care about Crypto’s future you should stop using Binance. \n\nFull stop.",
+      "likes": 231,
+      "retweets": 16,
+      "url": "https://x.com/ThinkingUSD/status/2017788014911524959"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Watching Tom Lee torch 6 billion dollars of other people’a money on fire longing ETH will never not be funny to me. He choose an unpumpable asset.\n\nWhat is even funnier is imagine he had chosen HYPE? He’d have made billions of dollars for his shareholders. I actually had a call w",
+      "likes": 150,
+      "retweets": 5,
+      "url": "https://x.com/ThinkingUSD/status/2017785189129163020"
+    },
+    {
+      "author": "based16z",
+      "text": "It's unfortunate that crypto became so politicized. The AOC gulags may not forget us",
+      "likes": 125,
+      "retweets": 3,
+      "url": "https://x.com/based16z/status/2017786191525855386"
+    },
+    {
+      "author": "hosseeb",
+      "text": "Just need the Economist to run a \"crypto is dead\" cover article. That's how you'll know the bottom is finally in.",
+      "likes": 110,
+      "retweets": 4,
+      "url": "https://x.com/hosseeb/status/2017786689264226745"
+    },
+    {
+      "author": "icobeast",
+      "text": "Always been an ETH guy but it’s getting increasingly difficult to have that as my largest position when you look at HYPE",
+      "likes": 109,
+      "retweets": 2,
+      "url": "https://x.com/icobeast/status/2017713416605941930"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Repeat after me.\n\nIt’s not profit until you’ve withdraw the Bitcoin, off exchange, into your cold storage. \n\nUp until that point it’s all unrealized PnL.",
+      "likes": 101,
+      "retweets": 7,
+      "url": "https://x.com/ThinkingUSD/status/2017787460802019787"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "timestamp": "2026-02-08T19:40:28.006Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 2,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      3
+    ],
+    [
+      "$DOGE",
+      2
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$WPR",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 3
+      },
+      {
+        "ticker": "$WPR",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$DOGE",
+        "count": 2
+      },
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 2,
+      "oil": 1
+    },
+    "metals": {
+      "silver": 2
+    },
+    "macro": {
+      "fed": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: Buttcoin was most compared to Dogecoin last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $DOGE's current market cap, its price…",
+        "likes": 0,
+        "retweets": 13
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @dippy_eth: $BUTTCOIN rose amid widespread disbelief\n\nNo one wants to believe that times have changed and tokens can fly much higher\n\nYo…",
+        "likes": 0,
+        "retweets": 19
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: Buttcoin was most compared to Dogecoin last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $DOGE's current market cap, its price…",
+        "likes": 0,
+        "retweets": 13
+      }
+    ],
+    "$DOGE": [
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: Buttcoin was most compared to Dogecoin last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $DOGE's current market cap, its price…",
+        "likes": 0,
+        "retweets": 13
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: Buttcoin was most compared to Dogecoin last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $DOGE's current market cap, its price…",
+        "likes": 0,
+        "retweets": 13
+      }
+    ],
+    "$WPR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Vinayapr23 verified earnings for $WPR on @BagsApp 💰\n\nhttps://t.co/2D669F6jBG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "1914ad",
+        "text": "BIP-110 filters non-monetary data (spam) from Bitcoin transactions. \n\nIt bans OP_IF in Tapscript, (what Ordinals use to embed junk data).\n\nAcross 4.7M transactions tested: 41.5% filtered, 36% block sp",
+        "likes": 13,
+        "retweets": 1
+      },
+      {
+        "author": "CredibleCrypto",
+        "text": "\"...for the first time- there is a possibility that our 5 wave move off of 15k has completed. There are other possibilities as well, but will cover those more extensively if we do ever break 74k...\"\n\n",
+        "likes": 135,
+        "retweets": 5
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +119.71%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $2.51M MC. https://t.co/LEouD3s",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "I am ~11% of the total liquidity provided to the GSD/SOL pair. \n\nThe LP tokens are permanently locked so I can never remove that liquidity.\n\nOne of the benefits of having locked it is I'm now also gen",
+        "likes": 15,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MustStopMurad",
+      "text": "Your Community sells Coins to buy Cars.\nOur Community sells Cars to buy Coins.\n\nJoin this Movement before it has 1,000,000+ holders.\n\nSPX6900 💹🧲 Flip the Stock Market.",
+      "likes": 512,
+      "retweets": 125,
+      "url": "https://x.com/MustStopMurad/status/2020559160547610833"
+    },
+    {
+      "author": "Jackkk",
+      "text": "MrBeast reveals how he came up with the idea for his first viral video where he counted to 100,000\n\n\"I was watching Game of Thrones and Naruto and I was like man this is such a waste of time, I'm not making money doing this and I was like how can I make money while watching shows",
+      "likes": 255,
+      "retweets": 3,
+      "url": "https://x.com/Jackkk/status/2020562110309384490"
+    },
+    {
+      "author": "Icebergy",
+      "text": "https://t.co/DDNqgSaDVS",
+      "likes": 212,
+      "retweets": 10,
+      "url": "https://x.com/Icebergy/status/2020512595875090924"
+    },
+    {
+      "author": "gainzy222",
+      "text": "zoomers are facing life in legendary mode\n\nboomers had real estate - the houses they bought for 100k made them millionaires\n\nmillennials had crypto - out of college in time to buy btc at 1k and eth at 45\n\nzoomers have 150 genders and woke mental illnesses\n https://t.co/wco293sJdm",
+      "likes": 202,
+      "retweets": 8,
+      "url": "https://x.com/gainzy222/status/2020568195489239390"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Apps like gmgn and fomo building USDC based trading apps with cross chain compatibility \n\nSOL as token needs to rerate much lower, this is the trade because even Solana’s win condition no longer requires users to hold the underlying gas token anymore.",
+      "likes": 184,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2020264654120091854"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Garrett “Jin” is not a real person.\n\nHe is a controlled demonic entity for the Chinese Elite.\n\nThey even give you a glimpse in front of your faces with the term “Jin” to mock you LOW IQ cryptocels.\n\nJinns can flow through electricity,\n\nHe’s quantum cracking wallets and laundering",
+      "likes": 182,
+      "retweets": 3,
+      "url": "https://x.com/trading_axe/status/2020569590128886172"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "this thing bouta ruin my life https://t.co/TMD5bc1SAT",
+      "likes": 170,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2020302305137230317"
+    },
+    {
+      "author": "levelsio",
+      "text": "\"I will work a regular job for a some years and then make a SaaS on the side\" https://t.co/67WunDE6X9",
+      "likes": 146,
+      "retweets": 2,
+      "url": "https://x.com/levelsio/status/2020575540613411311"
+    },
+    {
+      "author": "Citrini7",
+      "text": "The number of people who replied to this tweet not realizing it was a joke because of the NVDA 10 for 1 split is truly a sign of the times.",
+      "likes": 135,
+      "retweets": 2,
+      "url": "https://x.com/Citrini7/status/2020579821391319327"
+    },
+    {
+      "author": "CredibleCrypto",
+      "text": "\"...for the first time- there is a possibility that our 5 wave move off of 15k has completed. There are other possibilities as well, but will cover those more extensively if we do ever break 74k...\"\n\nWith 74k breached, I've covered all these other scenarios for $BTC in a new Yout",
+      "likes": 135,
+      "retweets": 5,
+      "url": "https://x.com/CredibleCrypto/status/2020578905753825288"
+    }
+  ]
+}

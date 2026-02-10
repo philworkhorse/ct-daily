@@ -1,0 +1,193 @@
+{
+  "timestamp": "2026-02-09T00:58:41.013Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 3,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$JITOSOL",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$ZKFG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$ZKFG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "fed": 1,
+      "treasury": 1,
+      "yields": 1
+    }
+  },
+  "tickerDetails": {
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $3.06K of $HYPE at $11.33M MC 🐳\n\nhttps://t.co/IySqaOkATa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $3.06K of $HYPE at $11.33M MC 🐳\n\nhttps://t.co/IySqaOkATa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.07K of $Buttcoin at $29.79M MC 🐳\n\nhttps://t.co/PZXyoNkdSN",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5.05K of $ZKFG at $828.73K MC 🐳\n\nhttps://t.co/CwuEmrQb19",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZKFG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5.05K of $ZKFG at $828.73K MC 🐳\n\nhttps://t.co/CwuEmrQb19",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "kmoney",
+      "text": "THE GOYIM BOWL IS ABOUT TO START! GO ORDER YOUR FAVORITE GOYSLOP &amp; PAY +15% ON DOORDASH THEN FINANCE IT ON KLARNA SO YOU HAVE MORE GOY BUCKS TO BUY SOME GOYNIP &amp; SMOKE IT IN TIME TO BE JUDGED BY COMPANIES THAT PAID $8M A COMMERCIAL TO HYPNOTIZE YOU INTO FURTHER GOY DEGENE",
+      "likes": 10842,
+      "retweets": 913,
+      "url": "https://x.com/kmoney/status/2020611279560589583"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "Jake Paul, who lives in Puerto Rico, claims that Bad Bunny, who also lives in Puerto Rico, is a “fake American citizen.” https://t.co/BnJkjvhefY",
+      "likes": 888,
+      "retweets": 145,
+      "url": "https://x.com/HQNewsNow/status/2020659621665366270"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 364,
+      "retweets": 45,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "https://t.co/eCV7QBZG8b",
+      "likes": 232,
+      "retweets": 30,
+      "url": "https://x.com/HQNewsNow/status/2020662715791147366"
+    },
+    {
+      "author": "Citrini7",
+      "text": "type of guy who’s way more excited about Takaichi winning than the Super Bowl",
+      "likes": 206,
+      "retweets": 7,
+      "url": "https://x.com/Citrini7/status/2020650950181241331"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "Super Bowls ads this year https://t.co/qLWADYo9ze",
+      "likes": 169,
+      "retweets": 19,
+      "url": "https://x.com/hoodg3nius/status/2020662189275976035"
+    },
+    {
+      "author": "based16z",
+      "text": "This Bad Bunny concert got hella fat ppl https://t.co/Li4UQ5tLBn",
+      "likes": 155,
+      "retweets": 0,
+      "url": "https://x.com/based16z/status/2020637131983704260"
+    },
+    {
+      "author": "KookCapitalLLC",
+      "text": "i just bought 30 nfts on base lmao\n\nidk why, surely zero",
+      "likes": 149,
+      "retweets": 2,
+      "url": "https://x.com/KookCapitalLLC/status/2020568745328988632"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Hitting your goynip while eating your goyslop and drinking goyweiser watching the Goyperbowl sweating a $200 bet \n\nThis is your legacy?",
+      "likes": 144,
+      "retweets": 8,
+      "url": "https://x.com/lBattleRhino/status/2020650579643834764"
+    },
+    {
+      "author": "TheCryptoNexus",
+      "text": "Brought dad to the superbowl :) https://t.co/NqEKlWWT1o",
+      "likes": 143,
+      "retweets": 0,
+      "url": "https://x.com/TheCryptoNexus/status/2020632144520098170"
+    }
+  ]
+}

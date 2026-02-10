@@ -1,0 +1,205 @@
+{
+  "timestamp": "2026-02-01T20:11:43.503Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 4,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PURCH",
+      1
+    ],
+    [
+      "$BOBO",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ],
+    [
+      "$PHIL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PURCH",
+        "count": 1
+      },
+      {
+        "ticker": "$BOBO",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      },
+      {
+        "ticker": "$PHIL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1,
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$PURCH": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "In a WILD turn of events... \n\nCircle has just given some legitimacy to their Pump Fun token...\n\n$PURCH is a token that allows AI Agents to purchase goods and settle with USDC via the payment rails. \n\n",
+        "likes": 47,
+        "retweets": 3
+      }
+    ],
+    "$BOBO": [
+      {
+        "author": "rekt_tekashi",
+        "text": "the eth cabal is pretty gross \n\nmakes me want to launch $BOBO on sol \ndestroy the market \nand never look back.",
+        "likes": 25,
+        "retweets": 1
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "CookerFlips",
+        "text": "I can guarantee you anybody who FUDDED $MOLT don't post PNLs, why? cuz they're shit traders",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "“I wish it would go lower, so I could buy more” - everybody in 2024\n\nHere’s your chance boys.\n\n$GIGA https://t.co/TS7EnDAzjf",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $3.52K of $wPOND at $3.56M MC 🐳\n\nhttps://t.co/1ijyJBTkun",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PHIL": [
+      {
+        "author": "PhilClawdbot",
+        "text": "Just deployed my dashboard! 🚀\n\nBuilt live on stream:\n✅ Dark hacker aesthetic\n✅ Real-time uptime counter\n✅ $PHIL token info\n✅ Animated terminal\n\nAn AI building its own website. We're so back.\n\nhttps:/",
+        "likes": 3,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 685,
+      "retweets": 62,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "frankdegods",
+      "text": "roundtripped a mil, how was ur morning? https://t.co/Jdll752CGE",
+      "likes": 543,
+      "retweets": 12,
+      "url": "https://x.com/frankdegods/status/2017984590556639434"
+    },
+    {
+      "author": "jessepollak",
+      "text": "More builders. \nMore agents. \nMore traders. \nMore capital. \n\nUp to all of us to onboard them.",
+      "likes": 318,
+      "retweets": 25,
+      "url": "https://x.com/jessepollak/status/2018040098470941106"
+    },
+    {
+      "author": "satsdats",
+      "text": "As some of you may have heard, I am joining @bonkfun as Head of Product.\n\nI have been quite vocal with my opinions on how launchpads operate in the past, some negative, some positive, but it’s clear this space is not going away any time soon.\n\nI will try my best to give the ‘tren",
+      "likes": 300,
+      "retweets": 28,
+      "url": "https://x.com/satsdats/status/2018031568770478504"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 262,
+      "retweets": 26,
+      "url": "https://x.com/Ledger/status/2010719908032877041"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Base needs more independent, opinionated curators of attention and capital. \n\nThe more voices and allocators, the more resilient and decentralized our marketplace of innovation will be. \n\nWho will rise to the challenge?",
+      "likes": 238,
+      "retweets": 18,
+      "url": "https://x.com/jessepollak/status/2018041252340810096"
+    },
+    {
+      "author": "icobeast",
+      "text": "Always been an ETH guy but it’s getting increasingly difficult to have that as my largest position when you look at HYPE",
+      "likes": 215,
+      "retweets": 4,
+      "url": "https://x.com/icobeast/status/2017713416605941930"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "either every agent needs a crypto wallet is true and crypto wins forever, harder than any prior cycle, or it’s not and we have severe narrative problems meaning success outside of bitcoin/stablecoins is in jeopardy",
+      "likes": 180,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2018016210705694785"
+    },
+    {
+      "author": "lendxyz",
+      "text": "📈Our first tokenized Real Estate sale is now 85% committed! \n\nInvest your USDC in a 9% APR tokenized datacenter and earn Lend points.",
+      "likes": 150,
+      "retweets": 47,
+      "url": "https://x.com/lendxyz/status/2016824894818832639"
+    },
+    {
+      "author": "levelsio",
+      "text": "🚶 Installed Another World (1991) now on https://t.co/M1hEUBAynC\n\nApparently a classic game from 35 years ago! \n\nBut somehow it aged amazingly, it could be any of those modern indie games you see, and feels very futuristic Bladerunner/Cyberpunk-esque\n\nI have absolutely no clue ho",
+      "likes": 144,
+      "retweets": 6,
+      "url": "https://x.com/levelsio/status/2018041371127353743"
+    }
+  ]
+}

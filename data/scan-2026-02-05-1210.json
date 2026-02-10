@@ -1,0 +1,321 @@
+{
+  "timestamp": "2026-02-05T12:10:20.307Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 5,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$MSTR",
+      2
+    ],
+    [
+      "$BP",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$SILVER",
+      1
+    ],
+    [
+      "$FTP",
+      1
+    ],
+    [
+      "$LMTS",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$BLOWFISH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$BP",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$FTP",
+        "count": 1
+      },
+      {
+        "ticker": "$LMTS",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 2
+      }
+    ],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$SILVER",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 4,
+      "gold": 2,
+      "oil": 1,
+      "copper": 1
+    },
+    "metals": {
+      "silver": 4,
+      "gold": 2
+    },
+    "macro": {
+      "dxy": 1
+    }
+  },
+  "tickerDetails": {
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.4K of $BP at $3.33M MC 🐳\n\nhttps://t.co/vpghyhA5fP",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.31K of $BigTrout at $3.28M MC 🐳\n\nhttps://t.co/RVSOeBdnMl",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.4K of $BP at $3.33M MC 🐳\n\nhttps://t.co/vpghyhA5fP",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $TOILET with a PnL of +93.29%.\n\n$TOILET has been trending on Moby since $70.4K MC. Currently sitting at $2.45M MC. https://t.co/Iq9vpcU9",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $144.91K of $PUMP at $2.26B MC 🐳\n\nhttps://t.co/rcrnX7NYPS",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: Copper is ripping higher\n\nIf you missed $XAU and $SILVER, this might be your chance\n\nThe denominator is valueless; never forg…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$SILVER": [
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: Copper is ripping higher\n\nIf you missed $XAU and $SILVER, this might be your chance\n\nThe denominator is valueless; never forg…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$FTP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @FTPARANORMAL verified earnings for $FTP on @BagsApp 💰\n\nhttps://t.co/ZRlYROgtfn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LMTS": [
+      {
+        "author": "sibeleth",
+        "text": "I told y’all I am holding $LMTS and the reasons behind it.\n\nToday, @trylimitless announced they hit $1B trading volume in the platform.\n\nObviously, the non-stop flywheel will keep adding more value to",
+        "likes": 94,
+        "retweets": 21
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "fundstrat",
+        "text": "RT @ConvexDispatch: One thing that really stands out right now: crypto markets are extremely shallow.\n\nIf you’re a $BTC, $ETH, $MSTR, or $B…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "RT @ConvexDispatch: One thing that really stands out right now: crypto markets are extremely shallow.\n\nIf you’re a $BTC, $ETH, $MSTR, or $B…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "fundstrat",
+        "text": "RT @ConvexDispatch: One thing that really stands out right now: crypto markets are extremely shallow.\n\nIf you’re a $BTC, $ETH, $MSTR, or $B…",
+        "likes": 0,
+        "retweets": 9
+      },
+      {
+        "author": "dampedspring",
+        "text": "Today $MSTR will report a Q4 GAAP accounting loss of $17BN.  One of the largest losses in corporate history. Based on current spot my projected loss for Q1 is $12.8BN.  Last summer this Ponzi scheme o",
+        "likes": 59,
+        "retweets": 3
+      }
+    ],
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @nosanityxbt just bought $1.02K of $BLOWFISH at $499.6K MC 🐳\n\nhttps://t.co/qGTRATML2E",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "My birthday is next week and all I wish for is BTC to go back to my entry",
+      "likes": 369,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2019324064511516766"
+    },
+    {
+      "author": "mert",
+      "text": "I have never been more optimistic about crypto's future \n\nlet the tourists bleed out and leave \n\nwe needed to improve signal:noise ratio in this space, this will do that\n\ntrillions",
+      "likes": 357,
+      "retweets": 23,
+      "url": "https://x.com/mert/status/2019367054948856294"
+    },
+    {
+      "author": "gainzy222",
+      "text": "bro it’s been literally 8+ years of this shit\n\ncz replying to absolute bottom of the barrel retards writing drivel and the rest of us pretending this is somehow normal https://t.co/H9RthmtDvP",
+      "likes": 281,
+      "retweets": 14,
+      "url": "https://x.com/gainzy222/status/2019337621600890911"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "https://t.co/9A1zPUpJap",
+      "likes": 245,
+      "retweets": 15,
+      "url": "https://x.com/boldleonidas/status/2019375447025545420"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Vitalik is doubling down on his take on Ethereum L2s.\n\nTLDR: Actually bring something new to the table and \"vibes should match substance\".\n\nHe specifically mentions some use cases and also institutional adoption as useful areas.\n\nWe've seen quite a few chains built around that ta",
+      "likes": 199,
+      "retweets": 20,
+      "url": "https://x.com/waleswoosh/status/2019369044793774488"
+    },
+    {
+      "author": "zhusu",
+      "text": "My favorite Kyle Samani memory is when we full ported Unus Sed Leo together at $1 in summer of 2019, and when it went to $2 one month later he wanted to see if anyone would sell him calls at $5 strikes. Unfortunately we all roundtripped this back to $1 the month after, but it sho",
+      "likes": 107,
+      "retweets": 5,
+      "url": "https://x.com/zhusu/status/2019366367900889160"
+    },
+    {
+      "author": "moonpay",
+      "text": "gm!",
+      "likes": 104,
+      "retweets": 7,
+      "url": "https://x.com/moonpay/status/2019381274197258270"
+    },
+    {
+      "author": "mert",
+      "text": "all enemies of crypto will be extinguished and destroyed\n\ncapitalism is the greatest invention of humanity\n\ncrypto evolves capitalism\n\nthere is no stopping this train",
+      "likes": 103,
+      "retweets": 8,
+      "url": "https://x.com/mert/status/2019377117490999362"
+    },
+    {
+      "author": "himgajria",
+      "text": "Times like these get rid of the traders. \nTimes like these consolidate supply with the believers. \n\nBetter entries. \nMore supply control. \nLonger rallies when the tides turn.",
+      "likes": 101,
+      "retweets": 12,
+      "url": "https://x.com/himgajria/status/2019376686958297476"
+    },
+    {
+      "author": "himgajria",
+      "text": "Times like these get rid of the traders. \nTimes like these consolidate supply with the believers. \n\nBetter entries. \nMore supply control. \nLonger rallies when the tides turn.",
+      "likes": 101,
+      "retweets": 12,
+      "url": "https://x.com/himgajria/status/2019376686958297476"
+    }
+  ]
+}

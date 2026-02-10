@@ -1,0 +1,232 @@
+{
+  "timestamp": "2026-02-10T13:34:34.004Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 6,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MSTR",
+      4
+    ],
+    [
+      "$GIRAFFES",
+      2
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$MOLTEN",
+      1
+    ],
+    [
+      "$CLAWIK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIRAFFES",
+        "count": 2
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTEN",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWIK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 4
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "fed": 3,
+      "cpi": 1,
+      "nonfarm": 1,
+      "rate cut": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +745.97%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $3.4M MC. https://t.co/Ro",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +192.33%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $3.82M MC. https://t.co/L",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "$WOJAK as guessed, hitting those accumulation zone lines like crazy.\n\nAnytime now.\n\nWojak might bring th next memecoin supercyle.\n\n8J69rbLTzWWgUJziFY8jeu5tDwEPBwUz4pKBMr5rpump https://t.co/DzZpaSnNje",
+        "likes": 23,
+        "retweets": 3
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: are u ready for what's coming on $BTC? \n\nMy Chinese quant just shared this pattern with me\n\nThe bottom is not in yet. I will…",
+        "likes": 0,
+        "retweets": 10
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "DeItaone",
+        "text": "$MSTR - Bitcoin set to double/triple S&amp;P returns over 4–8 years despite near-term pressure; Strategy continues accumulation as volatility creates opportunity.\n\nFull Interview 👇 https://t.co/8ErvG",
+        "likes": 92,
+        "retweets": 14
+      },
+      {
+        "author": "DeItaone",
+        "text": "$MSTR - SAYLOR: WE WILL BE BUYING BITCOIN EVERY QUARTER.",
+        "likes": 107,
+        "retweets": 13
+      },
+      {
+        "author": "DeItaone",
+        "text": "$MSTR - CONCERN THAT STRATEGY WILL BE SELLING IS UNFOUNDED: SAYLOR",
+        "likes": 97,
+        "retweets": 11
+      },
+      {
+        "author": "DeItaone",
+        "text": "$MSTR - STRATEGY IS `NOT GOING TO BE SELLING' BITCOIN, SAYLOR SAYS",
+        "likes": 121,
+        "retweets": 16
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.05K of $PENGUIN at $21.69M MC 🐳\n\nhttps://t.co/u0azh5X519",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MOLTEN": [
+      {
+        "author": "iruletrenches",
+        "text": "RT @cryptokevin2011: $MOLTEN is taking things to the next level",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$CLAWIK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Clawkey_ai verified earnings for $CLAWIK on @BagsApp 💰\n\nhttps://t.co/XUQYCAjuxV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "this is a false equivalence\n\na DEX does not \"list\" all tokens, it is [in theory] a non-custodial permissionless backend and it's the job of frontends to curate\n\non the contrary, a CEX literally custodies the tokens and is thus responsible for them",
+      "likes": 292,
+      "retweets": 15,
+      "url": "https://x.com/mert/status/2021178263872196979"
+    },
+    {
+      "author": "inversebrah",
+      "text": "helthy ratio observed https://t.co/OgjfmdVtJR",
+      "likes": 207,
+      "retweets": 2,
+      "url": "https://x.com/inversebrah/status/2021185770199888365"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "What are some apps or protocols where I can still get good APY on my USDC or USDT?\n\nTell me what you're using.\n\nShould be low-risk and at least match my bank account interest rate of 2.75% lmao",
+      "likes": 207,
+      "retweets": 12,
+      "url": "https://x.com/waleswoosh/status/2021183214241341903"
+    },
+    {
+      "author": "satsdats",
+      "text": "I was very vocal before on how I believed creator fees nerfed the trenches to some extent, and just ended up in money leaving the ecosystem at a faster rate in the hands of people inheriting zero risk for it.\n\nSo, 100% of creator fees will be going back into the charts, and it wi",
+      "likes": 202,
+      "retweets": 21,
+      "url": "https://x.com/satsdats/status/2020951813751517239"
+    },
+    {
+      "author": "DeItaone",
+      "text": "$MSTR - STRATEGY IS `NOT GOING TO BE SELLING' BITCOIN, SAYLOR SAYS",
+      "likes": 121,
+      "retweets": 16,
+      "url": "https://x.com/DeItaone/status/2021211708941861037"
+    },
+    {
+      "author": "mert",
+      "text": "you don't need CBDCs for this btw, just regular centrally issued stables (which is basically all of them) also do the trick\n\nit is time for plan z",
+      "likes": 114,
+      "retweets": 15,
+      "url": "https://x.com/mert/status/2021169072193364358"
+    },
+    {
+      "author": "DeItaone",
+      "text": "$MSTR - SAYLOR: WE WILL BE BUYING BITCOIN EVERY QUARTER.",
+      "likes": 107,
+      "retweets": 13,
+      "url": "https://x.com/DeItaone/status/2021212342210515285"
+    }
+  ]
+}

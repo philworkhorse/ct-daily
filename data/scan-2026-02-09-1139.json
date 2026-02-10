@@ -1,0 +1,231 @@
+{
+  "timestamp": "2026-02-09T11:39:19.099Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 1,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CLAWSPANK",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$SEE",
+      1
+    ],
+    [
+      "$SPAWN",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$MOLTBOTAI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CLAWSPANK",
+        "count": 1
+      },
+      {
+        "ticker": "$SEE",
+        "count": 1
+      },
+      {
+        "ticker": "$SPAWN",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTBOTAI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {
+      "fed": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$CLAWSPANK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @clawspank verified earnings for $CLAWSPANK on @BagsApp 💰\n\nhttps://t.co/uWjeNZ6QXh",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "0xFinish",
+        "text": "$BTC extreme fear for the last 3 months\n\nWhile all the risk-on assets are up dramatically\n\nWe buy fear and sell greed, act accordingly https://t.co/elK9cGwYZ4",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$SEE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @PainCrypt0 just bought $1.25K of $SEE at $249.61K MC 🐳\n\nhttps://t.co/yFMlJh1qHk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SPAWN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @_clawspawn verified earnings for $SPAWN on @BagsApp 💰\n\nhttps://t.co/WnhtmtUaao",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $5K of $Buttcoin at $31.51M MC 🐳\n\nhttps://t.co/e2MnH37ZMZ",
+        "likes": 6,
+        "retweets": 2
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.42K of $1 at $3.41M MC 🐳\n\nhttps://t.co/n8qAyOxAiK",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.37K of $PENGUIN at $26.09M MC 🐳\n\nhttps://t.co/Xzoasap7dA",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "crypto_banter",
+        "text": "📈 $HYPE is holding up better than most out there...\n\nHere's TWO trade ideas from @kyledoops with EXACT levels he's watching! 👇\n\n(Stop Loss 1 & 2 included 🤝)",
+        "likes": 7,
+        "retweets": 1
+      }
+    ],
+    "$MOLTBOTAI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Moltboltai verified earnings for $MOLTBOTAI on @BagsApp 💰\n\nhttps://t.co/i9Cbas9dQv",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "slavic founders: vitalik, anatoly, illia \n\nasian founders: cz, justin, jeff, satoshi (kek)\n\namerican founders: brad garlic and charles hoskinson \n\ninteresting",
+      "likes": 441,
+      "retweets": 6,
+      "url": "https://x.com/mert/status/2020790274243371075"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 352,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "144 ETH ($297,000 USD) CryptoPunk sale.\n\nSeller bought it last week and now flipped it for $32k USD profit in just six days.\n\nIn ETH the trade looks even better.\n\nNice https://t.co/fQ6D8EgaA6",
+      "likes": 283,
+      "retweets": 9,
+      "url": "https://x.com/waleswoosh/status/2020789830632767907"
+    },
+    {
+      "author": "inversebrah",
+      "text": "inb4 saylor bought $1B at $72k 🥹 https://t.co/xAcs3Z2b3j",
+      "likes": 118,
+      "retweets": 1,
+      "url": "https://x.com/inversebrah/status/2020807392787603474"
+    },
+    {
+      "author": "cryptosanthoshK",
+      "text": "I see people posting about Altcoins dying.\n\nRemember, they said the same thing about Gold , diamond, copper, silver 10-15 years ago.\n\nSame people calling this, will claim the clout saying they guessed the altcoin pump.\n\nFollow right people and stay ready.",
+      "likes": 116,
+      "retweets": 11,
+      "url": "https://x.com/cryptosanthoshK/status/2020814808421900692"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "The more time I spend in this space, the more I just want to hold BTC over everything else.\n\nWhen I first entered crypto, I couldn't understand why anyone would buy Bitcoin over alts.\n\nNow I get it",
+      "likes": 113,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2020821348717871479"
+    }
+  ]
+}

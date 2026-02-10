@@ -1,0 +1,171 @@
+{
+  "timestamp": "2026-02-03T08:42:58.771Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 1,
+    "neutral": 93,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$BLM",
+      1
+    ],
+    [
+      "$GRACIAS",
+      1
+    ],
+    [
+      "$JARVIS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$BLM",
+        "count": 1
+      },
+      {
+        "ticker": "$GRACIAS",
+        "count": 1
+      },
+      {
+        "ticker": "$JARVIS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "gold": 4
+    },
+    "metals": {
+      "gold": 4
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.87K of $testicle❄️ at $8.84M MC 🐳\n\nhttps://t.co/8kvaTuYMZp",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "crypto_banter",
+        "text": "RT @crypto_banter: Crypto or Commodities? \nCould $BTC really go to $0? 🤔\n\nTomorrow, @cryptomanran is joined by @brandank_cr!\n\nKnown for cha…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$BLM": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Saint_pablo123 just bought $1.27K of $BLM at $124.95K MC 🐳\n\nhttps://t.co/AnrWAQzMwd",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GRACIAS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $GRACIAS on MobyScreener 🖼️ https://t.co/Syf6TbzVDC",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$JARVIS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @JarvisOpenClaw verified earnings for $JARVIS on @BagsApp 💰\n\nhttps://t.co/MCHNqcuogL",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet? https://t.co/G9lxitZiki",
+      "likes": 645,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2018565186270138474"
+    },
+    {
+      "author": "DeItaone",
+      "text": "SPOT GOLD RISES 4% TO $4,850.99/OZ",
+      "likes": 531,
+      "retweets": 30,
+      "url": "https://x.com/DeItaone/status/2018499609253863569"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Money Badger Boxes currently trading at $230 USD.\n\nPicked one up here.\n\nThey will reveal into Money Badger NFTs at some point which is the cultural layer for Paradex.\n\nPlus there are two airdrops coming up.\n\nObviously some risk to it but NFTs are down bad anyway at the moment so ",
+      "likes": 238,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2018584283657785815"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bros whats a good new movie to stream",
+      "likes": 200,
+      "retweets": 1,
+      "url": "https://x.com/blknoiz06/status/2018571378820260255"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Perps are fun and all, I get it.\n\nAnd I like trading them too.\n\nBut really the best thing you can do if you think BTC, ETH or SOL is at a good entry, is buy spot.\n\nNo need to buy on 40x leverage and get liquidated before the next leg up.\n\nBuild your portfolio slowly",
+      "likes": 136,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2018599450856562810"
+    },
+    {
+      "author": "himgajria",
+      "text": "Another 5,000,000 units of copper (inu) melted permanently. 3.5% of the total supply is now out of circulation. \n\nThis time, purely off fees (just from 1 week)\n\n&gt;$300,000 USD has been burnt.",
+      "likes": 108,
+      "retweets": 26,
+      "url": "https://x.com/himgajria/status/2018574648771015035"
+    },
+    {
+      "author": "cryptosanthoshK",
+      "text": "While the most CT is worried, big organisations are loading up heavily on bitcoin and other altcoins.\n\nBetter wake up. This is the dip to buy.\n\nFocus on RWA, Security and DEPIN.\n\n🤝",
+      "likes": 104,
+      "retweets": 11,
+      "url": "https://x.com/cryptosanthoshK/status/2018599975408775284"
+    }
+  ]
+}

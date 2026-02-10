@@ -1,0 +1,218 @@
+{
+  "timestamp": "2026-02-02T01:37:10.267Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 6,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$GENIE",
+      1
+    ],
+    [
+      "$DARKHORSE",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$WHITE",
+      1
+    ],
+    [
+      "$CVX",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$GENIE",
+        "count": 1
+      },
+      {
+        "ticker": "$DARKHORSE",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITE",
+        "count": 1
+      },
+      {
+        "ticker": "$CVX",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1,
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @pr6spr just bought $10.89K of $EURC at $88.96M MC 🐳\n\nhttps://t.co/deWsSXhOJ7",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "Average normie text\n\n$GIGA https://t.co/Jgqg3HJL5U",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GENIE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @jocarrasqueira verified earnings for $GENIE on @BagsApp 💰\n\nhttps://t.co/GO3UPEvTjN",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.29K of $DARKHORSE at $9.01M MC 🐳\n\nhttps://t.co/nW0cohEhhK",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.5K of $Buttcoin at $24.37M MC 🐳\n\nhttps://t.co/vKUK8rB4hC",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$DARKHORSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.29K of $DARKHORSE at $9.01M MC 🐳\n\nhttps://t.co/nW0cohEhhK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "_Shadow36",
+        "text": "RT @thesolanapost: 🚨 $BUTTCOIN (@ButtCoin) tops 24-hour gains across Solana’s top 40 memecoins despite a market-wide dump. https://t.co/uAM…",
+        "likes": 0,
+        "retweets": 10
+      }
+    ],
+    "$WHITE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @theahchu verified earnings for $WHITE on @BagsApp 💰\n\nhttps://t.co/tuCrf09C1w",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CVX": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Yup, $CVX also right in the target zone. Pretty much every alt I usually cover has hit its target zone, now it’s just up to daddy $BTC to hold its ground and give them a chance to move up off of these",
+        "likes": 94,
+        "retweets": 2
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Yup, $CVX also right in the target zone. Pretty much every alt I usually cover has hit its target zone, now it’s just up to daddy $BTC to hold its ground and give them a chance to move up off of these",
+        "likes": 94,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "trading_axe",
+      "text": "I met Justin in 2023 after crypto bottomed.\n\nI'm a visual analyst and let me explain that in detail:\n\nYou can \"sort of\" tell the height of someone by their proportions [lower limbs, reach size, torso length etc.]\n\nJustin popped out suited and booted but something was \"off\" - some",
+      "likes": 258,
+      "retweets": 10,
+      "url": "https://x.com/trading_axe/status/2018111551320809601"
+    },
+    {
+      "author": "trading_axe",
+      "text": "I met Justin in 2023 after crypto bottomed.\n\nI'm a visual analyst and let me explain that in detail:\n\nYou can \"sort of\" tell the height of someone by their proportions [lower limbs, reach size, torso length etc.]\n\nJustin popped out suited and booted but something was \"off\" - some",
+      "likes": 258,
+      "retweets": 10,
+      "url": "https://x.com/trading_axe/status/2018111551320809601"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "If ETH sees similar price action to what happened in May of 2022 and revisited $1500, how many of you are sticking around for the run back to new highs? https://t.co/Tlg22c4Ykp",
+      "likes": 156,
+      "retweets": 7,
+      "url": "https://x.com/CryptoKaleo/status/2018111961796329491"
+    },
+    {
+      "author": "frankdegods",
+      "text": "some out of nowhere VR innovation would save the market",
+      "likes": 100,
+      "retweets": 3,
+      "url": "https://x.com/frankdegods/status/2018100705685328254"
+    }
+  ]
+}

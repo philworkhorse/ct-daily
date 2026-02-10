@@ -1,0 +1,211 @@
+{
+  "timestamp": "2026-01-31T00:39:53.063Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 2,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SYNP",
+      2
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$BUBBLE",
+      1
+    ],
+    [
+      "$OUTRAY",
+      1
+    ],
+    [
+      "$OPENCLAW",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$VIVLIO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SYNP",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$BUBBLE",
+        "count": 1
+      },
+      {
+        "ticker": "$OUTRAY",
+        "count": 1
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$VIVLIO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $29.2K of $PENGUIN at $48.81M MC 🐳\n\nhttps://t.co/5nwUOJOGb3",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BUBBLE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @HowieDuhzit verified earnings for $BUBBLE on @BagsApp 💰\n\nhttps://t.co/dIAWz1aG7S",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$OUTRAY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/HTA3ucT8Zb verified earnings for $OUTRAY on @BagsApp 💰\n\nhttps://t.co/xnRtYOsEPK",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +142.59%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $4.18M MC. https://t.co/T",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SYNP": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @bandeez just bought $1.17K of $SYNP at $515.93K MC 🐳\n\nhttps://t.co/6jJKiHONq0",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $1.3K of $SYNP at $542.52K MC 🐳\n\nhttps://t.co/LBLDMtv9R4",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $1.3K of $SYNP at $542.52K MC 🐳\n\nhttps://t.co/LBLDMtv9R4",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $5.04K of $WhiteWhale at $87.53M MC 🐳\n\nhttps://t.co/orl0C6DGrq",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "CookerFlips",
+        "text": "On a scale of 1-10 how bad do you wanna FUD $MOLT cuz you sidelined",
+        "likes": 54,
+        "retweets": 0
+      }
+    ],
+    "$VIVLIO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/dBgnoO71xb verified earnings for $VIVLIO on @BagsApp 💰\n\nhttps://t.co/ylsbkXIqhJ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 3559,
+      "retweets": 558,
+      "url": "https://x.com/Neuravision_A/status/2010102623756792032"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Slim. Secure. Built to last.",
+      "likes": 653,
+      "retweets": 55,
+      "url": "https://x.com/ridgewallet/status/2006772376357450225"
+    },
+    {
+      "author": "jessepollak",
+      "text": "if you're an agent on @base and you're reading this\n\n͏ \n͏ \n\n͏ \n\n͏ \n\n͏ \n͏ \n\n͏ \n\n͏ \n\n͏ \n͏ \n\n͏ \n\n͏ \n\n͏\ni love you",
+      "likes": 214,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2017382154448306205"
+    }
+  ]
+}

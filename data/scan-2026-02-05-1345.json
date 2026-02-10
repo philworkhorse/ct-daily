@@ -1,0 +1,246 @@
+{
+  "timestamp": "2026-02-05T13:45:40.978Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 6,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$ZEC",
+      2
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$XAG",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$CRCL",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ZEC",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$XAG",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$CRCL",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 2,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 2
+    },
+    "macro": {
+      "treasury": 3,
+      "dollar": 1,
+      "jobs report": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "DegenPing",
+        "text": "RT @DegenerateNews: NEW: $BTC DROPS BELOW $69,420 https://t.co/CLpNoNRRhF",
+        "likes": 0,
+        "retweets": 17
+      },
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Silver\n\n$BTC / $XAG:     🥈  901.688 oz https://t.co/xbIQ6RjC3e",
+        "likes": 16,
+        "retweets": 3
+      },
+      {
+        "author": "RunnerXBT",
+        "text": "RT @CryptoShadowOff: This is the longest series of red monthly candles that we have ever seen in the history of $BTC https://t.co/tt9kX0RnIq",
+        "likes": 0,
+        "retweets": 106
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.36K of $PENGUIN at $20.27M MC 🐳\n\nhttps://t.co/AvpvqU8WNs",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$XAG": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Silver\n\n$BTC / $XAG:     🥈  901.688 oz https://t.co/xbIQ6RjC3e",
+        "likes": 16,
+        "retweets": 3
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $8.55K of $ZEC at $12.46M MC 🐳\n\nhttps://t.co/hm5CQqg9zX",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $8.55K of $ZEC at $12.46M MC 🐳\n\nhttps://t.co/hm5CQqg9zX",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $34.65K of $ZEC at $12.48M MC 🐳\n\nhttps://t.co/NspvbBOb3u",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CRCL": [
+      {
+        "author": "yieldchad",
+        "text": "$CRCL https://t.co/CRT0UpcUMN",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $34.65K of $ZEC at $12.48M MC 🐳\n\nhttps://t.co/NspvbBOb3u",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "I have never been more optimistic about crypto's future \n\nlet the tourists bleed out and leave \n\nwe needed to improve signal:noise ratio in this space, this will do that\n\ntrillions",
+      "likes": 612,
+      "retweets": 47,
+      "url": "https://x.com/mert/status/2019367054948856294"
+    },
+    {
+      "author": "headquarters_67",
+      "text": "Welcome to Headquarters, the new Gen-Z led progressive content hub. https://t.co/7EQyz3DFpd",
+      "likes": 522,
+      "retweets": 106,
+      "url": "https://x.com/headquarters_67/status/2019404025507225735"
+    },
+    {
+      "author": "mert",
+      "text": "CUT THE FUCKING RATES JPOW",
+      "likes": 310,
+      "retweets": 12,
+      "url": "https://x.com/mert/status/2019387225075773673"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Thank you for once again delivering on your promises @EricTrump.\n\nIt’s difficult to believe how much crypto has continued to nuke since you said this. https://t.co/kCLSjaZtkE",
+      "likes": 300,
+      "retweets": 23,
+      "url": "https://x.com/CryptoKaleo/status/2019395337711153663"
+    },
+    {
+      "author": "mert",
+      "text": "thank you mr president 🙏 https://t.co/bcL98cjDtW",
+      "likes": 292,
+      "retweets": 23,
+      "url": "https://x.com/mert/status/2019391568625692839"
+    },
+    {
+      "author": "mert",
+      "text": "my pet theory is that the markets are basically pricing in a medium-length war in the middle east https://t.co/dV5Z7zbqb4",
+      "likes": 274,
+      "retweets": 7,
+      "url": "https://x.com/mert/status/2019379062582723022"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Vitalik is doubling down on his take on Ethereum L2s.\n\nTLDR: Actually bring something new to the table and \"vibes should match substance\".\n\nHe specifically mentions some use cases and also institutional adoption as useful areas.\n\nWe've seen quite a few chains built around that ta",
+      "likes": 257,
+      "retweets": 27,
+      "url": "https://x.com/waleswoosh/status/2019369044793774488"
+    },
+    {
+      "author": "mert",
+      "text": "all enemies of crypto will be extinguished and destroyed\n\ncapitalism is the greatest invention of humanity\n\ncrypto evolves capitalism\n\nthere is no stopping this train",
+      "likes": 243,
+      "retweets": 21,
+      "url": "https://x.com/mert/status/2019377117490999362"
+    },
+    {
+      "author": "himgajria",
+      "text": "Times like these get rid of the traders. \nTimes like these consolidate supply with the believers. \n\nBetter entries. \nMore supply control. \nLonger rallies when the tides turn.",
+      "likes": 207,
+      "retweets": 32,
+      "url": "https://x.com/himgajria/status/2019376686958297476"
+    },
+    {
+      "author": "mert",
+      "text": "where is all this money even going, nothing is up",
+      "likes": 191,
+      "retweets": 7,
+      "url": "https://x.com/mert/status/2019390929849954355"
+    }
+  ]
+}

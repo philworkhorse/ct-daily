@@ -1,0 +1,257 @@
+{
+  "timestamp": "2026-02-03T09:00:30.580Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 2,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$WET",
+      1
+    ],
+    [
+      "$DONT",
+      1
+    ],
+    [
+      "$PLATINUM",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$SOLO",
+      1
+    ],
+    [
+      "$ZCLAW",
+      1
+    ],
+    [
+      "$REELCLAW",
+      1
+    ],
+    [
+      "$KABUTO",
+      1
+    ],
+    [
+      "$BRIC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WET",
+        "count": 1
+      },
+      {
+        "ticker": "$DONT",
+        "count": 1
+      },
+      {
+        "ticker": "$PLATINUM",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$SOLO",
+        "count": 1
+      },
+      {
+        "ticker": "$ZCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$REELCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$KABUTO",
+        "count": 1
+      },
+      {
+        "ticker": "$BRIC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 3,
+      "gold": 3,
+      "silver": 2,
+      "platinum": 1
+    },
+    "metals": {
+      "gold": 3,
+      "silver": 2,
+      "platinum": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "0xSisyphus",
+        "text": "RT @lookonchain: vitalik.eth(@VitalikButerin) continues to sell $ETH, having sold 493 $ETH($1.16M) in the past 8 hours.\n\nhttps://t.co/pMvkZ…",
+        "likes": 0,
+        "retweets": 100
+      }
+    ],
+    "$WET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $5.48K of $DONT at $2.14M MC 🐳\n\nhttps://t.co/UEUyvnj2CF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$DONT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $5.48K of $DONT at $2.14M MC 🐳\n\nhttps://t.co/UEUyvnj2CF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PLATINUM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @PARABOLIT verified earnings for $PLATINUM on @BagsApp 💰\n\nhttps://t.co/EMPJh6Ecvw",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "heart_",
+        "text": "$BTC is like the fake chinese gold that you peel away the store of value narrative and look inside and it’s a risk-on trading instrument https://t.co/vpWxW9tKAb",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $6.55K of $SOLO at $13.18M MC 🐳\n\nhttps://t.co/GZm36XhHhp",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOLO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $6.55K of $SOLO at $13.18M MC 🐳\n\nhttps://t.co/GZm36XhHhp",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ZCLAW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @zclawd verified earnings for $ZCLAW on @BagsApp 💰\n\nhttps://t.co/rkvaoAZ0yC",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$REELCLAW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ReelClawAi verified earnings for $REELCLAW on @BagsApp 💰\n\nhttps://t.co/F0uFD4mCcO",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$KABUTO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $4.97K of $KABUTO at $1.56M MC 🐳\n\nhttps://t.co/fePYhTzUHC",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BRIC": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @NostaIgicGareth verified earnings for $BRIC on @BagsApp 💰\n\nhttps://t.co/y32DfBc4d7",
+        "likes": 5,
+        "retweets": 4
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet? https://t.co/G9lxitZiki",
+      "likes": 679,
+      "retweets": 11,
+      "url": "https://x.com/waleswoosh/status/2018565186270138474"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Money Badger Boxes currently trading at $230 USD.\n\nPicked one up here.\n\nThey will reveal into Money Badger NFTs at some point which is the cultural layer for Paradex.\n\nPlus there are two airdrops coming up.\n\nObviously some risk to it but NFTs are down bad anyway at the moment so ",
+      "likes": 244,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2018584283657785815"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bros whats a good new movie to stream",
+      "likes": 202,
+      "retweets": 1,
+      "url": "https://x.com/blknoiz06/status/2018571378820260255"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Perps are fun and all, I get it.\n\nAnd I like trading them too.\n\nBut really the best thing you can do if you think BTC, ETH or SOL is at a good entry, is buy spot.\n\nNo need to buy on 40x leverage and get liquidated before the next leg up.\n\nBuild your portfolio slowly",
+      "likes": 166,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2018599450856562810"
+    },
+    {
+      "author": "himgajria",
+      "text": "Another 5,000,000 units of copper (inu) melted permanently. 3.5% of the total supply is now out of circulation. \n\nThis time, purely off fees (just from 1 week)\n\n&gt;$300,000 USD has been burnt.",
+      "likes": 114,
+      "retweets": 28,
+      "url": "https://x.com/himgajria/status/2018574648771015035"
+    }
+  ]
+}

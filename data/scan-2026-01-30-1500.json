@@ -1,0 +1,369 @@
+{
+  "timestamp": "2026-01-30T15:00:23.664Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MAXIS",
+      2
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$NPC",
+      2
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$MOLTBOOK",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$MEGA",
+      1
+    ],
+    [
+      "$ANYTHING",
+      1
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$ELON",
+      1
+    ],
+    [
+      "$BLUELOBSTE",
+      1
+    ],
+    [
+      "$AURA",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$CVG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MAXIS",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$NPC",
+        "count": 2
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTBOOK",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$MEGA",
+        "count": 1
+      },
+      {
+        "ticker": "$ANYTHING",
+        "count": 1
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$ELON",
+        "count": 1
+      },
+      {
+        "ticker": "$BLUELOBSTE",
+        "count": 1
+      },
+      {
+        "ticker": "$AURA",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$CVG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 5,
+      "gold": 5,
+      "copper": 3,
+      "oil": 1,
+      "corn": 2
+    },
+    "metals": {
+      "silver": 5,
+      "gold": 5
+    },
+    "macro": {
+      "dollar": 2,
+      "fed": 3,
+      "treasury": 2,
+      "powell": 1
+    }
+  },
+  "tickerDetails": {
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @scopescan_io: 17 Smart Money Wallets are accumulating a huge amount of $COPPERINU\n\nMoneyflow:\nhttps://t.co/FnlNbowOcZ",
+        "likes": 0,
+        "retweets": 10
+      }
+    ],
+    "$MOLTBOOK": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Moltbook has the CRYPTO && TECH worlds in SHOCK! \n\nFor those unaware, Moltbook, is basically Reddit, but only for AI Agents. \n\nIt allows Claude (now Molt) Bot, to be able to post and interact with oth",
+        "likes": 42,
+        "retweets": 1
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Moltbook has the CRYPTO && TECH worlds in SHOCK! \n\nFor those unaware, Moltbook, is basically Reddit, but only for AI Agents. \n\nIt allows Claude (now Molt) Bot, to be able to post and interact with oth",
+        "likes": 42,
+        "retweets": 1
+      }
+    ],
+    "$MEGA": [
+      {
+        "author": "waleswoosh",
+        "text": "The cabal is trying to manipulate the MegaETH pre-market price on Hyperliquid.\n\nWe all know $MEGA gonna trade above $0.4 USD https://t.co/wGW3MSEFH0",
+        "likes": 237,
+        "retweets": 4
+      }
+    ],
+    "$ANYTHING": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @doenythingapp verified earnings for $ANYTHING on @BagsApp 💰\n\nhttps://t.co/RDo4pscgUz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $3.21K of $WhiteWhale at $77.64M MC 🐳\n\nhttps://t.co/Qk8Thye1FH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MAXIS": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $MAXIS with a PnL of +167.25%.\n\n$MAXIS has been trending on Moby since $130.85K MC. Currently sitting at $557.04K MC. https://t.co/EiN8m",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $MAXIS with a PnL of +94.95%.\n\n$MAXIS has been trending on Moby since $130.85K MC. Currently sitting at $557.04K MC. https://t.co/Q2QQco",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.86K of $ELON at $3.88M MC 🐳\n\nhttps://t.co/pT5HjKtBft",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $27.13K of $XAUt0 at $12.9M MC 🐳\n\nhttps://t.co/cr1z2J3dQ5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.86K of $ELON at $3.88M MC 🐳\n\nhttps://t.co/pT5HjKtBft",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BLUELOBSTE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @selfmadeheroes verified earnings for $BLUELOBSTE on @BagsApp 💰\n\nhttps://t.co/kvq3fuI9gN",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$NPC": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $NPC with a PnL of +177.54%.\n\n$NPC has been trending on Moby since $71.09K MC. Currently sitting at $307.67K MC. https://t.co/5XpaXrKMAx",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $NPC with a PnL of +126.38%.\n\n$NPC has been trending on Moby since $71.09K MC. Currently sitting at $322.23K MC. https://t.co/j0HjNIfyw6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AURA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AURA whale just bought $3.32K of $aura at $13.1M MC 🐳\n\nhttps://t.co/QyWWeWljlt",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GP": [
+      {
+        "author": "GraphiteProto",
+        "text": "Treasury & Buyback Update:\n\nOver the last 30 days, the Graphite ecosystem has generated over $2.2M in revenue, continuing to grow market share and strengthen the platform. While automated buybacks are",
+        "likes": 16,
+        "retweets": 8
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $27.13K of $XAUt0 at $12.9M MC 🐳\n\nhttps://t.co/cr1z2J3dQ5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CVG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @thegarettscott verified earnings for $CVG on @BagsApp 💰\n\nhttps://t.co/Srn6BPMsTi",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Wendys",
+      "text": "new personality unlocked 🔓 https://t.co/B6uhtAJeMt",
+      "likes": 2596,
+      "retweets": 75,
+      "url": "https://x.com/Wendys/status/2003190804135706743"
+    },
+    {
+      "author": "LASIKdotcom",
+      "text": "Another Missed Call? Nominate a Major League Professional Referee for FREE LASIK, and Score $1,000* Off Your Own Procedure!",
+      "likes": 647,
+      "retweets": 180,
+      "url": "https://x.com/LASIKdotcom/status/1922711102577615005"
+    },
+    {
+      "author": "mert",
+      "text": "solana remains the most usable, battle-hardened, and scalable chain in the real world\n\npayments, programmability, spot trading and soon perps and predictions\n\nas AI reduces friction for creating apps, it will emerge as the universal API for world finance",
+      "likes": 291,
+      "retweets": 18,
+      "url": "https://x.com/mert/status/2017230473693458942"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "The cabal is trying to manipulate the MegaETH pre-market price on Hyperliquid.\n\nWe all know $MEGA gonna trade above $0.4 USD https://t.co/wGW3MSEFH0",
+      "likes": 237,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2017225627133465063"
+    },
+    {
+      "author": "Cricketnation",
+      "text": "$35, zero limits. Join Cricket and get a single line of unlimited for just $35/mo.",
+      "likes": 187,
+      "retweets": 6,
+      "url": "https://x.com/Cricketnation/status/2005457505988522023"
+    },
+    {
+      "author": "mert",
+      "text": "I joke a lot but it will be the case that BTC, ZEC, and SOL will take over the universe\n\nthe \"we're early\" shit got cringe af\n\nbut after seeing gold trade **2x the entire mcap** of all crypto in just 3 days, it should be clear to you that it is still day 1 in crypto\n\ntrillions",
+      "likes": 169,
+      "retweets": 11,
+      "url": "https://x.com/mert/status/2017242536759209992"
+    },
+    {
+      "author": "ColdBloodShill",
+      "text": "feels like a good % of those of us left here don't actually care if BTC trades lower, because we just want SOMETHING to happen",
+      "likes": 153,
+      "retweets": 3,
+      "url": "https://x.com/ColdBloodShill/status/2017225854812663924"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Live w/ Polymarket https://t.co/h7iKNF7yy4",
+      "likes": 137,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2017240356971282485"
+    },
+    {
+      "author": "mert",
+      "text": "4 rough asset classes in crypto:\n\n- SoV / shared social myth (BTC and ZEC)\n- blockchain / universal finance API (SOL)\n- exchange (HYPE, LIT, etc)\n- protocol (e.g lending)\n\nconflating them for each other in your valuations is a great way to become poor",
+      "likes": 123,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2017228861306540470"
+    }
+  ]
+}

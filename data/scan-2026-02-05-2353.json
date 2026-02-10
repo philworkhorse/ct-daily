@@ -1,0 +1,138 @@
+{
+  "timestamp": "2026-02-05T23:53:59.004Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 0,
+    "neutral": 94,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "corn": 1
+    },
+    "metals": {
+      "precious metals": 1,
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "Im more bullish on gold over bitcoin right now.\n\n$BTC could see a -70% flash crash while gold pumps 17% \n\nNever underestimate the corn 🌽",
+        "likes": 292,
+        "retweets": 13
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $4.03K of $GP at $16.91M MC 🐳\n\nhttps://t.co/kdK5udyXXO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "crypto: -80%\nstocks: -15%\ncommodities: -10%\ncurrencies: -0.1%\nhermes bags: +5%\n\ncongrats gentlemen, you got out-traded by your girl",
+      "likes": 624,
+      "retweets": 28,
+      "url": "https://x.com/mert/status/2019533161344999650"
+    },
+    {
+      "author": "a1lon9",
+      "text": "Despite market conditions, we’re expanding our team rapidly and aggressively.\n\n@_relational , @whythebrixxx & @scardi have proven that they have an outstanding understanding and passion for the onchain trading space over the past few years.\n\nSupporting our existing team with thei",
+      "likes": 392,
+      "retweets": 17,
+      "url": "https://x.com/a1lon9/status/2019531898356404711"
+    },
+    {
+      "author": "crypto_bitlord7",
+      "text": "Im more bullish on gold over bitcoin right now.\n\n$BTC could see a -70% flash crash while gold pumps 17% \n\nNever underestimate the corn 🌽",
+      "likes": 292,
+      "retweets": 13,
+      "url": "https://x.com/crypto_bitlord7/status/1496853870563057665"
+    },
+    {
+      "author": "frankdegods",
+      "text": "that was a brutal bear market",
+      "likes": 167,
+      "retweets": 6,
+      "url": "https://x.com/frankdegods/status/2019549930931777574"
+    },
+    {
+      "author": "based16z",
+      "text": "“Do you want 30% drawdown and no dividends or do you want 9% drawdown and 11% dividend?”\n\n- Michael Saylor, earnings call",
+      "likes": 147,
+      "retweets": 1,
+      "url": "https://x.com/based16z/status/2019548053573890110"
+    },
+    {
+      "author": "retardmode",
+      "text": "peace and quiet https://t.co/CWxfjquPy2",
+      "likes": 147,
+      "retweets": 10,
+      "url": "https://x.com/retardmode/status/2019558302003392941"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "$20 billion in unrealized loses. https://t.co/W6VCqgR7xM",
+      "likes": 128,
+      "retweets": 4,
+      "url": "https://x.com/DipWheeler/status/2019552031162396916"
+    },
+    {
+      "author": "artsch00lreject",
+      "text": "now is a good time to announce no taxes on cryptocurrencies btw",
+      "likes": 105,
+      "retweets": 7,
+      "url": "https://x.com/artsch00lreject/status/2019541903440769343"
+    },
+    {
+      "author": "fejau_inc",
+      "text": "basically impossible to get a recession when you're doing $600b of new marginal capex in a year btw",
+      "likes": 104,
+      "retweets": 4,
+      "url": "https://x.com/fejau_inc/status/2019551582627721649"
+    }
+  ]
+}

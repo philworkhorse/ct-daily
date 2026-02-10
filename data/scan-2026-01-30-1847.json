@@ -1,0 +1,232 @@
+{
+  "timestamp": "2026-01-30T18:47:09.329Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 5,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$XAG",
+      1
+    ],
+    [
+      "$HELGA",
+      1
+    ],
+    [
+      "$SHELLMATES",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$XAG",
+        "count": 1
+      },
+      {
+        "ticker": "$HELGA",
+        "count": 1
+      },
+      {
+        "ticker": "$SHELLMATES",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 6,
+      "copper": 2,
+      "silver": 12
+    },
+    "metals": {
+      "gold": 6,
+      "silver": 12
+    },
+    "macro": {
+      "fed": 4,
+      "jobs report": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "the majority of volume going into $BUTTCOIN is coming from coinbase’s new solana on-chain integration\n\nthe wallet that operates on behalf of coinbase users is the top holder of $BUTTCOIN\n\nremember the",
+        "likes": 24,
+        "retweets": 6
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $3.07K of $WOJAK at $10.28M MC 🐳\n\nhttps://t.co/ZDWDwMUPGq",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XAG": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "They’ve been cooking this silver scam since the 1800s $XAG https://t.co/OqOgcSYKDO",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$HELGA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Helgaweb_3 verified earnings for $HELGA on @BagsApp 💰\n\nhttps://t.co/XP00sDuMtx",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.39K of $crust at $1.54M MC 🐳\n\nhttps://t.co/4tN2ym5dJo",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.39K of $crust at $1.54M MC 🐳\n\nhttps://t.co/1Udsf3k9fh",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$SHELLMATES": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @shellmatesapp verified earnings for $SHELLMATES on @BagsApp 💰\n\nhttps://t.co/M5V6Ny0ngM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $28.9K of $SKR at $205.17M MC 🐳\n\nhttps://t.co/8GIghR69Zx",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "\"We believe Bitcoin is the foundational asset of this ecosystem and the premier long-term store of value.\" - @binance",
+      "likes": 3756,
+      "retweets": 357,
+      "url": "https://x.com/saylor/status/2017283708902941121"
+    },
+    {
+      "author": "Applebees",
+      "text": "Try the NEW O-M-Cheese Burger for $11.99. Our Juicy Bacon Cheese Burger served in a skillet of cheese. Only at Applebee's",
+      "likes": 2131,
+      "retweets": 124,
+      "url": "https://x.com/Applebees/status/2009173234084974912"
+    },
+    {
+      "author": "trading_axe",
+      "text": "They gave the boomers a taste of 10/10.\n\n~ Dr. Axius.",
+      "likes": 261,
+      "retweets": 24,
+      "url": "https://x.com/trading_axe/status/2017305775379468632"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Dev mined more supply https://t.co/HeBQ9CJASW",
+      "likes": 256,
+      "retweets": 8,
+      "url": "https://x.com/ThinkingUSD/status/2017283966210871802"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Read this now.\n\nThis is the most important thing you will read this year.",
+      "likes": 247,
+      "retweets": 54,
+      "url": "https://x.com/MustStopMurad/status/2017302001441542522"
+    },
+    {
+      "author": "goodalexander",
+      "text": "The silver dev was just waiting for the Binance listing it turns out",
+      "likes": 186,
+      "retweets": 10,
+      "url": "https://x.com/goodalexander/status/2017244842783396014"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "They're going to slam rates to 1% and Bitcoin is going to double to 160k+. \n\nIt's obvious. \n\nAlso for as a Bonus, here's the new US Federal Reserve Chair Kevin Warsh talking about Bitcoin. https://t.co/Vv3oHyt9wq",
+      "likes": 149,
+      "retweets": 11,
+      "url": "https://x.com/ThinkingUSD/status/2017298096032473105"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Silver is down -30% in a single day.\n\nA single day.\n\nWhen was the last time BTC dropped 30% in one day?\n\nSilver is a shitcoin. Gold too.\n\nThe real store of value is BTC. \n\nLower volatility",
+      "likes": 139,
+      "retweets": 7,
+      "url": "https://x.com/waleswoosh/status/2017302636731769271"
+    },
+    {
+      "author": "fejau_inc",
+      "text": "4 https://t.co/w4VuVv04Qf",
+      "likes": 132,
+      "retweets": 5,
+      "url": "https://x.com/fejau_inc/status/2017303300140315100"
+    },
+    {
+      "author": "ColdBloodShill",
+      "text": "Incredibly rough day for the normies who decided Silver was attractive above $100 all of a sudden.\n\nI suspect the realisation of now holding an asset that only moves like this once every 50 years will begin to sink in over the coming months. https://t.co/9VIvayvqAv",
+      "likes": 126,
+      "retweets": 5,
+      "url": "https://x.com/ColdBloodShill/status/2017297760123232278"
+    }
+  ]
+}

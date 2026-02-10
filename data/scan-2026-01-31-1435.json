@@ -1,0 +1,276 @@
+{
+  "timestamp": "2026-01-31T14:35:16.547Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 6,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$JUPSOL",
+      3
+    ],
+    [
+      "$COPPERINU",
+      2
+    ],
+    [
+      "$FREEMOLT",
+      2
+    ],
+    [
+      "$BIRB",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$FMOLT",
+      1
+    ],
+    [
+      "$INF",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JUPSOL",
+        "count": 3
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 2
+      },
+      {
+        "ticker": "$FREEMOLT",
+        "count": 2
+      },
+      {
+        "ticker": "$BIRB",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$FMOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$INF",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 3,
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "inflation": 1,
+      "fed": 2
+    }
+  },
+  "tickerDetails": {
+    "$BIRB": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @opensea: Some of the top web3 news this week:\n🦉 @moonbirds launches $BIRB \n🥤 @rektdrinks  sells out at @XGames \n🏦 @avax gets first US s…",
+        "likes": 0,
+        "retweets": 32
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @LuigiRFRM: $COPPERINU\n\n\"It's just a dead cat bounce, glad i sold\"\n\"Actually pumped a bit, won't get past the 8M resistance tho lol\"\n\"Da…",
+        "likes": 0,
+        "retweets": 14
+      },
+      {
+        "author": "himgajria",
+        "text": "RT @0xpeely: people will remember $COPPERINU as the most hated rally of this cycle\n\nbookmark this https://t.co/h7274sXPif",
+        "likes": 0,
+        "retweets": 12
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "docXBT",
+        "text": "$BTC - Acceptance below pyval and 10w cval \n\nReclaim 87k with some force or we begin a fresh rotation lower imo https://t.co/gS35tHwb3j",
+        "likes": 74,
+        "retweets": 3
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $4.37K of $ZEC at $17.91M MC 🐳\n\nhttps://t.co/NmhIXy5rg5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $4.37K of $ZEC at $17.91M MC 🐳\n\nhttps://t.co/NmhIXy5rg5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FREEMOLT": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ihateoop just bought $1.78K of $FREEMOLT at $234.11K MC 🐳\n\nhttps://t.co/R5yHHJxd33",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ihateoop just bought $2.13K of $FREEMOLT at $234.11K MC 🐳\n\nhttps://t.co/R5yHHJxd33",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FMOLT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @flappymolt verified earnings for $FMOLT on @BagsApp 💰\n\nhttps://t.co/ArLYC9S9q6",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$JUPSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $131.54K of $INF at $259.84M MC 🐳\n\nhttps://t.co/aOFXJE7PF1",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $151.38K of $JitoSOL at $1.59B MC 🐳\n\nhttps://t.co/npNrd4Ta87",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $424.04K of $lanternSOL at $12.7M MC 🐳\n\nhttps://t.co/jPrFQw0etd",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$INF": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $131.54K of $INF at $259.84M MC 🐳\n\nhttps://t.co/aOFXJE7PF1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "pepsi",
+      "text": "Challenge over, winner decided: The choice is PEPSI https://t.co/RrcOKUTjoc",
+      "likes": 156095,
+      "retweets": 15513,
+      "url": "https://x.com/pepsi/status/2016889076008571307"
+    },
+    {
+      "author": "mert",
+      "text": "physically can not imagine anything worse for humanity than bots being trained on reddit data \n\nthe most cancerous midwit echo chamber in human history",
+      "likes": 263,
+      "retweets": 12,
+      "url": "https://x.com/mert/status/2017587019288031431"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Often times when other markets drop (i.e. metals or stocks) and Bitcoin does not immediately drop, people think \"Bitcoin is holding up well!\"\n\nThen usually within a couple of weeks, Bitcoin drops too.\n\nI think there is a strong case that Bitcoin will retest the April 2025 low htt",
+      "likes": 250,
+      "retweets": 14,
+      "url": "https://x.com/intocryptoverse/status/2017603633093755153"
+    },
+    {
+      "author": "gainzy222",
+      "text": "dragonfly cofounder writes ‘USDe only depegged on binance so assets should have only nuked on binance’\n\nif i’m long btc on any exchange and suddenly btc nukes on binance, i’m closing my position\n\nalgos would script that close and/or open short\n\nthis tweet seems retarded to me",
+      "likes": 209,
+      "retweets": 9,
+      "url": "https://x.com/gainzy222/status/2017576484714525111"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "rate outta 10 https://t.co/JtcLMDt72U",
+      "likes": 205,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017532278985920746"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "rate outta 10 https://t.co/JtcLMDt72U",
+      "likes": 205,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017532278985920746"
+    },
+    {
+      "author": "gainzy222",
+      "text": "The best performing group from 2017-2025 that kept their sanity and made it were btc maxis who just kept buying btc\n\nAlt maxis outperformed them massively during alt seasons but eventually zero’d out\n\nI think over the next 4-8 years this repeats with zec\n https://t.co/Qdye7YHfoJ",
+      "likes": 161,
+      "retweets": 10,
+      "url": "https://x.com/gainzy222/status/2017577535693816126"
+    },
+    {
+      "author": "himgajria",
+      "text": "Your memecoin is limited to crypto. \nOur memecoin is for absolutely everyone. \n\nMission: the inufication of finance.\n\nInu = limited supply (or even deflationary) narrative-driven, free from boomer control.",
+      "likes": 113,
+      "retweets": 10,
+      "url": "https://x.com/himgajria/status/2017584410925928478"
+    },
+    {
+      "author": "himgajria",
+      "text": "Primed? https://t.co/KVGBykdfF9",
+      "likes": 102,
+      "retweets": 7,
+      "url": "https://x.com/himgajria/status/2017589933339504650"
+    }
+  ]
+}

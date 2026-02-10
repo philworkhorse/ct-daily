@@ -1,0 +1,219 @@
+{
+  "timestamp": "2026-02-04T23:56:19.769Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 10,
+    "neutral": 76,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$PACO",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$GIF",
+      1
+    ],
+    [
+      "$BLUE",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PACO",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$GIF",
+        "count": 1
+      },
+      {
+        "ticker": "$BLUE",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "saylor",
+        "text": "RT @Strategy: We’re excited to welcome leading $BTC analysts to the live Q&amp;A during our Q4 Earnings Call tomorrow at 5 PM ET: @LynAldenCont…",
+        "likes": 0,
+        "retweets": 36
+      }
+    ],
+    "$PACO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @pacodotme verified earnings for $PACO on @BagsApp 💰\n\nhttps://t.co/ppjjcW5fe6",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "BasedShillBH",
+        "text": "RT @HyperliquidNews: $HYPE hits a new ATH against $ETH https://t.co/MsidBtOCX9",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "BasedShillBH",
+        "text": "RT @HyperliquidNews: $HYPE hits a new ATH against $ETH https://t.co/MsidBtOCX9",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "RT @Zfgoat: $GSD Mentioned here by @austingriffith around 41:15\n\n@official_taches @lowcap_hunter",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$GIF": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @GiFShitpost verified earnings for $GIF on @BagsApp 💰\n\nhttps://t.co/eU9Tf6iW01",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BLUE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @blueb3rry017 verified earnings for $BLUE on @BagsApp 💰\n\nhttps://t.co/WQUEIsOTqe",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $2.47K of $BigTrout at $1.39M MC 🐳\n\nhttps://t.co/h3Ld4sTgKd",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "DipWheeler",
+      "text": "Generational bottom. https://t.co/eXyovVOgAE",
+      "likes": 14181,
+      "retweets": 198,
+      "url": "https://x.com/DipWheeler/status/2019074182022045832"
+    },
+    {
+      "author": "inversebrah",
+      "text": "banger, smolchained https://t.co/asGrVCxcqd",
+      "likes": 282,
+      "retweets": 19,
+      "url": "https://x.com/inversebrah/status/2019032691941720275"
+    },
+    {
+      "author": "mert",
+      "text": "this interestingly means Kyle is increasing his SOL exposure (through FWD) relative to before\n\nmy guess is Forward will start becoming more aggressive, whereas VCs have to be relatively more passive",
+      "likes": 140,
+      "retweets": 6,
+      "url": "https://x.com/mert/status/2019171012018082235"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "Tempting to think a local bottom is close,  but:\n\n-There are still 200 DATs w no viable biz model, all under mNAV\n-overhang from quantum shaking investors\n-2 largest ETH whales still have a lot of spot to sell\n\nWork through that and we can talk about rebuilding in q4\n\nGL, Sahara ",
+      "likes": 126,
+      "retweets": 3,
+      "url": "https://x.com/Evan_ss6/status/2019183182747238654"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "Tempting to think a local bottom is close,  but:\n\n-There are still 200 DATs w no viable biz model, all under mNAV\n-overhang from quantum shaking investors\n-2 largest ETH whales still have a lot of spot to sell\n\nWork through that and we can talk about rebuilding in q4\n\nGL, Sahara ",
+      "likes": 126,
+      "retweets": 3,
+      "url": "https://x.com/Evan_ss6/status/2019183182747238654"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "what is the best vehicle  to long x402",
+      "likes": 125,
+      "retweets": 8,
+      "url": "https://x.com/notthreadguy/status/2019136894999883884"
+    },
+    {
+      "author": "jessepollak",
+      "text": "13 years in, I'm not going anywhere.\n\ntoo much left to build.",
+      "likes": 108,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2019194850428719471"
+    },
+    {
+      "author": "jessepollak",
+      "text": "13 years in, I'm not going anywhere.\n\ntoo much left to build.",
+      "likes": 107,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2019194850428719471"
+    }
+  ]
+}

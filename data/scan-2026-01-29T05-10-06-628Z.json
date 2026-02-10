@@ -1,0 +1,160 @@
+{
+  "timestamp": "2026-01-29T05:10:06.628Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 18,
+    "bearish": 4,
+    "neutral": 78,
+    "total": 100
+  },
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 7
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$CHICKEN",
+        "count": 1
+      },
+      {
+        "ticker": "$PEPPER",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$USDS",
+        "count": 1
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$OYEN",
+        "count": 1
+      },
+      {
+        "ticker": "$WAR",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$BITCOIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 4
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "copper": 5
+    },
+    "metals": {
+      "gold": 5
+    },
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "highEngagement": [
+    {
+      "author": "Tradermayne",
+      "text": "Gold chart looks like the end of the world is coming",
+      "likes": 657,
+      "retweets": 42,
+      "url": "https://x.com/Tradermayne/status/2016706566402297999"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "coins printing a higher low https://t.co/ugiU2YLCRf",
+      "likes": 654,
+      "retweets": 31,
+      "url": "https://x.com/blknoiz06/status/2016714893022368014"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "#Bitcoin / $BTC\n\nSend it to $100K+ with haste. https://t.co/g5bP92DPjU",
+      "likes": 566,
+      "retweets": 41,
+      "url": "https://x.com/CryptoKaleo/status/2016253024558019057"
+    },
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 278,
+      "retweets": 32,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "Bounce. https://t.co/eQuCED40Qm",
+      "likes": 154,
+      "retweets": 8,
+      "url": "https://x.com/DipWheeler/status/2016701547191947551"
+    },
+    {
+      "author": "fejau_inc",
+      "text": "Probably a good way of tracking the eventual top here",
+      "likes": 152,
+      "retweets": 2,
+      "url": "https://x.com/fejau_inc/status/2016708746995781964"
+    },
+    {
+      "author": "himgajria",
+      "text": "Everything bad that could have happened to it has already happened. \n\nYet, it’s higher than everything currently being pushed by the same people that have caused the harm.",
+      "likes": 137,
+      "retweets": 10,
+      "url": "https://x.com/himgajria/status/2016712470338077099"
+    },
+    {
+      "author": "inversebrah",
+      "text": "frog cooked wif dis one?\n\nyes or no https://t.co/5qrQk9wB60",
+      "likes": 126,
+      "retweets": 4,
+      "url": "https://x.com/inversebrah/status/2016686433554362501"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "the entire world is slamming the same copper chart and praying",
+      "likes": 113,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2016716491983335450"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "guy at the apple store that sold me my mac doesn’t know what claude is \n\nmight be earlier than we realize",
+      "likes": 110,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2016685405760786870"
+    }
+  ]
+}

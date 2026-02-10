@@ -1,0 +1,320 @@
+{
+  "timestamp": "2026-02-07T09:24:43.385Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 1,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$AVAX",
+      1
+    ],
+    [
+      "$SHIRO",
+      1
+    ],
+    [
+      "$CLAWPHONE",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$AURA",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ],
+    [
+      "$XVEL",
+      1
+    ],
+    [
+      "$TOKEN",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$POAI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SHIRO",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWPHONE",
+        "count": 1
+      },
+      {
+        "ticker": "$AURA",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      },
+      {
+        "ticker": "$XVEL",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKEN",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$POAI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$AVAX",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1,
+      "unemployment": 1
+    }
+  },
+  "tickerDetails": {
+    "$AVAX": [
+      {
+        "author": "inversebrah",
+        "text": "RT @thetopsignal: @avery_bartlett @gerhardvonbier @0xSmitty @vohvohh Are you having fun on $AVAX?",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$SHIRO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @himari__dayo verified earnings for $SHIRO on @BagsApp 💰\n\nhttps://t.co/XMXXcSWYYm",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWPHONE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @marshalrichrds verified earnings for $CLAWPHONE on @BagsApp 💰\n\nhttps://t.co/4XfNGT2OJ2",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "milesdeutscher",
+        "text": "Don't trust this $BTC bounce.\n\nBefore you get too carried away, watch this video. \n\n@ParadiseXBT_ breaks down exactly what the charts are saying - and the exact trade setup he's taking.",
+        "likes": 19,
+        "retweets": 0
+      }
+    ],
+    "$AURA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AURA whale just bought $10.1K of $67 at $5.08M MC 🐳\n\nhttps://t.co/MgGSCo3ZhW",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $13.92K of $SKR at $225.97M MC 🐳\n\nhttps://t.co/fTTincsPEk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $13.92K of $SKR at $225.97M MC 🐳\n\nhttps://t.co/fTTincsPEk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "DFlash is a real leap in LLM acceleration.\n\nIt swaps the slow, one-token-at-a-time drafting of speculative decoders for a parallel block-diffusion drafter—generating up to 16 tokens in a single shot, ",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $25.01K of $JupSOL at $409.81M MC 🐳\n\nhttps://t.co/vqas38tZ9H",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $0.67K of $XVEL at $662.5K MC 🐳\n\nhttps://t.co/co952mvJAi",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XVEL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $0.67K of $XVEL at $662.5K MC 🐳\n\nhttps://t.co/co952mvJAi",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TOKEN": [
+      {
+        "author": "Tokenizedog",
+        "text": "Hey everyone, happy to greet you all on this beautiful day! 🌞\nI’m sure you’ve all noticed how confidently we’re strengthening our position. We’re not distracted by the overall market mood - we keep w",
+        "likes": 15,
+        "retweets": 9
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.49K of $1 at $4.05M MC 🐳\n\nhttps://t.co/U8Y0SYxLgo",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$POAI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/exxW23bXUB verified earnings for $POAI on @BagsApp 💰\n\nhttps://t.co/tnIPDk8dS9",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet https://t.co/4EwU9TAHRz",
+      "likes": 642,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2020014724096905481"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Polymarket with more visits than the top crypto websites combined.\n\nAnd about to flip Robinhood.\n\nPolymarket supercycle",
+      "likes": 206,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020033571449348426"
+    },
+    {
+      "author": "SilvXBT",
+      "text": "Shout out to my nigga Garrett for choosing to sell his BTC on a Saturday probably learned it from his cousin CZ Bin Laden",
+      "likes": 154,
+      "retweets": 12,
+      "url": "https://x.com/SilvXBT/status/2020052618815623232"
+    },
+    {
+      "author": "solana",
+      "text": "THIS WEEK IN MEDIA: 1/30-2/6",
+      "likes": 143,
+      "retweets": 18,
+      "url": "https://x.com/solana/status/2020057792049213729"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "snow, japan https://t.co/i0yfKPoOI1",
+      "likes": 131,
+      "retweets": 0,
+      "url": "https://x.com/izebel_eth/status/2020045284907090219"
+    },
+    {
+      "author": "gainzy222",
+      "text": "vitalik finally using his influence for good, supporting zec\n\ninstead of fudding assets down 90%\n\ngood guy vitalik \n https://t.co/8rHo7lfcKp",
+      "likes": 123,
+      "retweets": 2,
+      "url": "https://x.com/gainzy222/status/2020023786146566502"
+    },
+    {
+      "author": "cryptosanthoshK",
+      "text": "WEEKEND MARKET PUMP SHOULD BE ILLEGAL. https://t.co/lny0hFopqg",
+      "likes": 119,
+      "retweets": 15,
+      "url": "https://x.com/cryptosanthoshK/status/2020054944003322222"
+    },
+    {
+      "author": "Icebergy",
+      "text": "that’s it?",
+      "likes": 115,
+      "retweets": 3,
+      "url": "https://x.com/Icebergy/status/2019641346244636776"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "timestamp": "2026-02-05T19:39:02.731Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 7,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$EDITING",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$USDT",
+      1
+    ],
+    [
+      "$BOBO",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$RETARDIO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$EDITING",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$USDT",
+        "count": 1
+      },
+      {
+        "ticker": "$BOBO",
+        "count": 1
+      },
+      {
+        "ticker": "$RETARDIO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "gold": 1
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.94K of $dreams at $12.54M MC 🐳\n\nhttps://t.co/ilpaBRMtF1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "Every coin down -12-20%\n\n$GIGA down -9%\n\nRelative strength😈😈😈",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EDITING": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @yarnvfx verified earnings for $EDITING on @BagsApp 💰\n\nhttps://t.co/MgzS44jdoj",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SPX whale just bought $6.63K of $ZEC at $11.83M MC 🐳\n\nhttps://t.co/Ugvr5hGxpu",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SPX whale just bought $6.63K of $ZEC at $11.83M MC 🐳\n\nhttps://t.co/Ugvr5hGxpu",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USDT": [
+      {
+        "author": "crypto_banter",
+        "text": "RT @Crypto_James444: Ran shuts down the $USDT FUD\n\n“Tether holds more U.S. Treasuries than most countries.” https://t.co/xOhOJczHOH",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$BOBO": [
+      {
+        "author": "rekt_tekashi",
+        "text": "RT @bobocoineth: https://t.co/poxg3tW9hy has now surpassed over 7000 bear memes! 🐻 \n\nCreated by Artists in the $BOBO community. https://t.c…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Cbb0fe",
+        "text": "RT @Cbb0fe: I'm convinced something broke in crypto 7 days ago.\n\nWhat's your real upside when\n\n$BTC is already a top 10 asset in the world…",
+        "likes": 0,
+        "retweets": 107
+      }
+    ],
+    "$RETARDIO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $RETARDIO whale just bought $13.36K of $raiSOL at $2.12M MC 🐳\n\nhttps://t.co/DYSIPRY9hz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "cobie",
+      "text": "@Crypto_McKenna In some ways worse tbh. More like 2015",
+      "likes": 1376,
+      "retweets": 41,
+      "url": "https://x.com/cobie/status/2019459370770104754"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "pulse check",
+      "likes": 557,
+      "retweets": 20,
+      "url": "https://x.com/blknoiz06/status/2019462671372878245"
+    },
+    {
+      "author": "Crypto_McKenna",
+      "text": "It may be the worst sentiment I've seen since FTX.",
+      "likes": 546,
+      "retweets": 23,
+      "url": "https://x.com/Crypto_McKenna/status/2019452689961062744"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i mean who the fuck are they polling",
+      "likes": 372,
+      "retweets": 16,
+      "url": "https://x.com/notthreadguy/status/2019479225309225102"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "This is clearly some deca/centibillionaire selling BTC + ETH specifically. \n\nIt will eventually end.",
+      "likes": 330,
+      "retweets": 8,
+      "url": "https://x.com/ThinkingUSD/status/2019484859358408713"
+    },
+    {
+      "author": "mert",
+      "text": "it's very simple\n\neither crypto is over forever or the coins are on mass discount and you're emotional\n\nif you believe the former, I don't know what you're doing here",
+      "likes": 276,
+      "retweets": 14,
+      "url": "https://x.com/mert/status/2019484794732589273"
+    },
+    {
+      "author": "goodalexander",
+      "text": "anyone else feel exhilarated when there is blood on the streets or is there something deeply wrong with me",
+      "likes": 246,
+      "retweets": 8,
+      "url": "https://x.com/goodalexander/status/2019479311422537932"
+    },
+    {
+      "author": "GwartyGwart",
+      "text": "I mean I wouldn’t call it all a “failed experiment” we did create an exchange that makes a cow moo sound when you make a swap which, to my knowledge, did not exist before crypto",
+      "likes": 229,
+      "retweets": 20,
+      "url": "https://x.com/GwartyGwart/status/2019484675203383366"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "BTC is 67k 😂😂 get it? 6-7 🤣🤣",
+      "likes": 224,
+      "retweets": 13,
+      "url": "https://x.com/rasmr_eth/status/2019439007151845809"
+    },
+    {
+      "author": "leap_xyz",
+      "text": "There’s legit no catalysts left, nothing to believe in, btc coopted by DATS/mstr, nations not bidding, tradfi making their own chains (tempo), alt season probably won’t happen again, quantum fud, crypto as a whole tied way too much to trump/republicans and democrats probably win ",
+      "likes": 196,
+      "retweets": 19,
+      "url": "https://x.com/leap_xyz/status/2019483358837801209"
+    }
+  ]
+}

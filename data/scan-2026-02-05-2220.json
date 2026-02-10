@@ -1,0 +1,238 @@
+{
+  "timestamp": "2026-02-05T22:20:04.449Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 6,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$FARTCOIN",
+      2
+    ],
+    [
+      "$TLT",
+      1
+    ],
+    [
+      "$ZM",
+      1
+    ],
+    [
+      "$CLAW",
+      1
+    ],
+    [
+      "$PETAH",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$TLT",
+        "count": 1
+      },
+      {
+        "ticker": "$ZM",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$PETAH",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$TLT": [
+      {
+        "author": "0xsmac",
+        "text": "RT @TheStalwart: Biggest $TLT rally since 10/10/25",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$ZM": [
+      {
+        "author": "0xsmac",
+        "text": "RT @JackFarley96: Flirting with becoming a Zoom bull $ZM",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$CLAW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Sendrydotdev verified earnings for $CLAW on @BagsApp 💰\n\nhttps://t.co/eAVN4aeJE6",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $7.36K of $PENGUIN at $18.1M MC 🐳\n\nhttps://t.co/kyOq5ZrPuS",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $3.68K of $PENGUIN at $18.17M MC 🐳\n\nhttps://t.co/ax2c0fXTZp",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $7.36K of $PENGUIN at $18.1M MC 🐳\n\nhttps://t.co/kyOq5ZrPuS",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $3.68K of $PENGUIN at $18.17M MC 🐳\n\nhttps://t.co/ax2c0fXTZp",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.48K of $BigTrout at $3.46M MC 🐳\n\nhttps://t.co/MG2alxiKxA",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$PETAH": [
+      {
+        "author": "traderpow",
+        "text": "$PETAH mode https://t.co/bShmiInMOQ",
+        "likes": 100,
+        "retweets": 21
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "0xBens0n",
+        "text": "Everyone realized Binance is cooked and most volume’s moving to $HYPE. That to me explains the price action.",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "frankdegods",
+      "text": "what the fuck is michael saylor going to say at earnings call?",
+      "likes": 1274,
+      "retweets": 25,
+      "url": "https://x.com/frankdegods/status/2019480661329944873"
+    },
+    {
+      "author": "a1lon9",
+      "text": "Despite market conditions, we’re expanding our team rapidly and aggressively.\n\n@_relational , @whythebrixxx & @scardi have proven that they have an outstanding understanding and passion for the onchain trading space over the past few years.\n\nSupporting our existing team with thei",
+      "likes": 226,
+      "retweets": 10,
+      "url": "https://x.com/a1lon9/status/2019531898356404711"
+    },
+    {
+      "author": "mert",
+      "text": "we are now at this phase btw\n\nI hope you reserved some powder for this https://t.co/HcAcj9B3Gu",
+      "likes": 158,
+      "retweets": 9,
+      "url": "https://x.com/mert/status/2019462118626488519"
+    },
+    {
+      "author": "mert",
+      "text": "crypto: -80%\nstocks: -15%\ncommodities: -10%\ncurrencies: -0.1%\nhermes bags: +5%\n\ncongrats gentlemen, you got out-traded by your girl",
+      "likes": 151,
+      "retweets": 9,
+      "url": "https://x.com/mert/status/2019533161344999650"
+    },
+    {
+      "author": "mert",
+      "text": "why is it that when all assets on earth nuke these stupid ass hermes bags still stay the same price holy shit i will never recover from this valentines day",
+      "likes": 133,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2019528876427514194"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "we spent a week worshipping a suicidal penguin &amp; now bitcoin is at $64k.\n\nlesson in that. https://t.co/5iuHmP3uE8",
+      "likes": 124,
+      "retweets": 6,
+      "url": "https://x.com/DipWheeler/status/2019528543085199709"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "who goin to eth denver next week?",
+      "likes": 114,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2019503359548338293"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "who goin to eth denver next week?",
+      "likes": 114,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2019503359548338293"
+    },
+    {
+      "author": "ByzGeneral",
+      "text": "The goyim released the Epstein files, destroy all of their markets. https://t.co/wOnValh8Nv",
+      "likes": 108,
+      "retweets": 3,
+      "url": "https://x.com/ByzGeneral/status/2019532903223554309"
+    },
+    {
+      "author": "udiWertheimer",
+      "text": "saylor earnings call starts in 5 minutes\n\nSIGH https://t.co/nAASI86C7h",
+      "likes": 106,
+      "retweets": 6,
+      "url": "https://x.com/udiWertheimer/status/2019530195057930382"
+    }
+  ]
+}

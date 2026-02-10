@@ -1,0 +1,185 @@
+{
+  "timestamp": "2026-02-09T22:41:37.233Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 6,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$ICHR",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$RISE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$ICHR",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$RISE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 3,
+      "fed": 1,
+      "treasury": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @YusufGemz: Lotta whales be buying the $BUTTCOIN dip, what do they know? https://t.co/gVpKp3aQWW",
+        "likes": 0,
+        "retweets": 24
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.91K of $PENGUIN at $23.5M MC 🐳\n\nhttps://t.co/bm82W93qDA",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ICHR": [
+      {
+        "author": "Citrini7",
+        "text": "Good news for the semicap subsystems thesis - $ICHR up 20% post market following earnings. https://t.co/LmSvQMrV01",
+        "likes": 18,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": ".@realcryptocow talks about paradigm shift that is happening with fair launched tokens.\n\nI couldn’t agree more.\n\nThere are many reasons why fair launched tokens are beneficial.\n\nBut the #1 reason they",
+        "likes": 8,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "On the weekly chart, $BTC is still in a bear market. The move from 60K to 73-75K looks like a dead-cat bounce into major resistance.\n\nMy plan:\n• Wait for a clear deviation\n• Short only on confirmation",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$RISE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0GAntD just bought $1.31K of $RISE at $158.15K MC 🐳\n\nhttps://t.co/4f4NvUDUlS",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MrBeast",
+      "text": "No one has solved the $1,000,000 puzzle in our SuperBowl ad yesterday. You could win a million dollars from your pc today 🤪",
+      "likes": 20602,
+      "retweets": 579,
+      "url": "https://x.com/MrBeast/status/2020851385747522045"
+    },
+    {
+      "author": "a1lon9",
+      "text": "we’re selecting a few teams to come on stream and pitch their idea/product directly to Tim and me tomorrow\n\nwho should we invite?",
+      "likes": 1248,
+      "retweets": 124,
+      "url": "https://x.com/a1lon9/status/2020931882175824358"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "LMAOOOOOOOOOOOOO IM SO FUCKNG SURE",
+      "likes": 347,
+      "retweets": 13,
+      "url": "https://x.com/hoodg3nius/status/2020988220624785901"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bros how do we feel about shopify",
+      "likes": 222,
+      "retweets": 7,
+      "url": "https://x.com/blknoiz06/status/2020956898548183537"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "livvy dunne gets brutally chestmogged by alabama sorority foid. https://t.co/gi0vadEqPa",
+      "likes": 192,
+      "retweets": 5,
+      "url": "https://x.com/DipWheeler/status/2020964242174906433"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "if i wanted to cop a camera to start doing photography w/ which one should i cop",
+      "likes": 139,
+      "retweets": 2,
+      "url": "https://x.com/blknoiz06/status/2020963512005317053"
+    },
+    {
+      "author": "frankdegods",
+      "text": "🤦‍♂️ https://t.co/7NW4MsBmcG",
+      "likes": 138,
+      "retweets": 2,
+      "url": "https://x.com/frankdegods/status/2020892069724586175"
+    }
+  ]
+}

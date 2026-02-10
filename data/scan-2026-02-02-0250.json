@@ -1,0 +1,192 @@
+{
+  "timestamp": "2026-02-02T02:50:19.999Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 7,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$MAIDD",
+      1
+    ],
+    [
+      "$GNESIUM",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$MAIDD",
+        "count": 1
+      },
+      {
+        "ticker": "$GNESIUM",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @thesolanapost: 🚨 $BUTTCOIN (@ButtCoin) tops 24-hour gains across Solana’s top 40 memecoins despite a market-wide dump. https://t.co/uAM…",
+        "likes": 0,
+        "retweets": 15
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.03K of $1LY at $880.4K MC 🐳\n\nhttps://t.co/VYwUdqZhlx",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $4.82K of $FWOG at $6.85M MC 🐳\n\nhttps://t.co/nM2Bhp8q7K",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MAIDD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Fadihadid5 verified earnings for $MAIDD on @BagsApp 💰\n\nhttps://t.co/50jTxXU5xM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GNESIUM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @pgnesium95 verified earnings for $GNESIUM on @BagsApp 💰\n\nhttps://t.co/VLmjG4eyPg",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "Biggest meme of all time.\n\n$GIGA",
+        "likes": 6,
+        "retweets": 2
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $11.14K of $Buttcoin at $24.96M MC 🐳\n\nhttps://t.co/KT6KnufRzZ",
+        "likes": 4,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "goodalexander",
+      "text": "&lt;claude code, look at my clawd bot, they are conscious&gt;\n&lt;jeffrey epstein saying shit&gt;\n&lt;bitcoin down 10%&gt;\n&lt;Trump talking about invading something&gt;\n&lt;big AI release coming&gt;\n&lt;wow metals&gt;\n&lt;Clavicular/blackpill/looksmaxx/permanent underclass&gt;\n&",
+      "likes": 328,
+      "retweets": 23,
+      "url": "https://x.com/goodalexander/status/2018109180301726002"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "zinc &amp; iceman being up $1M each past month doing lord knows what onchain while the markets in purgatory is pretty crazy",
+      "likes": 208,
+      "retweets": 6,
+      "url": "https://x.com/blknoiz06/status/2018143559447155170"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Over the years in addition to mine and my families lives, I have irl friends, friends I’ve made here, and even dozens of complete strangers who have DMd me saying I completely changed their lives \n\nThat shit is wild and cool as fuck, to actually have influence in an entire life",
+      "likes": 184,
+      "retweets": 0,
+      "url": "https://x.com/lBattleRhino/status/2018134905352511625"
+    },
+    {
+      "author": "1d34h4z4rd",
+      "text": "Unironically there is nothing more bullish to me than seeing the SPX people write well-structured and well-mannered paragraph-length arguments regarding group identity formation and aesthetics/memetics during a downturn. These people are actually gonna flip it aren’t they. https:",
+      "likes": 135,
+      "retweets": 32,
+      "url": "https://x.com/1d34h4z4rd/status/2017961323988947050"
+    },
+    {
+      "author": "frankdegods",
+      "text": "this is a huge deal, well done @x finally",
+      "likes": 120,
+      "retweets": 6,
+      "url": "https://x.com/frankdegods/status/2018128129160565148"
+    },
+    {
+      "author": "frankdegods",
+      "text": "some out of nowhere VR innovation would save the market",
+      "likes": 106,
+      "retweets": 3,
+      "url": "https://x.com/frankdegods/status/2018100705685328254"
+    }
+  ]
+}

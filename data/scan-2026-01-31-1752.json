@@ -1,0 +1,234 @@
+{
+  "timestamp": "2026-01-31T17:52:47.513Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 5,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$XRP",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$MILK",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$BP",
+      1
+    ],
+    [
+      "$CLAWDBOT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$MILK",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$BP",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWDBOT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$XRP",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 2,
+      "gold": 3
+    },
+    "metals": {
+      "silver": 2,
+      "gold": 3
+    },
+    "macro": {
+      "inflation": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$XRP": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "I’m sorry if you own $XRP but due to recent news nobody should be bullish.\n\nI believe Ripple will crash under $1 very soon in a violent sell off.\n\nUltimately they have failed leading to a complete mar",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "LuckyXBT__",
+        "text": "Garrett's [Oct 10th whale] liquidation is very public at $2,280~, but I have seen *nobody* talk about Trend Research new $ETH position. \n\nFor the past 3 months, they've acquired $1.5B of $ETH (positio",
+        "likes": 14,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC has dropped below 79K \n\nShort-term structure remains bearish, but these levels are becoming relevant for long-term positioning.\n\nWe were patient at 126K...that matters now. Capital has rotated he",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.69K of $Bert at $9.08M MC 🐳\n\nhttps://t.co/op9QkeorxB",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.93K of $Bert at $9.08M MC 🐳\n\nhttps://t.co/1ekWRRFHs3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MILK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @varien verified earnings for $MILK on @BagsApp 💰\n\nhttps://t.co/1neMj6ojT1",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $5.93K of $BP at $7.47M MC 🐳\n\nhttps://t.co/8dbMwKBfS3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $5.93K of $BP at $7.47M MC 🐳\n\nhttps://t.co/8dbMwKBfS3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWDBOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @KaranVaidya6 verified earnings for $CLAWDBOT on @BagsApp 💰\n\nhttps://t.co/J2qdpKv6lQ",
+        "likes": 2,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "crypto_bitlord7",
+      "text": "Ok now try withdraw your gold.\n\nGood luck with that 👍",
+      "likes": 768,
+      "retweets": 31,
+      "url": "https://x.com/crypto_bitlord7/status/2016859688634306844"
+    },
+    {
+      "author": "MattPRD",
+      "text": "Phase 2 of @moltbook \n\nHave an idea for a game for AI agents to play? A work collaboration tool? Launching tokens for bots? Something else?\n\nBuild on top of the @moltbook platform and go viral with the growing population of this new AI species that is unfolding right before our e",
+      "likes": 268,
+      "retweets": 31,
+      "url": "https://x.com/MattPRD/status/2017646787096678530"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "charts look horrendous btw",
+      "likes": 246,
+      "retweets": 12,
+      "url": "https://x.com/blknoiz06/status/2017648414213787905"
+    },
+    {
+      "author": "imperooterxbt",
+      "text": "In the last year crypto has only became more extractive and less rewarding to users. Multiple platforms have generated 9 figures in volume while giving back $0 in airdrops. Not only have charts been down only users have no stimmy to save their portfolios this year",
+      "likes": 239,
+      "retweets": 8,
+      "url": "https://x.com/imperooterxbt/status/2017401101272977706"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "well at least hyperliquid is going to make a lot of money today",
+      "likes": 192,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2017651630053662724"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "oh brother do i have something for you",
+      "likes": 186,
+      "retweets": 0,
+      "url": "https://x.com/notthreadguy/status/2017507236159816187"
+    },
+    {
+      "author": "mert",
+      "text": "I WANT THE SELLERS LOCKED UP",
+      "likes": 123,
+      "retweets": 1,
+      "url": "https://x.com/mert/status/2017651135121911849"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "what",
+      "likes": 103,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017651185570791703"
+    }
+  ]
+}

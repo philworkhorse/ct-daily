@@ -1,0 +1,325 @@
+{
+  "timestamp": "2026-02-06T10:23:35.898Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 4,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$NOBODY",
+      2
+    ],
+    [
+      "$MET",
+      2
+    ],
+    [
+      "$FORGE",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ],
+    [
+      "$PENGU",
+      1
+    ],
+    [
+      "$UMBRA",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$MEATMARKET",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$NOBODY",
+        "count": 2
+      },
+      {
+        "ticker": "$MET",
+        "count": 2
+      },
+      {
+        "ticker": "$FORGE",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGU",
+        "count": 1
+      },
+      {
+        "ticker": "$UMBRA",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$MEATMARKET",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$FORGE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ForeskinBain just bought $5.74K of $FORGE at $799.8K MC 🐳\n\nhttps://t.co/HRnADo6Mtd",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $5.04K of $URANUS at $1.75M MC 🐳\n\nhttps://t.co/pwTUJOlfPt",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $5.04K of $URANUS at $1.75M MC 🐳\n\nhttps://t.co/pwTUJOlfPt",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGU whale just bought $4.1K of $UMBRA at $22.16M MC 🐳\n\nhttps://t.co/jtONqkRkdp",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$UMBRA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGU whale just bought $4.1K of $UMBRA at $22.16M MC 🐳\n\nhttps://t.co/jtONqkRkdp",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $9.81K of $NOBODY at $5.43M MC 🐳\n\nhttps://t.co/TSDNSwWA2C",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$NOBODY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $9.81K of $NOBODY at $5.43M MC 🐳\n\nhttps://t.co/TSDNSwWA2C",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "cryptosanthoshK",
+        "text": "ADOBE shilling $NOBODY that's under 5m MC.\n\n😒✍️",
+        "likes": 17,
+        "retweets": 1
+      }
+    ],
+    "$MET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $4.98K of $AVICI at $15.33M MC 🐳\n\nhttps://t.co/ml3vQpiQ3k",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $6.17K of $ZEC at $12.14M MC 🐳\n\nhttps://t.co/loZUmdpwZD",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $4.98K of $AVICI at $15.33M MC 🐳\n\nhttps://t.co/ml3vQpiQ3k",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $6.17K of $ZEC at $12.14M MC 🐳\n\nhttps://t.co/loZUmdpwZD",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Markets are in Extreme Fear....Again!\n\n$BTC has entered, the lowest sentiment reading on record. Worse than COVID, Luna and FTX.\n\nOver the last five years, periods of extreme fear have consistently ma",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$MEATMARKET": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @MeatMarke_fun verified earnings for $MEATMARKET on @BagsApp 💰\n\nhttps://t.co/w7E0EnWzf7",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "SolidTradesz",
+        "text": "Buying $ETH sub $2k feels like April 2025\n\nRight before the market rallied for 5 months\nand ETH ran +200% https://t.co/IpjkJCkOHz",
+        "likes": 207,
+        "retweets": 10
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "lBattleRhino",
+      "text": "Similar structure to Jan-Apr of this year but key differences \n\n1) this rally above the previous highs barely went anywhere, not nearly same magnitude as the second wave eclipsing the spring summer 2024 chop \n\n2) first time closing below this line \n\n3) Jan-Apr had tariff fear as ",
+      "likes": 546,
+      "retweets": 24,
+      "url": "https://x.com/lBattleRhino/status/1990167373572424073"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Similar structure to Jan-Apr of this year but key differences \n\n1) this rally above the previous highs barely went anywhere, not nearly same magnitude as the second wave eclipsing the spring summer 2024 chop \n\n2) first time closing below this line \n\n3) Jan-Apr had tariff fear as ",
+      "likes": 546,
+      "retweets": 24,
+      "url": "https://x.com/lBattleRhino/status/1990167373572424073"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Btc line update https://t.co/LWsp3PvT3q",
+      "likes": 323,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/1989161022184370687"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Btc line update https://t.co/LWsp3PvT3q",
+      "likes": 323,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/1989161022184370687"
+    },
+    {
+      "author": "SilvXBT",
+      "text": "Where's the fucking up only episode bastard sold his company at the top and didn't even give us an el",
+      "likes": 280,
+      "retweets": 2,
+      "url": "https://x.com/SilvXBT/status/2019569935106838860"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "X banned InfoFi and the market has been down only since.\n\nThink about that.\n\nKaito farmers please come back, we are sorry",
+      "likes": 207,
+      "retweets": 2,
+      "url": "https://x.com/waleswoosh/status/2019709448189862332"
+    },
+    {
+      "author": "SolidTradesz",
+      "text": "Buying $ETH sub $2k feels like April 2025\n\nRight before the market rallied for 5 months\nand ETH ran +200% https://t.co/IpjkJCkOHz",
+      "likes": 207,
+      "retweets": 10,
+      "url": "https://x.com/SolidTradesz/status/2019709070798995702"
+    },
+    {
+      "author": "dricstudio",
+      "text": "すまぬ https://t.co/HhFNwGWxfx",
+      "likes": 201,
+      "retweets": 11,
+      "url": "https://x.com/dricstudio/status/2019707269647311077"
+    },
+    {
+      "author": "lazyvillager1",
+      "text": "I am more bullish alts here than BTC. Think OTHERS/BTC can do well. In short: alt szn but not in the way it is typically described. I see a descending Q4 environment (so USD pairs all falling, but relative strength) borne from more natural &amp; material sellers existing for majo",
+      "likes": 192,
+      "retweets": 2,
+      "url": "https://x.com/lazyvillager1/status/1978917455272509763"
+    },
+    {
+      "author": "cryptosanthoshK",
+      "text": "💀 https://t.co/uN5oMuyhbp",
+      "likes": 130,
+      "retweets": 12,
+      "url": "https://x.com/cryptosanthoshK/status/2019706583605997795"
+    }
+  ]
+}

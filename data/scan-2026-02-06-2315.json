@@ -1,0 +1,262 @@
+{
+  "timestamp": "2026-02-06T23:15:55.634Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 1,
+    "neutral": 93,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$JUPSOL",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$BMN",
+      1
+    ],
+    [
+      "$BOBO",
+      1
+    ],
+    [
+      "$NINJA",
+      1
+    ],
+    [
+      "$UNREDACTED",
+      1
+    ],
+    [
+      "$JITOSOL",
+      1
+    ],
+    [
+      "$JEFFTUBE",
+      1
+    ],
+    [
+      "$JUICE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$JUPSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$BMN",
+        "count": 1
+      },
+      {
+        "ticker": "$BOBO",
+        "count": 1
+      },
+      {
+        "ticker": "$NINJA",
+        "count": 1
+      },
+      {
+        "ticker": "$UNREDACTED",
+        "count": 1
+      },
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$JEFFTUBE",
+        "count": 1
+      },
+      {
+        "ticker": "$JUICE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$HYPE": [
+      {
+        "author": "DeeZe",
+        "text": "RT @rediamondjr: Real economics in a rapidly growing marketplace, not simply a store of value. That’s why  $HYPE continues to outperform BT…",
+        "likes": 0,
+        "retweets": 106
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "inversebrah",
+        "text": "RT @lookonchain: Feb 6 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: -6,201 $BTC(-$422.85M)🔴\n7D NetFlow: -17,435 $BTC(-$1.19B)🔴\n\n#Ethereum ETFs:\n1D N…",
+        "likes": 0,
+        "retweets": 20
+      }
+    ],
+    "$JUPSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $88.1K of $JupSOL at $422.77M MC 🐳\n\nhttps://t.co/552vijyWzh",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "RT @mmmikema: The strongest V shape recovery in stock and crypto history is coming for Ethereum and @BitMNR in the next weeks...\n\n$ETH $BMN…",
+        "likes": 0,
+        "retweets": 11
+      }
+    ],
+    "$BMN": [
+      {
+        "author": "fundstrat",
+        "text": "RT @mmmikema: The strongest V shape recovery in stock and crypto history is coming for Ethereum and @BitMNR in the next weeks...\n\n$ETH $BMN…",
+        "likes": 0,
+        "retweets": 11
+      }
+    ],
+    "$BOBO": [
+      {
+        "author": "rekt_tekashi",
+        "text": "RT @bobocoineth: We really get to use this meme again. $BOBO 🐻 https://t.co/HuuYOJtRw3",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$NINJA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ToolsNinja41292 verified earnings for $NINJA on @BagsApp 💰\n\nhttps://t.co/UIJQZ1BKQk",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$UNREDACTED": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0GAntD just bought $1.31K of $UNREDACTED at $179.81K MC 🐳\n\nhttps://t.co/ieJJiHRPQC",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $29.88K of $JitoSOL at $1.22B MC 🐳\n\nhttps://t.co/D7Xpag7HIv",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$JEFFTUBE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/36vWriskNA verified earnings for $JEFFTUBE on @BagsApp 💰\n\nhttps://t.co/XdGt4hbZUh",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$JUICE": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $JUICE with a PnL of +428.72%.\n\n$JUICE has been trending on Moby since $129.11K MC. Currently sitting at $2.28M MC. https://t.co/qa2lzDI",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "hoodg3nius",
+      "text": "Imma be completely honest my list is kinda mid\n\nAll time it’s:\n\n1. One Piece \n2. DBZ\n3. Gintama \n4. Future Diary \n5. Erased (minus the Last episode)",
+      "likes": 2515,
+      "retweets": 51,
+      "url": "https://x.com/hoodg3nius/status/2019612914643017884"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "the longterm pmf successes during crypto's history have been: btc, exchanges, and stablecoins\n\nthese are the areas that have and will continue to see investment even while other thesis fail\n\ndespite sentiment, i think investing in good crypto projects will outperform traditional ",
+      "likes": 297,
+      "retweets": 19,
+      "url": "https://x.com/izebel_eth/status/2019800663027511645"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "would you look at who was just with the trumps. https://t.co/7JCGxAg0AI",
+      "likes": 266,
+      "retweets": 4,
+      "url": "https://x.com/DipWheeler/status/2019888068409586084"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "my youtube channel got 300,000 views yesterday.\n\ntrying to bring retail back one dubious speculation video at a time https://t.co/aJTYLMmj9Z",
+      "likes": 216,
+      "retweets": 1,
+      "url": "https://x.com/intocryptoverse/status/2019911549914153370"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "New perpetual swap market share all time high. One venue is consistently growing while the others shrink.\n\nHyperliquid https://t.co/Hr7zSi7V8I",
+      "likes": 122,
+      "retweets": 16,
+      "url": "https://x.com/ThinkingUSD/status/2019906347685519822"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "sigh… AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
+      "likes": 106,
+      "retweets": 2,
+      "url": "https://x.com/hoodg3nius/status/2019907858003808523"
+    },
+    {
+      "author": "DeeZe",
+      "text": "In an ai token from 250k that frank degods hasn’t bought yet because the ticker doesn’t have claw or molt in it\n\nSo early",
+      "likes": 105,
+      "retweets": 2,
+      "url": "https://x.com/DeeZe/status/2019858645308125259"
+    }
+  ]
+}

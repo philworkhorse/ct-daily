@@ -1,0 +1,255 @@
+{
+  "timestamp": "2026-02-06T17:27:13.568Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 18,
+    "bearish": 4,
+    "neutral": 78,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$PENGU",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$JMD",
+      1
+    ],
+    [
+      "$REKTOBER",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$GM",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGU",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$JMD",
+        "count": 1
+      },
+      {
+        "ticker": "$REKTOBER",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$GM",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 3
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "Pentosh1",
+        "text": "$BTC entry so far \n\nhave some bids still scattered lower. https://t.co/2Qi7MbI714",
+        "likes": 120,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "CryptoKaleo",
+        "text": "I give it less than three months before $PENGUIN is below a $1M mcap and $PENGU is back above $1B.",
+        "likes": 75,
+        "retweets": 3
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.33K of $PENGUIN at $23.14M MC 🐳\n\nhttps://t.co/VhCT57hUJO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGU": [
+      {
+        "author": "CryptoKaleo",
+        "text": "I give it less than three months before $PENGUIN is below a $1M mcap and $PENGU is back above $1B.",
+        "likes": 75,
+        "retweets": 3
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $27.79K of $PUMP at $2.17B MC 🐳\n\nhttps://t.co/KweNAU3rTM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $27.79K of $PUMP at $2.17B MC 🐳\n\nhttps://t.co/KweNAU3rTM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JMD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @JamenDust verified earnings for $JMD on @BagsApp 💰\n\nhttps://t.co/zbk4wbyKs1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$REKTOBER": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @PainCrypt0 just bought $1.63K of $REKTOBER at $197.44K MC 🐳\n\nhttps://t.co/mIVpKPiXeD",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "With $GIGA you’re betting on the biggest meme of all time + the first instance of the C2C model + the emergence of masculinity/self improvement/accountability movement in men + community in a world la",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$GM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @alexattinger verified earnings for $GM3 on @BagsApp 💰\n\nhttps://t.co/pla4hzEeEu",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Pentosh1",
+      "text": "Well. It’s not March yet. But think this 70-75k area is attractive for $btc \n\nGot some first small bids hit \n\nMight become active in this market again for the first time in awhile",
+      "likes": 1070,
+      "retweets": 30,
+      "url": "https://x.com/Pentosh1/status/2018176581110288497"
+    },
+    {
+      "author": "RichardPtardio",
+      "text": "What's all the fuss about, chaps? \n\nThere's only two charts that matter, and both are looking extremely bullish. https://t.co/KzeOE9juu0",
+      "likes": 257,
+      "retweets": 15,
+      "url": "https://x.com/RichardPtardio/status/2019692139047973297"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Historically, the most ferocious rallies occur in bear markets.\n\nFun to trade, just don't get caught offsides!\n\nA lot of rallies by BTC in midterm years find resistance in early March.",
+      "likes": 257,
+      "retweets": 16,
+      "url": "https://x.com/intocryptoverse/status/2019823011260690528"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "$70K Bitcoin yesterday vs. $70K Bitcoin today. https://t.co/4wZFGEBGM5",
+      "likes": 210,
+      "retweets": 10,
+      "url": "https://x.com/CryptoKaleo/status/2019811812527796610"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "the longterm pmf successes during crypto's history have been: btc, exchanges, and stablecoins\n\nthese are the areas that have and will continue to see investment even while other thesis fail\n\ndespite sentiment, i think investing in good crypto projects will outperform traditional ",
+      "likes": 192,
+      "retweets": 10,
+      "url": "https://x.com/izebel_eth/status/2019800663027511645"
+    },
+    {
+      "author": "frankdegods",
+      "text": "oh wait\n\n&gt;compute is more valuable than ever\n&gt;btc is now quantum resistant\n\nresume-bullmarket.exe",
+      "likes": 174,
+      "retweets": 12,
+      "url": "https://x.com/frankdegods/status/2019811811324022984"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "$BTC entry so far \n\nhave some bids still scattered lower. https://t.co/2Qi7MbI714",
+      "likes": 120,
+      "retweets": 1,
+      "url": "https://x.com/Pentosh1/status/2018863630578586109"
+    },
+    {
+      "author": "CL207",
+      "text": "📌kutchan, hokkaido, at night https://t.co/LIeGNyCwwB",
+      "likes": 109,
+      "retweets": 2,
+      "url": "https://x.com/CL207/status/2019812170427732203"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "I will buy 10% of the supply if I have to. https://t.co/X9trNo8kdX",
+      "likes": 105,
+      "retweets": 17,
+      "url": "https://x.com/DipWheeler/status/2019813539884781871"
+    }
+  ]
+}

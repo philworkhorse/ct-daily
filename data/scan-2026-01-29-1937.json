@@ -1,0 +1,265 @@
+{
+  "timestamp": "2026-01-29T19:37:48.768Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 5,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$PENGU",
+      1
+    ],
+    [
+      "$TON",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$XLE",
+      1
+    ],
+    [
+      "$TSLAX",
+      1
+    ],
+    [
+      "$USDG",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGU",
+        "count": 1
+      },
+      {
+        "ticker": "$TON",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$XLE",
+        "count": 1
+      },
+      {
+        "ticker": "$TSLAX",
+        "count": 1
+      },
+      {
+        "ticker": "$USDG",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "silver": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 5,
+      "silver": 1
+    },
+    "macro": {
+      "inflation": 1,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGU": [
+      {
+        "author": "LucaNetz",
+        "text": "Can I get a $PENGU morning?",
+        "likes": 356,
+        "retweets": 16
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "this is what i like to see (and i’ve been seeing it a lot re: $BUTTCOIN)\n\nthat “feeling,” the feeling of true conviction — you just “feel” it, you “feel” something deep inside of you that just “knows”",
+        "likes": 28,
+        "retweets": 9
+      },
+      {
+        "author": "miragemunny",
+        "text": "this sentiment seems to resonate quite well with my fellow $BUTTCOIN holders\n\nit appears that i have found good company! 🍑",
+        "likes": 26,
+        "retweets": 5
+      }
+    ],
+    "$TON": [
+      {
+        "author": "0xdamx",
+        "text": "Why is bro liking all my posts? 😭 \n\n@Bigchubzzz please can you tell me what you want from me?\n\n$TON?\n\nTelegram Gifts?\n\nJust say it bro https://t.co/kPF7h8ihlZ",
+        "likes": 8,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $8.67K of $PENGUIN at $73.85M MC 🐳\n\nhttps://t.co/8vGJt9g3iH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XLE": [
+      {
+        "author": "Credib1eGuy",
+        "text": "$XLE\n\nYay or nay",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$TSLAX": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TSLAX whale just bought $495K of $USDG at $838.99M MC 🐳\n\nhttps://t.co/pHEJfMlzKN",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TSLAX whale just bought $495K of $USDG at $838.99M MC 🐳\n\nhttps://t.co/pHEJfMlzKN",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$BTC\n\nFilled. First long in a long long time while majority of CT has had you longing every dip for the \"catch up trade\" for months.\n\nTypical 1R position, nothing special. Stop at the previous capitul",
+        "likes": 92,
+        "retweets": 4
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.95K of $WhiteWhale at $86.56M MC 🐳\n\nhttps://t.co/4ddaAQePRn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1433,
+      "retweets": 208,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "Wayfair",
+      "text": "Best selling Wayfair rugs that add warmth, comfort, and value",
+      "likes": 456,
+      "retweets": 24,
+      "url": "https://x.com/Wayfair/status/1989413775254933799"
+    },
+    {
+      "author": "LucaNetz",
+      "text": "Can I get a $PENGU morning?",
+      "likes": 356,
+      "retweets": 16,
+      "url": "https://x.com/LucaNetz/status/2016894456293650666"
+    },
+    {
+      "author": "trading_axe",
+      "text": "You goys thought kissing the wall was bullish?\n\n~ Dr. Axius. https://t.co/xevfRV1csX",
+      "likes": 247,
+      "retweets": 4,
+      "url": "https://x.com/trading_axe/status/2016944802537848980"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "https://t.co/y3kijTppXn",
+      "likes": 197,
+      "retweets": 1,
+      "url": "https://x.com/notthreadguy/status/2016906901162729937"
+    },
+    {
+      "author": "trading_axe",
+      "text": "I'm a goy as well you absolute fucking RETARDS.\n\nThey BAMBOOZLED me too.\n\n~ Dr. Axius.",
+      "likes": 173,
+      "retweets": 2,
+      "url": "https://x.com/trading_axe/status/2016945942562254919"
+    },
+    {
+      "author": "shawmakesmagic",
+      "text": "The roadmap is gold in the game\n\nIt’s a game with Eliza agents in it\n\nIt’s open source and you can contribute\n\nWhatever you think about me\n\nHyperscape is undeniable",
+      "likes": 168,
+      "retweets": 14,
+      "url": "https://x.com/shawmakesmagic/status/2014829837219741981"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "We're entering the Endgame",
+      "likes": 142,
+      "retweets": 2,
+      "url": "https://x.com/ThinkingUSD/status/2016948585900671194"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "We're entering the Endgame",
+      "likes": 142,
+      "retweets": 2,
+      "url": "https://x.com/ThinkingUSD/status/2016948585900671194"
+    },
+    {
+      "author": "based16z",
+      "text": "Capital hyperstition: the more trade and investment ideas are sourced from LLMs, the more LlMs create reality via resource allocation",
+      "likes": 135,
+      "retweets": 0,
+      "url": "https://x.com/based16z/status/2016802706887766471"
+    }
+  ]
+}

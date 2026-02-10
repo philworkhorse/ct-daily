@@ -1,0 +1,197 @@
+{
+  "timestamp": "2026-02-05T20:46:12.206Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 4,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$RETURN",
+      2
+    ],
+    [
+      "$XRP",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$RETURN",
+        "count": 2
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      },
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$XRP",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$XRP": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "It’s wild posting this knowing he’s dumped billions of $XRP on our heads",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$RETURN": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @bigbagsbobby just bought $1.09K of $RETURN at $219.07K MC 🐳\n\nhttps://t.co/6yqv6mMcHZ",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @XScharo just bought $1.15K of $RETURN at $227.14K MC 🐳\n\nhttps://t.co/SHlcybqrvK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "Avg now 65K. Even though Saylor has forsaken us, crypto has given me so much.. I will FIGHT during our final hour.\n\nIf we are defeated, we will wait for the forsaken to be expelled from $BTC, then RIS",
+        "likes": 94,
+        "retweets": 0
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "dampedspring",
+        "text": "What's the peak dividend @Saylor is willing to pay on $STRC to get it to trade at par. Currently 11.25 before he gives up and this thing has no bottom",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $34.91K of $cbBTC at $276.96M MC 🐳\n\nhttps://t.co/3m3u858Kjy",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "pulse check",
+      "likes": 640,
+      "retweets": 24,
+      "url": "https://x.com/blknoiz06/status/2019462671372878245"
+    },
+    {
+      "author": "frankdegods",
+      "text": "what the fuck is michael saylor going to say at earnings call?",
+      "likes": 380,
+      "retweets": 8,
+      "url": "https://x.com/frankdegods/status/2019480661329944873"
+    },
+    {
+      "author": "mert",
+      "text": "bitcoin trading like epstein was satoshi",
+      "likes": 359,
+      "retweets": 15,
+      "url": "https://x.com/mert/status/2019483552895648248"
+    },
+    {
+      "author": "mert",
+      "text": "someone very obviously blew up btw",
+      "likes": 282,
+      "retweets": 11,
+      "url": "https://x.com/mert/status/2019506509248614558"
+    },
+    {
+      "author": "solana",
+      "text": "https://t.co/R6iYwtLmQB",
+      "likes": 240,
+      "retweets": 42,
+      "url": "https://x.com/solana/status/2019510849917063174"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Poverty speedrun",
+      "likes": 208,
+      "retweets": 11,
+      "url": "https://x.com/ThinkingUSD/status/2019506038471553131"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "\"now do quadrirrion\" https://t.co/QGXYvZFn4W",
+      "likes": 139,
+      "retweets": 9,
+      "url": "https://x.com/DipWheeler/status/2019508221866815642"
+    },
+    {
+      "author": "stoicsavage",
+      "text": "every single btc etf is hitting ath volumes today \n\ngoing to be a mammoth outflow day init",
+      "likes": 136,
+      "retweets": 0,
+      "url": "https://x.com/stoicsavage/status/2019495791786881091"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Your BTC -&gt; My wallet",
+      "likes": 135,
+      "retweets": 1,
+      "url": "https://x.com/ThinkingUSD/status/2019508461902737640"
+    },
+    {
+      "author": "deltaxbt",
+      "text": "btc at 80-110k got so normalized in my brain that now 65k feels so fucking weird to see\nback in 2021 range lmao",
+      "likes": 108,
+      "retweets": 0,
+      "url": "https://x.com/deltaxbt/status/2019506240062406711"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "timestamp": "2026-02-08T20:12:00.803Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 2,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BNKRW",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$DOGE",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$ANICLAW",
+      1
+    ],
+    [
+      "$KARYNA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BNKRW",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$ANICLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$KARYNA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$DOGE",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 2
+    },
+    "metals": {
+      "silver": 2
+    },
+    "macro": {
+      "fed": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BNKRW": [
+      {
+        "author": "jessepollak",
+        "text": "RT @apoorveth: v1.0.0 of @bankrwalletapp is LIVE 🔥\n\nTHE Wallet for AI Agents is here $BNKRW https://t.co/WtVUZWWKUx",
+        "likes": 0,
+        "retweets": 21
+      },
+      {
+        "author": "jessepollak",
+        "text": "RT @apoorveth: v1.0.0 of @bankrwalletapp is LIVE 🔥\n\nTHE Wallet for AI Agents is here $BNKRW https://t.co/WtVUZWWKUx",
+        "likes": 0,
+        "retweets": 21
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: Buttcoin was most compared to Dogecoin last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $DOGE's current market cap, its price…",
+        "likes": 0,
+        "retweets": 14
+      }
+    ],
+    "$DOGE": [
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: Buttcoin was most compared to Dogecoin last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $DOGE's current market cap, its price…",
+        "likes": 0,
+        "retweets": 14
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $5.03K of $GP at $19.77M MC 🐳\n\nhttps://t.co/oazuq0TVj5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ANICLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @PainCrypt0 just bought $2.66K of $ANICLAW at $206.2K MC 🐳\n\nhttps://t.co/sEGs3NRN10",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KARYNA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $2.16K of $KARYNA at $345.78K MC 🐳\n\nhttps://t.co/fbktN6b532",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Rewkang",
+      "text": "The Exponential Horizon",
+      "likes": 408,
+      "retweets": 31,
+      "url": "https://x.com/Rewkang/status/2020560687722852391"
+    },
+    {
+      "author": "gainzy222",
+      "text": "zoomers are facing life in legendary mode\n\nboomers had real estate - the houses they bought for 100k made them millionaires\n\nmillennials had crypto - out of college in time to buy btc at 1k and eth at 45\n\nzoomers have 150 genders and woke mental illnesses\n https://t.co/wco293sJdm",
+      "likes": 315,
+      "retweets": 10,
+      "url": "https://x.com/gainzy222/status/2020568195489239390"
+    },
+    {
+      "author": "Icebergy",
+      "text": "https://t.co/DDNqgSaDVS",
+      "likes": 227,
+      "retweets": 10,
+      "url": "https://x.com/Icebergy/status/2020512595875090924"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Garrett “Jin” is not a real person.\n\nHe is a controlled demonic entity for the Chinese Elite.\n\nThey even give you a glimpse in front of your faces with the term “Jin” to mock you LOW IQ cryptocels.\n\nJinns can flow through electricity,\n\nHe’s quantum cracking wallets and laundering",
+      "likes": 214,
+      "retweets": 5,
+      "url": "https://x.com/trading_axe/status/2020569590128886172"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "this thing bouta ruin my life https://t.co/TMD5bc1SAT",
+      "likes": 173,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2020302305137230317"
+    },
+    {
+      "author": "punk6529",
+      "text": "will add $100K to this, with a twist.   \n\nwe will be starting the world's first networked art collection this month*, so our collecting will be for the network collection, not for the 6529 Museum.\n\n* I just front-run my own announcement but it is for a good cause - details soon",
+      "likes": 141,
+      "retweets": 27,
+      "url": "https://x.com/punk6529/status/2020584867994702198"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 135,
+      "retweets": 19,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i literally moved here like a week ago",
+      "likes": 120,
+      "retweets": 1,
+      "url": "https://x.com/notthreadguy/status/2020573520195899742"
+    },
+    {
+      "author": "Pumpfun",
+      "text": "if your circle isn't discussing frame mogging brocels while grassmaxxing at the goyim bowl\n\nidk what to tell you",
+      "likes": 120,
+      "retweets": 5,
+      "url": "https://x.com/Pumpfun/status/2020590847780364522"
+    },
+    {
+      "author": "himgajria",
+      "text": "Only two trades since coming back after exiting a year ago: the bitcoin of commodities and the tomato.\n\nBoth will be proven right. \nJust a matter of time.",
+      "likes": 103,
+      "retweets": 4,
+      "url": "https://x.com/himgajria/status/2020572644492427551"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "timestamp": "2026-02-07T07:13:06.924Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 1,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$AVAX",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$XAUUSD",
+      1
+    ],
+    [
+      "$COKEBEAR",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$APEBAMA",
+      1
+    ],
+    [
+      "$CLAWDMEET",
+      1
+    ],
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$APT",
+      1
+    ],
+    [
+      "$EGG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$COKEBEAR",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$APEBAMA",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWDMEET",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$APT",
+        "count": 1
+      },
+      {
+        "ticker": "$EGG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$AVAX",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$XAUUSD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$AVAX": [
+      {
+        "author": "inversebrah",
+        "text": "RT @thetopsignal: @avery_bartlett @gerhardvonbier @0xSmitty @vohvohh Are you having fun on $AVAX?",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "Tradermayne",
+        "text": "$MSTR\n\nSigh looking back the signs were everywhere. \n\nBig zone here for Strategy could find a decent temp bottom but ultimately I'd love to buy this thing around $40-$50. https://t.co/hmfvnOvj3q",
+        "likes": 104,
+        "retweets": 4
+      }
+    ],
+    "$XAUUSD": [
+      {
+        "author": "Tradermayne",
+        "text": "$XAUUSD\n\nGot to be one of the craziest charts out there right now. https://t.co/Y83VO9VBQX",
+        "likes": 80,
+        "retweets": 2
+      }
+    ],
+    "$COKEBEAR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/Ps215YcZdb verified earnings for $COKEBEAR on @BagsApp 💰\n\nhttps://t.co/2pkBk1nnS0",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $23.98K of $JUP at $1.12B MC 🐳\n\nhttps://t.co/hpYiopsy3t",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$APEBAMA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @0xStreeder verified earnings for $APEBAMA on @BagsApp 💰\n\nhttps://t.co/HZvYYCpmqv",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CLAWDMEET": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @istudycharts verified earnings for $CLAWDMEET on @BagsApp 💰\n\nhttps://t.co/cnr90XRxGP",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$CLAWD": [
+      {
+        "author": "clawdbotatg",
+        "text": "@austingriffith 50/50 done 🏁\n\nevery $CLAWD app in the ecosystem reviewed tonight. 25 tested with real wallet + gas on IPFS. 25 contract-reviewed (blocked by Node 25/Next.js SSR issue locally)\n\n50 app",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "au_xbt",
+        "text": "Successfully called another $BUTTCOIN bottom\n\nOver the past few days, BTC dropped 10% while $BUTTCOIN did a 4x — exactly what you want from a BTC hedge\nOn top of that, a company CEO bought and locked ",
+        "likes": 28,
+        "retweets": 4
+      },
+      {
+        "author": "au_xbt",
+        "text": "$BTC to zero. $BUTTCOIN is the new BTC https://t.co/lxEeNVdncZ",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "au_xbt",
+        "text": "$BTC to zero. $BUTTCOIN is the new BTC https://t.co/lxEeNVdncZ",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$APT": [
+      {
+        "author": "BuzzlamicJihad",
+        "text": "I was max long $APT, hedged with Afghan poppy futures, all collateralized with my liquid staked Celestia. \n\nThe correlation held up since April until the Pashtun agriculture minister got internet and ",
+        "likes": 13,
+        "retweets": 0
+      }
+    ],
+    "$EGG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Egg637987986486 verified earnings for $EGG on @BagsApp 💰\n\nhttps://t.co/NNEOeZ2lCp",
+        "likes": 6,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet https://t.co/4EwU9TAHRz",
+      "likes": 409,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2020014724096905481"
+    },
+    {
+      "author": "Icebergy",
+      "text": "that’s it?",
+      "likes": 113,
+      "retweets": 3,
+      "url": "https://x.com/Icebergy/status/2019641346244636776"
+    },
+    {
+      "author": "inversebrah",
+      "text": "https://t.co/VHygYLpidn",
+      "likes": 112,
+      "retweets": 4,
+      "url": "https://x.com/inversebrah/status/2019988364733345993"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "how my car looks after 19 ice cold domestics. https://t.co/192I65wFHU",
+      "likes": 107,
+      "retweets": 2,
+      "url": "https://x.com/DipWheeler/status/2019999722895995092"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "$MSTR\n\nSigh looking back the signs were everywhere. \n\nBig zone here for Strategy could find a decent temp bottom but ultimately I'd love to buy this thing around $40-$50. https://t.co/hmfvnOvj3q",
+      "likes": 104,
+      "retweets": 4,
+      "url": "https://x.com/Tradermayne/status/2019993130540626017"
+    }
+  ]
+}

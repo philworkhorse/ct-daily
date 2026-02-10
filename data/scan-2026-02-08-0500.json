@@ -1,0 +1,195 @@
+{
+  "timestamp": "2026-02-08T05:00:34.515Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 6,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$KLAUS",
+      1
+    ],
+    [
+      "$MINI",
+      1
+    ],
+    [
+      "$OPAL",
+      1
+    ],
+    [
+      "$BELLA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$KLAUS",
+        "count": 1
+      },
+      {
+        "ticker": "$MINI",
+        "count": 1
+      },
+      {
+        "ticker": "$OPAL",
+        "count": 1
+      },
+      {
+        "ticker": "$BELLA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2
+    },
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "based16z",
+        "text": "RT @lookonchain: Despite the market crash, Tom Lee(@fundstrat)'s #Bitmine bought another 20,000 $ETH($41.98M) 5 hours ago.\n\nhttps://t.co/r8…",
+        "likes": 0,
+        "retweets": 30
+      }
+    ],
+    "$KLAUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $1.06K of $KLAUS at $107.07K MC 🐳\n\nhttps://t.co/vDzIzEjr8u",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $14.89K of $PENGUIN at $22.19M MC 🐳\n\nhttps://t.co/k2OKZ1ORh5",
+        "likes": 10,
+        "retweets": 1
+      },
+      {
+        "author": "crypto_bitlord7",
+        "text": "$PENGUIN ARMY RISE UP 🚀 🚀 🚀",
+        "likes": 69,
+        "retweets": 5
+      }
+    ],
+    "$MINI": [
+      {
+        "author": "st_jelmo",
+        "text": "RT @ABathingApeGX: Daily $MINI Spinny https://t.co/fwyWDEVeWm",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$OPAL": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $3.46K of $OPAL at $897.25K MC 🐳\n\nhttps://t.co/UvGf1kYMsl",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BELLA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @99999dicez verified earnings for $BELLA on @BagsApp 💰\n\nhttps://t.co/XXY9xXtxhv",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "X",
+      "text": "Do you like or love Grok Imagine?",
+      "likes": 345,
+      "retweets": 23,
+      "url": "https://x.com/X/status/2020356853339935146"
+    },
+    {
+      "author": "wrld_sol",
+      "text": "God forbid somebody buys a coin and holds it",
+      "likes": 237,
+      "retweets": 19,
+      "url": "https://x.com/wrld_sol/status/2020282915540857080"
+    },
+    {
+      "author": "MrBeast",
+      "text": "After our new video Whatnot shot up to number 3 on the App Store 😮 https://t.co/QvxnOkUf9G",
+      "likes": 234,
+      "retweets": 8,
+      "url": "https://x.com/MrBeast/status/2020361426465169751"
+    },
+    {
+      "author": "MoonOverlord",
+      "text": "nothing says america like looking at someone's boobs then paying interest on it for 9 months",
+      "likes": 186,
+      "retweets": 10,
+      "url": "https://x.com/MoonOverlord/status/2020268981228314845"
+    },
+    {
+      "author": "Citrini7",
+      "text": "As sentiment surrounding hyperscaler capex oscillates between positive and negative, I think it’s reasonable to revisit this point we flagged back in November as something to watch in case the market were to enter a drawdown. \n\nThe Hyperscaler Capex/Buyback Risk: https://t.co/auZ",
+      "likes": 175,
+      "retweets": 11,
+      "url": "https://x.com/Citrini7/status/2020345943330296164"
+    },
+    {
+      "author": "Ga__ke",
+      "text": "bla bla bla \nboring boring boring \n\nPls refresh my twitter algo thank you",
+      "likes": 121,
+      "retweets": 3,
+      "url": "https://x.com/Ga__ke/status/2020351141658481114"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "this thing bouta ruin my life https://t.co/TMD5bc1SAT",
+      "likes": 108,
+      "retweets": 0,
+      "url": "https://x.com/notthreadguy/status/2020302305137230317"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Holding a SOL balance so you can trade shitters is something we’ll view as outdated as we view gas wars now",
+      "likes": 104,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2020263099501338766"
+    }
+  ]
+}

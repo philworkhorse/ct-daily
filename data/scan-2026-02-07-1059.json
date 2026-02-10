@@ -1,0 +1,352 @@
+{
+  "timestamp": "2026-02-07T10:59:41.352Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 2,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$ETH",
+      2
+    ],
+    [
+      "$FARTCOIN",
+      2
+    ],
+    [
+      "$AVAX",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$WETH",
+      1
+    ],
+    [
+      "$GERO",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$NOBODY",
+      1
+    ],
+    [
+      "$CLAWNEWS",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$CLAWROUTER",
+      1
+    ],
+    [
+      "$BOLD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$FARTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$WETH",
+        "count": 1
+      },
+      {
+        "ticker": "$GERO",
+        "count": 1
+      },
+      {
+        "ticker": "$NOBODY",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWNEWS",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWROUTER",
+        "count": 1
+      },
+      {
+        "ticker": "$BOLD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$ETH",
+        "count": 2
+      },
+      {
+        "ticker": "$AVAX",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$AVAX": [
+      {
+        "author": "inversebrah",
+        "text": "RT @thetopsignal: @avery_bartlett @gerhardvonbier @0xSmitty @vohvohh Are you having fun on $AVAX?",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $21.76K of $WETH at $130.21M MC 🐳\n\nhttps://t.co/Fsna3Q41Jf",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WETH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $21.76K of $WETH at $130.21M MC 🐳\n\nhttps://t.co/Fsna3Q41Jf",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GERO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @GeromanAT verified earnings for $GERO on @BagsApp 💰\n\nhttps://t.co/Cw3uBAqCD8",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nThe white lines act as alert levels. When they trigger, I take a closer look at the price action. Until then, I mostly stay inactive regarding majors. Below those levels, I’m primarily focused ",
+        "likes": 16,
+        "retweets": 1
+      },
+      {
+        "author": "kshitizkapoor_",
+        "text": "Smart money shows up at major supports\n\nStani Kulechov (founder of $Aave) has rotated capital from $ETH into Aave as the token trades near a major long-term support zone.\n\nThis move stands out given c",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nThe white lines act as alert levels. When they trigger, I take a closer look at the price action. Until then, I mostly stay inactive regarding majors. Below those levels, I’m primarily focused ",
+        "likes": 16,
+        "retweets": 1
+      },
+      {
+        "author": "kshitizkapoor_",
+        "text": "Smart money shows up at major supports\n\nStani Kulechov (founder of $Aave) has rotated capital from $ETH into Aave as the token trades near a major long-term support zone.\n\nThis move stands out given c",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nThe white lines act as alert levels. When they trigger, I take a closer look at the price action. Until then, I mostly stay inactive regarding majors. Below those levels, I’m primarily focused ",
+        "likes": 16,
+        "retweets": 1
+      }
+    ],
+    "$NOBODY": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "It's about time for $NOBODY\n\nC29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon\n\n🤝 https://t.co/ciSlbMwD0O",
+        "likes": 29,
+        "retweets": 7
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $276.13K of $JitoSOL at $1.16B MC 🐳\n\nhttps://t.co/jYVJ3W1vjK",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $276.08K of $JitoSOL at $1.16B MC 🐳\n\nhttps://t.co/aKztD4Oimo",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWNEWS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @qy_acc verified earnings for $CLAWNEWS on @BagsApp 💰\n\nhttps://t.co/yZZSpXzAh7",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $8.28K of $TOILET at $1.97M MC 🐳\n\nhttps://t.co/h14FG3DMWV",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $8.28K of $TOILET at $1.97M MC 🐳\n\nhttps://t.co/h14FG3DMWV",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$CLAWROUTER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @bc1beet verified earnings for $CLAWROUTER on @BagsApp 💰\n\nhttps://t.co/j9LTaGbgNL",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BOLD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @boldleonidas verified earnings for $BOLD on @BagsApp 💰\n\nhttps://t.co/gLtl8DPDiZ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet https://t.co/4EwU9TAHRz",
+      "likes": 696,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2020014724096905481"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 316,
+      "retweets": 12,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 316,
+      "retweets": 12,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "Palgrani2",
+      "text": "a coin is doing this right now but ct will give a blind eye till 300m",
+      "likes": 257,
+      "retweets": 16,
+      "url": "https://x.com/Palgrani2/status/2019872510301659145"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Polymarket with more visits than the top crypto websites combined.\n\nAnd about to flip Robinhood.\n\nPolymarket supercycle",
+      "likes": 229,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020033571449348426"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "snow, japan https://t.co/i0yfKPoOI1",
+      "likes": 181,
+      "retweets": 1,
+      "url": "https://x.com/izebel_eth/status/2020045284907090219"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "snow, japan https://t.co/i0yfKPoOI1",
+      "likes": 181,
+      "retweets": 1,
+      "url": "https://x.com/izebel_eth/status/2020045284907090219"
+    },
+    {
+      "author": "gainzy222",
+      "text": "vitalik finally using his influence for good, supporting zec\n\ninstead of fudding assets down 90%\n\ngood guy vitalik \n https://t.co/8rHo7lfcKp",
+      "likes": 155,
+      "retweets": 3,
+      "url": "https://x.com/gainzy222/status/2020023786146566502"
+    },
+    {
+      "author": "garrytan",
+      "text": "I use a very specific prompt to push Claude to check its work and do a lot of testing and thinking about perf and refactoring. I find I can do big features (4K LOC+ with full testing) in about an hour. https://t.co/9lk5ruNUjw",
+      "likes": 153,
+      "retweets": 10,
+      "url": "https://x.com/garrytan/status/2020072098635665909"
+    },
+    {
+      "author": "CL207",
+      "text": "❄️❄️❄️ https://t.co/sW11h07C2o",
+      "likes": 119,
+      "retweets": 0,
+      "url": "https://x.com/CL207/status/2020025668990619719"
+    }
+  ]
+}

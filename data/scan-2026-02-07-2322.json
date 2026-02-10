@@ -1,0 +1,221 @@
+{
+  "timestamp": "2026-02-07T23:22:20.889Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 5,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PUMP",
+      3
+    ],
+    [
+      "$PERC",
+      2
+    ],
+    [
+      "$FLUXTRADE",
+      1
+    ],
+    [
+      "$JESTERGOON",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$WOG",
+      1
+    ],
+    [
+      "$LAURA",
+      1
+    ],
+    [
+      "$SPD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PUMP",
+        "count": 3
+      },
+      {
+        "ticker": "$PERC",
+        "count": 2
+      },
+      {
+        "ticker": "$FLUXTRADE",
+        "count": 1
+      },
+      {
+        "ticker": "$JESTERGOON",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$WOG",
+        "count": 1
+      },
+      {
+        "ticker": "$LAURA",
+        "count": 1
+      },
+      {
+        "ticker": "$SPD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$FLUXTRADE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @FluxTraders verified earnings for $FLUXTRADE on @BagsApp 💰\n\nhttps://t.co/kciAscpYtl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JESTERGOON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @px_721 just bought $2.87K of $JESTERGOON at $202.28K MC 🐳\n\nhttps://t.co/g64j1a2zPJ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $12.47K of $HYPE at $12.04M MC 🐳\n\nhttps://t.co/wrkPptz4yj",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $1.02K of $PERC at $3.07M MC 🐳\n\nhttps://t.co/EZv2bhHZ6k",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $1.99K of $PERC at $3.07M MC 🐳\n\nhttps://t.co/XhIxPLd3UT",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $12.47K of $HYPE at $12.04M MC 🐳\n\nhttps://t.co/wrkPptz4yj",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "slurptoshi",
+        "text": "RT @elGodric: $WOJAK isn't just another memecoin—it's THE emotional backbone of internet culture.\n\nWhile other memes come and go, Wojak has…",
+        "likes": 0,
+        "retweets": 10
+      }
+    ],
+    "$PERC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $1.02K of $PERC at $3.07M MC 🐳\n\nhttps://t.co/EZv2bhHZ6k",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $1.99K of $PERC at $3.07M MC 🐳\n\nhttps://t.co/XhIxPLd3UT",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WOG": [
+      {
+        "author": "WogTheArtist",
+        "text": "I’m going to add snowball tek to this coin \n\nMeaning all the creator rewards are automatically bought back into the coin \n\nI was going to put all the fees back into the coin regardless…\n\n$WOG https://",
+        "likes": 58,
+        "retweets": 11
+      }
+    ],
+    "$LAURA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Laura_Ch verified earnings for $LAURA on @BagsApp 💰\n\nhttps://t.co/ugaMbkQv9f",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SPD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/qWHT8jOxIi verified earnings for $SPD on @BagsApp 💰\n\nhttps://t.co/3gHRW5yMPn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "garrytan",
+      "text": "Boil the Oceans\n\nYou know the phrase: “don’t boil the ocean.” Everyone’s said it in some overly ambitious meeting. It’s good advice in normal times. It keeps teams focused. It prevents scope creep. But we are no longer in normal times, and I think it’s time to retire saying it.\n\n",
+      "likes": 363,
+      "retweets": 31,
+      "url": "https://x.com/garrytan/status/2020252961117802732"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "just walked outside and the wind called me a bitch",
+      "likes": 142,
+      "retweets": 2,
+      "url": "https://x.com/blknoiz06/status/2020263165204787633"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "The evolution of sports is so wild. \n\nForget the skill of rugby or football just run into each other hard as fuck no pads. \n\nForget boxing or mma skills just stand here and slap each other hard as you can without defending yourself.",
+      "likes": 110,
+      "retweets": 3,
+      "url": "https://x.com/Tradermayne/status/2020258764482654603"
+    }
+  ]
+}

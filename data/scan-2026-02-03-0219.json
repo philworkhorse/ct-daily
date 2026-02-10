@@ -1,0 +1,281 @@
+{
+  "timestamp": "2026-02-03T02:19:36.408Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 2,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$VIRTUALS",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$TRIA",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$ELON",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$POKECLAUDE",
+      1
+    ],
+    [
+      "$XTRIAL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$VIRTUALS",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TRIA",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$ELON",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$POKECLAUDE",
+        "count": 1
+      },
+      {
+        "ticker": "$XTRIAL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      },
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 2,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$VIRTUALS": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "I really just CANT WAIT for my $VIRTUALS to unlock in May of 2027! \n\nHopefully the bull is back by then!",
+        "likes": 17,
+        "retweets": 0
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @TBC_on_X: JUST IN: $BUTTCOIN soars to new ATH as the community aims to flip $BTC. https://t.co/vUhqdiCoNw",
+        "likes": 0,
+        "retweets": 43
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "miragemunny",
+        "text": "RT @TBC_on_X: JUST IN: $BUTTCOIN soars to new ATH as the community aims to flip $BTC. https://t.co/vUhqdiCoNw",
+        "likes": 0,
+        "retweets": 43
+      },
+      {
+        "author": "based16z",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 190
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "based16z",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 190
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $3.34K of $Accelerando at $987.59K MC 🐳\n\nhttps://t.co/zj1ZXGV7rz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TRIA": [
+      {
+        "author": "iamkadense",
+        "text": "Keep an eye out for the @useTria $TRIA TGE tomorrow\n\nOn the coinbase roadmap\nAdded to the binance wallet\nBinance Alpha feature airdrop\nReal product, Real users, Real revenue\nFantastic growth in under ",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.16K of $ELON at $330.14K MC 🐳\n\nhttps://t.co/LxWXahDQsL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.16K of $ELON at $330.14K MC 🐳\n\nhttps://t.co/LxWXahDQsL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $10.91K of $Goyim at $2.14M MC 🐳\n\nhttps://t.co/QPMs3XOsIa",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$POKECLAUDE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @DavidNeverWyns verified earnings for $POKECLAUDE on @BagsApp 💰\n\nhttps://t.co/piLGpoSh06",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XTRIAL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @xtrial_app verified earnings for $XTRIAL on @BagsApp 💰\n\nhttps://t.co/kAZysKRlXp",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "zinc &amp; iceman being up $1M each past month doing lord knows what onchain while the markets in purgatory is pretty crazy",
+      "likes": 574,
+      "retweets": 16,
+      "url": "https://x.com/blknoiz06/status/2018143559447155170"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/VMbM5XFxne",
+      "likes": 426,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2018457237145145385"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/VMbM5XFxne",
+      "likes": 426,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2018457237145145385"
+    },
+    {
+      "author": "traderpow",
+      "text": "Many lack foresight of coins because they are dictated as a failure or success by its price action rather than the narratives themselves as of recent. \n\nIt may be good for the first 24-72H and then they are already ready to jump ship if price has been the steering factor above it",
+      "likes": 191,
+      "retweets": 19,
+      "url": "https://x.com/traderpow/status/2018424893176754290"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "https://t.co/mvmIE7vATR",
+      "likes": 127,
+      "retweets": 5,
+      "url": "https://x.com/Tradermayne/status/2018489583114109208"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "I asked my clawdbot to make a 10-year investment plan and gave it access to my bank accounts &amp; investment accounts and it literally emptied all of them and full-ported fartcoin.",
+      "likes": 113,
+      "retweets": 3,
+      "url": "https://x.com/DipWheeler/status/2018483956732366849"
+    },
+    {
+      "author": "based16z",
+      "text": "What’s more impressive than selling a company for $250 billion? Selling it to yourself.",
+      "likes": 102,
+      "retweets": 4,
+      "url": "https://x.com/based16z/status/2018495575813992641"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Another example of the ISM not being the best indicator for predicting BTC price action:\n\nJan 2019:\n\nISM: 55.7\nBTC: $3700\n\nJune 2019:\n\nISM: 51.3\nBTC: $13,900\n\nSo in this case the ISM dropped over 6 months and the price of BTC went up 4x.",
+      "likes": 100,
+      "retweets": 3,
+      "url": "https://x.com/intocryptoverse/status/2018505216841134263"
+    }
+  ]
+}

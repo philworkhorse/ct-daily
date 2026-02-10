@@ -1,0 +1,187 @@
+{
+  "timestamp": "2026-02-08T04:09:49.488Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ETH",
+      2
+    ],
+    [
+      "$TROLL",
+      2
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$PERC",
+      1
+    ],
+    [
+      "$JESTERGOON",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$TROLL",
+        "count": 2
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$PERC",
+        "count": 1
+      },
+      {
+        "ticker": "$JESTERGOON",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "based16z",
+        "text": "RT @lookonchain: Despite the market crash, Tom Lee(@fundstrat)'s #Bitmine bought another 20,000 $ETH($41.98M) 5 hours ago.\n\nhttps://t.co/r8…",
+        "likes": 0,
+        "retweets": 24
+      },
+      {
+        "author": "lazyvillager1",
+        "text": "RT @lookonchain: Sell-off finished!\n\n#TrendResearch has deposited all 651,757 $ETH($1.34B) into #Binance at an average price of $2,055.\n\nTh…",
+        "likes": 0,
+        "retweets": 14
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $4.66K of $PERC at $2.45M MC 🐳\n\nhttps://t.co/qivrjYGfoa",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PERC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $4.66K of $PERC at $2.45M MC 🐳\n\nhttps://t.co/qivrjYGfoa",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.9K of $TROLL at $17.14M MC 🐳\n\nhttps://t.co/LNLv0hJoU9",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.28K of $Grape at $119.49K MC 🐳\n\nhttps://t.co/NANXRDhVKi",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$JESTERGOON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $2.1K of $JESTERGOON at $248.36K MC 🐳\n\nhttps://t.co/3QfNPsCFfN",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "garrytan",
+      "text": "Is it possible I used Claude Code so much somehow my USB-C connectors burned out on my MacBook Pro? Two of mine are dead and won’t charge and now the third maxes out at 15 watts \n\nNow I am afraid my code tamagotchi is about to die",
+      "likes": 725,
+      "retweets": 6,
+      "url": "https://x.com/garrytan/status/2020169699464761811"
+    },
+    {
+      "author": "MoonOverlord",
+      "text": "nothing says america like looking at someone's boobs then paying interest on it for 9 months",
+      "likes": 183,
+      "retweets": 10,
+      "url": "https://x.com/MoonOverlord/status/2020268981228314845"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "https://t.co/zHAlVm2jxr",
+      "likes": 161,
+      "retweets": 6,
+      "url": "https://x.com/DipWheeler/status/2020306247648714962"
+    },
+    {
+      "author": "DonAlt",
+      "text": "Bunch of high profile people on the left and on the right saying no one cares about Epstein\n\nThere is an evil cabal torturing babies and having sex with children\n\nYou say shit like that you become mighty suspicous\nOf fucking course everyone cares about that",
+      "likes": 135,
+      "retweets": 7,
+      "url": "https://x.com/DonAlt/status/2020345764376113291"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Draymond KNOCKED Austin Reaves to the floor 💀https://t.co/c8YAbKC3Rk",
+      "likes": 120,
+      "retweets": 6,
+      "url": "https://x.com/TheNBACentel/status/2020346664758993199"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "nobody is frame mogged on stolen land.",
+      "likes": 115,
+      "retweets": 12,
+      "url": "https://x.com/DipWheeler/status/2020318362136621342"
+    },
+    {
+      "author": "frankdegods",
+      "text": "\"crypto is software. the coolest neatest software that every 16 year old on the planet wants to play with. this software can find it's way into our real economy.\"\n\n-kevin warsh, 8 days ago at WEF",
+      "likes": 107,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2020327270246674841"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "this thing bouta ruin my life https://t.co/TMD5bc1SAT",
+      "likes": 104,
+      "retweets": 0,
+      "url": "https://x.com/notthreadguy/status/2020302305137230317"
+    }
+  ]
+}

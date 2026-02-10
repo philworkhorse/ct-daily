@@ -1,0 +1,181 @@
+{
+  "timestamp": "2026-02-01T01:13:16.603Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 4,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$FLUFY",
+      2
+    ],
+    [
+      "$FLUFYBOT",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$FLUFY",
+        "count": 2
+      },
+      {
+        "ticker": "$FLUFYBOT",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$FLUFY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/0kXMsRLKTs verified earnings for $FLUFY on @BagsApp 💰\n\nhttps://t.co/DsIN9MHlFE",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ieatjeets just bought $1.56K of $FLUFY at $126.76K MC 🐳\n\nhttps://t.co/zI9KiM7LFV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FLUFYBOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/0kXMsRLKTs verified earnings for $FLUFYBOT on @BagsApp 💰\n\nhttps://t.co/z8Gm29O8zm",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.35K of $Epstein at $701.21K MC 🐳\n\nhttps://t.co/NWFTWDPfDP",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "saylor",
+        "text": "Stretch Dividend Rate increased by 25 bps to 11.25% for February 2026. $STRC https://t.co/IwVI2Xg1qO",
+        "likes": 1023,
+        "retweets": 90
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "They're going to slam rates to 1% and Bitcoin is going to double to 160k+. \n\nIt's obvious. \n\nAlso for as a Bonus, here's the new US Federal Reserve Chair Kevin Warsh talking about Bitcoin. https://t.co/Vv3oHyt9wq",
+      "likes": 2707,
+      "retweets": 223,
+      "url": "https://x.com/ThinkingUSD/status/2017298096032473105"
+    },
+    {
+      "author": "saylor",
+      "text": "Stretch Dividend Rate increased by 25 bps to 11.25% for February 2026. $STRC https://t.co/IwVI2Xg1qO",
+      "likes": 1023,
+      "retweets": 90,
+      "url": "https://x.com/saylor/status/2017765070969651524"
+    },
+    {
+      "author": "based16z",
+      "text": "a lotta yall still dont get it\n\nape holders can use multiple slurp juices on a single ape\n\nso if you have 1 astro ape and 3 slurp juices you can create 3 new apes",
+      "likes": 868,
+      "retweets": 35,
+      "url": "https://x.com/based16z/status/2017698835191976315"
+    },
+    {
+      "author": "BurgerKing",
+      "text": "You want smoky and rich steakhouse flavor? You got it.",
+      "likes": 800,
+      "retweets": 36,
+      "url": "https://x.com/BurgerKing/status/2001464063981740241"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 597,
+      "retweets": 8,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 597,
+      "retweets": 8,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    },
+    {
+      "author": "jessepollak",
+      "text": "when your kid wants to shrinkydink but all you can think about is agents on @base https://t.co/kNaeguPZXj",
+      "likes": 192,
+      "retweets": 9,
+      "url": "https://x.com/jessepollak/status/2017749754416075242"
+    },
+    {
+      "author": "mert",
+      "text": "once emotions settle, it will remain clear once again that solana is the most scalable, usable and battle-tested universal platform for finance\n\nyou may not like this, and that's ok, but it is correct",
+      "likes": 166,
+      "retweets": 8,
+      "url": "https://x.com/mert/status/2017751252503863519"
+    },
+    {
+      "author": "NBAonNBC",
+      "text": "Sunday! It's a can't-miss doubleheader with the premiere of Sunday Night Basketball at 6 ET on NBC and Peacock.",
+      "likes": 147,
+      "retweets": 12,
+      "url": "https://x.com/NBAonNBC/status/2017100460197629956"
+    },
+    {
+      "author": "Bluntz_Capital",
+      "text": "close. \n\n#sol https://t.co/xPlrC46SHO",
+      "likes": 105,
+      "retweets": 5,
+      "url": "https://x.com/Bluntz_Capital/status/2017764035840942584"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-01-29T16:00:07-05:00",
+  "tweetsAnalyzed": 100,
+  "sentiment": {
+    "bullish": 19,
+    "bearish": 4,
+    "neutral": 77
+  },
+  "crypto": {
+    "BTC": 1,
+    "TSLAX": 2,
+    "USDG": 2,
+    "ZRO": 1,
+    "GIGA": 1,
+    "CRV": 1,
+    "WOJAK": 1
+  },
+  "commodities": {
+    "gold": 14,
+    "silver": 4,
+    "copper": 2
+  },
+  "notable": [
+    "Crypto_Chase BTC long - first in a long time, typical 1R position",
+    "ThinkingUSD: HIP-3 volumes growing 100%+ weekly, billions in daily volume",
+    "Gold mentions elevated (14)"
+  ],
+  "alpha": false,
+  "notes": "Quiet scan. Mild bullish sentiment (19%). No major calls from big accounts, no new listings. Crypto_Chase BTC long is noteworthy but he called it typical himself."
+}

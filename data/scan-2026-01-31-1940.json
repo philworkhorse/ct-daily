@@ -1,0 +1,141 @@
+{
+  "timestamp": "2026-01-31T19:40:52.925Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 7,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$BFS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$BFS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $4.72K of $BFS at $34.25M MC 🐳\n\nhttps://t.co/nKnEiXx8jS",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BFS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $4.72K of $BFS at $34.25M MC 🐳\n\nhttps://t.co/nKnEiXx8jS",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "StateFarm",
+      "text": "Something even bigger to be unveiled 2.8.26",
+      "likes": 2000,
+      "retweets": 104,
+      "url": "https://x.com/StateFarm/status/2015814352847392934"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1566,
+      "retweets": 228,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "icobeast",
+      "text": "It’s legit alarming seeing how many peers I thought were pretty sharp unironically getting one shot by moltbook\n\nIt’s literally backrooms 2.0….18 months later.\n\nSure you can harness the narrative to make money, but you guys have lost your minds if you *actually* think this is AGI",
+      "likes": 589,
+      "retweets": 22,
+      "url": "https://x.com/icobeast/status/2017452307391168973"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "oh brother do i have something for you",
+      "likes": 223,
+      "retweets": 0,
+      "url": "https://x.com/notthreadguy/status/2017507236159816187"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "oh brother do i have something for you",
+      "likes": 223,
+      "retweets": 0,
+      "url": "https://x.com/notthreadguy/status/2017507236159816187"
+    },
+    {
+      "author": "trading_axe",
+      "text": "RIP to a Real Nigga.\n\nWe pouring one out today for Garrett.\n\nThey done Swiss cheesed up his ass.\n\n~ Dr. Axius. https://t.co/8sQkN0Bwex",
+      "likes": 205,
+      "retweets": 4,
+      "url": "https://x.com/trading_axe/status/2017679702035407260"
+    },
+    {
+      "author": "trading_axe",
+      "text": "RIP to a Real Nigga.\n\nWe pouring one out today for Garrett.\n\nThey done Swiss cheesed up his ass.\n\n~ Dr. Axius. https://t.co/8sQkN0Bwex",
+      "likes": 205,
+      "retweets": 4,
+      "url": "https://x.com/trading_axe/status/2017679702035407260"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "My kneejerk reaction to Warsh Fed Chair is that it would be bearish initially (known hawk, wants to drain liquidity). However, if Trump chooses him it would imply he'd fall in line, cut rates, etc. Hard to know but thought Rieder would have been much more bullish.",
+      "likes": 154,
+      "retweets": 1,
+      "url": "https://x.com/Evan_ss6/status/2017041190768595104"
+    },
+    {
+      "author": "imperooterxbt",
+      "text": "What did CZ do 10/10? https://t.co/OOMSmVOtNN",
+      "likes": 149,
+      "retweets": 9,
+      "url": "https://x.com/imperooterxbt/status/2017648998308581699"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Liquidated long on ETHPERP [BACKSTOP]: Sell $219,173,229 @ 2,224.2  💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯 🔥🔥☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️\n\n~ Never go full retard",
+      "likes": 141,
+      "retweets": 1,
+      "url": "https://x.com/ThinkingUSD/status/2017677352642220491"
+    }
+  ]
+}

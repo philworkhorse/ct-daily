@@ -1,0 +1,178 @@
+{
+  "timestamp": "2026-02-02T04:26:36.175Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 4,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$JUPSOL",
+      1
+    ],
+    [
+      "$BEAVER",
+      1
+    ],
+    [
+      "$WTRSCAPE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$JUPSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$BEAVER",
+        "count": 1
+      },
+      {
+        "ticker": "$WTRSCAPE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 2,
+      "gold": 1
+    },
+    "metals": {
+      "silver": 2,
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 2,
+      "inflation": 1,
+      "jobs report": 1
+    }
+  },
+  "tickerDetails": {
+    "$HYPE": [
+      {
+        "author": "blknoiz06",
+        "text": "RT @Crypto_Chase: If we get a very bloody Monday, my focus will be on 3 assets. S&amp;P 500, Gold, and $HYPE\n\nThose are the assets that are goi…",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$JUPSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $43.32K of $JupSOL at $487.74M MC 🐳\n\nhttps://t.co/eqBGGtr8E8",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BEAVER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @beaverd verified earnings for $BEAVER on @BagsApp 💰\n\nhttps://t.co/HIoTZxmMj8",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WTRSCAPE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @alxshelepenok verified earnings for $WTRSCAPE on @BagsApp 💰\n\nhttps://t.co/jb2MMhHVEZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "retardmode",
+      "text": "im building things no ever has before\n\n&gt;node count up to ~1.4m\n\n&gt;added all popeyes locations available as a filter\n\n&gt;added a violent crime heat map filter\n\n&gt;added state pages, check most unique names &amp; loudest zip codes in your state\n\nbuilders build\n\nhttps://t.co/",
+      "likes": 3152,
+      "retweets": 181,
+      "url": "https://x.com/retardmode/status/2018145195611607097"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "nigga tom lee bouta break the record for largest investment loss in the history of mankind for topblasting eth at 4k https://t.co/zfu9jgNEn9",
+      "likes": 744,
+      "retweets": 39,
+      "url": "https://x.com/blknoiz06/status/2018164491876216930"
+    },
+    {
+      "author": "gainzy222",
+      "text": "This is where you’re supposed to long if you’re liquid imo",
+      "likes": 710,
+      "retweets": 12,
+      "url": "https://x.com/gainzy222/status/2017609824993706200"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Illiquid dump on a weekend into massive liquidations?\n\nYeah i'll buy that",
+      "likes": 580,
+      "retweets": 21,
+      "url": "https://x.com/ThinkingUSD/status/2017739782336479278"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "“If btc doesnt catch a bid off this narrative it’s over” \n\nThink I’ve heard this near 10 times in the past year from yall",
+      "likes": 336,
+      "retweets": 0,
+      "url": "https://x.com/lBattleRhino/status/2010558799803994419"
+    },
+    {
+      "author": "icobeast",
+      "text": "10 BTC\n250 ETH\n10,000 HYPE\n\npretty sure you permanently retire before 2030",
+      "likes": 329,
+      "retweets": 5,
+      "url": "https://x.com/icobeast/status/2018024404479836176"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bro spent fifty billion dollars buying bitcoin over the past five years and is now underwater",
+      "likes": 311,
+      "retweets": 17,
+      "url": "https://x.com/blknoiz06/status/2018171633039466989"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "Well. It’s not March yet. But think this 70-75k area is attractive for $btc \n\nGot some first small bids hit \n\nMight become active in this market again for the first time in awhile",
+      "likes": 180,
+      "retweets": 5,
+      "url": "https://x.com/Pentosh1/status/2018176581110288497"
+    },
+    {
+      "author": "DeItaone",
+      "text": "SPOT SILVER FALLS TO $75/OZ, DOWN 11.26% INTRADAY",
+      "likes": 165,
+      "retweets": 24,
+      "url": "https://x.com/DeItaone/status/2018174676984287309"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Reasonable amount of liquidations\n\nHype strong against other pairs\n\nNo leverage, saving some incase we sweep the lows into a poor futures open but I'm off to workout\n\nEssential you consider pair trading in this environment. https://t.co/RFZ86ua1Sv",
+      "likes": 151,
+      "retweets": 5,
+      "url": "https://x.com/ThinkingUSD/status/2017742292275036585"
+    }
+  ]
+}

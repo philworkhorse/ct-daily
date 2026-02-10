@@ -1,0 +1,210 @@
+{
+  "timestamp": "2026-02-06T16:22:19.762Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 17,
+    "bearish": 3,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$MOLTGRAM",
+      1
+    ],
+    [
+      "$BLOXX",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$JARVIS",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTGRAM",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOXX",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$JARVIS",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1,
+      "precious metals": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @thesolanapost: 🚨 $BUTTCOIN (@ButtCoin) shows the strongest 24H recovery among the top 30 Solana memecoins by market cap. https://t.co/8…",
+        "likes": 0,
+        "retweets": 12
+      }
+    ],
+    "$MOLTGRAM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Bowlonbase verified earnings for $MOLTGRAM on @BagsApp 💰\n\nhttps://t.co/49chxVY1LU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BLOXX": [
+      {
+        "author": "BloxApi",
+        "text": "8% $BLOXX supply accumulated now! @Pumpfun hackathon requires 10%, “giving ‘er all we got Captain!”",
+        "likes": 6,
+        "retweets": 2
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "I'm going to reinvest the entire $10,000 that @BagsApp gave me into $GSD. \n\nWhat should I do?",
+        "likes": 7,
+        "retweets": 1
+      }
+    ],
+    "$JARVIS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @justnseapen verified earnings for $JARVIS on @BagsApp 💰\n\nhttps://t.co/VnYw7dgitE",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "$GIGA = biggest shake out in crypto history\n\nLike washing rice before you cook it. Must be cleaned first.",
+        "likes": 2,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "LFG https://t.co/VwwnHo8cRK",
+      "likes": 6208,
+      "retweets": 488,
+      "url": "https://x.com/saylor/status/2019795088683974747"
+    },
+    {
+      "author": "headquarters68_",
+      "text": "Trump voter: I voted for Trump, but I really want to apologize. I'm looking at this awful picture he just posted of the Obamas as monkeys. What an embarrassment to our country https://t.co/DTY0oCDzFJ",
+      "likes": 432,
+      "retweets": 75,
+      "url": "https://x.com/headquarters68_/status/2019807129649971373"
+    },
+    {
+      "author": "Pumpfun",
+      "text": "if you’re still here, you’re not stupid\n\nyou’re blissfully retarded https://t.co/MgpoFmV3Gs",
+      "likes": 325,
+      "retweets": 37,
+      "url": "https://x.com/Pumpfun/status/2019807574812688694"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "Our precious green candles https://t.co/UNclMkijVx",
+      "likes": 272,
+      "retweets": 10,
+      "url": "https://x.com/Pentosh1/status/2019796631848124530"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Great lesson for everyone, one which people who have been in Crypto have had to learn or they die.\n\nCrypto always goes up far higher than you could ever imagine, this makes you greedy and reluctant to sell even though you should.\n\nIt also goes down way more than you'd ever expect",
+      "likes": 191,
+      "retweets": 9,
+      "url": "https://x.com/ThinkingUSD/status/2019802566755049636"
+    },
+    {
+      "author": "frankdegods",
+      "text": "as all markets drift into 24/7 low latency speculation everything becomes attention trading\n\nreflexivity never priced in enough\n\nthings that go down because of human-created narratives \n\ncan also go up from new narratives, driven by the humans who’s bids get filled\n\npc: @0xIT4I h",
+      "likes": 148,
+      "retweets": 8,
+      "url": "https://x.com/frankdegods/status/2019161654705992057"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Nearly 10% bounce back on the day so far for BTC &amp; ETH.\n\nSub $70K and sub $2K are still free. https://t.co/xotWKqosYd",
+      "likes": 139,
+      "retweets": 6,
+      "url": "https://x.com/CryptoKaleo/status/2019799811373895691"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "the longterm pmf successes during crypto's history have been: btc, exchanges, and stablecoins\n\nthese are the areas that have and will continue to see investment even while other thesis fail\n\ndespite sentiment, i think investing in good crypto projects will outperform traditional ",
+      "likes": 120,
+      "retweets": 6,
+      "url": "https://x.com/izebel_eth/status/2019800663027511645"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "the longterm pmf successes during crypto's history have been: btc, exchanges, and stablecoins\n\nthese are the areas that have and will continue to see investment even while other thesis fail\n\ndespite sentiment, i think investing in good crypto projects will outperform traditional ",
+      "likes": 120,
+      "retweets": 6,
+      "url": "https://x.com/izebel_eth/status/2019800663027511645"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Crazy https://t.co/uNVOxZrNJZ",
+      "likes": 106,
+      "retweets": 2,
+      "url": "https://x.com/ThinkingUSD/status/2019802112641901015"
+    }
+  ]
+}

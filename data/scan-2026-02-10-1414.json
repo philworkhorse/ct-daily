@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-02-10T14:14:31.543Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 5,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$META",
+      1
+    ],
+    [
+      "$ON",
+      1
+    ],
+    [
+      "$ALCH",
+      1
+    ],
+    [
+      "$COIN",
+      1
+    ],
+    [
+      "$TIMEBURN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ON",
+        "count": 1
+      },
+      {
+        "ticker": "$ALCH",
+        "count": 1
+      },
+      {
+        "ticker": "$TIMEBURN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      },
+      {
+        "ticker": "$COIN",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "fed": 5,
+      "cpi": 1,
+      "nonfarm": 1,
+      "gdp": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5K of $ONyc at $91.97M MC 🐳\n\nhttps://t.co/NwozB3wLjP",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5K of $ONyc at $91.97M MC 🐳\n\nhttps://t.co/NwozB3wLjP",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ALCH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ALCH whale just bought $5K of $ALCH at $70.7M MC 🐳\n\nhttps://t.co/3F0pRhCz3r",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$COIN": [
+      {
+        "author": "DeItaone",
+        "text": "$COIN: JPMORGAN CUTS TARGET PRICE TO $290 FROM $399",
+        "likes": 115,
+        "retweets": 10
+      }
+    ],
+    "$TIMEBURN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @roxascrypto verified earnings for $TIMEBURN on @BagsApp 💰\n\nhttps://t.co/kGop8fmF4V",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "RainsRevenge",
+      "text": "Remember the Build in Public hackathon deadline is in 9 days. This is a big opportunity for you as builder to change your life, don't let it slip by \n\nWhich also means it’s time to select few winners so far, would pay VERY close attention to teams building on pumpfun right now 👀",
+      "likes": 378,
+      "retweets": 38,
+      "url": "https://x.com/RainsRevenge/status/2020956414974587276"
+    },
+    {
+      "author": "inversebrah",
+      "text": "helthy ratio observed https://t.co/OgjfmdVtJR",
+      "likes": 261,
+      "retweets": 3,
+      "url": "https://x.com/inversebrah/status/2021185770199888365"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "What are some apps or protocols where I can still get good APY on my USDC or USDT?\n\nTell me what you're using.\n\nShould be low-risk and at least match my bank account interest rate of 2.75% lmao",
+      "likes": 226,
+      "retweets": 14,
+      "url": "https://x.com/waleswoosh/status/2021183214241341903"
+    },
+    {
+      "author": "moonpay",
+      "text": "BREAKING: @Deel and MoonPay partner to help 40,000 businesses pay employees in stablecoins\n\n💰 Your salary, paid in stablecoins\n\n💸 Delivered directly to your non-custodial wallet\n\n🚀 Launching in UK + EU (US next)\n\n⚡️ Powered by @iron\n\nGlobal payroll. Crypto rails. March 2026. h",
+      "likes": 130,
+      "retweets": 22,
+      "url": "https://x.com/moonpay/status/2021222768281354263"
+    },
+    {
+      "author": "DeItaone",
+      "text": "US RETAIL SALES FLAT AS HOLIDAY SPENDING SLOWS\n\nUS retail sales stalled in December, with declines at clothing, furniture, and auto stores offset by gains in building materials and sporting goods. Core sales, used for GDP, fell 0.1%, signaling weaker consumer momentum.\n\nSpending ",
+      "likes": 123,
+      "retweets": 24,
+      "url": "https://x.com/DeItaone/status/2021221654584611114"
+    },
+    {
+      "author": "DeItaone",
+      "text": "$COIN: JPMORGAN CUTS TARGET PRICE TO $290 FROM $399",
+      "likes": 115,
+      "retweets": 10,
+      "url": "https://x.com/DeItaone/status/2021220935102091365"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Polymarket is set to expand further into attention markets.\n\nWe already saw an early version of this with the Kaito partnership imo, which allowed users to predict mindshare and sentiment.\n\nThis could be the next step, expanding within crypto and outside, interesting",
+      "likes": 111,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2021216810578637041"
+    },
+    {
+      "author": "inversebrah",
+      "text": "itll go into the US national cocaine stockpile ^-^",
+      "likes": 108,
+      "retweets": 5,
+      "url": "https://x.com/inversebrah/status/2021179743127654803"
+    },
+    {
+      "author": "LoveYouAllNFT",
+      "text": "Nigga dumps millions worth of ETH daily and can’t even afford a pair of socks https://t.co/hDJXJOsWMN",
+      "likes": 104,
+      "retweets": 10,
+      "url": "https://x.com/LoveYouAllNFT/status/2020990209219768465"
+    }
+  ]
+}

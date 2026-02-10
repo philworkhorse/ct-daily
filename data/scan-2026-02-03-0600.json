@@ -1,0 +1,336 @@
+{
+  "timestamp": "2026-02-03T06:00:41.398Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 2,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$LUMEN",
+      1
+    ],
+    [
+      "$CRY",
+      1
+    ],
+    [
+      "$PAYAI",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$TSLA",
+      1
+    ],
+    [
+      "$PIPECAT",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$MONKEBOT",
+      1
+    ],
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$THINK",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$LUMEN",
+        "count": 1
+      },
+      {
+        "ticker": "$CRY",
+        "count": 1
+      },
+      {
+        "ticker": "$PAYAI",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$PIPECAT",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$MONKEBOT",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$THINK",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      },
+      {
+        "ticker": "$TSLA",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $6.1K of $AVICI at $20.93M MC 🐳\n\nhttps://t.co/PL9PZKKlwi",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $6.1K of $AVICI at $20.93M MC 🐳\n\nhttps://t.co/PL9PZKKlwi",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LUMEN": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $3.74K of $LUMEN at $1.22M MC 🐳\n\nhttps://t.co/7x6AWCGS1u",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "rektfencer",
+        "text": "This is the ONLY bull scenario left for $BTC.\n\n$72-75K must become a bounce zone.\n\nFrom there, it’s all about how far this can run. https://t.co/j3bVnnJnq3",
+        "likes": 1746,
+        "retweets": 267
+      },
+      {
+        "author": "Crypto_Chase",
+        "text": "If you’re expecting a bounce on $BTC (and that’s a big if IMO) you just bid $HYPE instead. Look at local price action on the two charts, it’s obvious which will heavily outperform when the bounce even",
+        "likes": 451,
+        "retweets": 24
+      }
+    ],
+    "$CRY": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @HalibutCrypto just bought $1.62K of $CRY at $167.49K MC 🐳\n\nhttps://t.co/IkDMt4LsEa",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PAYAI": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $4.95K of $PAYAI at $7.56M MC 🐳\n\nhttps://t.co/TFQcO2uUP5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "Crypto_Chase",
+        "text": "If you’re expecting a bounce on $BTC (and that’s a big if IMO) you just bid $HYPE instead. Look at local price action on the two charts, it’s obvious which will heavily outperform when the bounce even",
+        "likes": 451,
+        "retweets": 24
+      }
+    ],
+    "$TSLA": [
+      {
+        "author": "0xDamien",
+        "text": "RT @ShardiB2: Step 1 is in place\nStep 2 is $TSLA",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$PIPECAT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/exxW23bXUB verified earnings for $PIPECAT on @BagsApp 💰\n\nhttps://t.co/J5lpCtBaoW",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $7.99K of $Goyim at $3.85M MC 🐳\n\nhttps://t.co/lRN4FCE17k",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MONKEBOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ApeElteClub verified earnings for $MONKEBOT on @BagsApp 💰\n\nhttps://t.co/g5P43JcQGv",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$CLAWD": [
+      {
+        "author": "fbgThanos",
+        "text": "RT @KienNguyen: $CLAWD is going to melt faces soon.\n\nEveryone who laughed at me for bull posting at $5M will be punished",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$THINK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $2.49K of $THINK at $374.17K MC 🐳\n\nhttps://t.co/z0CYXJ1qBd",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $9.43K of $Goyim at $3.05M MC 🐳\n\nhttps://t.co/MarBlrDL32",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "rektfencer",
+      "text": "This is the ONLY bull scenario left for $BTC.\n\n$72-75K must become a bounce zone.\n\nFrom there, it’s all about how far this can run. https://t.co/j3bVnnJnq3",
+      "likes": 1746,
+      "retweets": 267,
+      "url": "https://x.com/rektfencer/status/2018328939790245973"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "hyperliquid is like bitcoin but without the pedos and with a real business generating billions of revenue on top",
+      "likes": 672,
+      "retweets": 45,
+      "url": "https://x.com/blknoiz06/status/2018531776440987797"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "hyperliquid is like bitcoin but without the pedos and with a real business generating billions of revenue on top",
+      "likes": 671,
+      "retweets": 45,
+      "url": "https://x.com/blknoiz06/status/2018531776440987797"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "If you’re expecting a bounce on $BTC (and that’s a big if IMO) you just bid $HYPE instead. Look at local price action on the two charts, it’s obvious which will heavily outperform when the bounce eventually comes.",
+      "likes": 451,
+      "retweets": 24,
+      "url": "https://x.com/Crypto_Chase/status/2018014512897532343"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "epstein files a multi-decade top of US dominance as a global superpower",
+      "likes": 334,
+      "retweets": 9,
+      "url": "https://x.com/blknoiz06/status/2018531652943925734"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Hype so strong it'll bottom the rest of the market.\n\nGoodnight everybody.",
+      "likes": 274,
+      "retweets": 13,
+      "url": "https://x.com/ThinkingUSD/status/2018544998254526668"
+    },
+    {
+      "author": "based16z",
+      "text": "Hyperliquid… that shit goin up",
+      "likes": 253,
+      "retweets": 5,
+      "url": "https://x.com/based16z/status/2018529445855048149"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "People are about to realize @HyperliquidX is the most important start up in the world not named OpenAI or Anthropic",
+      "likes": 209,
+      "retweets": 18,
+      "url": "https://x.com/ThinkingUSD/status/2018546636121575905"
+    },
+    {
+      "author": "DonAlt",
+      "text": "Kinda crazy that all the conspiracies about the elite were actually true\n\nImagine the victory laps the conspiracy folks could take if they didn't pivot into supporting those exact pedo elites",
+      "likes": 181,
+      "retweets": 5,
+      "url": "https://x.com/DonAlt/status/2018561421500678212"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "hype legit saving crypto",
+      "likes": 179,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2018537516320895094"
+    }
+  ]
+}

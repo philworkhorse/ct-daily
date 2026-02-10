@@ -1,0 +1,243 @@
+{
+  "timestamp": "2026-02-05T11:39:20.261Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 7,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PUMP",
+      2
+    ],
+    [
+      "$ZAUTH",
+      2
+    ],
+    [
+      "$BLOWFISH",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$MILADYBAGS",
+      1
+    ],
+    [
+      "$BTG",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$SHEEP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PUMP",
+        "count": 2
+      },
+      {
+        "ticker": "$ZAUTH",
+        "count": 2
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 1
+      },
+      {
+        "ticker": "$MILADYBAGS",
+        "count": 1
+      },
+      {
+        "ticker": "$BTG",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$SHEEP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "gold": 1
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 1
+    },
+    "macro": {
+      "dxy": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @nosanityxbt just bought $1.02K of $BLOWFISH at $499.6K MC 🐳\n\nhttps://t.co/qGTRATML2E",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "dampedspring",
+        "text": "Today $MSTR will report a Q4 GAAP accounting loss of $17BN.  One of the largest losses in corporate history. Based on current spot my projected loss for Q1 is $12.8BN.  Last summer this Ponzi scheme o",
+        "likes": 17,
+        "retweets": 1
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.38K of $ZAUTH at $4.42M MC 🐳\n\nhttps://t.co/Y08Vhokqx1",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $3.03K of $ZAUTH at $4.05M MC 🐳\n\nhttps://t.co/uVlfi78CXe",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZAUTH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.38K of $ZAUTH at $4.42M MC 🐳\n\nhttps://t.co/Y08Vhokqx1",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $3.03K of $ZAUTH at $4.05M MC 🐳\n\nhttps://t.co/uVlfi78CXe",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MILADYBAGS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @hellerincrypto verified earnings for $MILADYBAGS on @BagsApp 💰\n\nhttps://t.co/tWjMKKf0EV",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$BTG": [
+      {
+        "author": "kkashi_yt",
+        "text": "Trending coins for the past 1 hour:\n\n$BigTrout\n$BTG\n$WhiteWhale\n$Shark\n$Pigeon https://t.co/r7Lqwkc0VR",
+        "likes": 8,
+        "retweets": 1
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Vitalik recently said there’s no need for more copy-paste EVM chains or new L1s.\n\nWhy?\nBecause Ethereum L1 is scaling and will provide a massive amount of blockspace on its own.\n\nInstead of endless fo",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $1.02K of $SHEEP at $137.52K MC 🐳\n\nhttps://t.co/tpPIDExoc5",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SHEEP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $1.02K of $SHEEP at $137.52K MC 🐳\n\nhttps://t.co/tpPIDExoc5",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "My birthday is next week and all I wish for is BTC to go back to my entry",
+      "likes": 355,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2019324064511516766"
+    },
+    {
+      "author": "gainzy222",
+      "text": "bro it’s been literally 8+ years of this shit\n\ncz replying to absolute bottom of the barrel retards writing drivel and the rest of us pretending this is somehow normal https://t.co/H9RthmtDvP",
+      "likes": 244,
+      "retweets": 13,
+      "url": "https://x.com/gainzy222/status/2019337621600890911"
+    },
+    {
+      "author": "insiliconot",
+      "text": "Institutional Market makers are hired exclusively from the top art schools around the world in order to paint pictures on the chart in order to HOOK filthy retail traders into terrible positions.  Never forget this and stay vigilant",
+      "likes": 239,
+      "retweets": 15,
+      "url": "https://x.com/insiliconot/status/2013905134279889306"
+    },
+    {
+      "author": "insiliconot",
+      "text": "Ffs ct https://t.co/TqEyvYfX3x",
+      "likes": 200,
+      "retweets": 8,
+      "url": "https://x.com/insiliconot/status/2013904588571590662"
+    },
+    {
+      "author": "mert",
+      "text": "I have never been more optimistic about crypto's future \n\nlet the tourists bleed out and leave \n\nwe needed to improve signal:noise ratio in this space, this will do that\n\ntrillions",
+      "likes": 199,
+      "retweets": 12,
+      "url": "https://x.com/mert/status/2019367054948856294"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Vitalik is doubling down on his take on Ethereum L2s.\n\nTLDR: Actually bring something new to the table and \"vibes should match substance\".\n\nHe specifically mentions some use cases and also institutional adoption as useful areas.\n\nWe've seen quite a few chains built around that ta",
+      "likes": 133,
+      "retweets": 13,
+      "url": "https://x.com/waleswoosh/status/2019369044793774488"
+    }
+  ]
+}

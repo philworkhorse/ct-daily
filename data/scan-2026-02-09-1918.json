@@ -1,0 +1,172 @@
+{
+  "timestamp": "2026-02-09T19:18:24.407Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 2,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTB",
+      1
+    ],
+    [
+      "$KABUTO",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$BLAB",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BTB",
+        "count": 1
+      },
+      {
+        "ticker": "$KABUTO",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$BLAB",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1,
+      "treasury": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTB": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @0xchungus verified earnings for $BTB on @BagsApp 💰\n\nhttps://t.co/78FUTCBVmj",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KABUTO": [
+      {
+        "author": "ForeverCurtis_",
+        "text": "RT @proroketh: Join us tomorrow for an official $KABUTO community spaces with @mobyagent 🔥🔥\n\nBE THERE 👀\n\nhttps://t.co/4Bku34U2f7",
+        "likes": 0,
+        "retweets": 16
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "Since that co-ordinated dump the other day, I've accumulated 4.9M more GSD tokens and sent them to a new wallet I've dubbed \"THE GSD TREASURY\". \n\n(You can track it on chain here: CCVUiAU7KFG5kYTwToQHP",
+        "likes": 14,
+        "retweets": 2
+      }
+    ],
+    "$BLAB": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @BlogLabsai verified earnings for $BLAB on @BagsApp 💰\n\nhttps://t.co/e4UFACf0t7",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MustStopMurad",
+      "text": "I am extremely Bullish on the Crypto Market and think that BTC will soon begin a rapid ascent to $200,000+",
+      "likes": 1155,
+      "retweets": 143,
+      "url": "https://x.com/MustStopMurad/status/2020926157894647894"
+    },
+    {
+      "author": "a1lon9",
+      "text": "we’re selecting a few teams to come on stream and pitch their idea/product directly to Tim and me tomorrow\n\nwho should we invite?",
+      "likes": 598,
+      "retweets": 67,
+      "url": "https://x.com/a1lon9/status/2020931882175824358"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 564,
+      "retweets": 76,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "jessepollak",
+      "text": "there are now hundreds of agents on @base\n\nthey have a combined market cap of &gt;$75m, millions of dollars of real revenue, and more are launching every day\n\nwe are at the very beginning",
+      "likes": 472,
+      "retweets": 49,
+      "url": "https://x.com/jessepollak/status/2020916399670181927"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "FIRST IT WAS KYEDAE AND TENZ NOW ITS JASON AND SAKURA NOOOOOOOOOOOOOOOOOOOOOOOO FUCK FUCK FUCK I HATE MY PARASOCIAL CHUD LIFE",
+      "likes": 228,
+      "retweets": 7,
+      "url": "https://x.com/hoodg3nius/status/2020937988612686269"
+    },
+    {
+      "author": "LucaNetz",
+      "text": "🐧❤️",
+      "likes": 225,
+      "retweets": 19,
+      "url": "https://x.com/LucaNetz/status/2020926294230434205"
+    },
+    {
+      "author": "frankdegods",
+      "text": "new X api is going to unlock cool stuff\n\nhttps://t.co/RHtYxF7pZH https://t.co/Uk4rr0wxq7",
+      "likes": 218,
+      "retweets": 17,
+      "url": "https://x.com/frankdegods/status/2020745603668418818"
+    },
+    {
+      "author": "jessepollak",
+      "text": "IMO it's bullish to see nascent agents finding a market clearing price in the tens to hundreds of thousands to low millions\n\nfeels like a sane + fundamentals driven valuation for these micro economic engines with room for growth as they mature, make revenue, and differentiate",
+      "likes": 195,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2020917598234271996"
+    },
+    {
+      "author": "HugoMartingale",
+      "text": "i miss the days when u could buy a coin based solely on the speed of the tg spam",
+      "likes": 174,
+      "retweets": 7,
+      "url": "https://x.com/HugoMartingale/status/2020924224991637677"
+    },
+    {
+      "author": "Pumpfun",
+      "text": "@HugoMartingale spamming /JOIN_VC before fudding for entry https://t.co/7rX4HuZ0NK",
+      "likes": 130,
+      "retweets": 24,
+      "url": "https://x.com/Pumpfun/status/2020935522840084773"
+    }
+  ]
+}

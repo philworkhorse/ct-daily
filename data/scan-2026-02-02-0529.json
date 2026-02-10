@@ -1,0 +1,215 @@
+{
+  "timestamp": "2026-02-02T05:29:08.545Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 5,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$CN",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$BONK",
+      1
+    ],
+    [
+      "$PEMBO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CN",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PEMBO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$BONK",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "inflation": 2,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "CryptoKaleo",
+        "text": "#Bitcoin / $BTC\n\nEveryone is saying May of 2022.\n\nBut what if we’re actually running back September of 2023? https://t.co/QsPHWi60YV",
+        "likes": 193,
+        "retweets": 12
+      },
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC is currently trading below $76K.\n\nFutures are already red, and spot markets are yet to fully react to the shutdown risk after the weekend.\n\nWith momentum weak, further downside remains possible.\n",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$CN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/TiRU3v78ip verified earnings for $CN on @BagsApp 💰\n\nhttps://t.co/ML56TmHjq4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $1.01K of $Goyim at $793.29K MC 🐳\n\nhttps://t.co/Y3HlC5OM9f",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @antigores_ verified earnings for $BUTTCOIN on @BagsApp 💰\n\nhttps://t.co/bhcOdKW0Gv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BONK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BONK whale just bought $59.27K of $lanternSOL at $10.78M MC 🐳\n\nhttps://t.co/yBalUiZgSz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PEMBO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/dJR5FE9Wvx verified earnings for $PEMBO on @BagsApp 💰\n\nhttps://t.co/GSil9mCWcn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "nigga tom lee bouta break the record for largest investment loss in the history of mankind for topblasting eth at 4k https://t.co/zfu9jgNEn9",
+      "likes": 1223,
+      "retweets": 64,
+      "url": "https://x.com/blknoiz06/status/2018164491876216930"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bro spent fifty billion dollars buying bitcoin over the past five years and is now underwater",
+      "likes": 982,
+      "retweets": 29,
+      "url": "https://x.com/blknoiz06/status/2018171633039466989"
+    },
+    {
+      "author": "gainzy222",
+      "text": "This is where you’re supposed to long if you’re liquid imo",
+      "likes": 728,
+      "retweets": 12,
+      "url": "https://x.com/gainzy222/status/2017609824993706200"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Illiquid dump on a weekend into massive liquidations?\n\nYeah i'll buy that",
+      "likes": 590,
+      "retweets": 22,
+      "url": "https://x.com/ThinkingUSD/status/2017739782336479278"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Maybe the bear market ends when I reach 1M subscribers on youtube.\n\nOnly one way to find out... https://t.co/2UGbEYcXgW",
+      "likes": 521,
+      "retweets": 7,
+      "url": "https://x.com/intocryptoverse/status/2018180610129342819"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "Well. It’s not March yet. But think this 70-75k area is attractive for $btc \n\nGot some first small bids hit \n\nMight become active in this market again for the first time in awhile",
+      "likes": 403,
+      "retweets": 9,
+      "url": "https://x.com/Pentosh1/status/2018176581110288497"
+    },
+    {
+      "author": "icobeast",
+      "text": "10 BTC\n250 ETH\n10,000 HYPE\n\npretty sure you permanently retire before 2030",
+      "likes": 340,
+      "retweets": 5,
+      "url": "https://x.com/icobeast/status/2018024404479836176"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "coins down so much started reading the bible",
+      "likes": 295,
+      "retweets": 22,
+      "url": "https://x.com/blknoiz06/status/2018186584105902571"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "coins down so much started reading the bible",
+      "likes": 294,
+      "retweets": 22,
+      "url": "https://x.com/blknoiz06/status/2018186584105902571"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "no cap https://t.co/h1bvxlR7i4",
+      "likes": 249,
+      "retweets": 10,
+      "url": "https://x.com/blknoiz06/status/2018187391555543134"
+    }
+  ]
+}

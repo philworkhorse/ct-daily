@@ -1,0 +1,205 @@
+{
+  "timestamp": "2026-02-05T18:37:21.504Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 5,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CBBTC",
+      2
+    ],
+    [
+      "$WBTC",
+      2
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$RNBW",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CBBTC",
+        "count": 2
+      },
+      {
+        "ticker": "$WBTC",
+        "count": 2
+      },
+      {
+        "ticker": "$RNBW",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "rate hike": 2,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "ColdBloodShill",
+        "text": "Lowest Daily RSI level on $BTC since the covid crash. https://t.co/E5pxmsNXyp",
+        "likes": 25,
+        "retweets": 0
+      }
+    ],
+    "$RNBW": [
+      {
+        "author": "jessepollak",
+        "text": "RT @rainbowdotme: 🌈 $RNBW is live now!\n\nIf you've earned points, claim your Airdrop in the Rewards tab in the Rainbow app.\n\nTrading is alre…",
+        "likes": 0,
+        "retweets": 82
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "CookerFlips",
+        "text": "While everyone is doom posting \n\nLet me remind you the assistance fund burned record breaking amounts of $4.2m $HYPE today https://t.co/PIVjQMlEdV",
+        "likes": 11,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $16.32K of $WBTC at $257.02M MC 🐳\n\nhttps://t.co/LteiSvQDBM",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $14.71K of $WBTC at $258.21M MC 🐳\n\nhttps://t.co/Mk2uXGBmax",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $16.32K of $WBTC at $257.02M MC 🐳\n\nhttps://t.co/LteiSvQDBM",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $14.71K of $WBTC at $258.21M MC 🐳\n\nhttps://t.co/Mk2uXGBmax",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MarcellxMarcell",
+      "text": "Blessing your TL right now because you need it. https://t.co/6wQWVWM3QR",
+      "likes": 891,
+      "retweets": 49,
+      "url": "https://x.com/MarcellxMarcell/status/2019440083276034255"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will g",
+      "likes": 764,
+      "retweets": 22,
+      "url": "https://x.com/notthreadguy/status/1858669472350949833"
+    },
+    {
+      "author": "cobie",
+      "text": "@notthreadguy https://t.co/qMskWdt04Q",
+      "likes": 687,
+      "retweets": 0,
+      "url": "https://x.com/cobie/status/1858670294971674874"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "BREAKING: ESPN is parting ways with NBA insider Shams Charania. \n\n(Via @ESPMNBA) https://t.co/GWGptc6QvO",
+      "likes": 616,
+      "retweets": 26,
+      "url": "https://x.com/TheNBACentel/status/2019478869812683204"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Delusional Bulls Will Win in the End.",
+      "likes": 447,
+      "retweets": 97,
+      "url": "https://x.com/MustStopMurad/status/2019476877124022300"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Delusional Bulls Will Win in the End.",
+      "likes": 446,
+      "retweets": 97,
+      "url": "https://x.com/MustStopMurad/status/2019476877124022300"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "pulse check",
+      "likes": 402,
+      "retweets": 17,
+      "url": "https://x.com/blknoiz06/status/2019462671372878245"
+    },
+    {
+      "author": "trading_axe",
+      "text": "\"What's the news for this massive drop?\"\n\nWell, you're about to find out.\n\n~ Dr. Axius.",
+      "likes": 243,
+      "retweets": 7,
+      "url": "https://x.com/trading_axe/status/2019472219760435553"
+    },
+    {
+      "author": "levelsio",
+      "text": "What a day! https://t.co/86T0MkIpQN",
+      "likes": 159,
+      "retweets": 6,
+      "url": "https://x.com/levelsio/status/2019478419738652884"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "for the future of america i hope bitcoin isn’t front running a broader market move and is just dying by itself",
+      "likes": 134,
+      "retweets": 1,
+      "url": "https://x.com/notthreadguy/status/2019464964323352645"
+    }
+  ]
+}

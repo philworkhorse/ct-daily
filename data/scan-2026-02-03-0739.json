@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-02-03T07:39:37.707Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 0,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$KITZE",
+      1
+    ],
+    [
+      "$CRY",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$KITZE",
+        "count": 1
+      },
+      {
+        "ticker": "$CRY",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "oil": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$KITZE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @thekitze verified earnings for $KITZE on @BagsApp 💰\n\nhttps://t.co/Mza2jsqZLP",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CRY": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CRY with a PnL of +271.61%.\n\n$CRY has been trending on Moby since $54.8K MC. Currently sitting at $240.82K MC. https://t.co/eGQ5LacQef",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.26K of $K2 at $386.44K MC 🐳\n\nhttps://t.co/xkLIgTcKH7",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "DonAlt",
+      "text": "Just picked some oranges, lemons and bananas \nDon't think there is many things in life as satisfying as harvesting your own food from your own trees",
+      "likes": 619,
+      "retweets": 5,
+      "url": "https://x.com/DonAlt/status/2018533352530465194"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet? https://t.co/G9lxitZiki",
+      "likes": 537,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2018565186270138474"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Recovery efforts following the Russian strike across our regions are ongoing. Once again, there was a targeted attack specifically on energy facilities – the Russians used a significant number of ballistic missiles in combination with other missiles, more than 70 missiles in tota",
+      "likes": 464,
+      "retweets": 160,
+      "url": "https://x.com/ZelenskyyUa/status/2018585717933240472"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Hype so strong it'll bottom the rest of the market.\n\nGoodnight everybody.",
+      "likes": 357,
+      "retweets": 16,
+      "url": "https://x.com/ThinkingUSD/status/2018544998254526668"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "People are about to realize @HyperliquidX is the most important start up in the world not named OpenAI or Anthropic",
+      "likes": 344,
+      "retweets": 25,
+      "url": "https://x.com/ThinkingUSD/status/2018546636121575905"
+    },
+    {
+      "author": "retardmode",
+      "text": "biggest update yet:\n\nthe “PQ Index”\n>dynamic neighborhood quality score\n>over 100,000 hexagonal cells (enabling neighborhood-level granularity) \n>each cell calculates a weighted composite score, accounting for disparate population numbers, based only on which of the 11 data layer",
+      "likes": 319,
+      "retweets": 18,
+      "url": "https://x.com/retardmode/status/2018581617246175575"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Триває ліквідація наслідків російського удару в наших регіонах. Знову був прицільний удар саме по об’єктах енергетики: росіяни використали значу кількість балістики в комбінації з іншими ракетами – більш ніж 70 і 450 ударних дронів. Під ударами були Сумщина, Харківщина, Київщина ",
+      "likes": 154,
+      "retweets": 25,
+      "url": "https://x.com/ZelenskyyUa/status/2018585722173681746"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bros whats a good new movie to stream",
+      "likes": 151,
+      "retweets": 1,
+      "url": "https://x.com/blknoiz06/status/2018571378820260255"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Money Badger Boxes currently trading at $230 USD.\n\nPicked one up here.\n\nThey will reveal into Money Badger NFTs at some point which is the cultural layer for Paradex.\n\nPlus there are two airdrops coming up.\n\nObviously some risk to it but NFTs are down bad anyway at the moment so ",
+      "likes": 130,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2018584283657785815"
+    }
+  ]
+}

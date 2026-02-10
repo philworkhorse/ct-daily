@@ -1,0 +1,341 @@
+{
+  "timestamp": "2026-02-03T05:01:12.726Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 2,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$LORIA",
+      2
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$MYSTIC",
+      1
+    ],
+    [
+      "$KNTQ",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$CRY",
+      1
+    ],
+    [
+      "$PURCH",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$AI",
+      1
+    ],
+    [
+      "$EGG",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$CLAWGOGO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$LORIA",
+        "count": 2
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$MYSTIC",
+        "count": 1
+      },
+      {
+        "ticker": "$KNTQ",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$CRY",
+        "count": 1
+      },
+      {
+        "ticker": "$PURCH",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$AI",
+        "count": 1
+      },
+      {
+        "ticker": "$EGG",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWGOGO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1,
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$LORIA": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @zinceth just bought $4.42K of $LORIA at $5.26M MC 🐳\n\nhttps://t.co/AY01VjQ6tM",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @zinceth just bought $4.81K of $LORIA at $5.26M MC 🐳\n\nhttps://t.co/vs5Mj7mPnL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $3.01K of $MYSTIC at $21.15M MC 🐳\n\nhttps://t.co/dQBhGfAT0Q",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MYSTIC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $3.01K of $MYSTIC at $21.15M MC 🐳\n\nhttps://t.co/dQBhGfAT0Q",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KNTQ": [
+      {
+        "author": "CookerFlips",
+        "text": "Found $50k $KNTQ in a wallet\n\nLFGGGGGGGGGGG",
+        "likes": 20,
+        "retweets": 1
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "CookerFlips",
+        "text": "@ThinkingUSD @HyperliquidX Excited to post the $HYPE OpenAI PNL by EOY",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $4.93K of $GSD at $2.65M MC 🐳\n\nhttps://t.co/XGtZIRzYtj",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CRY": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CRY with a PnL of +153.25%.\n\n$CRY has been trending on Moby since $54.8K MC. Currently sitting at $168.6K MC. https://t.co/FrZLAhChBZ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PURCH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $5.06K of $PURCH at $3.09M MC 🐳\n\nhttps://t.co/8RrrzF5Xzv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.54K of $PENGUIN at $37.92M MC 🐳\n\nhttps://t.co/AVM75lj5Jn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AI16Z whale just bought $3.58K of $EGG at $508.39K MC 🐳\n\nhttps://t.co/Yhd28KVCVq",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$EGG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AI16Z whale just bought $3.58K of $EGG at $508.39K MC 🐳\n\nhttps://t.co/Yhd28KVCVq",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $3.12K of $ZEC at $16.98M MC 🐳\n\nhttps://t.co/ukf5CNyFJF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $3.12K of $ZEC at $16.98M MC 🐳\n\nhttps://t.co/ukf5CNyFJF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWGOGO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ClawdotGoGo verified earnings for $CLAWGOGO on @BagsApp 💰\n\nhttps://t.co/rSiRcPTfDR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "hyperliquid is like bitcoin but without the pedos and with a real business generating billions of revenue on top",
+      "likes": 452,
+      "retweets": 26,
+      "url": "https://x.com/blknoiz06/status/2018531776440987797"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "epstein files a multi-decade top of US dominance as a global superpower",
+      "likes": 258,
+      "retweets": 8,
+      "url": "https://x.com/blknoiz06/status/2018531652943925734"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "hey hey heyyyyyyyy https://t.co/WPHUMmMFJ5",
+      "likes": 248,
+      "retweets": 6,
+      "url": "https://x.com/blknoiz06/status/2018528492976308672"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/Id16ZH8sxc",
+      "likes": 242,
+      "retweets": 6,
+      "url": "https://x.com/blknoiz06/status/2018527432391922016"
+    },
+    {
+      "author": "based16z",
+      "text": "Hyperliquid… that shit goin up",
+      "likes": 218,
+      "retweets": 4,
+      "url": "https://x.com/based16z/status/2018529445855048149"
+    },
+    {
+      "author": "patty_fi",
+      "text": "Yo",
+      "likes": 175,
+      "retweets": 5,
+      "url": "https://x.com/patty_fi/status/2018376464140214452"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Hype so strong it'll bottom the rest of the market.\n\nGoodnight everybody.",
+      "likes": 133,
+      "retweets": 6,
+      "url": "https://x.com/ThinkingUSD/status/2018544998254526668"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Hype so strong it'll bottom the rest of the market.\n\nGoodnight everybody.",
+      "likes": 133,
+      "retweets": 6,
+      "url": "https://x.com/ThinkingUSD/status/2018544998254526668"
+    },
+    {
+      "author": "icobeast",
+      "text": "What happens if hyperliquid gets short squeezed on HYPE?",
+      "likes": 129,
+      "retweets": 1,
+      "url": "https://x.com/icobeast/status/2018382471377613178"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "What the fuck is you talking about saw this shit coming like I had binoculars BOY",
+      "likes": 111,
+      "retweets": 2,
+      "url": "https://x.com/ThinkingUSD/status/2018529512645132668"
+    }
+  ]
+}

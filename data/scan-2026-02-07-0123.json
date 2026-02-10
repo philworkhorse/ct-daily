@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-02-07T01:23:59.684Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 0,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 3,
+    "bearish": 0,
+    "neutral": 47,
+    "total": 50
+  },
+  "topTickers": [],
+  "byCategory": {
+    "crypto": [],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "bond": 1,
+      "dollar": 1,
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {},
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "vibe check https://t.co/FgP4UMNAKY",
+      "likes": 335,
+      "retweets": 6,
+      "url": "https://x.com/blknoiz06/status/2019925683657666600"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "just did a money spread at the homeless shelter. https://t.co/Ncur4WQiRN",
+      "likes": 105,
+      "retweets": 4,
+      "url": "https://x.com/DipWheeler/status/2019922384481055137"
+    }
+  ]
+}

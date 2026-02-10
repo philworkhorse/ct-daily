@@ -1,0 +1,205 @@
+{
+  "timestamp": "2026-02-07T08:21:36.905Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 1,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$POPCAT",
+      2
+    ],
+    [
+      "$AVAX",
+      1
+    ],
+    [
+      "$SIGIL",
+      1
+    ],
+    [
+      "$AVATAR",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$WBTC",
+      1
+    ],
+    [
+      "$ELIZAOK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$POPCAT",
+        "count": 2
+      },
+      {
+        "ticker": "$SIGIL",
+        "count": 1
+      },
+      {
+        "ticker": "$AVATAR",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$WBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ELIZAOK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$AVAX",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$AVAX": [
+      {
+        "author": "inversebrah",
+        "text": "RT @thetopsignal: @avery_bartlett @gerhardvonbier @0xSmitty @vohvohh Are you having fun on $AVAX?",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$SIGIL": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @UniswapVillain just bought $1.37K of $SIGIL at $171.97K MC 🐳\n\nhttps://t.co/varxl6pD0A",
+        "likes": 3,
+        "retweets": 2
+      }
+    ],
+    "$AVATAR": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @thekryptoking_ just bought $1.69K of $AVATAR at $227.99K MC 🐳\n\nhttps://t.co/fedmgqxUIP",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $16.06K of $WBTC at $269.14M MC 🐳\n\nhttps://t.co/nekvciDqxr",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $16.06K of $WBTC at $269.14M MC 🐳\n\nhttps://t.co/nekvciDqxr",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$POPCAT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $POPCAT whale just bought $4.77K of $Buttcoin at $42.8M MC 🐳\n\nhttps://t.co/8sEsV6h46a",
+        "likes": 5,
+        "retweets": 2
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $POPCAT whale just bought $7.6K of $Buttcoin at $42.16M MC 🐳\n\nhttps://t.co/KaS8vF9lyT",
+        "likes": 3,
+        "retweets": 2
+      }
+    ],
+    "$ELIZAOK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @shawmakesmagic verified earnings for $ELIZAOK on @BagsApp 💰\n\nhttps://t.co/R5oScSn3m7",
+        "likes": 10,
+        "retweets": 3
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet https://t.co/4EwU9TAHRz",
+      "likes": 560,
+      "retweets": 9,
+      "url": "https://x.com/waleswoosh/status/2020014724096905481"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "Sold at $120,000, bought at $60,000.\n\nTrading is easy. https://t.co/OhleUmhLg8",
+      "likes": 188,
+      "retweets": 4,
+      "url": "https://x.com/boldleonidas/status/2020039723025322127"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Wherever the security situation allows, rescue and repair operations continue at the sites of Russian strikes. Last night's attack involved more than 400 drones and around 40 missiles of various types. The main targets were the energy grid, generation facilities, and distribution",
+      "likes": 170,
+      "retweets": 69,
+      "url": "https://x.com/ZelenskyyUa/status/2020048454030970931"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Polymarket with more visits than the top crypto websites combined.\n\nAnd about to flip Robinhood.\n\nPolymarket supercycle",
+      "likes": 165,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2020033571449348426"
+    },
+    {
+      "author": "Icebergy",
+      "text": "that’s it?",
+      "likes": 114,
+      "retweets": 3,
+      "url": "https://x.com/Icebergy/status/2019641346244636776"
+    },
+    {
+      "author": "cryptomanran",
+      "text": "I know this may sound absurd but you should be getting bullish when price goes down and bearish when price goes up!",
+      "likes": 107,
+      "retweets": 5,
+      "url": "https://x.com/cryptomanran/status/2020039607811788875"
+    },
+    {
+      "author": "gainzy222",
+      "text": "vitalik finally using his influence for good, supporting zec\n\ninstead of fudding assets down 90%\n\ngood guy vitalik \n https://t.co/8rHo7lfcKp",
+      "likes": 104,
+      "retweets": 1,
+      "url": "https://x.com/gainzy222/status/2020023786146566502"
+    }
+  ]
+}

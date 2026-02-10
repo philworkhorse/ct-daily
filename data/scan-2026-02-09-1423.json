@@ -1,0 +1,232 @@
+{
+  "timestamp": "2026-02-09T14:23:26.265Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 18,
+    "bearish": 5,
+    "neutral": 77,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$JUICE",
+      1
+    ],
+    [
+      "$LMAO",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$NVDA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$JUICE",
+        "count": 1
+      },
+      {
+        "ticker": "$LMAO",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$NVDA",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "inflation": 1,
+      "treasury": 1,
+      "fed": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @saylor: Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~…",
+        "likes": 0,
+        "retweets": 658
+      },
+      {
+        "author": "docXBT",
+        "text": "$BTC - Looking for us to build out value here; starting off by using prev week's vah/val and anchored vwap as a guide. https://t.co/qvjy8k0WZp",
+        "likes": 60,
+        "retweets": 4
+      },
+      {
+        "author": "rektfencer",
+        "text": "The next 6 months of $BTC price action\n\nYou are NOT ready for this https://t.co/EYPtLZlDNf",
+        "likes": 33,
+        "retweets": 7
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "$REKT Weekly https://t.co/trWDrdfeOZ",
+        "likes": 55,
+        "retweets": 13
+      },
+      {
+        "author": "osf_rekt",
+        "text": "impromptu $REKT weekly in a few mins, while i have a spare moment! https://t.co/pCyKcj4jdN",
+        "likes": 47,
+        "retweets": 8
+      }
+    ],
+    "$JUICE": [
+      {
+        "author": "slingoorio",
+        "text": "bro. \n\nlot of moves. \n\nwhere to start?\n\nmulti-sig? treasury? $JUICE tech? web update deploys? artist announcements?\n\n$LMAO",
+        "likes": 9,
+        "retweets": 0
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "bro. \n\nlot of moves. \n\nwhere to start?\n\nmulti-sig? treasury? $JUICE tech? web update deploys? artist announcements?\n\n$LMAO",
+        "likes": 9,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $39.96K of $PUMP at $1.99B MC 🐳\n\nhttps://t.co/nsv0A0JMPg",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$NVDA": [
+      {
+        "author": "DeItaone",
+        "text": "$NVDA - APOLLO NEARS $3.4 BILLION LENDING DEAL FOR NVIDIA CHIPS LEASED TO XAI. - THE INFORMATION",
+        "likes": 101,
+        "retweets": 15
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 505,
+      "retweets": 67,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "Citrini7",
+      "text": "type of guy who’s way more excited about Takaichi winning than the Super Bowl",
+      "likes": 489,
+      "retweets": 26,
+      "url": "https://x.com/Citrini7/status/2020650950181241331"
+    },
+    {
+      "author": "coinbase",
+      "text": "You saw it on TV. Now it’s on a tee (and a hat).\n\nUse code ‘EVERYBODYCOINBASE’ to snag it for free.\n\nFirst come, first served.\nCrypto is for everybody, but this merch isn’t. Good luck. https://t.co/suGEZGuBZa",
+      "likes": 458,
+      "retweets": 71,
+      "url": "https://x.com/coinbase/status/2020671171239305362"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "The more time I spend in this space, the more I just want to hold BTC over everything else.\n\nWhen I first entered crypto, I couldn't understand why anyone would buy Bitcoin over alts.\n\nNow I get it",
+      "likes": 426,
+      "retweets": 22,
+      "url": "https://x.com/waleswoosh/status/2020821348717871479"
+    },
+    {
+      "author": "wrld_sol",
+      "text": "9/10 times I open this app the first thing I see is people fudding other peoples bags \n\nYesterday I had people coming at me for publicly buying and HOLDING a coin lmao (real)\n\nIt’s pretty crazy to see how backwards this space has gone. Do yall want retail to come back or?",
+      "likes": 292,
+      "retweets": 20,
+      "url": "https://x.com/wrld_sol/status/2020693694752674295"
+    },
+    {
+      "author": "mert",
+      "text": "think the coinbase ad was good actually\n\nnot david ogilvy but nothing wrong with it \n\nit should be a big alarm bell that ppl have this negative of a reaction to crypto, not coinbase's fault",
+      "likes": 215,
+      "retweets": 10,
+      "url": "https://x.com/mert/status/2020819946926698660"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Espresso is doing a Binance Prime sale at $250M USD FDV.\n\nNot long ago they raised at $400M USD on Kaito's Capital Launchpad.\n\nNone of the above groups will break even https://t.co/yXSJpxRDPn",
+      "likes": 214,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2020850576775389206"
+    },
+    {
+      "author": "moonpay",
+      "text": "gm self-custody enjoyoors 🔐\n\nyou can now buy a @Tangem hardware wallet using crypto, live today with MoonPay Commerce! \n\nspend a few tokens ➡️ get a sleek, pocket-sized wallet that keeps everything secure\n\nself-custody, made simple 🚀 https://t.co/4eEsxGGsAQ",
+      "likes": 168,
+      "retweets": 28,
+      "url": "https://x.com/moonpay/status/2020860476406534400"
+    },
+    {
+      "author": "deltaxbt",
+      "text": "78,815$ hahahahahaha bro what the fuck",
+      "likes": 157,
+      "retweets": 3,
+      "url": "https://x.com/deltaxbt/status/2020848661547102564"
+    },
+    {
+      "author": "deltaxbt",
+      "text": "there can be an ongoing nuclear attack with warheads flying in the sky, and some motherfucker is gonna tweet some bullshit like \"fear and greed index is at 10, this is clearly a good time to buy while everyone is fearful\"",
+      "likes": 142,
+      "retweets": 4,
+      "url": "https://x.com/deltaxbt/status/2020823125995208868"
+    }
+  ]
+}

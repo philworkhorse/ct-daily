@@ -1,0 +1,100 @@
+{
+  "timestamp": "2026-02-08T05:12:05.013Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 6,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$KLAUS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$KLAUS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "based16z",
+        "text": "RT @lookonchain: Despite the market crash, Tom Lee(@fundstrat)'s #Bitmine bought another 20,000 $ETH($41.98M) 5 hours ago.\n\nhttps://t.co/r8…",
+        "likes": 0,
+        "retweets": 32
+      }
+    ],
+    "$KLAUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $1.06K of $KLAUS at $107.07K MC 🐳\n\nhttps://t.co/vDzIzEjr8u",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MrBeast",
+      "text": "After our new video Whatnot shot up to number 3 on the App Store 😮 https://t.co/QvxnOkUf9G",
+      "likes": 621,
+      "retweets": 23,
+      "url": "https://x.com/MrBeast/status/2020361426465169751"
+    },
+    {
+      "author": "X",
+      "text": "Do you like or love Grok Imagine?",
+      "likes": 490,
+      "retweets": 32,
+      "url": "https://x.com/X/status/2020356853339935146"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "https://t.co/X0J5bxl52E",
+      "likes": 135,
+      "retweets": 6,
+      "url": "https://x.com/boldleonidas/status/2020356544240685424"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Holding a SOL balance so you can trade shitters is something we’ll view as outdated as we view gas wars now",
+      "likes": 104,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2020263099501338766"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "timestamp": "2026-01-30T01:52:35.584Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 6,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$SNDK",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$CANCER",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$HITLANIA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SNDK",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$CANCER",
+        "count": 1
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$HITLANIA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "copper": 2
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "fed": 3,
+      "dollar": 1,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$SNDK": [
+      {
+        "author": "howdymerry",
+        "text": "RT @aleabitoreddit: $SNDK: \"Sandisk will pay Kioxia USD 1.165 billion for manufacturing services and continued availability of supply\".\n\nKi…",
+        "likes": 0,
+        "retweets": 35
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.4K of $Win at $1.02M MC 🐳\n\nhttps://t.co/lUO9aZ86fG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "Set some bids at 65K~ in case something funny happens.\n\n$BTC",
+        "likes": 51,
+        "retweets": 0
+      },
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Gold\n\n$BTC / $XAU:     🥇  15.202 oz https://t.co/6WT4MVUdiK",
+        "likes": 37,
+        "retweets": 8
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.91K of $CANCER at $1.49M MC 🐳\n\nhttps://t.co/KSsTMUGvsu",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CANCER": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.91K of $CANCER at $1.49M MC 🐳\n\nhttps://t.co/KSsTMUGvsu",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Gold\n\n$BTC / $XAU:     🥇  15.202 oz https://t.co/6WT4MVUdiK",
+        "likes": 37,
+        "retweets": 8
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $10.29K of $HYPE at $4.58M MC 🐳\n\nhttps://t.co/0KKPZcu0Nf",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $10.29K of $HYPE at $4.58M MC 🐳\n\nhttps://t.co/0KKPZcu0Nf",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HITLANIA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @lamps_apple verified earnings for $HITLANIA on @BagsApp 💰\n\nhttps://t.co/DROamc0GDQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "There one exchange that has been relentlessly selling altcoins since 10/10… almost like they got stuck with a bunch of inventory from portfolio margin…",
+      "likes": 249,
+      "retweets": 11,
+      "url": "https://x.com/ThinkingUSD/status/2017036519446294827"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "this would be hilarious. https://t.co/YeTpqwbHhp",
+      "likes": 243,
+      "retweets": 18,
+      "url": "https://x.com/DipWheeler/status/2017022279704858891"
+    },
+    {
+      "author": "mert",
+      "text": "so we've established bitcoin is not a hedge against inflation, debasement, or geopolitical instability\n\nfrom this we can conclude:\n\nwe are either early or retarded",
+      "likes": 238,
+      "retweets": 7,
+      "url": "https://x.com/mert/status/2017029253473189921"
+    },
+    {
+      "author": "jessepollak",
+      "text": "NEW: trending appcoins on the @baseapp https://t.co/EPzg9NMTXu",
+      "likes": 186,
+      "retweets": 15,
+      "url": "https://x.com/jessepollak/status/2017033464693060043"
+    },
+    {
+      "author": "gainzy222",
+      "text": "He was a MASSIVE Democrat and they threw him under the bus lol\n\nHe pledged support for Biden during the election where Biden beat Trump\n\n“Why I become a Republican” - that’s an easy one bro it’s because you donated 9 figures and they imprisoned you anyway",
+      "likes": 123,
+      "retweets": 3,
+      "url": "https://x.com/gainzy222/status/2017042862911664279"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "https://t.co/0FIT5cBop5",
+      "likes": 122,
+      "retweets": 1,
+      "url": "https://x.com/boldleonidas/status/2017045728603124014"
+    }
+  ]
+}

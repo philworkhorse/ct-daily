@@ -1,0 +1,221 @@
+{
+  "timestamp": "2026-01-31T07:44:03.615Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 1,
+    "neutral": 93,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      4
+    ],
+    [
+      "$TOWN",
+      3
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$MOBY",
+      1
+    ],
+    [
+      "$EVA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 4
+      },
+      {
+        "ticker": "$TOWN",
+        "count": 3
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$MOBY",
+        "count": 1
+      },
+      {
+        "ticker": "$EVA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "gold": 2,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.13K of $PENGUIN at $49.66M MC 🐳\n\nhttps://t.co/X6KfhP1oEl",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $6.16K of $PENGUIN at $49.49M MC 🐳\n\nhttps://t.co/uHMV1qnx2I",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.94K of $PENGUIN at $50.27M MC 🐳\n\nhttps://t.co/iNmY2jNDbl",
+        "likes": 5,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.39K of $PENGUIN at $50.79M MC 🐳\n\nhttps://t.co/n56nkD8HYN",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $6.16K of $PENGUIN at $49.49M MC 🐳\n\nhttps://t.co/uHMV1qnx2I",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$TOWN": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @XScharo just bought $2.41K of $TOWN at $734.39K MC 🐳\n\nhttps://t.co/NPkyHroBCH",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Loopierr just bought $2.54K of $TOWN at $781.96K MC 🐳\n\nhttps://t.co/vDIlh9nH6q",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Loopierr just bought $5.19K of $TOWN at $781.96K MC 🐳\n\nhttps://t.co/OwDGZcAIp1",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MOBY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $3.38K of $EVA at $1.9M MC 🐳\n\nhttps://t.co/CJYkmEmU8z",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$EVA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $3.38K of $EVA at $1.9M MC 🐳\n\nhttps://t.co/CJYkmEmU8z",
+        "likes": 0,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Wendys",
+      "text": "new personality unlocked 🔓 https://t.co/B6uhtAJeMt",
+      "likes": 2673,
+      "retweets": 78,
+      "url": "https://x.com/Wendys/status/2003190804135706743"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1300,
+      "retweets": 214,
+      "url": "https://x.com/Neuravision_A/status/2010102620502011981"
+    },
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 499,
+      "retweets": 44,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm happy weekend https://t.co/okT88CwOxQ",
+      "likes": 455,
+      "retweets": 7,
+      "url": "https://x.com/waleswoosh/status/2017477980092821526"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 428,
+      "retweets": 4,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    },
+    {
+      "author": "MarcellxMarcell",
+      "text": "the penguin is never coming back bros \njust let it go.",
+      "likes": 351,
+      "retweets": 30,
+      "url": "https://x.com/MarcellxMarcell/status/2017499305473376398"
+    },
+    {
+      "author": "cz_binance",
+      "text": "Received 400 applications for Easy Residence (@Yzilabs) next season. Every season has about 20 projects, aiming for 4-6 season's per year. \n\nI find it easier to invest when the market is less hot. All the hype goes away. Real builders continue to build.",
+      "likes": 349,
+      "retweets": 34,
+      "url": "https://x.com/cz_binance/status/2017499475921801623"
+    },
+    {
+      "author": "jessepollak",
+      "text": "this weekend is a prime building opportunity",
+      "likes": 348,
+      "retweets": 19,
+      "url": "https://x.com/jessepollak/status/2017473205062275291"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "looking back you can't even explain the silly shit that was going on in 2024, there was a crypto conference iggy azalea party with strippers &amp; a mechanical bull in the middle of a random venue in singapore, sounds like the most ridiculous ai slop scripted combination of thing",
+      "likes": 297,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017465926090678351"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "looking back you can't even explain the silly shit that was going on in 2024, there was a crypto conference iggy azalea party with strippers &amp; a mechanical bull in the middle of a random venue in singapore, sounds like the most ridiculous ai slop scripted combination of thing",
+      "likes": 297,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017465926090678351"
+    }
+  ]
+}

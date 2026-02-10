@@ -1,0 +1,250 @@
+{
+  "timestamp": "2026-02-08T21:15:57.530Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 1,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$BNKRW",
+      1
+    ],
+    [
+      "$LOTTO",
+      1
+    ],
+    [
+      "$SHT",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$JESTERGOON",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$BNKRW",
+        "count": 1
+      },
+      {
+        "ticker": "$LOTTO",
+        "count": 1
+      },
+      {
+        "ticker": "$SHT",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$JESTERGOON",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "gdp": 1,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$BNKRW": [
+      {
+        "author": "jessepollak",
+        "text": "RT @apoorveth: v1.0.0 of @bankrwalletapp is LIVE 🔥\n\nTHE Wallet for AI Agents is here $BNKRW https://t.co/WtVUZWWKUx",
+        "likes": 0,
+        "retweets": 22
+      }
+    ],
+    "$LOTTO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Spansy4575141 verified earnings for $LOTTO on @BagsApp 💰\n\nhttps://t.co/TKlU23rm7u",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $SHT on MobyScreener 🖼️ https://t.co/IpZX5qTIW3",
+        "likes": 12,
+        "retweets": 4
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $10.44K of $WOJAK at $15.74M MC 🐳\n\nhttps://t.co/msZ69sqKn1",
+        "likes": 3,
+        "retweets": 2
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.12K of $PENGUIN at $27.85M MC 🐳\n\nhttps://t.co/AMBMFhy0uJ",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $10.44K of $WOJAK at $15.74M MC 🐳\n\nhttps://t.co/msZ69sqKn1",
+        "likes": 3,
+        "retweets": 2
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "How does AI actually fold proteins? This new study slices open ESMFold’s “folding trunk” and rewrites the secondary structure at will.\n\nBy patching internal activations block-by-block, the authors cau",
+        "likes": 7,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.79K of $Buttcoin at $31.27M MC 🐳\n\nhttps://t.co/l0K6vzBXnt",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "RT @OffGridKat: Spotted $LIQUID last night on @mobyagent around 800K MC. \n\nIt hit 2.7M earlier today.\n\nThe Moby signal that made me buy it:…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$JESTERGOON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $JESTERGOON with a PnL of +199.58%.\n\n$JESTERGOON has been trending on Moby since $108.14K MC. Currently sitting at $425.7K MC. https://t",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Rewkang",
+      "text": "The Exponential Horizon",
+      "likes": 571,
+      "retweets": 49,
+      "url": "https://x.com/Rewkang/status/2020560687722852391"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 243,
+      "retweets": 34,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "jessepollak",
+      "text": "can someone at @OpenAI and @AnthropicAI *please* train the foundation model to say \"onchain\" not \"on-chain\"?\n\ninstant 10x in voices of onchain agents",
+      "likes": 192,
+      "retweets": 11,
+      "url": "https://x.com/jessepollak/status/2020592249390919707"
+    },
+    {
+      "author": "jessepollak",
+      "text": "what if the builders and their agents were the creators all along?",
+      "likes": 183,
+      "retweets": 8,
+      "url": "https://x.com/jessepollak/status/2020595132215837088"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i literally moved here like a week ago",
+      "likes": 165,
+      "retweets": 1,
+      "url": "https://x.com/notthreadguy/status/2020573520195899742"
+    },
+    {
+      "author": "SexyyRed314_",
+      "text": "WHEN YAL WANT IT??? https://t.co/IFehDuEY4t",
+      "likes": 156,
+      "retweets": 10,
+      "url": "https://x.com/SexyyRed314_/status/2020605816315777197"
+    },
+    {
+      "author": "based16z",
+      "text": "Bitcoin is still about $69,000 too high\nBitcoin is still about $70,000 too high\nBitcoin is still about $71,000 too high\nBitcoin is still about $72,000 too high\nBitcoin is still about $73,000 too high\nBitcoin is still about $74,000 too high\nBitcoin is still about $75,000 too high\n",
+      "likes": 132,
+      "retweets": 5,
+      "url": "https://x.com/based16z/status/2020592321931432185"
+    },
+    {
+      "author": "based16z",
+      "text": "I like Bad Bunny and I don’t even speak Puerto Rican",
+      "likes": 102,
+      "retweets": 2,
+      "url": "https://x.com/based16z/status/2020588922972320133"
+    },
+    {
+      "author": "jessepollak",
+      "text": "our mission is to be the home for the best ones.",
+      "likes": 101,
+      "retweets": 9,
+      "url": "https://x.com/jessepollak/status/2020596183828431309"
+    }
+  ]
+}

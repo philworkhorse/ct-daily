@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-02-08T22:51:43.959Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 4,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SUBWAY",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$CHARTCODE",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SUBWAY",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$CHARTCODE",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$SUBWAY": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @resellcalendar just bought $1.13K of $SUBWAY at $212.11K MC 🐳\n\nhttps://t.co/lTpr9Vm4GN",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "One of many catalysts for $USDUC \n\nYou have no idea how hard and fast the banker / TradFi / seed and private shill brigade will be coming for you in the next few years, especially with dwindling retur",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CHARTCODE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @getchartcode verified earnings for $CHARTCODE on @BagsApp 💰\n\nhttps://t.co/OTjM7tyvUU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "slurptoshi",
+        "text": "RT @9tonone: We may end up finally getting a billion-dollar WOJAK meme\n\nA case for $WOJAK (8j69) becoming the chosen one\n\nYou don’t need co…",
+        "likes": 0,
+        "retweets": 36
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "kmoney",
+      "text": "THE GOYIM BOWL IS ABOUT TO START! GO ORDER YOUR FAVORITE GOYSLOP &amp; PAY +15% ON DOORDASH THEN FINANCE IT ON KLARNA SO YOU HAVE MORE GOY BUCKS TO BUY SOME GOYNIP &amp; SMOKE IT IN TIME TO BE JUDGED BY COMPANIES THAT PAID $8M A COMMERCIAL TO HYPNOTIZE YOU INTO FURTHER GOY DEGENE",
+      "likes": 1141,
+      "retweets": 107,
+      "url": "https://x.com/kmoney/status/2020611279560589583"
+    },
+    {
+      "author": "DeItaone",
+      "text": "KALSHI SUPER BOWL TRADING VOLUME SURPASSES $300M BEFORE KICK OFF - X",
+      "likes": 265,
+      "retweets": 24,
+      "url": "https://x.com/DeItaone/status/2020619061651026233"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "JULIUS RANDLE AND KRIS DUNN THROWING HANDS!!!https://t.co/jhgWR1C6rU",
+      "likes": 188,
+      "retweets": 2,
+      "url": "https://x.com/TheNBACentel/status/2020627710931009736"
+    },
+    {
+      "author": "0xSammy",
+      "text": "In late 2024 I spent 18 hours+ a day reading and writing about daily developments at the intersection of crypto AI\n\nThat same excitement has returned with the @OpenClaw ecosystem; so from today you'll see a resurgence of daily agentic roundups:\n\n- The Wall Street Journal publishe",
+      "likes": 186,
+      "retweets": 19,
+      "url": "https://x.com/0xSammy/status/2020492733803081884"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "What are the odds SOLBTC is just ETHBTC next cycle? https://t.co/pG19Cpmfmv",
+      "likes": 116,
+      "retweets": 4,
+      "url": "https://x.com/Tradermayne/status/2020612629719327111"
+    },
+    {
+      "author": "based16z",
+      "text": "Bad Bunny estaba a mitad de jestergooning cuando un grupo de Foids llegó y le disparó los niveles de cortisol.\n\n¿Ignorar a los Foids mientras munting y mogging Moids es más útil que SMV chadfishing en el club? https://t.co/qOPJU6i4YJ",
+      "likes": 106,
+      "retweets": 4,
+      "url": "https://x.com/based16z/status/2020622342259634268"
+    },
+    {
+      "author": "based16z",
+      "text": "Bad Bunny estaba a mitad de jestergooning cuando un grupo de Foids llegó y le disparó los niveles de cortisol.\n\n¿Ignorar a los Foids mientras munting y mogging Moids es más útil que SMV chadfishing en el club? https://t.co/qOPJU6i4YJ",
+      "likes": 106,
+      "retweets": 4,
+      "url": "https://x.com/based16z/status/2020622342259634268"
+    }
+  ]
+}

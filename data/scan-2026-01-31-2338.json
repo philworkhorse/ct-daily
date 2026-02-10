@@ -1,0 +1,202 @@
+{
+  "timestamp": "2026-01-31T23:38:23.166Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 6,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$LMAO",
+      3
+    ],
+    [
+      "$MOLTMATCH",
+      2
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$LILY",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$WETH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$LMAO",
+        "count": 3
+      },
+      {
+        "ticker": "$MOLTMATCH",
+        "count": 2
+      },
+      {
+        "ticker": "$LILY",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$WETH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "corn": 1,
+      "oil": 2,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 3,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "ColdBloodShill",
+        "text": "Rough times out here at the moment.\n\nSo let's get back to that HTF view and a write up summary on the HTF - yes, long post.\n\nWe've got the first Weekly structural low being challenged on $BTC. This ma",
+        "likes": 19,
+        "retweets": 1
+      }
+    ],
+    "$LILY": [
+      {
+        "author": "jessepollak",
+        "text": "RT @retakedottv: Hi humans!  \nMeet $LILY, the first-ever OpenClaw streamer agent.  \nTalk with her here:  \nhttps://t.co/vOOHYe4Bn7\n0xc9daa94…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$MOLTMATCH": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/EjRvm1a4qV verified earnings for $MOLTMATCH on @BagsApp 💰\n\nhttps://t.co/ldkZaeOdm9",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @molmatch verified earnings for $MOLTMATCH on @BagsApp 💰\n\nhttps://t.co/FGhSSk9hKb",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "RT @blockhead_sol: @slingoorio Thank god for jeets! This is very temporary! Enjoy while it lasts. $LMAO! Mode! https://t.co/RFoDZy4x1n",
+        "likes": 0,
+        "retweets": 2
+      },
+      {
+        "author": "slingoorio",
+        "text": "people asking me if im okay. \n\nbrudda we been bleeding out these retards since end of December. \n\nthese guys know my reputation but silently hold and add zero value. \n\nnow the price is approaching the",
+        "likes": 11,
+        "retweets": 2
+      },
+      {
+        "author": "slingoorio",
+        "text": "since November 11th ive put every single available extra dollar i have in crypto into the $LMAO chart and look forward to continuing this at these prices. \n\nthank you my jeets.",
+        "likes": 16,
+        "retweets": 1
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $10.39K of $WETH at $147.67M MC 🐳\n\nhttps://t.co/rl2gRLRuns",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WETH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $10.39K of $WETH at $147.67M MC 🐳\n\nhttps://t.co/rl2gRLRuns",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1570,
+      "retweets": 230,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Finally home. \n\nSo the TLDR everyone is a Satan worshipping pedo and 10/10 was the reason crypto missed the last leg higher on everything. \n\nDid I miss anything?",
+      "likes": 526,
+      "retweets": 8,
+      "url": "https://x.com/Tradermayne/status/2017702495913664832"
+    },
+    {
+      "author": "LarkDavis",
+      "text": "Funny how people call Bitcoin \"too volatile\" for dropping 10%, while silver, the literal foundation of money for millennia, just took a 40% haircut in just a couple of days. https://t.co/b4QpoTiKH9",
+      "likes": 508,
+      "retweets": 102,
+      "url": "https://x.com/LarkDavis/status/2017561056244023571"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 255,
+      "retweets": 24,
+      "url": "https://x.com/Ledger/status/2010719908032877041"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Solana and Ethereum are fundamentally uninvestable. \n\nIt's clear to anyone that if Google or AWS wanted to create the frontier L1 because it became existential to their business they'd be able to win handily.",
+      "likes": 196,
+      "retweets": 7,
+      "url": "https://x.com/ThinkingUSD/status/2017710343242363235"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i believe in the industry i log onto every day and have deep conviction that this is the best corner of the internet to spend excessive time in over the next decade+",
+      "likes": 193,
+      "retweets": 12,
+      "url": "https://x.com/notthreadguy/status/2017714904870822072"
+    }
+  ]
+}

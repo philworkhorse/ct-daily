@@ -1,0 +1,203 @@
+{
+  "timestamp": "2026-02-07T04:33:19.659Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 0,
+    "neutral": 93,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$XAUUSD",
+      2
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$NATE",
+      1
+    ],
+    [
+      "$SCREENER",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$LABUBU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$NATE",
+        "count": 1
+      },
+      {
+        "ticker": "$SCREENER",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$LABUBU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$XAUUSD",
+        "count": 2
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 2,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$XAUUSD": [
+      {
+        "author": "Tradermayne",
+        "text": "$XAUUSD\n\nGot to be one of the craziest charts out there right now. https://t.co/Y83VO9VBQX",
+        "likes": 32,
+        "retweets": 1
+      },
+      {
+        "author": "Tradermayne",
+        "text": "$XAUUSD\n\nGot to be one of the craziest charts out there right now. https://t.co/Y83VO9VBQX",
+        "likes": 32,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Tradermayne",
+        "text": "$BTC\n\nUnderside retest of the last consolidation would be cool https://t.co/ivDvaNMqau",
+        "likes": 114,
+        "retweets": 4
+      }
+    ],
+    "$NATE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Nate_Esparza verified earnings for $NATE on @BagsApp 💰\n\nhttps://t.co/GfcEWsjFg6",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$SCREENER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @rohanbrilliance verified earnings for $SCREENER on @BagsApp 💰\n\nhttps://t.co/EVVvPhwVeL",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $4.78K of $TROLL at $17.66M MC 🐳\n\nhttps://t.co/bcWCAg6WR8",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $4.78K of $TROLL at $17.66M MC 🐳\n\nhttps://t.co/bcWCAg6WR8",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$LABUBU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $1.73K of $Pigeon at $1M MC 🐳\n\nhttps://t.co/4OT6SY04Tz",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "daumenxyz",
+      "text": "Wanted to give ourselves a shoutout\n\nWe earn crazy amounts of money, but we also put in way more hours than the average worker \n\nDon’t forget that",
+      "likes": 221,
+      "retweets": 24,
+      "url": "https://x.com/daumenxyz/status/2019763036244832621"
+    },
+    {
+      "author": "docXBT",
+      "text": "Now that over a year has passed it’s wild to think I really closed my giga delusional conviction trades, took cash to the bank, moved across the country, got a house and changed my life at the top. Also had enough experience or foresight by then to stay in trader mode waiting to ",
+      "likes": 189,
+      "retweets": 4,
+      "url": "https://x.com/docXBT/status/2019962192305525155"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "Built a quick tool for crowdsourcing punks aesthetic premiums:\n\nhttps://t.co/sstPYvkAsK https://t.co/jkfWiFUeUX",
+      "likes": 154,
+      "retweets": 20,
+      "url": "https://x.com/jackbutcher/status/2019825566522978796"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "$BTC\n\nUnderside retest of the last consolidation would be cool https://t.co/ivDvaNMqau",
+      "likes": 114,
+      "retweets": 4,
+      "url": "https://x.com/Tradermayne/status/2019983517753729243"
+    },
+    {
+      "author": "patty_fi",
+      "text": "Me showing up to the memecoin group chat shilling a cat coin that would have run in 2014 https://t.co/nc02ZEcnNh",
+      "likes": 108,
+      "retweets": 9,
+      "url": "https://x.com/patty_fi/status/2019954074599186879"
+    },
+    {
+      "author": "jessepollak",
+      "text": "can't stop won't stop scaling",
+      "likes": 103,
+      "retweets": 8,
+      "url": "https://x.com/jessepollak/status/2019981598960271811"
+    }
+  ]
+}

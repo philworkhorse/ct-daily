@@ -1,0 +1,237 @@
+{
+  "timestamp": "2026-02-05T05:25:52.767Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 8,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$SATOSHI",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$INF",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$SATOSHI",
+        "count": 1
+      },
+      {
+        "ticker": "$INF",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "gold": 2,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {
+      "fed": 1,
+      "rate cut": 1,
+      "unemployment": 1,
+      "dxy": 1,
+      "treasury": 1
+    }
+  },
+  "tickerDetails": {
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.01K of $BigTrout at $4.62M MC 🐳\n\nhttps://t.co/aaQfJR2VSH",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.32K of $BigTrout at $3.77M MC 🐳\n\nhttps://t.co/j3C03AyM92",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "SolportTom",
+        "text": "P.s see a lot of things on the timeline talking about stable coin pairs vs solana.\n\nTldr on it, is when a token is paired with sol and sol goes down the USD value of the token goes down with it even i",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "Quick reminder before I go to bed. If you’ve had plans to bid $BTC or already have, don’t let my stink bids be the reason you deviate from YOUR plan. You may have heard the phrase, “unlikely entries, ",
+        "likes": 22,
+        "retweets": 0
+      },
+      {
+        "author": "CookerFlips",
+        "text": "Last time $BTC was $70k $HYPE was $0",
+        "likes": 16,
+        "retweets": 3
+      },
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC started dropping yesterday after U.S. Treasury Secretary Scott Bessent made it clear that the government will not step in to support crypto, the selloff then extended, pushing it below $71,000.\n\n",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$SATOSHI": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $2.67K of $SATOSHI at $404.11K MC 🐳\n\nhttps://t.co/C5qL2hZTS7",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $76.36K of $INF at $205.37M MC 🐳\n\nhttps://t.co/xTCz9Y7id2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$INF": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $76.36K of $INF at $205.37M MC 🐳\n\nhttps://t.co/xTCz9Y7id2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "CookerFlips",
+        "text": "Last time $BTC was $70k $HYPE was $0",
+        "likes": 16,
+        "retweets": 3
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.71K of $PENGUIN at $21.76M MC 🐳\n\nhttps://t.co/VUbeykYDEP",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "smileycapital",
+      "text": "I don't want to cause panic, truly\n\nsame technical principles that allowed me to predict the famous 2022 June nuke..\n\nare now signaling that in February BTC will take a disgusting nose-dive alike previous bear markets\n\nbacktesting these has 3/3 [2014+2018+2022] hitrate\n\nGodspeed.",
+      "likes": 835,
+      "retweets": 57,
+      "url": "https://x.com/smileycapital/status/2016932825610801361"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "When your friend says “but idk tho DYOR” after shilling you a shitcoin for the last 1.5 hours https://t.co/31tpK9bm7A",
+      "likes": 724,
+      "retweets": 66,
+      "url": "https://x.com/lBattleRhino/status/1717273993169002528"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "If you think crypto is toxic now, wait for the first bounce to see how toxic it can really get",
+      "likes": 459,
+      "retweets": 12,
+      "url": "https://x.com/intocryptoverse/status/2019275804153376930"
+    },
+    {
+      "author": "inversebrah",
+      "text": "$80k+ saylor buy announcement imminent",
+      "likes": 191,
+      "retweets": 1,
+      "url": "https://x.com/inversebrah/status/2019262154042667411"
+    },
+    {
+      "author": "patty_fi",
+      "text": "Who’s this person? https://t.co/gem30uaz2Q",
+      "likes": 101,
+      "retweets": 10,
+      "url": "https://x.com/patty_fi/status/2019154306600169742"
+    },
+    {
+      "author": "inversebrah",
+      "text": "a week ago btc was $90k\n\nnow $70k\n\nby march itll be very peaceful on ct https://t.co/V7PjpYtuLR",
+      "likes": 100,
+      "retweets": 2,
+      "url": "https://x.com/inversebrah/status/2019266193400688898"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "timestamp": "2026-02-06T17:01:14.692Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 3,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$PENGU",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$CLUSTRX",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$WBTC",
+      1
+    ],
+    [
+      "$PROMPTCHAT",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ],
+    [
+      "$OPAL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGU",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$CLUSTRX",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$WBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$PROMPTCHAT",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      },
+      {
+        "ticker": "$OPAL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "CryptoKaleo",
+        "text": "I give it less than three months before $PENGUIN is below a $1M mcap and $PENGU is back above $1B.",
+        "likes": 25,
+        "retweets": 1
+      }
+    ],
+    "$PENGU": [
+      {
+        "author": "CryptoKaleo",
+        "text": "I give it less than three months before $PENGUIN is below a $1M mcap and $PENGU is back above $1B.",
+        "likes": 25,
+        "retweets": 1
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "zooko",
+        "text": "RT @Treasnous1: Heck yea! $ZEC",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$CLUSTRX": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @XClustr verified earnings for $CLUSTRX402 on @BagsApp 💰\n\nhttps://t.co/3hp7lEZgqQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $31.95K of $USELESS at $36.8M MC 🐳\n\nhttps://t.co/F6COqkNBer",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "SolidTradesz",
+        "text": "RT @solidintel_x: INTEL: Bithumb employee reportedly sent hundreds of users 2,000 $BTC during an airdrop instead of the intended token, cau…",
+        "likes": 0,
+        "retweets": 74
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $10.2K of $WBTC at $277.32M MC 🐳\n\nhttps://t.co/GX7oNM23ad",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $10.2K of $WBTC at $277.32M MC 🐳\n\nhttps://t.co/GX7oNM23ad",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PROMPTCHAT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @grvesome1 verified earnings for $PROMPTCHAT on @BagsApp 💰\n\nhttps://t.co/DNPARqlDpy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "RT @gigasomer: this is the exact reason why giga will be number 1\n\nyou need balls and emotional control to do what we do\n\n$GIGA",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "saylor",
+        "text": "RT @Strategy: Our Q4 Earnings Call yesterday was viewed by a record 200,000+ people. Thank you to everyone who joined. $MSTR $STRC\n\nIf you…",
+        "likes": 0,
+        "retweets": 74
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "saylor",
+        "text": "RT @Strategy: Our Q4 Earnings Call yesterday was viewed by a record 200,000+ people. Thank you to everyone who joined. $MSTR $STRC\n\nIf you…",
+        "likes": 0,
+        "retweets": 74
+      }
+    ],
+    "$OPAL": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @HalibutCrypto just bought $5K of $OPAL at $817.18K MC 🐳\n\nhttps://t.co/1RjDDKB9cL",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "Every old billionaire chad I know was unironically buying sub 70k yesterday",
+      "likes": 254,
+      "retweets": 13,
+      "url": "https://x.com/ThinkingUSD/status/2019806035717071219"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "the longterm pmf successes during crypto's history have been: btc, exchanges, and stablecoins\n\nthese are the areas that have and will continue to see investment even while other thesis fail\n\ndespite sentiment, i think investing in good crypto projects will outperform traditional ",
+      "likes": 176,
+      "retweets": 9,
+      "url": "https://x.com/izebel_eth/status/2019800663027511645"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Crazy https://t.co/uNVOxZrNJZ",
+      "likes": 175,
+      "retweets": 5,
+      "url": "https://x.com/ThinkingUSD/status/2019802112641901015"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "Hey all. I'm proud to announce that I've partnered with @krakenpro to bring you guys livestreams, education, charts, n more. \n\nI’ve waited years for a highly reputable company to support me in creating content the way I always have. A big thank you to them, show Kraken some love!",
+      "likes": 166,
+      "retweets": 2,
+      "url": "https://x.com/Crypto_Chase/status/2019816782861856833"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "TWO THOUSAND UNITED STATES DOLLARS FOR ONE RUSSIAN ETHEREUM",
+      "likes": 137,
+      "retweets": 5,
+      "url": "https://x.com/CryptoKaleo/status/2019806706893725724"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "can't believe satoshi nakamoto is posted up in israel playing fortnite &amp; rocket league.",
+      "likes": 134,
+      "retweets": 4,
+      "url": "https://x.com/DipWheeler/status/2019803609148575943"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "$70K Bitcoin yesterday vs. $70K Bitcoin today. https://t.co/4wZFGEBGM5",
+      "likes": 132,
+      "retweets": 8,
+      "url": "https://x.com/CryptoKaleo/status/2019811812527796610"
+    },
+    {
+      "author": "frankdegods",
+      "text": "oh wait\n\n&gt;compute is more valuable than ever\n&gt;btc is now quantum resistant\n\nresume-bullmarket.exe",
+      "likes": 112,
+      "retweets": 9,
+      "url": "https://x.com/frankdegods/status/2019811811324022984"
+    }
+  ]
+}

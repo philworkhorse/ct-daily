@@ -1,0 +1,232 @@
+{
+  "timestamp": "2026-02-05T17:03:28.774Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 6,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PUMP",
+      2
+    ],
+    [
+      "$PETAH",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$LMAO",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PUMP",
+        "count": 2
+      },
+      {
+        "ticker": "$PETAH",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$LMAO",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "gold": 1
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 1
+    },
+    "macro": {
+      "bond": 1,
+      "dollar": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$PETAH": [
+      {
+        "author": "traderpow",
+        "text": "RT @iamkowai: Remember when I was a crazy gambler? 🤑\n\nBig shoutout to the $PETAH community for showing love to my art and opening doors for…",
+        "likes": 0,
+        "retweets": 86
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $24.98K of $PUMP at $2.13B MC 🐳\n\nhttps://t.co/kJ4L8BUYJw",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $2.82K of $hedge at $1.14M MC 🐳\n\nhttps://t.co/Q7iNs6bFT8",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$HYPE update\n\nTP on this would be $39~ if we get a market-wide bounce. Will likely be like a 70% TP, let 30% run in case markets found a local bottom for a bit and wants to give HYPE room to run to $4",
+        "likes": 46,
+        "retweets": 3
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "all that will remain of $LMAO are the best and most retarded holders.\n\nwagmi.\n\nLMAO.",
+        "likes": 10,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $44.42K of $EURC at $94.39M MC 🐳\n\nhttps://t.co/a6p6UR06Hl",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $44.42K of $EURC at $94.39M MC 🐳\n\nhttps://t.co/a6p6UR06Hl",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $39.31K of $cbBTC at $290.62M MC 🐳\n\nhttps://t.co/jI2DI0U5SG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "HODL",
+      "likes": 29384,
+      "retweets": 3050,
+      "url": "https://x.com/saylor/status/2019426255268204617"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "Well. It’s not March yet. But think this 70-75k area is attractive for $btc \n\nGot some first small bids hit \n\nMight become active in this market again for the first time in awhile",
+      "likes": 1028,
+      "retweets": 30,
+      "url": "https://x.com/Pentosh1/status/2018176581110288497"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "he's gotta be feeling the heat https://t.co/TL4uOfW9N7",
+      "likes": 370,
+      "retweets": 14,
+      "url": "https://x.com/notthreadguy/status/2019428844831428980"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Last cycle we had FTX etc. \n\nSo what is the capitulation event going to be this time?",
+      "likes": 276,
+      "retweets": 4,
+      "url": "https://x.com/Tradermayne/status/2019444051284472264"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "Almost fully filled. \n\nWant to reiterate I’m not calling a bottom. I think that's going to take time to form. It's just a trade. My last trade was 84k-93k way back in Nov. I just would hate myself for not trying here which is a level that is a key HTF inflection point.  \n\nI think",
+      "likes": 184,
+      "retweets": 9,
+      "url": "https://x.com/Pentosh1/status/2019114856054661330"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "https://t.co/nNsQXoeY3Y",
+      "likes": 156,
+      "retweets": 0,
+      "url": "https://x.com/Pentosh1/status/2019445596898144646"
+    },
+    {
+      "author": "DeItaone",
+      "text": "🚨 WORLD ECONOMIC FORUM:   LAUNCHES INVESTIGATION INTO LINKS BETWEEN ITS CEO BORGE BRENDE AND JEFFREY EPSTEIN",
+      "likes": 130,
+      "retweets": 15,
+      "url": "https://x.com/DeItaone/status/2019454493797065184"
+    },
+    {
+      "author": "honey_xbt",
+      "text": "BTC at the 1W EMA200 for the first time after breaking out in 2023\n\nprobably gives a nice bounce https://t.co/mm6Vv13Duk",
+      "likes": 127,
+      "retweets": 5,
+      "url": "https://x.com/honey_xbt/status/2019454688815407493"
+    },
+    {
+      "author": "gainzy222",
+      "text": "anyone who longed until this point and flipped short here to catch the last leg(s) down is imo likely to either lose money or underperform permabulls down bad buying more here by a wide margin\n\nwhen your sentiment is wrong for a long time and you flip bias late you lose both ways",
+      "likes": 124,
+      "retweets": 2,
+      "url": "https://x.com/gainzy222/status/2019447755744158192"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "Generational bottom. https://t.co/YPrWH5iOvl",
+      "likes": 124,
+      "retweets": 2,
+      "url": "https://x.com/DipWheeler/status/2019446220289155444"
+    }
+  ]
+}

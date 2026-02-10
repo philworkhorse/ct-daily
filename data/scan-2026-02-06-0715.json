@@ -1,0 +1,330 @@
+{
+  "timestamp": "2026-02-06T07:15:07.325Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 9,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$WIF",
+      1
+    ],
+    [
+      "$MOG",
+      1
+    ],
+    [
+      "$MEW",
+      1
+    ],
+    [
+      "$MICHI",
+      1
+    ],
+    [
+      "$MOTHER",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$COIN",
+      1
+    ],
+    [
+      "$TSLA",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$APEBAMA",
+      1
+    ],
+    [
+      "$GME",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MOG",
+        "count": 1
+      },
+      {
+        "ticker": "$MEW",
+        "count": 1
+      },
+      {
+        "ticker": "$MICHI",
+        "count": 1
+      },
+      {
+        "ticker": "$MOTHER",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$APEBAMA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$WIF",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$COIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TSLA",
+        "count": 1
+      },
+      {
+        "ticker": "$GME",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$WIF": [
+      {
+        "author": "blknoiz06",
+        "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+        "likes": 1852,
+        "retweets": 279
+      }
+    ],
+    "$MOG": [
+      {
+        "author": "blknoiz06",
+        "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+        "likes": 1852,
+        "retweets": 279
+      }
+    ],
+    "$MEW": [
+      {
+        "author": "blknoiz06",
+        "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+        "likes": 1852,
+        "retweets": 279
+      }
+    ],
+    "$MICHI": [
+      {
+        "author": "blknoiz06",
+        "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+        "likes": 1852,
+        "retweets": 279
+      }
+    ],
+    "$MOTHER": [
+      {
+        "author": "blknoiz06",
+        "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+        "likes": 1852,
+        "retweets": 279
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "Palgrani2",
+        "text": "RT @DreamInWeb3: $BUTTCOIN is simply unstoppable. \nThe way it's holding up in one of the biggest market crash of the history is remarkable…",
+        "likes": 0,
+        "retweets": 5
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC tested $60K yesterday, officially down 50%+ from ATH.\n\nOver $2T has been wiped from total market cap since the ATH in October 2025.\n\nWhat we’re seeing:\n• Altcoins are completely red\n• Tech stocks",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC tested $60K yesterday, officially down 50%+ from ATH.\n\nOver $2T has been wiped from total market cap since the ATH in October 2025.\n\nWhat we’re seeing:\n• Altcoins are completely red\n• Tech stocks",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$COIN": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC tested $60K yesterday, officially down 50%+ from ATH.\n\nOver $2T has been wiped from total market cap since the ATH in October 2025.\n\nWhat we’re seeing:\n• Altcoins are completely red\n• Tech stocks",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$TSLA": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC tested $60K yesterday, officially down 50%+ from ATH.\n\nOver $2T has been wiped from total market cap since the ATH in October 2025.\n\nWhat we’re seeing:\n• Altcoins are completely red\n• Tech stocks",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $11.52K of $WhiteWhale at $117.39M MC 🐳\n\nhttps://t.co/i3cg4leREt",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.58K of $APEBAMA at $710.44K MC 🐳\n\nhttps://t.co/sUe8xT7bPu",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$APEBAMA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.58K of $APEBAMA at $710.44K MC 🐳\n\nhttps://t.co/sUe8xT7bPu",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GME": [
+      {
+        "author": "Tokabu777",
+        "text": "@TheRoaringKitty COOK COOK $GME KABU https://t.co/RBKdBAbqC4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TheRoaringKitty",
+      "text": "https://t.co/cQLyEYs5Wl",
+      "likes": 42400,
+      "retweets": 7044,
+      "url": "https://x.com/TheRoaringKitty/status/1882231930021949446"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Delusional Bulls Will Win in the End.",
+      "likes": 3298,
+      "retweets": 498,
+      "url": "https://x.com/MustStopMurad/status/2019476877124022300"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "memecoin supercycle top 5 roster\n\n$WIF $2.6B\n$MOG $900M\n$MEW $500M\n$MICHI $200M\n$MOTHER $37M https://t.co/SnNn6NoG8P",
+      "likes": 1852,
+      "retweets": 279,
+      "url": "https://x.com/blknoiz06/status/1814852234292928932"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "crypto's last hope https://t.co/WD7QQASQdD",
+      "likes": 690,
+      "retweets": 28,
+      "url": "https://x.com/blknoiz06/status/2019565095467233365"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, buy the dip https://t.co/n5l3kB8U9Z",
+      "likes": 479,
+      "retweets": 12,
+      "url": "https://x.com/waleswoosh/status/2019652297283026961"
+    },
+    {
+      "author": "LarkDavis",
+      "text": "Charles said: \n1. He lost over $3 billion (8:55), would have been easy to cash out and walk away.   \n2. There is a reason he is not in the Epstein File, there is reason why he was not in FTX or any scandal. \n3. All you have is your integrity.  \nMAD RESPECT to you @IOHK_Charles",
+      "likes": 368,
+      "retweets": 46,
+      "url": "https://x.com/LarkDavis/status/2019627505737490519"
+    },
+    {
+      "author": "Icebergy",
+      "text": "they really pumped zcash 20x in a month and i didnt sell everything",
+      "likes": 272,
+      "retweets": 14,
+      "url": "https://x.com/Icebergy/status/2019549485333115294"
+    },
+    {
+      "author": "frankdegods",
+      "text": "🫠 https://t.co/QaoZ96bVYn",
+      "likes": 246,
+      "retweets": 9,
+      "url": "https://x.com/frankdegods/status/2019567885077676492"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Let’s go https://t.co/632iiesMkH",
+      "likes": 149,
+      "retweets": 2,
+      "url": "https://x.com/lBattleRhino/status/2019654827392061900"
+    },
+    {
+      "author": "gainzy222",
+      "text": "gainzy stream looking for more sponsors\n\nreasons unspecified https://t.co/VTk2aPrTd5",
+      "likes": 115,
+      "retweets": 1,
+      "url": "https://x.com/gainzy222/status/2019644184152666351"
+    }
+  ]
+}

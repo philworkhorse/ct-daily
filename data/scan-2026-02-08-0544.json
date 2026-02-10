@@ -1,0 +1,147 @@
+{
+  "timestamp": "2026-02-08T05:44:41.109Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 4,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SHT",
+      4
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$ZOHAR",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SHT",
+        "count": 4
+      },
+      {
+        "ticker": "$ZOHAR",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "based16z",
+        "text": "RT @lookonchain: Despite the market crash, Tom Lee(@fundstrat)'s #Bitmine bought another 20,000 $ETH($41.98M) 5 hours ago.\n\nhttps://t.co/r8…",
+        "likes": 0,
+        "retweets": 38
+      }
+    ],
+    "$ZOHAR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/InZV06sfIQ verified earnings for $ZOHAR on @BagsApp 💰\n\nhttps://t.co/IIbkvDxEmv",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHT with a PnL of +186.12%.\n\n$SHT has been trending on Moby since $104.34K MC. Currently sitting at $799.63K MC. https://t.co/qDui0NsQ3",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHT with a PnL of +195.38%.\n\n$SHT has been trending on Moby since $104.34K MC. Currently sitting at $847.93K MC. https://t.co/yk18urPCl",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHT with a PnL of +650.92%.\n\n$SHT has been trending on Moby since $104.34K MC. Currently sitting at $855.87K MC. https://t.co/LV2Y3PUzH",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHT with a PnL of +660.15%.\n\n$SHT has been trending on Moby since $104.34K MC. Currently sitting at $868.65K MC. https://t.co/ybZQPOY0W",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "RT @jscottbuys: Join the best community in crypto \n$PENGUIN\n\nHave you ever seen holders stay this consistent after a 90% drawback from ATH.…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MrBeast",
+      "text": "After our new video Whatnot shot up to number 3 on the App Store 😮 https://t.co/QvxnOkUf9G",
+      "likes": 1262,
+      "retweets": 40,
+      "url": "https://x.com/MrBeast/status/2020361426465169751"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "this is what making money on alts looks like",
+      "likes": 814,
+      "retweets": 32,
+      "url": "https://x.com/intocryptoverse/status/2020343110165807420"
+    },
+    {
+      "author": "gainzy222",
+      "text": "kalshi is actually such a piece of shit company that zooko has just retweeted a post about how evil they are\n\nbro i have never seen zooko go after anything ever lmao",
+      "likes": 127,
+      "retweets": 7,
+      "url": "https://x.com/gainzy222/status/2020352838803812784"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Holding a SOL balance so you can trade shitters is something we’ll view as outdated as we view gas wars now",
+      "likes": 107,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2020263099501338766"
+    }
+  ]
+}

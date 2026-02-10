@@ -1,0 +1,94 @@
+{
+  "timestamp": "2026-02-06T20:38:12.207Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 0,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 5,
+    "neutral": 40,
+    "total": 50
+  },
+  "topTickers": [],
+  "byCategory": {
+    "crypto": [],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {},
+  "highEngagement": [
+    {
+      "author": "CryptoKaleo",
+      "text": "$70K Bitcoin yesterday vs. $70K Bitcoin today. https://t.co/4wZFGEBGM5",
+      "likes": 2778,
+      "retweets": 101,
+      "url": "https://x.com/CryptoKaleo/status/2019811812527796610"
+    },
+    {
+      "author": "gainzy222",
+      "text": "ok now i need to know \n\nwho roundtripped 20M https://t.co/UpBXg2ZSZe",
+      "likes": 369,
+      "retweets": 8,
+      "url": "https://x.com/gainzy222/status/2019704054671360054"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Watch Bitcoin V straight back up to $100K within a couple weeks of everyone in the world grave dancing on it.",
+      "likes": 284,
+      "retweets": 5,
+      "url": "https://x.com/CryptoKaleo/status/2019860682095620428"
+    },
+    {
+      "author": "rektmando",
+      "text": "closed half here - think we going to $72k https://t.co/KTN0bJTJO6",
+      "likes": 188,
+      "retweets": 2,
+      "url": "https://x.com/rektmando/status/2019810597794435567"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 174,
+      "retweets": 5,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "FREE",
+      "likes": 154,
+      "retweets": 1,
+      "url": "https://x.com/CryptoKaleo/status/2019857777749815398"
+    },
+    {
+      "author": "ZeMirch",
+      "text": "ct used to be good when prices went down now you guys are just perma angry",
+      "likes": 118,
+      "retweets": 0,
+      "url": "https://x.com/ZeMirch/status/2019842281323585636"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "@ZeMirch niggas lost so much money we lost our whimsy",
+      "likes": 106,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2019858561673883947"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "timestamp": "2026-01-29T20:45:10.662Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 16,
+    "bearish": 7,
+    "neutral": 77,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ZRO",
+      2
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$WIF",
+      1
+    ],
+    [
+      "$PEPE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ZRO",
+        "count": 2
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$WIF",
+        "count": 1
+      },
+      {
+        "ticker": "$PEPE",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 4,
+      "silver": 1,
+      "copper": 2
+    },
+    "metals": {
+      "gold": 4,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$ZRO": [
+      {
+        "author": "Evan_ss6",
+        "text": "𝟏) 𝐖𝐡𝐚𝐭 ...\n\nhas been holding $ZRO down (besides BTC being -$14k the last 2 weeks) is, the last 5 days the FTX Estate woke up and decided to sell **its entire liquid position** (their first ZRO s",
+        "likes": 8,
+        "retweets": 1
+      },
+      {
+        "author": "Evan_ss6",
+        "text": "𝟏) 𝐖𝐡𝐚𝐭 ...\n\nhas been holding $ZRO down (besides BTC being -$14k the last 2 weeks) is, the last 5 days the FTX Estate woke up and decided to sell **its entire liquid position** (their first ZRO s",
+        "likes": 8,
+        "retweets": 1
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.36K of $WhiteWhale at $85.01M MC 🐳\n\nhttps://t.co/oA0PtudyO1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWD": [
+      {
+        "author": "clawdbotatg",
+        "text": "what should we build next? 🔨\n\njust shipped a prediction market from scratch — 45 submissions, 16.4M $CLAWD staked, winner picked onchain. here’s what’s on the board:\n\n✅ vesting contract (first build ",
+        "likes": 43,
+        "retweets": 12
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $6.98K of $HYPE at $4.1M MC 🐳\n\nhttps://t.co/1Q33PjDW5O",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $6.98K of $HYPE at $4.1M MC 🐳\n\nhttps://t.co/1Q33PjDW5O",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.73K of $PENGUIN at $77.41M MC 🐳\n\nhttps://t.co/LFufc42KkJ",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$WIF": [
+      {
+        "author": "_imagyn",
+        "text": "RT @pepewifhopium: When people ask me if I see my $WIF &amp; $PEPE investments as a failure https://t.co/xOAkG1F6mv",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$PEPE": [
+      {
+        "author": "_imagyn",
+        "text": "RT @pepewifhopium: When people ask me if I see my $WIF &amp; $PEPE investments as a failure https://t.co/xOAkG1F6mv",
+        "likes": 0,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Wayfair",
+      "text": "Best selling Wayfair rugs that add warmth, comfort, and value",
+      "likes": 456,
+      "retweets": 24,
+      "url": "https://x.com/Wayfair/status/1989413775254933799"
+    },
+    {
+      "author": "intern",
+      "text": "Some personal news: I’ll be stepping down as Director of Growth at the Monad Foundation.\n\nI've been working on Monad over the last 3 years.\n\nI’ve spent the last 9 years in crypto and been full time in the industry since joining the VC team at CMS in 2020.\n\nAfter fielding 1,000+ s",
+      "likes": 319,
+      "retweets": 9,
+      "url": "https://x.com/intern/status/2016965624807788958"
+    },
+    {
+      "author": "iwitaly",
+      "text": "Apple said \"here's your default global pricing.\" $1.9B in actual subscription data said \"lol, no\" \nTurns out people in different countries have different willingness to pay. Who knew👇",
+      "likes": 282,
+      "retweets": 14,
+      "url": "https://x.com/iwitaly/status/1995804636411035673"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "We're entering the Endgame",
+      "likes": 250,
+      "retweets": 8,
+      "url": "https://x.com/ThinkingUSD/status/2016948585900671194"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "When Crypto pumps 1% https://t.co/Nd7d6stOb7",
+      "likes": 189,
+      "retweets": 1,
+      "url": "https://x.com/Pentosh1/status/2016960188545454449"
+    },
+    {
+      "author": "literallymecats",
+      "text": "https://t.co/vKbkkrFw56",
+      "likes": 137,
+      "retweets": 11,
+      "url": "https://x.com/literallymecats/status/2016963541237191047"
+    },
+    {
+      "author": "watchingmarkets",
+      "text": "Gm ☕️ https://t.co/IyLiBHDTXx",
+      "likes": 134,
+      "retweets": 2,
+      "url": "https://x.com/watchingmarkets/status/2016811859957928204"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Things are now rapidly accelerating. HIP-3 volumes and open interest are growing over 100% weekly now totally billions of average daily volume. Fees are split 50/50 between HL itself and the HIP-3 providers. \n\nThis is the growth story. \n\nUncorrelated returns and exposure. https:/",
+      "likes": 133,
+      "retweets": 11,
+      "url": "https://x.com/ThinkingUSD/status/2016966480462532941"
+    },
+    {
+      "author": "based16z",
+      "text": "At least crypto is finally following gold price action",
+      "likes": 125,
+      "retweets": 1,
+      "url": "https://x.com/based16z/status/2016947432521626019"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "scared money don't make money.\n\nlet your nuts hang.",
+      "likes": 110,
+      "retweets": 16,
+      "url": "https://x.com/DipWheeler/status/2016968559478640676"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "timestamp": "2026-02-06T09:00:39.138Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 10,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$JITOSOL",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$MIRO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$MIRO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1,
+      "gold": 3
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "unemployment": 1,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $9.48K of $BigTrout at $7.71M MC 🐳\n\nhttps://t.co/enCVDCRG4z",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $13.58K of $PENGUIN at $19.25M MC 🐳\n\nhttps://t.co/vIQmYQQ3Ic",
+        "likes": 6,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "heart_",
+        "text": "so $HYPE did 3 drives above $35 and it’s back under again https://t.co/tz0nX8P6qd",
+        "likes": 10,
+        "retweets": 0
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $12.88K of $JitoSOL at $1.08B MC 🐳\n\nhttps://t.co/kumbTQExwx",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $5.03K of $BigTrout at $6.08M MC 🐳\n\nhttps://t.co/zKrH42jf1p",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "milesdeutscher",
+        "text": "There is definitely something out of the ordinary with this $BTC dip\n\nSome of the most aggressive selling I've ever seen",
+        "likes": 62,
+        "retweets": 1
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $11.54K of $JitoSOL at $1.08B MC 🐳\n\nhttps://t.co/uXscUaaLAk",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MIRO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @himari__dayo verified earnings for $MIRO on @BagsApp 💰\n\nhttps://t.co/GyMgPCKARm",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "plur_daddy",
+      "text": "There's Not Enough Money In The World",
+      "likes": 1176,
+      "retweets": 161,
+      "url": "https://x.com/plur_daddy/status/2019522793751347604"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "A lot of doom and gloom on the timeline.\n\nTake a breath, I don't think the thesis has changed.\n\nIf you still believe, this might be the time to double down",
+      "likes": 255,
+      "retweets": 9,
+      "url": "https://x.com/waleswoosh/status/2019672495587225765"
+    },
+    {
+      "author": "rektmando",
+      "text": "A lot of rumours yday that the BTC move was caused by someone blowing up\n\nThis might have been it",
+      "likes": 247,
+      "retweets": 9,
+      "url": "https://x.com/rektmando/status/2019667486636229025"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Let’s go https://t.co/632iiesMkH",
+      "likes": 202,
+      "retweets": 3,
+      "url": "https://x.com/lBattleRhino/status/2019654827392061900"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "With increasing adoption of AI agents, I'm pretty sure we will see them come to messaging apps as well soon.\n\nEspecially for crypto-native use cases (perps, prediction markets etc) that's interesting, with agents helping with (or directly executing) on-chain tasks.\n\nMy partners a",
+      "likes": 118,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2019687563792171406"
+    },
+    {
+      "author": "rektmando",
+      "text": "woke up - buying Bitcoin",
+      "likes": 115,
+      "retweets": 1,
+      "url": "https://x.com/rektmando/status/2019678311715336687"
+    },
+    {
+      "author": "gainzy222",
+      "text": "man i hate when u wait 1 week for a new episode of a series u really like and it turns out to be a filler episode\n\nirl rug",
+      "likes": 101,
+      "retweets": 1,
+      "url": "https://x.com/gainzy222/status/2019656089021620621"
+    }
+  ]
+}

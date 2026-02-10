@@ -1,0 +1,200 @@
+{
+  "timestamp": "2026-02-09T07:56:18.746Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 2,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$LIT",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$BUTTC",
+      1
+    ],
+    [
+      "$TOKABU",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$LIT",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTC",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $9.5K of $PENGUIN at $29.81M MC 🐳\n\nhttps://t.co/fJu2xJdwKv",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$LIT": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Lighter ( $LIT) just printed a strong impulsive move, but is still trading inside a large multi-week range.\n\nWhat I am watching:\n- Price holding above the trendline and EMA ribbon\n- Consolidation at t",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $70.35K of $jlEURC at $16.61M MC 🐳\n\nhttps://t.co/fVistQLddA",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BUTTC": [
+      {
+        "author": "Palgrani2",
+        "text": "RT @DreamInWeb3: It's so funny, how a single correction made people FUD a coin which is literally outperforming every other coin,\nMF $BUTTC…",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $3.35K of $AVICI at $15.27M MC 🐳\n\nhttps://t.co/KPzUcpA9ZJ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $3.35K of $AVICI at $15.27M MC 🐳\n\nhttps://t.co/KPzUcpA9ZJ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "brian_armstrong",
+      "text": "I loved the idea for our Super Bowl ad as soon as the team showed it to me. It's unique, just like our QR code ad in 2022.\n\nMost people half watch commercials (buzzed, in a loud room, with lots of people). It takes something unique to break through.\n\nTurning 100M+ screens into ka",
+      "likes": 3563,
+      "retweets": 191,
+      "url": "https://x.com/brian_armstrong/status/2020666148258304017"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, new week let's get it https://t.co/TZqZcCjR8T",
+      "likes": 622,
+      "retweets": 17,
+      "url": "https://x.com/waleswoosh/status/2020739461869670891"
+    },
+    {
+      "author": "DeItaone",
+      "text": "*CHINA URGES BANKS TO CURB US TREASURIES EXPOSURE ON MARKET RISK",
+      "likes": 360,
+      "retweets": 53,
+      "url": "https://x.com/DeItaone/status/2020755243072356414"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "MegaETH mainnet today.\n\nWhat apps should I check out day 1?",
+      "likes": 173,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020758685681946978"
+    },
+    {
+      "author": "jessepollak",
+      "text": "I love @nounsdao and anons is nouns for agents \n\nvery cool build by @ClawdiaBotAI",
+      "likes": 171,
+      "retweets": 14,
+      "url": "https://x.com/jessepollak/status/2020725407293825221"
+    },
+    {
+      "author": "frankdegods",
+      "text": "agents cant open bank accounts. crypto is literally the only way they can hold and move money autonomously.",
+      "likes": 146,
+      "retweets": 14,
+      "url": "https://x.com/frankdegods/status/2020757138285510993"
+    },
+    {
+      "author": "frankdegods",
+      "text": "agents cant open bank accounts. crypto is literally the only way they can hold and move money autonomously.",
+      "likes": 146,
+      "retweets": 14,
+      "url": "https://x.com/frankdegods/status/2020757138285510993"
+    },
+    {
+      "author": "frankdegods",
+      "text": "ai is going to be so big, i dont think u get it which is unfortunate because you spend all your time on screens anyway",
+      "likes": 117,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2020759275111346673"
+    },
+    {
+      "author": "frankdegods",
+      "text": "ai is going to be so big, i dont think u get it which is unfortunate because you spend all your time on screens anyway",
+      "likes": 117,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2020759275111346673"
+    },
+    {
+      "author": "GwartyGwart",
+      "text": "@brian_armstrong Why didn’t you run one of those bitcoin ads you had during UFC last year? Those were really good. You have a huge platform during the Super Bowl to shill something of value in crypto. Not saying karaoke is of 0 value it just seems like wasted opportunity",
+      "likes": 113,
+      "retweets": 0,
+      "url": "https://x.com/GwartyGwart/status/2020684000625398060"
+    }
+  ]
+}

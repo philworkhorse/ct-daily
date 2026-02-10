@@ -1,0 +1,338 @@
+{
+  "timestamp": "2026-01-30T09:00:55.763Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 3,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CRUST",
+      4
+    ],
+    [
+      "$INX",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$OPENCLAW",
+      1
+    ],
+    [
+      "$SLPC",
+      1
+    ],
+    [
+      "$DOG",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$ZAUTH",
+      1
+    ],
+    [
+      "$MOLTARD",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$LABUBU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CRUST",
+        "count": 4
+      },
+      {
+        "ticker": "$INX",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$SLPC",
+        "count": 1
+      },
+      {
+        "ticker": "$DOG",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$ZAUTH",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTARD",
+        "count": 1
+      },
+      {
+        "ticker": "$LABUBU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "gold": 2
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 2
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/FtXu2AiiS1",
+        "likes": 43,
+        "retweets": 0
+      }
+    ],
+    "$INX": [
+      {
+        "author": "waleswoosh",
+        "text": "Looks like a fake @bandosei screenshot, but it’s real.\n\nInfinex Patrons are down to 0.08 ETH after the $INX distribution snapshot.\n\nA few people had bids open that got filled, paying 0.6+ ETH for what",
+        "likes": 160,
+        "retweets": 3
+      },
+      {
+        "author": "waleswoosh",
+        "text": "Infinex TGE today and barely anyone on my timeline is talking about it.\n\nPolymarket now puts the odds of $INX trading above $300M USD at just 25%.\n\nA few weeks ago, people were calling everyone stupid",
+        "likes": 226,
+        "retweets": 7
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.72K of $PENGUIN at $59.57M MC 🐳\n\nhttps://t.co/sYgakJzW9o",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $1.58K of $OPENCLAW at $2.02M MC 🐳\n\nhttps://t.co/jdU1HaNN5m",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $1.58K of $OPENCLAW at $2.02M MC 🐳\n\nhttps://t.co/jdU1HaNN5m",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CRUST": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @zinceth just bought $3.27K of $CRUST at $1.26M MC 🐳\n\nhttps://t.co/Z8ykFDv6Pf",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @zinceth just bought $5.71K of $CRUST at $1.18M MC 🐳\n\nhttps://t.co/bKOJRAtWnW",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Ga__ke just bought $9.02K of $CRUST at $596.55K MC 🐳\n\nhttps://t.co/gk7miMJ5ue",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $2.16K of $CRUST at $614.62K MC 🐳\n\nhttps://t.co/uELqsPrGe3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SLPC": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @PenguinOfCrypto verified earnings for $SLPC on @BagsApp 💰\n\nhttps://t.co/JxaCJfrFbU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$DOG": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "Hey @heyibinance , thoughts on $DOG ?\n\nI genuinely wanted to know, because DOG has the best tokenomics, best community, been grinding since day 1.\n\nIf this gets listed in Binance Alpha, you will notic",
+        "likes": 29,
+        "retweets": 5
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $4.01K of $ZAUTH at $3.63M MC 🐳\n\nhttps://t.co/FSnavyG0o3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZAUTH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $4.01K of $ZAUTH at $3.63M MC 🐳\n\nhttps://t.co/FSnavyG0o3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTARD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Motard_Bot verified earnings for $MOLTARD on @BagsApp 💰\n\nhttps://t.co/uKUSiTD8Ne",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$ETH has broken prior support and is trading below key moving averages, and continues to form a lower-high structure, keeping short-term momentum biased to the downside. \n\nFollowing the recent rejecti",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LABUBU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $2.16K of $CRUST at $614.62K MC 🐳\n\nhttps://t.co/uELqsPrGe3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "notthreadguy",
+      "text": "buying sub 80 bitcoin in april didn’t feel as scary as sub 80 right now",
+      "likes": 337,
+      "retweets": 7,
+      "url": "https://x.com/notthreadguy/status/2017062687121776657"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Ridge Wallet 2.0, Power Banks &amp; more in impossible-to-miss yellow.",
+      "likes": 255,
+      "retweets": 16,
+      "url": "https://x.com/ridgewallet/status/2011151263359205540"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Infinex TGE today and barely anyone on my timeline is talking about it.\n\nPolymarket now puts the odds of $INX trading above $300M USD at just 25%.\n\nA few weeks ago, people were calling everyone stupid for not participating in the presale round at a $300M FDV with a 12-month locku",
+      "likes": 226,
+      "retweets": 7,
+      "url": "https://x.com/waleswoosh/status/2017122457782722861"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Looks like a fake @bandosei screenshot, but it’s real.\n\nInfinex Patrons are down to 0.08 ETH after the $INX distribution snapshot.\n\nA few people had bids open that got filled, paying 0.6+ ETH for what is now a worthless Patron.\n\nThanks for playing https://t.co/na4Iz1RtQQ",
+      "likes": 160,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2017142569373966682"
+    },
+    {
+      "author": "DegenPing",
+      "text": "feels like something will happen in japan in the coming days\n\nstay safe",
+      "likes": 158,
+      "retweets": 6,
+      "url": "https://x.com/DegenPing/status/2017138953934245978"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Japan maxing. https://t.co/84gLWUAv00",
+      "likes": 135,
+      "retweets": 0,
+      "url": "https://x.com/Tradermayne/status/2017148223794925913"
+    },
+    {
+      "author": "InvestComApp",
+      "text": "You shouldn't need a PhD in Python to backtest a portfolio. \n\nWe built a website that lets you simulate 20+ years of historical performance in seconds.\n \nNo coding required\n\nInstitutional-grade data\n \nFree to start\n\nRun your first backtest here:",
+      "likes": 126,
+      "retweets": 44,
+      "url": "https://x.com/InvestComApp/status/2006030154494103869"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "All good things must end",
+      "likes": 117,
+      "retweets": 2,
+      "url": "https://x.com/ThinkingUSD/status/2017139983346291086"
+    },
+    {
+      "author": "frankdegods",
+      "text": "it’s crazy seeing it like this, because when using clawd, it feels simple. under the hood peter just made lots of good, complex decisions to achieve that. now it’s going vertical. masterpiece. https://t.co/lus20FShTG",
+      "likes": 103,
+      "retweets": 6,
+      "url": "https://x.com/frankdegods/status/2017121339656569010"
+    }
+  ]
+}

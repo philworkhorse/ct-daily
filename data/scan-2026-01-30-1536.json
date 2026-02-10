@@ -1,0 +1,275 @@
+{
+  "timestamp": "2026-01-30T15:36:17.973Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 5,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BNKR",
+      3
+    ],
+    [
+      "$ELON",
+      2
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$CLANKER",
+      1
+    ],
+    [
+      "$OOB",
+      1
+    ],
+    [
+      "$UMBRA",
+      1
+    ],
+    [
+      "$TOKABU",
+      1
+    ],
+    [
+      "$WAR",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BNKR",
+        "count": 3
+      },
+      {
+        "ticker": "$ELON",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$CLANKER",
+        "count": 1
+      },
+      {
+        "ticker": "$OOB",
+        "count": 1
+      },
+      {
+        "ticker": "$UMBRA",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 1
+      },
+      {
+        "ticker": "$WAR",
+        "count": 1
+      },
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "silver": 2
+    },
+    "metals": {
+      "gold": 5,
+      "silver": 2
+    },
+    "macro": {
+      "fed": 6,
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.96K of $ELON at $3.4M MC 🐳\n\nhttps://t.co/FEUkD1heO5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.96K of $ELON at $3.4M MC 🐳\n\nhttps://t.co/FEUkD1heO5",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $2.84K of $ELON at $3.66M MC 🐳\n\nhttps://t.co/MNGmi5wDk6",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$BNKR": [
+      {
+        "author": "au_xbt",
+        "text": "Been long  $Clanker  — the data speaks for itself @clanker_world\n @dwr \n\nIf  $BNKR &gt; Clanker, then Clanker is undervalued\nBNKR @bankrbot was essentially launched by Clanker, Clanker’s revenue is ne",
+        "likes": 19,
+        "retweets": 4
+      },
+      {
+        "author": "au_xbt",
+        "text": "Feels like Bybit and Binance should list a $BNKR perp😭 https://t.co/Hzx4CnheJi",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "au_xbt",
+        "text": "Obviously $CLANKER < $BNKR, but Binance perps are the edge — deeper liquidity, lower slippage, plus leverage\n\nSmaller moves get made up with leverage, and it’s cheaper than buying on-chain. As a true ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLANKER": [
+      {
+        "author": "au_xbt",
+        "text": "Obviously $CLANKER < $BNKR, but Binance perps are the edge — deeper liquidity, lower slippage, plus leverage\n\nSmaller moves get made up with leverage, and it’s cheaper than buying on-chain. As a true ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OOB": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $OOB whale just bought $4.87K of $UMBRA at $32.72M MC 🐳\n\nhttps://t.co/mgpgnNpUIf",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$UMBRA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $OOB whale just bought $4.87K of $UMBRA at $32.72M MC 🐳\n\nhttps://t.co/mgpgnNpUIf",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $2.84K of $ELON at $3.66M MC 🐳\n\nhttps://t.co/MNGmi5wDk6",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$WAR": [
+      {
+        "author": "slingoorio",
+        "text": "the @bonkfun platform is so fucking retarded they bundled $WAR, gave KOLs and KOL managers the heads up that this is the cook they want to send, and decided paying 500 boost on dex literally non stop ",
+        "likes": 21,
+        "retweets": 0
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $3.91K of $1 at $6.23M MC 🐳\n\nhttps://t.co/KhX4lScWVA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "intern",
+      "text": "Some personal news: I’ll be stepping down as Director of Growth at the Monad Foundation.\n\nI've been working on Monad over the last 3 years.\n\nI’ve spent the last 9 years in crypto and been full time in the industry since joining the VC team at CMS in 2020.\n\nAfter fielding 1,000+ s",
+      "likes": 1850,
+      "retweets": 28,
+      "url": "https://x.com/intern/status/2016965624807788958"
+    },
+    {
+      "author": "TheDemocrats",
+      "text": "Today is January 30th, 2026, and Donald J. Trump is still burying the Epstein files.",
+      "likes": 353,
+      "retweets": 41,
+      "url": "https://x.com/TheDemocrats/status/2017257375288242293"
+    },
+    {
+      "author": "mert",
+      "text": "I joke a lot but it will be the case that BTC, ZEC, and SOL will take over the universe\n\nthe \"we're early\" shit got cringe af\n\nbut after seeing gold trade **2x the entire mcap** of all crypto in just 3 days, it should be clear to you that it is still day 1 in crypto\n\ntrillions",
+      "likes": 344,
+      "retweets": 22,
+      "url": "https://x.com/mert/status/2017242536759209992"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Ridge Wallet 2.0, Power Banks &amp; more in impossible-to-miss yellow.",
+      "likes": 270,
+      "retweets": 16,
+      "url": "https://x.com/ridgewallet/status/2011151263539298511"
+    },
+    {
+      "author": "solana",
+      "text": "Solana Stories: Investing In People @a16z https://t.co/VyrAIofD6k",
+      "likes": 194,
+      "retweets": 39,
+      "url": "https://x.com/solana/status/2017255459921563836"
+    },
+    {
+      "author": "BobLoukas",
+      "text": "Bitcoin 4 Yr Cycle update.  \n\nOn month 38 of 48(avg).  Closing 3rd month below the 10ma.  About to close 4 red months in a row, not seen since 2018.  Looking like the recent move to $98k was the counter-trend move.  Clear divergence from all other assets.\n\nI hate being bearish an",
+      "likes": 191,
+      "retweets": 16,
+      "url": "https://x.com/BobLoukas/status/2017256982743339269"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Live w/ Polymarket https://t.co/h7iKNF7yy4",
+      "likes": 149,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2017240356971282485"
+    },
+    {
+      "author": "gainzy222",
+      "text": "LETS GOOOOOO",
+      "likes": 129,
+      "retweets": 2,
+      "url": "https://x.com/gainzy222/status/2017243430938648774"
+    },
+    {
+      "author": "BobLoukas",
+      "text": "That was an epic two year run for gold.  But the juice has been squeezed.  On to the next. https://t.co/v3C3zypa99",
+      "likes": 115,
+      "retweets": 5,
+      "url": "https://x.com/BobLoukas/status/2017258471561838882"
+    },
+    {
+      "author": "goodalexander",
+      "text": "The silver dev was just waiting for the Binance listing it turns out",
+      "likes": 112,
+      "retweets": 7,
+      "url": "https://x.com/goodalexander/status/2017244842783396014"
+    }
+  ]
+}

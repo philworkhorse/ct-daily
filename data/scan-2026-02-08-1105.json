@@ -1,0 +1,234 @@
+{
+  "timestamp": "2026-02-08T11:05:20.213Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 10,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$SHT",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$FITCOIN",
+      1
+    ],
+    [
+      "$FITTED",
+      1
+    ],
+    [
+      "$PVTR",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$UMBRA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$SHT",
+        "count": 1
+      },
+      {
+        "ticker": "$FITCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$FITTED",
+        "count": 1
+      },
+      {
+        "ticker": "$PVTR",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$UMBRA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1
+    },
+    "metals": {},
+    "macro": {
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "rektmando",
+        "text": "RT @lookonchain: Sell-off finished!\n\n#TrendResearch has deposited all 651,757 $ETH($1.34B) into #Binance at an average price of $2,055.\n\nTh…",
+        "likes": 0,
+        "retweets": 76
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/E24EQ8T8BF",
+        "likes": 65,
+        "retweets": 2
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: Something happened on 10.10\n\nSince then, $BTC completely lost the correlation with M2 money supply\n\nSomething dark will come…",
+        "likes": 0,
+        "retweets": 7
+      },
+      {
+        "author": "astronomer_zero",
+        "text": "Actionable trading vs just commenting on charts\n\nEvery time someone on X makes a call, ask them:\n\n\"So what are you going to do about it?\"\n\nThat's the question that turns theory into actual success, ev",
+        "likes": 44,
+        "retweets": 3
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.14K of $SHT at $1.95M MC 🐳\n\nhttps://t.co/NvyX0GM2Is",
+        "likes": 4,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.32K of $PENGUIN at $29.49M MC 🐳\n\nhttps://t.co/TDv22uWrDq",
+        "likes": 11,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.14K of $SHT at $1.95M MC 🐳\n\nhttps://t.co/NvyX0GM2Is",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$SOL has already broken down from a major double top. The current recovery is just a move back into resistance, this zone is not for trading.\n\nPlan:\n- Let price push higher into resistance\n- Wait for ",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$FITCOIN": [
+      {
+        "author": "0xDamien",
+        "text": "I just upgraded my $FITCOIN to $FITTED on @fittedcloset 💰\n\nhttps://t.co/xwDHRCTUPx",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$FITTED": [
+      {
+        "author": "0xDamien",
+        "text": "I just upgraded my $FITCOIN to $FITTED on @fittedcloset 💰\n\nhttps://t.co/xwDHRCTUPx",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$PVTR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Jinsparklyn verified earnings for $PVTR on @BagsApp 💰\n\nhttps://t.co/408ledlFE0",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $18.18K of $UMBRA at $23.18M MC 🐳\n\nhttps://t.co/UZIdTHaPZB",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$UMBRA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $18.18K of $UMBRA at $23.18M MC 🐳\n\nhttps://t.co/UZIdTHaPZB",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, taking some time off today https://t.co/hZU29fcv8d",
+      "likes": 645,
+      "retweets": 13,
+      "url": "https://x.com/waleswoosh/status/2020380982587847011"
+    }
+  ]
+}

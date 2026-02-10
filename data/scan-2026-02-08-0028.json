@@ -1,0 +1,178 @@
+{
+  "timestamp": "2026-02-08T00:28:22.085Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 4,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$LIQUID",
+      5
+    ],
+    [
+      "$PERC",
+      2
+    ],
+    [
+      "$HYPERPERP",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$LIQUID",
+        "count": 5
+      },
+      {
+        "ticker": "$PERC",
+        "count": 2
+      },
+      {
+        "ticker": "$HYPERPERP",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 2,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @printgod_ just bought $1K of $LIQUID at $781K MC 🐳\n\nhttps://t.co/ANPMCNn7us",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @printgod_ just bought $1.98K of $LIQUID at $876.65K MC 🐳\n\nhttps://t.co/ijLFuyNilW",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +1409.20%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $879.08K MC. https://t.co/6ErI",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @wenmoonsolana_ just bought $1.76K of $LIQUID at $879.48K MC 🐳\n\nhttps://t.co/1d3tEvamZi",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +887.22%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $927.53K MC. https://t.co/BTEn4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PERC": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PERC with a PnL of +98.55%.\n\n$PERC has been trending on Moby since $1.05M MC. Currently sitting at $3.33M MC. https://t.co/mmoSqrwDdN",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PERC with a PnL of +1053.85%.\n\n$PERC has been trending on Moby since $1.05M MC. Currently sitting at $4.71M MC. https://t.co/fs8oK9PQUW",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPERPERP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @HyperPerps verified earnings for $HYPERPERP on @BagsApp 💰\n\nhttps://t.co/7b5R0yUa51",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.22K of $Buttcoin at $44.89M MC 🐳\n\nhttps://t.co/aCnWSYEnUT",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "trading_axe",
+      "text": "Used to know a guy who was into voicemaxxing in 2015~ and published his BEFORE and AFTER voice.\n\nThe results were night and day.\n\nVoice halo effect is so insane that most of you simply overlook it.\n\nIf you can speak CLEAR ENGLISH with coherent sentences,\n\nAll you need is a DEEP V",
+      "likes": 255,
+      "retweets": 5,
+      "url": "https://x.com/trading_axe/status/2020275404368683476"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Wemby waved off Daniel Gafford when he tried to help him up 💀https://t.co/9sNoJbY9o7",
+      "likes": 232,
+      "retweets": 5,
+      "url": "https://x.com/TheNBACentel/status/2020290017470333085"
+    },
+    {
+      "author": "patty_fi",
+      "text": "Most annoying thing is a mfer in your comment section tagging you saying “patty check dm” and you check and it’s a 15k ca they own 30% of they want you to ape",
+      "likes": 161,
+      "retweets": 18,
+      "url": "https://x.com/patty_fi/status/2019944324679565584"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "You can retire next bullrun if you enter with $100k.\n\n\"If you make the right trades you will be able to retire if you enter the next bull with $100k, you can turn that into $3-$4 millon\"\n https://t.co/txTIi7EuoQ",
+      "likes": 111,
+      "retweets": 1,
+      "url": "https://x.com/rasmr_eth/status/2020275397636812998"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "You can retire next bullrun if you enter with $100k.\n\n\"If you make the right trades you will be able to retire if you enter the next bull with $100k, you can turn that into $3-$4 millon\"\n https://t.co/txTIi7EuoQ",
+      "likes": 111,
+      "retweets": 1,
+      "url": "https://x.com/rasmr_eth/status/2020275397636812998"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "how is openai going to outspend google on capex?",
+      "likes": 100,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2020272862767313240"
+    }
+  ]
+}

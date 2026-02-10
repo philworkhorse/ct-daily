@@ -1,0 +1,289 @@
+{
+  "timestamp": "2026-02-10T13:00:42.047Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIRAFFES",
+      3
+    ],
+    [
+      "$JUPSOL",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$BOOTY",
+      1
+    ],
+    [
+      "$TOSHI",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$REF",
+      1
+    ],
+    [
+      "$MD",
+      1
+    ],
+    [
+      "$TSLA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIRAFFES",
+        "count": 3
+      },
+      {
+        "ticker": "$JUPSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$BOOTY",
+        "count": 1
+      },
+      {
+        "ticker": "$TOSHI",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$REF",
+        "count": 1
+      },
+      {
+        "ticker": "$MD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$TSLA",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "corn": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 3,
+      "silver": 1
+    },
+    "macro": {
+      "fed": 1,
+      "bond": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +212.22%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $4.3M MC. https://t.co/Y7",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +751.92%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $3.95M MC. https://t.co/s",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $1.09K of $GIRAFFES at $3.79M MC 🐳\n\nhttps://t.co/5I6tyVrHeU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$JUPSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $16K of $JupSOL at $400.11M MC 🐳\n\nhttps://t.co/b3MsjgDU8k",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.62K of $WhiteWhale at $71.49M MC 🐳\n\nhttps://t.co/nQHdnVXCOp",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: $BTC extreme fear for the last 3 months\n\nWhile all the risk-on assets are up dramatically\n\nWe buy fear and sell greed, act ac…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$BOOTY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Booty_beard verified earnings for $BOOTY on @BagsApp 💰\n\nhttps://t.co/Lc7ItPi80j",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TOSHI": [
+      {
+        "author": "Toshi",
+        "text": "$TOSHI spotted cruising the streets of Hong Kong on the iconic Ding Ding Tram. \n\nAll Thanks to @RealGoOfficial.",
+        "likes": 45,
+        "retweets": 9
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $1.09K of $GIRAFFES at $3.79M MC 🐳\n\nhttps://t.co/5I6tyVrHeU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$REF": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @CryptoRun291456 verified earnings for $REF on @BagsApp 💰\n\nhttps://t.co/7Op9YZC2zO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MD": [
+      {
+        "author": "0xtearss",
+        "text": "RT @yumekosol: Dwelleth in the higher realms  \nIn times of uncertainty dominance is what I found  \nwhile they fail I double down $MD https:…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$TSLA": [
+      {
+        "author": "DeItaone",
+        "text": "$TSLA - MORGAN STANLEY HOLDS TESLA AT EQUALWEIGHT, SEES SOLAR UPSIDE\n\nMorgan Stanley reiterated its Equalweight rating and $415 price target on Tesla, citing plans to add 100 GW of solar manufacturing",
+        "likes": 157,
+        "retweets": 16
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "himgajria",
+      "text": "Dear KOLs, \n\nGet a bag &lt;$10m. \nBull post it.\nRide it to &gt;$1b.\n\nRegards.",
+      "likes": 298,
+      "retweets": 31,
+      "url": "https://x.com/himgajria/status/2021158293771587674"
+    },
+    {
+      "author": "mert",
+      "text": "this is a false equivalence\n\na DEX does not \"list\" all tokens, it is [in theory] a non-custodial permissionless backend and it's the job of frontends to curate\n\non the contrary, a CEX literally custodies the tokens and is thus responsible for them",
+      "likes": 246,
+      "retweets": 12,
+      "url": "https://x.com/mert/status/2021178263872196979"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "What are some apps or protocols where I can still get good APY on my USDC or USDT?\n\nTell me what you're using.\n\nShould be low-risk and at least match my bank account interest rate of 2.75% lmao",
+      "likes": 178,
+      "retweets": 12,
+      "url": "https://x.com/waleswoosh/status/2021183214241341903"
+    },
+    {
+      "author": "mert",
+      "text": "zcash https://t.co/66qdHTiETK",
+      "likes": 175,
+      "retweets": 15,
+      "url": "https://x.com/mert/status/2021152481409929271"
+    },
+    {
+      "author": "inversebrah",
+      "text": "helthy ratio observed https://t.co/OgjfmdVtJR",
+      "likes": 164,
+      "retweets": 1,
+      "url": "https://x.com/inversebrah/status/2021185770199888365"
+    },
+    {
+      "author": "DeItaone",
+      "text": "$TSLA - MORGAN STANLEY HOLDS TESLA AT EQUALWEIGHT, SEES SOLAR UPSIDE\n\nMorgan Stanley reiterated its Equalweight rating and $415 price target on Tesla, citing plans to add 100 GW of solar manufacturing capacity.\n\nThe firm estimates Tesla Solar could add $20–$50 billion in equity v",
+      "likes": 157,
+      "retweets": 16,
+      "url": "https://x.com/DeItaone/status/2021198421986549933"
+    },
+    {
+      "author": "Citrini7",
+      "text": "I think maybe the ultimate success in business is a company that can issue a 100 year bond.",
+      "likes": 124,
+      "retweets": 3,
+      "url": "https://x.com/Citrini7/status/2021195848525213955"
+    },
+    {
+      "author": "DeItaone",
+      "text": "BOFA WARNS OF “BUBBLE-LIKE” PRICE ACTION IN MATERIALS AND COMMODITIES\n\nBank of America added U.S. materials stocks to its list of assets showing “bubble-like” behavior, alongside gold, silver, and South Korea’s Kospi. U.S. equities and megacap tech remain relatively stable.\n\nUsin",
+      "likes": 121,
+      "retweets": 29,
+      "url": "https://x.com/DeItaone/status/2021202700046627063"
+    },
+    {
+      "author": "mert",
+      "text": "you don't need CBDCs for this btw, just regular centrally issued stables (which is basically all of them) also do the trick\n\nit is time for plan z",
+      "likes": 107,
+      "retweets": 15,
+      "url": "https://x.com/mert/status/2021169072193364358"
+    },
+    {
+      "author": "CL207",
+      "text": "yamagata when theres little tourists and even less visibility https://t.co/9dpfm96Vp6",
+      "likes": 103,
+      "retweets": 0,
+      "url": "https://x.com/CL207/status/2021166667645026325"
+    }
+  ]
+}

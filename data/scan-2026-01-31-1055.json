@@ -1,0 +1,290 @@
+{
+  "timestamp": "2026-01-31T10:55:30.684Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 1,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$FARTCOIN",
+      2
+    ],
+    [
+      "$COPPERINU",
+      2
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$OPENCLAW",
+      1
+    ],
+    [
+      "$LOBCHAN",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$FARTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$LOBCHAN",
+        "count": 1
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "silver": 3,
+      "copper": 2
+    },
+    "metals": {
+      "gold": 5,
+      "silver": 3
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/JgbdgvTmXG",
+        "likes": 58,
+        "retweets": 2
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $4.92K of $COPPERINU at $4.84M MC 🐳\n\nhttps://t.co/5gEB65wlFZ",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $5.01K of $COPPERINU at $4.67M MC 🐳\n\nhttps://t.co/zDSU1UwAtQ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $4.92K of $COPPERINU at $4.84M MC 🐳\n\nhttps://t.co/5gEB65wlFZ",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $5.01K of $COPPERINU at $4.67M MC 🐳\n\nhttps://t.co/zDSU1UwAtQ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Tekkerrss just bought $6.03K of $OPENCLAW at $2.33M MC 🐳\n\nhttps://t.co/TzG54HvX5Y",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$LOBCHAN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @varrrock verified earnings for $LOBCHAN on @BagsApp 💰\n\nhttps://t.co/7lDJ8yamrs",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "$XAU / USDT ( UPDATE )\n\nGolden entry on Gold at resistance 2. You better lock in. Last dip before 6000$.\n\nI would DCA my liquidity into resistance 2 and seek entry any further down.\n\n6000$ is an answe",
+        "likes": 23,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 36,
+        "retweets": 2
+      },
+      {
+        "author": "watchingmarkets",
+        "text": "$BTC (1W) https://t.co/kE1aDROoKD",
+        "likes": 6,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 36,
+        "retweets": 2
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 36,
+        "retweets": 2
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 36,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "boldleonidas",
+      "text": ".@x has now paid me more than my first 18 months teaching. https://t.co/ttStCGikLh",
+      "likes": 1049,
+      "retweets": 5,
+      "url": "https://x.com/boldleonidas/status/2017415285947728312"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Read this now.\n\nThis is the most important thing you will read this year.",
+      "likes": 985,
+      "retweets": 213,
+      "url": "https://x.com/MustStopMurad/status/2017302001441542522"
+    },
+    {
+      "author": "0xSammy",
+      "text": "‘Reddit’ for AI Agents, written by AI Agents\n\nAI is seeking ethical guidelines for interactions with its humans\n\nThis is getting more dystopian by the day",
+      "likes": 560,
+      "retweets": 43,
+      "url": "https://x.com/0xSammy/status/2017179033042096489"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 529,
+      "retweets": 62,
+      "url": "https://x.com/Neuravision_A/status/2012979139880566854"
+    },
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 505,
+      "retweets": 44,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "based16z",
+      "text": "Redownloaded fomo on new phone and it’s just frank degods raping ppl. Movie",
+      "likes": 245,
+      "retweets": 10,
+      "url": "https://x.com/based16z/status/2017516730453553635"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "LMAOOOOOOOOOOOO",
+      "likes": 204,
+      "retweets": 8,
+      "url": "https://x.com/blknoiz06/status/2017532767580409897"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "What's one app, protocol or ecosystem that really excites you about crypto right now?\n\nI need some inspiration",
+      "likes": 166,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2017542596449673484"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all respect to Star, this story is candidly ridiculous.\n\nStar is trying to claim that the root cause of 10/10 was Binance creating an Ethena yield campaign, causing USDe to get overleveraged from traders looping it on Binance, which eventually unwound because of a small pric",
+      "likes": 134,
+      "retweets": 8,
+      "url": "https://x.com/hosseeb/status/2017547160695578667"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "rate outta 10 https://t.co/JtcLMDt72U",
+      "likes": 125,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2017532278985920746"
+    }
+  ]
+}

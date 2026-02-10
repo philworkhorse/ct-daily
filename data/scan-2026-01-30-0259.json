@@ -1,0 +1,245 @@
+{
+  "timestamp": "2026-01-30T02:59:37.550Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 6,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ELON",
+      8
+    ],
+    [
+      "$PENGUIN",
+      5
+    ],
+    [
+      "$UNIVERSAL",
+      1
+    ],
+    [
+      "$CUM",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ELON",
+        "count": 8
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 5
+      },
+      {
+        "ticker": "$UNIVERSAL",
+        "count": 1
+      },
+      {
+        "ticker": "$CUM",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "platinum": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 2,
+      "platinum": 1
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +394.23%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $12.49M MC. https://t.co/wRxhqaICOz",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.13K of $ELON at $7.77M MC 🐳\n\nhttps://t.co/gxMK2s5xat",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.03K of $ELON at $7.77M MC 🐳\n\nhttps://t.co/cXuPmpEqyn",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.04K of $ELON at $7.77M MC 🐳\n\nhttps://t.co/cXuPmpEqyn",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +92.83%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $7.75M MC. https://t.co/dsVBTjyXnP",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +92.25%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $7.88M MC. https://t.co/uexPmIINZv",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @real_y22 just bought $19.03K of $ELON at $6.28M MC 🐳\n\nhttps://t.co/Iyohi9eoKf",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.94K of $ELON at $6.28M MC 🐳\n\nhttps://t.co/WhXzVlGyNr",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$UNIVERSAL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @xrpuniversal verified earnings for $UNIVERSAL on @BagsApp 💰\n\nhttps://t.co/TGUzs98UtC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.13K of $ELON at $7.77M MC 🐳\n\nhttps://t.co/gxMK2s5xat",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.03K of $ELON at $7.77M MC 🐳\n\nhttps://t.co/cXuPmpEqyn",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.04K of $ELON at $7.77M MC 🐳\n\nhttps://t.co/cXuPmpEqyn",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PENGUIN with a PnL of +139.35%.\n\n$PENGUIN has been trending on Moby since $91.9K MC. Currently sitting at $70.19M MC. https://t.co/2xas",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.94K of $ELON at $6.28M MC 🐳\n\nhttps://t.co/WhXzVlGyNr",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CUM": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $5.07K of $CUM at $831.81K MC 🐳\n\nhttps://t.co/CQBmzNIZ1t",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.36K of $WhiteWhale at $86.63M MC 🐳\n\nhttps://t.co/HfR1XBxK8c",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 3493,
+      "retweets": 548,
+      "url": "https://x.com/Neuravision_A/status/2010102623756792032"
+    },
+    {
+      "author": "intern",
+      "text": "Some personal news: I’ll be stepping down as Director of Growth at the Monad Foundation.\n\nI've been working on Monad over the last 3 years.\n\nI’ve spent the last 9 years in crypto and been full time in the industry since joining the VC team at CMS in 2020.\n\nAfter fielding 1,000+ s",
+      "likes": 1218,
+      "retweets": 22,
+      "url": "https://x.com/intern/status/2016965624807788958"
+    },
+    {
+      "author": "levelsio",
+      "text": "Amazing, generated this image of sailing into New Amsterdam in 1650 \n\nNow going to try play it in Genie 😲 https://t.co/sj7RWS2kaL",
+      "likes": 660,
+      "retweets": 16,
+      "url": "https://x.com/levelsio/status/2016945908403917216"
+    },
+    {
+      "author": "LarkDavis",
+      "text": "Crypto is officially back in the \"hated\" phase. Scams, \"idiots,\" and total retail apathy—while everyone chases the Gold God Candle.\n\nRemember: The best entries happen when the crowd is disgusted. We’ve seen this movie before. Grab your popcorn. 🍿🔥",
+      "likes": 513,
+      "retweets": 35,
+      "url": "https://x.com/LarkDavis/status/2016961052123033965"
+    },
+    {
+      "author": "Wayfair",
+      "text": "Best selling Wayfair rugs that add warmth, comfort, and value",
+      "likes": 457,
+      "retweets": 24,
+      "url": "https://x.com/Wayfair/status/1989413775254933799"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/UyrrRij4tW",
+      "likes": 225,
+      "retweets": 7,
+      "url": "https://x.com/blknoiz06/status/2017061856414744667"
+    },
+    {
+      "author": "elliotrades",
+      "text": "All you need to know is they're gonna print so much money",
+      "likes": 214,
+      "retweets": 12,
+      "url": "https://x.com/elliotrades/status/2017059612751777940"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Rudy Gobert SWISHED the free throw with his eyes closed 🔥 https://t.co/UFqmY0aoOS",
+      "likes": 146,
+      "retweets": 2,
+      "url": "https://x.com/TheNBACentel/status/2017068963667083270"
+    }
+  ]
+}

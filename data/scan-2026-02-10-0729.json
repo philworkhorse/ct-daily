@@ -1,0 +1,304 @@
+{
+  "timestamp": "2026-02-10T07:29:50.691Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 4,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIRAFFES",
+      3
+    ],
+    [
+      "$WHITEWHALE",
+      3
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$TSLA",
+      1
+    ],
+    [
+      "$ALCH",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$CLAWBACK",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIRAFFES",
+        "count": 3
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 3
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$ALCH",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWBACK",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$TSLA",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1
+    },
+    "metals": {},
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @rezzonico: gm. How’s your day going? \n$REKT https://t.co/iKsbbIfYkw",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $5.73K of $TSLAx at $60.38M MC 🐳\n\nhttps://t.co/ZHgOh4vYPw",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TSLA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $5.73K of $TSLAx at $60.38M MC 🐳\n\nhttps://t.co/ZHgOh4vYPw",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +839.81%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $3.12M MC. https://t.co/4",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +558.09%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $3.13M MC. https://t.co/x",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +646.52%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $2.7M MC. https://t.co/9f",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ALCH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ALCH whale just bought $3.38K of $PENGUIN at $22.13M MC 🐳\n\nhttps://t.co/50FoDLor5E",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ALCH whale just bought $3.38K of $PENGUIN at $22.13M MC 🐳\n\nhttps://t.co/50FoDLor5E",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "RT @CryptoMichNL: During the first stage of growth, price usually doesn't follow. \n\nThat's what happened with $ETH in 2019. \n\nAbsolutely no…",
+        "likes": 0,
+        "retweets": 10
+      }
+    ],
+    "$CLAWBACK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Southmadedev verified earnings for $CLAWBACK on @BagsApp 💰\n\nhttps://t.co/O7Y4BoR3lt",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $3.74K of $COPPERINU at $7.37M MC 🐳\n\nhttps://t.co/YZt5yZrnjm",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $3.74K of $COPPERINU at $7.37M MC 🐳\n\nhttps://t.co/YZt5yZrnjm",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $16.69K of $WhiteWhale at $68.97M MC 🐳\n\nhttps://t.co/OYqUal8e5U",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $20.87K of $WhiteWhale at $66.43M MC 🐳\n\nhttps://t.co/V6GaE4jvvg",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $41.84K of $WhiteWhale at $65.74M MC 🐳\n\nhttps://t.co/p5JQRk1rVL",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "RT @astronomer_zero: $BTC\n\nCalled the bottom at 63k when the market was fearful, I am still confident in that call.\n\nBut now at 70k the bea…",
+        "likes": 0,
+        "retweets": 25
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm friends https://t.co/jdzN1zNbQh",
+      "likes": 683,
+      "retweets": 17,
+      "url": "https://x.com/waleswoosh/status/2021101865530953759"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "I turned 26 today.\n\nGive me some life advice",
+      "likes": 213,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2021120978877878519"
+    },
+    {
+      "author": "Austen",
+      "text": "I think we just had a breakthrough for @KellyClaudeAI building mobile apps.\n\nWill test more tomorrow but it’s successfully built a few apps end to end autonomously now.",
+      "likes": 159,
+      "retweets": 11,
+      "url": "https://x.com/Austen/status/2021082157821698127"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "😂😂😂",
+      "likes": 124,
+      "retweets": 11,
+      "url": "https://x.com/blknoiz06/status/2021084554878984386"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "One year older. Grateful for an amazing year. Love y'all and excited for the next chapter",
+      "likes": 110,
+      "retweets": 1,
+      "url": "https://x.com/waleswoosh/status/2021102036729856446"
+    },
+    {
+      "author": "Icebergy",
+      "text": "china's ai models are sick because theyre like fuck copyright law",
+      "likes": 109,
+      "retweets": 1,
+      "url": "https://x.com/Icebergy/status/2021081988023648426"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Opus 4.6 is an absolute beast",
+      "likes": 100,
+      "retweets": 13,
+      "url": "https://x.com/frankdegods/status/2021100603032612895"
+    }
+  ]
+}

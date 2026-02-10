@@ -1,0 +1,149 @@
+{
+  "timestamp": "2026-02-05T02:10:56.524Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 4,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$RLM",
+      1
+    ],
+    [
+      "$MOLTPLAY",
+      1
+    ],
+    [
+      "$HAPY",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$RLM",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTPLAY",
+        "count": 1
+      },
+      {
+        "ticker": "$HAPY",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "$GIGA has highest % of normies and its verifiable on chain.\n\nWe’ve never seen what happens when normies get in early.\n\nWe saw a taste of it with $GIGA in 2024, which led to $GIGA being the best perfor",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$RLM": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $RLM with a PnL of +533.16%.\n\n$RLM has been trending on Moby since $108.4K MC. Currently sitting at $346.4K MC. https://t.co/vqBBoQH3t3",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$MOLTPLAY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Divyansh_S28 verified earnings for $MOLTPLAY on @BagsApp 💰\n\nhttps://t.co/QZ9etQEa9z",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$HAPY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member @MoonWranglerX just added a banner image for $HAPY on MobyScreener 🖼️ https://t.co/VrMITDAkDV",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.24K of $PENGUIN at $25.38M MC 🐳\n\nhttps://t.co/MKXAw1VCQe",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "zachxbt",
+      "text": "Shoutout to Circle co-founder @jerallaire for the exit liquidity. https://t.co/UqjO92kekR",
+      "likes": 383,
+      "retweets": 21,
+      "url": "https://x.com/zachxbt/status/2019225664549998889"
+    },
+    {
+      "author": "zachxbt",
+      "text": "Shoutout to Circle co-founder @jerallaire for the exit liquidity. https://t.co/UqjO92kekR",
+      "likes": 383,
+      "retweets": 21,
+      "url": "https://x.com/zachxbt/status/2019225664549998889"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Calling the generational bottom for Bitcoin here.\n\n.\n\nNot going lower tomorrow.",
+      "likes": 321,
+      "retweets": 10,
+      "url": "https://x.com/CryptoKaleo/status/2019207002963300429"
+    },
+    {
+      "author": "imperooterxbt",
+      "text": "If only there was an app that showed you the areas people like this live",
+      "likes": 159,
+      "retweets": 4,
+      "url": "https://x.com/imperooterxbt/status/2019183454533861518"
+    },
+    {
+      "author": "based16z",
+      "text": "Crypto Twitter https://t.co/lBjyftSsuD",
+      "likes": 136,
+      "retweets": 1,
+      "url": "https://x.com/based16z/status/2019217838171709731"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "timestamp": "2026-02-09T10:01:34.199Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 3,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$BNB",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$BNB",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "inflation": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.1K of $boob at $3.48M MC 🐳\n\nhttps://t.co/CCtcyfO8Pg",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $13.19K of $PENGUIN at $27.15M MC 🐳\n\nhttps://t.co/3rfXW4EaLx",
+        "likes": 11,
+        "retweets": 1
+      }
+    ],
+    "$BNB": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "$BNB weekly chart broke below dangerous resistance and trying to reclaim it with a bounce.\n\nPray it hold. If not we are heading straight below.\n\nHigh likely we see a good bounce and reclaim 1600$. Top",
+        "likes": 116,
+        "retweets": 12
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "DreamDojo is a breakthrough in robot learning: a 2B–14B parameter video world model trained on 44,000 hours of egocentric human videos—6,000+ skills, 43,000+ objects, 10,000 scenes—dwarfing any previo",
+        "likes": 6,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, new week let's get it https://t.co/TZqZcCjR8T",
+      "likes": 774,
+      "retweets": 21,
+      "url": "https://x.com/waleswoosh/status/2020739461869670891"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 349,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 349,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Many crypto companies have quietly laid off a significant portion of their staff over the past month.\n\nMore to come.\n\nExpect a wave of slow rugs this year.\n\nYou will still see them posting random updates, but make no mistake, they are not building anything anymore.\n\nAnd once all ",
+      "likes": 341,
+      "retweets": 15,
+      "url": "https://x.com/waleswoosh/status/2020774349117305317"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "MegaETH mainnet today.\n\nWhat apps should I check out day 1?",
+      "likes": 315,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020758685681946978"
+    },
+    {
+      "author": "frankdegods",
+      "text": "agents cant open bank accounts. crypto is literally the only way they can hold and move money autonomously.",
+      "likes": 311,
+      "retweets": 38,
+      "url": "https://x.com/frankdegods/status/2020757138285510993"
+    },
+    {
+      "author": "mert",
+      "text": "slavic founders: vitalik, anatoly, illia \n\nasian founders: cz, justin, jeff, satoshi (kek)\n\namerican founders: brad garlic and charles hoskinson \n\ninteresting",
+      "likes": 230,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2020790274243371075"
+    },
+    {
+      "author": "frankdegods",
+      "text": "ai is going to be so big, i dont think u get it which is unfortunate because you spend all your time on screens anyway",
+      "likes": 214,
+      "retweets": 9,
+      "url": "https://x.com/frankdegods/status/2020759275111346673"
+    },
+    {
+      "author": "jessepollak",
+      "text": "I love @nounsdao and anons is nouns for agents \n\nvery cool build by @ClawdiaBotAI",
+      "likes": 207,
+      "retweets": 19,
+      "url": "https://x.com/jessepollak/status/2020725407293825221"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "144 ETH ($297,000 USD) CryptoPunk sale.\n\nSeller bought it last week and now flipped it for $32k USD profit in just six days.\n\nIn ETH the trade looks even better.\n\nNice https://t.co/fQ6D8EgaA6",
+      "likes": 173,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020789830632767907"
+    }
+  ]
+}

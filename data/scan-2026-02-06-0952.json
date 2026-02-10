@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-02-06T09:52:09.864Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 3,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$MEATMARKET",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$AI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MEATMARKET",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      },
+      {
+        "ticker": "$AI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "unemployment": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Markets are in Extreme Fear....Again!\n\n$BTC has entered, the lowest sentiment reading on record. Worse than COVID, Luna and FTX.\n\nOver the last five years, periods of extreme fear have consistently ma",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$MEATMARKET": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @MeatMarke_fun verified earnings for $MEATMARKET on @BagsApp 💰\n\nhttps://t.co/w7E0EnWzf7",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "SolidTradesz",
+        "text": "Buying $ETH sub $2k feels like April 2025\n\nRight before the market rallied for 5 months\nand ETH ran +200% https://t.co/IpjkJCkOHz",
+        "likes": 9,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $3.33K of $TOILET at $1M MC 🐳\n\nhttps://t.co/Wi72lkuGwN",
+        "likes": 7,
+        "retweets": 1
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $3.33K of $TOILET at $1M MC 🐳\n\nhttps://t.co/Wi72lkuGwN",
+        "likes": 7,
+        "retweets": 1
+      }
+    ],
+    "$AI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AI16Z whale just bought $3.02K of $Clash at $41.68M MC 🐳\n\nhttps://t.co/AXLhkiT6HX",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "lBattleRhino",
+      "text": "Similar structure to Jan-Apr of this year but key differences \n\n1) this rally above the previous highs barely went anywhere, not nearly same magnitude as the second wave eclipsing the spring summer 2024 chop \n\n2) first time closing below this line \n\n3) Jan-Apr had tariff fear as ",
+      "likes": 545,
+      "retweets": 24,
+      "url": "https://x.com/lBattleRhino/status/1990167373572424073"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Similar structure to Jan-Apr of this year but key differences \n\n1) this rally above the previous highs barely went anywhere, not nearly same magnitude as the second wave eclipsing the spring summer 2024 chop \n\n2) first time closing below this line \n\n3) Jan-Apr had tariff fear as ",
+      "likes": 545,
+      "retweets": 24,
+      "url": "https://x.com/lBattleRhino/status/1990167373572424073"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Btc line update https://t.co/LWsp3PvT3q",
+      "likes": 322,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/1989161022184370687"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Btc line update https://t.co/LWsp3PvT3q",
+      "likes": 322,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/1989161022184370687"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "With increasing adoption of AI agents, I'm pretty sure we will see them come to messaging apps as well soon.\n\nEspecially for crypto-native use cases (perps, prediction markets etc) that's interesting, with agents helping with (or directly executing) on-chain tasks.\n\nMy partners a",
+      "likes": 146,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2019687563792171406"
+    },
+    {
+      "author": "cryptosanthoshK",
+      "text": "🚨🚨BREAKING :\n\nSATOSHI NAKAMOTO IS DOWN $60 BILLION DOLLARS FROM ATH. https://t.co/LGJDZNnaA4",
+      "likes": 135,
+      "retweets": 12,
+      "url": "https://x.com/cryptosanthoshK/status/2019701866259775841"
+    },
+    {
+      "author": "goodalexander",
+      "text": "just to be clear ppl are shorting 'the economy of bits' just as software EBITDA margins are about to run to 70% and rotating into the economy of atoms into mass unemployment",
+      "likes": 128,
+      "retweets": 3,
+      "url": "https://x.com/goodalexander/status/2019683739199218157"
+    },
+    {
+      "author": "CL207",
+      "text": "dtiving in hokkaido today 😹😹😹 https://t.co/pwnH013jnQ",
+      "likes": 110,
+      "retweets": 0,
+      "url": "https://x.com/CL207/status/2019689374397722802"
+    },
+    {
+      "author": "cryptomanran",
+      "text": "This is exactly what was needed. \n\nA plan to start addressing quantum seriously. \n\nNow with big incentives for big giants like Blackrock and Saylor, a more systematic approach can be taken!\n\nhttps://t.co/cCCyo8kFl3",
+      "likes": 107,
+      "retweets": 8,
+      "url": "https://x.com/cryptomanran/status/2019700618831839265"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "X banned InfoFi and the market has been down only since.\n\nThink about that.\n\nKaito farmers please come back, we are sorry",
+      "likes": 104,
+      "retweets": 2,
+      "url": "https://x.com/waleswoosh/status/2019709448189862332"
+    }
+  ]
+}

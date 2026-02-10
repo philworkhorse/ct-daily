@@ -1,0 +1,138 @@
+{
+  "timestamp": "2026-02-09T05:47:54.504Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 1,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CLAWPTCHA",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$MOLTGRAM",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CLAWPTCHA",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTGRAM",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$CLAWPTCHA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ClawptchaBOT verified earnings for $CLAWPTCHA on @BagsApp 💰\n\nhttps://t.co/Nr0Gyq91DV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $40.5K of $JUP at $1.1B MC 🐳\n\nhttps://t.co/1zThWlVE7w",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTGRAM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Moltgramapps verified earnings for $MOLTGRAM on @BagsApp 💰\n\nhttps://t.co/CxdLQNT7Hy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "brian_armstrong",
+      "text": "I loved the idea for our Super Bowl ad as soon as the team showed it to me. It's unique, just like our QR code ad in 2022.\n\nMost people half watch commercials (buzzed, in a loud room, with lots of people). It takes something unique to break through.\n\nTurning 100M+ screens into ka",
+      "likes": 3158,
+      "retweets": 173,
+      "url": "https://x.com/brian_armstrong/status/2020666148258304017"
+    },
+    {
+      "author": "crypto_bitlord7",
+      "text": "Fire the entire coinbase marketing department or we CTO the company \n\nImagine having the chance to show 120m people a crypto add and you come up with this:\n\nhttps://t.co/aF6Z8lRAyE",
+      "likes": 2882,
+      "retweets": 58,
+      "url": "https://x.com/crypto_bitlord7/status/2020677827511894069"
+    },
+    {
+      "author": "crypto_bitlord7",
+      "text": "Does this make anyone want to buy crypto? Does it motivate anyone? No. It’s bland and lame. Out of touch and tone deaf\n\nPart of the reason this industry doesn’t grow rapidly:\n\nWe’ve got muppets in key positions within the biggest crypto companies stifling our growth\n\nTime to CTO",
+      "likes": 303,
+      "retweets": 5,
+      "url": "https://x.com/crypto_bitlord7/status/2020680260451475817"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "https://t.co/gCGsRQm2LC",
+      "likes": 200,
+      "retweets": 17,
+      "url": "https://x.com/boldleonidas/status/2020727738878095542"
+    },
+    {
+      "author": "Grummz",
+      "text": "Bullshit.",
+      "likes": 140,
+      "retweets": 7,
+      "url": "https://x.com/Grummz/status/2020732347889664414"
+    },
+    {
+      "author": "_Shadow36",
+      "text": "This world needs more love and less hate. \n\nShameful what we have become",
+      "likes": 123,
+      "retweets": 14,
+      "url": "https://x.com/_Shadow36/status/2020722851490209795"
+    },
+    {
+      "author": "jessepollak",
+      "text": "I love @nounsdao and anons is nouns for agents \n\nvery cool build by @ClawdiaBotAI",
+      "likes": 104,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2020725407293825221"
+    },
+    {
+      "author": "jessepollak",
+      "text": "I love @nounsdao and anons is nouns for agents \n\nvery cool build by @ClawdiaBotAI",
+      "likes": 104,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2020725407293825221"
+    }
+  ]
+}

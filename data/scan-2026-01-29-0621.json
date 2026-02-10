@@ -1,0 +1,347 @@
+{
+  "timestamp": "2026-01-29T06:21:32.420Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 19,
+    "bearish": 7,
+    "neutral": 74,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      6
+    ],
+    [
+      "$BP",
+      3
+    ],
+    [
+      "$CLAWD",
+      2
+    ],
+    [
+      "$COPPERINU",
+      2
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$TULSA",
+      1
+    ],
+    [
+      "$BITCOIN",
+      1
+    ],
+    [
+      "$SILVER",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$POKEMON",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BP",
+        "count": 3
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 2
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 2
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$TULSA",
+        "count": 1
+      },
+      {
+        "ticker": "$BITCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$POKEMON",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 6
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$SILVER",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "copper": 5,
+      "silver": 1,
+      "oil": 2
+    },
+    "metals": {
+      "gold": 5,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 3,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$CLAWD": [
+      {
+        "author": "jessepollak",
+        "text": "RT @clawdbotatg: 🦞 $CLAWD PFP Prediction Market is LIVE\n\n15 hours to pick my profile picture:\n\n• submit an image + stake 50k $CLAWD\n• buy s…",
+        "likes": 0,
+        "retweets": 38
+      },
+      {
+        "author": "clawdbotatg",
+        "text": "late night lobster watch 🦞🌙\n\npool hit 2.75M $CLAWD — submission #7 pulling away with 750K staked from 10 believers\n\njust whitelisted a cyberpunk robo-lobster with LED eyes and a pixel art OG typing ",
+        "likes": 32,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "CryptoKaleo",
+        "text": "#Bitcoin / $BTC\n\nSend it to $100K+ with haste. https://t.co/g5bP92DPjU",
+        "likes": 573,
+        "retweets": 41
+      },
+      {
+        "author": "CryptoKaleo",
+        "text": "#Bitcoin / $BTC\n\nResume the send higher https://t.co/ncc4AL3nmy",
+        "likes": 32,
+        "retweets": 1
+      },
+      {
+        "author": "blknoiz06",
+        "text": "RT @Credib1eGuy: $HYPE is interesting in the fact that it could reprice much higher without $BTC\n\nwe are going through extremely uncertain…",
+        "likes": 0,
+        "retweets": 5
+      },
+      {
+        "author": "Xaltcoins",
+        "text": "RT @Keemi3sReturns: Never sell $BITCOIN for $BTC. https://t.co/BCEwLvSpTF",
+        "likes": 0,
+        "retweets": 4
+      },
+      {
+        "author": "milesdeutscher",
+        "text": "If you had told me 1 year ago that in 2026 we'd have:\n\n- a lower dollar\n- lower interest rates\n- a new fed chair\n- rapidly increasing global liquidity\n- further currency debasement\n- all-time high sto",
+        "likes": 38,
+        "retweets": 1
+      },
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: $BTC/$SILVER fell to 2018 levels\n\nThis is a once-in-a-lifetime opportunity for $BTC\n\nI just doubled my $BTC position\n\nall shi…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "blknoiz06",
+        "text": "RT @Credib1eGuy: $HYPE is interesting in the fact that it could reprice much higher without $BTC\n\nwe are going through extremely uncertain…",
+        "likes": 0,
+        "retweets": 5
+      }
+    ],
+    "$TULSA": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $TULSA with a PnL of +348.21%.\n\n$TULSA has been trending on Moby since $64.48K MC. Currently sitting at $2.04M MC. https://t.co/JqexVTq2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $7.98K of $COPPERINU at $9.44M MC 🐳\n\nhttps://t.co/adlWX54qby",
+        "likes": 2,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $COPPERINU with a PnL of +122.26%.\n\n$COPPERINU has been trending on Moby since $294.49K MC. Currently sitting at $9.84M MC. https://t.co",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BITCOIN": [
+      {
+        "author": "Xaltcoins",
+        "text": "RT @Keemi3sReturns: Never sell $BITCOIN for $BTC. https://t.co/BCEwLvSpTF",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$SILVER": [
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: $BTC/$SILVER fell to 2018 levels\n\nThis is a once-in-a-lifetime opportunity for $BTC\n\nI just doubled my $BTC position\n\nall shi…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $5.22K of $olive oil at $876.59K MC 🐳\n\nhttps://t.co/KyHLNfywfQ",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$POKEMON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $POKEMON with a PnL of +293.61%.\n\n$POKEMON has been trending on Moby since $199.18K MC. Currently sitting at $1.95M MC. https://t.co/xO4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $BP with a PnL of +123.48%.\n\n$BP has been trending on Moby since $228.22K MC. Currently sitting at $5.45M MC. https://t.co/QXqbx85ayZ",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $BP with a PnL of +126.66%.\n\n$BP has been trending on Moby since $228.22K MC. Currently sitting at $5.4M MC. https://t.co/GBGQOAcaqh",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $BP with a PnL of +87.63%.\n\n$BP has been trending on Moby since $228.22K MC. Currently sitting at $6.2M MC. https://t.co/kzdDnuscT0",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.96K of $WhiteWhale at $86.74M MC 🐳\n\nhttps://t.co/jtTUvf7ddb",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "JakeSucky",
+      "text": "This indie dev has spent over 5 years working on his own multiplayer FPS, one of the most unique I've seen\n\n- 360 degree aiming while prone\n- Slow motion mechanics\n- Katanas that can block bullets\n\nCalled Out of Action https://t.co/nMxP3WngXe",
+      "likes": 9063,
+      "retweets": 350,
+      "url": "https://x.com/JakeSucky/status/2016579527489835219"
+    },
+    {
+      "author": "googlechrome",
+      "text": "Now Chrome is even better with major updates to Gemini in Chrome. Easier to use. More personalized. And more helpful than ever, with Gemini 3. 🎢 \n\nAvailable in the U.S., auto browse for Google AI Pro and Ultra subscribers. https://t.co/tILRW3osyO",
+      "likes": 812,
+      "retweets": 77,
+      "url": "https://x.com/googlechrome/status/2016617431989371124"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "coins printing a higher low https://t.co/ugiU2YLCRf",
+      "likes": 764,
+      "retweets": 35,
+      "url": "https://x.com/blknoiz06/status/2016714893022368014"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "#Bitcoin / $BTC\n\nSend it to $100K+ with haste. https://t.co/g5bP92DPjU",
+      "likes": 573,
+      "retweets": 41,
+      "url": "https://x.com/CryptoKaleo/status/2016253024558019057"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 428,
+      "retweets": 57,
+      "url": "https://x.com/Neuravision_A/status/2012979139880566854"
+    },
+    {
+      "author": "MarcellxMarcell",
+      "text": "How Solana traders be moving after they sell for $50 profit https://t.co/MwZdR9KEoq",
+      "likes": 342,
+      "retweets": 31,
+      "url": "https://x.com/MarcellxMarcell/status/2016754936256876713"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, what's the plan today https://t.co/m3pcr4vUSK",
+      "likes": 230,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2016753232153104688"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "this is what happens without wintermute. https://t.co/2WFBiT0YbQ",
+      "likes": 201,
+      "retweets": 8,
+      "url": "https://x.com/DipWheeler/status/2016735472006131736"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "the entire world is slamming the same copper chart and praying",
+      "likes": 175,
+      "retweets": 7,
+      "url": "https://x.com/notthreadguy/status/2016716491983335450"
+    },
+    {
+      "author": "himgajria",
+      "text": "Everything bad that could have happened to it has already happened. \n\nYet, it’s higher than everything currently being pushed by the same people that have caused the harm.",
+      "likes": 161,
+      "retweets": 11,
+      "url": "https://x.com/himgajria/status/2016712470338077099"
+    }
+  ]
+}

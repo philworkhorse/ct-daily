@@ -1,0 +1,382 @@
+{
+  "timestamp": "2026-02-03T10:50:56.969Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 6,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$SEED",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$PEPE",
+      1
+    ],
+    [
+      "$WET",
+      1
+    ],
+    [
+      "$DONT",
+      1
+    ],
+    [
+      "$SS",
+      1
+    ],
+    [
+      "$BLAT",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$SHARK",
+      1
+    ],
+    [
+      "$WHITEMOLT",
+      1
+    ],
+    [
+      "$GOYIM",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SEED",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WET",
+        "count": 1
+      },
+      {
+        "ticker": "$DONT",
+        "count": 1
+      },
+      {
+        "ticker": "$SS",
+        "count": 1
+      },
+      {
+        "ticker": "$BLAT",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$SHARK",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEMOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$GOYIM",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$PEPE",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1,
+      "copper": 1,
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "fed": 2,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/w6cpMPFilz",
+        "likes": 42,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "chang_defi",
+        "text": "In the most aggressive scenario, I think you need a bit under 30% annual returns to hold HYPE through 2030.\n\nI think the most aggressive assumption of true supply of HYPE is ~60% of fd, so its $20bn m",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $1.06K of $Grushky at $130.95K MC 🐳\n\nhttps://t.co/gPCQI2dN2u",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $11.96K of $Goyim at $6.67M MC 🐳\n\nhttps://t.co/h7iFnrYjNO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "The__Solstice",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 259
+      },
+      {
+        "author": "rektfencer",
+        "text": "🚨 WARNING:\n\nTHIS LOOKS ABSOLUTELY TERRIBLE\n\nBitcoin just closed below the 100 EMA on the weekly.\n\nLast time this happened, $BTC dumped 58%. https://t.co/PatjoEml9r",
+        "likes": 35,
+        "retweets": 2
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "The__Solstice",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 259
+      }
+    ],
+    "$PEPE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ZZantrus verified earnings for $PEPE++ on @BagsApp 💰\n\nhttps://t.co/eXb35KRnlr",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $3.16K of $DONT at $2.44M MC 🐳\n\nhttps://t.co/WLszRM8YMk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$DONT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $3.16K of $DONT at $2.44M MC 🐳\n\nhttps://t.co/WLszRM8YMk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SEED": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @testerlabor_ verified earnings for $SEED on @BagsApp 💰\n\nhttps://t.co/X31AO4szNm",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @bety18_ verified earnings for $SEED on @BagsApp 💰\n\nhttps://t.co/JWfWSD8j09",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Mostaccho verified earnings for $SS on @BagsApp 💰\n\nhttps://t.co/tUzycMrfUq",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BLAT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @OFFICALSLAYERX verified earnings for $BLAT on @BagsApp 💰\n\nhttps://t.co/3vSZVAk4Ap",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.36K of $SHARK at $1.26M MC 🐳\n\nhttps://t.co/cMqooFx9pU",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$SHARK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.36K of $SHARK at $1.26M MC 🐳\n\nhttps://t.co/cMqooFx9pU",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$WHITEMOLT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @TheWhiteMolt verified earnings for $WHITEMOLT on @BagsApp 💰\n\nhttps://t.co/6mXQGeONeL",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$GOYIM": [
+      {
+        "author": "LexaproTrader",
+        "text": "RT @HopiumPapi: I am a proud $GOYIM.\n\n9S8edqWxoWz5LYLnxWUmWBJnePg35WfdYQp7HQkUpump",
+        "likes": 0,
+        "retweets": 17
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nLower $SOL prices favor meme trading and SOL accumulation, higher prices incentivize rotating SOL into cash and off ramping to bank accounts.\n\n$PUMP looks good here. https://t.co/CX8oXcVK0H",
+        "likes": 54,
+        "retweets": 1
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nLower $SOL prices favor meme trading and SOL accumulation, higher prices incentivize rotating SOL into cash and off ramping to bank accounts.\n\n$PUMP looks good here. https://t.co/CX8oXcVK0H",
+        "likes": 54,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "naval",
+      "text": "Vibe coding is the new product management.\n\nTraining and tuning models is the new coding.",
+      "likes": 493,
+      "retweets": 65,
+      "url": "https://x.com/naval/status/2018633583423049951"
+    },
+    {
+      "author": "MarcellxMarcell",
+      "text": "Gm https://t.co/qXE6IBxR8a",
+      "likes": 419,
+      "retweets": 32,
+      "url": "https://x.com/MarcellxMarcell/status/2018632180021518542"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Money Badger Boxes currently trading at $230 USD.\n\nPicked one up here.\n\nThey will reveal into Money Badger NFTs at some point which is the cultural layer for Paradex.\n\nPlus there are two airdrops coming up.\n\nObviously some risk to it but NFTs are down bad anyway at the moment so ",
+      "likes": 288,
+      "retweets": 7,
+      "url": "https://x.com/waleswoosh/status/2018584283657785815"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Perps are fun and all, I get it.\n\nAnd I like trading them too.\n\nBut really the best thing you can do if you think BTC, ETH or SOL is at a good entry, is buy spot.\n\nNo need to buy on 40x leverage and get liquidated before the next leg up.\n\nBuild your portfolio slowly",
+      "likes": 266,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2018599450856562810"
+    },
+    {
+      "author": "himgajria",
+      "text": "When you see normies on tiktok start saying they’re giving up on economics to adopt inunomics, you’ll get on-board. \n\nLate as usual.",
+      "likes": 101,
+      "retweets": 14,
+      "url": "https://x.com/himgajria/status/2018594611393110486"
+    }
+  ]
+}

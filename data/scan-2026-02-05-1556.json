@@ -1,0 +1,299 @@
+{
+  "timestamp": "2026-02-05T15:56:44.600Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 8,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$USELESS",
+      2
+    ],
+    [
+      "$PEPE",
+      1
+    ],
+    [
+      "$BONK",
+      1
+    ],
+    [
+      "$MOG",
+      1
+    ],
+    [
+      "$WIF",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$BFISH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 2
+      },
+      {
+        "ticker": "$MOG",
+        "count": 1
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$BFISH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$PEPE",
+        "count": 1
+      },
+      {
+        "ticker": "$BONK",
+        "count": 1
+      },
+      {
+        "ticker": "$WIF",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$PEPE": [
+      {
+        "author": "osf_rekt",
+        "text": "as you probably know, i was definitely in the \"4 year cycle is broken\" camp. i think with BTC now at 69k, 45% off the highs (and a huge underperformance vs stocks) it's quite clear i was wrong because",
+        "likes": 63,
+        "retweets": 10
+      }
+    ],
+    "$BONK": [
+      {
+        "author": "osf_rekt",
+        "text": "as you probably know, i was definitely in the \"4 year cycle is broken\" camp. i think with BTC now at 69k, 45% off the highs (and a huge underperformance vs stocks) it's quite clear i was wrong because",
+        "likes": 63,
+        "retweets": 10
+      }
+    ],
+    "$MOG": [
+      {
+        "author": "osf_rekt",
+        "text": "as you probably know, i was definitely in the \"4 year cycle is broken\" camp. i think with BTC now at 69k, 45% off the highs (and a huge underperformance vs stocks) it's quite clear i was wrong because",
+        "likes": 63,
+        "retweets": 10
+      }
+    ],
+    "$WIF": [
+      {
+        "author": "osf_rekt",
+        "text": "as you probably know, i was definitely in the \"4 year cycle is broken\" camp. i think with BTC now at 69k, 45% off the highs (and a huge underperformance vs stocks) it's quite clear i was wrong because",
+        "likes": 63,
+        "retweets": 10
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "osf_rekt",
+        "text": "as you probably know, i was definitely in the \"4 year cycle is broken\" camp. i think with BTC now at 69k, 45% off the highs (and a huge underperformance vs stocks) it's quite clear i was wrong because",
+        "likes": 63,
+        "retweets": 10
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "as you probably know, i was definitely in the \"4 year cycle is broken\" camp. i think with BTC now at 69k, 45% off the highs (and a huge underperformance vs stocks) it's quite clear i was wrong because",
+        "likes": 63,
+        "retweets": 10
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $18.8K of $USELESS at $35.44M MC 🐳\n\nhttps://t.co/qGRZGZUhyX",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $7.74K of $USELESS at $35.57M MC 🐳\n\nhttps://t.co/vr1apSsp8T",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $18.8K of $USELESS at $35.44M MC 🐳\n\nhttps://t.co/qGRZGZUhyX",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $7.74K of $USELESS at $35.57M MC 🐳\n\nhttps://t.co/vr1apSsp8T",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "RT @kripicThe1st: What the fuck is a 'stable' coin?\n\n$USDUC https://t.co/zEzcMYV2MY",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "0xBossman",
+        "text": "If depression was a chart, it would look like this. \n\n$BTC https://t.co/Y4503GDgGe",
+        "likes": 14,
+        "retweets": 3
+      }
+    ],
+    "$BFISH": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @BetaFishsol verified earnings for $BFISH on @BagsApp 💰\n\nhttps://t.co/zKcdNS296N",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "DipWheeler",
+      "text": "Generational bottom. https://t.co/eXyovVOgAE",
+      "likes": 28116,
+      "retweets": 408,
+      "url": "https://x.com/DipWheeler/status/2019074182022045832"
+    },
+    {
+      "author": "KalshiTrade",
+      "text": "JUST IN: Bitcoin falls under $71,000\n\n80% chance it drops below $60,000 https://t.co/fiFpAyfqNB",
+      "likes": 1235,
+      "retweets": 120,
+      "url": "https://x.com/KalshiTrade/status/2019270600322347381"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "I’m losing money at an alarming rate",
+      "likes": 906,
+      "retweets": 38,
+      "url": "https://x.com/ThinkingUSD/status/2019429075815973049"
+    },
+    {
+      "author": "toly",
+      "text": "What is dead cannot die",
+      "likes": 248,
+      "retweets": 3,
+      "url": "https://x.com/toly/status/2019419047230861811"
+    },
+    {
+      "author": "trading_axe",
+      "text": "If you get 57-58K on BTC, you buy it and ignore any retard calling for 20-30K.\n\nThings may look absolute horseshit,\n\nBut as fast as we’ve gone down,\n\nWe can go just as fast back up.\n\nPlus, the year is young.\n\nSo it’s a million times better to “get it over with” with straight down",
+      "likes": 227,
+      "retweets": 13,
+      "url": "https://x.com/trading_axe/status/2019437466936136142"
+    },
+    {
+      "author": "deltaxbt",
+      "text": "saylor is speedrunning this https://t.co/GBAMqyBwcd",
+      "likes": 217,
+      "retweets": 11,
+      "url": "https://x.com/deltaxbt/status/2019379196498440437"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "donald trump i swear on everything i love if you launch truth social coin in this market i will vote blue in every election until i die",
+      "likes": 165,
+      "retweets": 4,
+      "url": "https://x.com/notthreadguy/status/2019431809029927242"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Always remember:\n\nIt's not about money.\n\nIt's about the friends we made along the way",
+      "likes": 148,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2019434924160528485"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "price action HAS to be   approaching a new GCR post\n\nwe are due",
+      "likes": 142,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2019429143226839356"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "price action HAS to be   approaching a new GCR post\n\nwe are due",
+      "likes": 142,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2019429143226839356"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "timestamp": "2026-02-06T17:59:43.447Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 4,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$OPENCODE",
+      1
+    ],
+    [
+      "$MOLTBOT",
+      1
+    ],
+    [
+      "$BLOWFISH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$OPENCODE",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTBOT",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$MSTR": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @DeItaone: $MSTR - STRATEGY SHARES EXTEND GAINS, LAST UP 20%",
+        "likes": 0,
+        "retweets": 26
+      }
+    ],
+    "$OPENCODE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @TheOpenaiCode verified earnings for $OPENCODE on @BagsApp 💰\n\nhttps://t.co/2yHes3hh6D",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MOLTBOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @moltb0t verified earnings for $MOLTBOT on @BagsApp 💰\n\nhttps://t.co/YOPZGAAMnk",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0GAntD just bought $4.74K of $BLOWFISH at $759.55K MC 🐳\n\nhttps://t.co/A4QyTO1ZjL",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "frankdegods",
+      "text": "It's bullish that people are bearish because most people have to be bearish in order for it to actually be bullish",
+      "likes": 1788,
+      "retweets": 115,
+      "url": "https://x.com/frankdegods/status/1881521620470374529"
+    },
+    {
+      "author": "frankdegods",
+      "text": "just remember who was bullish when the quants were bearish",
+      "likes": 447,
+      "retweets": 19,
+      "url": "https://x.com/frankdegods/status/2018353251419046231"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "\"okay now buy a rittle bit back\" https://t.co/8wdi95BbXw",
+      "likes": 245,
+      "retweets": 13,
+      "url": "https://x.com/DipWheeler/status/2019821499340009949"
+    },
+    {
+      "author": "frankdegods",
+      "text": "im starting to get the sense that opus 4.6 is more cracked than initial impressions",
+      "likes": 222,
+      "retweets": 6,
+      "url": "https://x.com/frankdegods/status/2019638218006884616"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Yesterday was the crypto market's March of 2020 moment for this cycle.",
+      "likes": 154,
+      "retweets": 7,
+      "url": "https://x.com/CryptoKaleo/status/2019823383064777072"
+    },
+    {
+      "author": "LucaNetz",
+      "text": "Share your Abstract wrapped below 👇",
+      "likes": 142,
+      "retweets": 7,
+      "url": "https://x.com/LucaNetz/status/2019827023397679182"
+    },
+    {
+      "author": "game_for_one",
+      "text": "Bought some LIT sub 1.5\n\nDecent level, held around there for a bit. Even with majors nuking, refused to go down much more.\n\nTeam buying back around that level consistently, supporting the price.\n\nSeems like there are only a few candidates with this structure, worth a try.",
+      "likes": 135,
+      "retweets": 1,
+      "url": "https://x.com/game_for_one/status/2019706485962572234"
+    }
+  ]
+}

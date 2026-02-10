@@ -1,0 +1,202 @@
+{
+  "timestamp": "2026-02-05T01:08:39.801Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 16,
+    "bearish": 7,
+    "neutral": 77,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$DJT",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$JLP",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$JW",
+      1
+    ],
+    [
+      "$CLAWGLASS",
+      1
+    ],
+    [
+      "$REEF",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$DJT",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$JLP",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$JW",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWGLASS",
+        "count": 1
+      },
+      {
+        "ticker": "$REEF",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 2,
+      "oil": 2,
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 3,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$DJT": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Truth Social Coin finally happening!? \n\nOnly 2 days behind when they initially documented it would be launching...\n\nThe Truth Social, social media page has added the ticker $DJT to its name...\n\nSource",
+        "likes": 14,
+        "retweets": 2
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $14.62K of $JLP at $1.41B MC 🐳\n\nhttps://t.co/tDBk3dz17M",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$JLP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $14.62K of $JLP at $1.41B MC 🐳\n\nhttps://t.co/tDBk3dz17M",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "RSI Bottomed. ✅\nTime to send…🚀\n\n$GIGA https://t.co/ToGzO8NyJP",
+        "likes": 5,
+        "retweets": 3
+      }
+    ],
+    "$JW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @BrianRoemmele verified earnings for $JW on @BagsApp 💰\n\nhttps://t.co/rYgMX8GSr2",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CLAWGLASS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ClawGlases verified earnings for $CLAWGLASS on @BagsApp 💰\n\nhttps://t.co/yfYl4jmusE",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$REEF": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/YwkWvfevPF verified earnings for $REEF on @BagsApp 💰\n\nhttps://t.co/61Vh3sis4v",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "notthreadguy",
+      "text": "what is the best vehicle  to long x402",
+      "likes": 145,
+      "retweets": 9,
+      "url": "https://x.com/notthreadguy/status/2019136894999883884"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Calling the generational bottom for Bitcoin here.\n\n.\n\nNot going lower tomorrow.",
+      "likes": 135,
+      "retweets": 5,
+      "url": "https://x.com/CryptoKaleo/status/2019207002963300429"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Not a bad idea to be honest.",
+      "likes": 127,
+      "retweets": 2,
+      "url": "https://x.com/intocryptoverse/status/2019210927443439764"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "https://t.co/Q2usXVdVAp",
+      "likes": 112,
+      "retweets": 2,
+      "url": "https://x.com/Tradermayne/status/2019186720164733348"
+    },
+    {
+      "author": "mert",
+      "text": "AI is many decades old\n\ncrypto is 2 decades old, and scalable chains aren't even 5 years old\n\ncynicism towards crypto is a lack of imagination exacerbated by price-driven emotion\n\nwe will separate money from the state, encrypt it, and make it programmable at planetary scale",
+      "likes": 111,
+      "retweets": 3,
+      "url": "https://x.com/mert/status/2019200567009243587"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i don’t think saylor knows bitcoin is down but tom lee is having cold sweats and nightmares about his next cnbc appearance",
+      "likes": 107,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2019199440456667218"
+    },
+    {
+      "author": "mert",
+      "text": "when looking at SOL inflation, you need to look at the source\n\nthe bulk of the inflation you see on the SOL charts is due to past unlocks, which are largely over now\n\nissuance plays a smaller role than most think, it's 4% today, but also reduces continuously every 2 days",
+      "likes": 103,
+      "retweets": 1,
+      "url": "https://x.com/mert/status/2019204123992969690"
+    }
+  ]
+}

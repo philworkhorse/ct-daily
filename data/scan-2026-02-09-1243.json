@@ -1,0 +1,179 @@
+{
+  "timestamp": "2026-02-09T12:43:26.360Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 2,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$WBTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$WBTC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "inflation": 1,
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "impromptu $REKT weekly in a few mins, while i have a spare moment! https://t.co/pCyKcj4jdN",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @onchainrobber just bought $6K of $WOJAK at $12.56M MC 🐳\n\nhttps://t.co/4oymb45fSQ",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $22.86K of $WBTC at $273.2M MC 🐳\n\nhttps://t.co/49Xo0NQ9vy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $22.86K of $WBTC at $273.2M MC 🐳\n\nhttps://t.co/49Xo0NQ9vy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "coinbase",
+      "text": "Singing &gt; watching.\n\nSo we got millions of people watching the Big Game to sing along with us.\n\nOh, and we put it on the world's largest LED screen @SphereVegas. https://t.co/dYqBkEy41g",
+      "likes": 2922,
+      "retweets": 387,
+      "url": "https://x.com/coinbase/status/2020664192374645023"
+    },
+    {
+      "author": "retardmode",
+      "text": "i ordered a pallet of luxury handbags from aliexpress in 2016 for $4/piece, i’ve given one as a valentines day gift every year and no woman has called me out yet\n\nevery year around this time i start getting nervous to try my luck again",
+      "likes": 1242,
+      "retweets": 7,
+      "url": "https://x.com/retardmode/status/2020500688015687970"
+    },
+    {
+      "author": "levelsio",
+      "text": "New video model by ByteDance (TikTok) seems to drop tomorrow\n\nSeedance 2.0 apparently outperforms Veo 3.1, Sora 2 and Kling 3.0\n\nWhat it does (kinda like Sora but more advanced) is act like a director being able to create entire full length videos with lots of cuts and different ",
+      "likes": 803,
+      "retweets": 35,
+      "url": "https://x.com/levelsio/status/2020699321675456906"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "I held a coordination call on the situation in the energy sector and on efforts to eliminate the consequences of Russian strikes. The most challenging conditions remain in the capital: more than 1,400 apartment buildings in Kyiv are still without heating, and it is crucial that p",
+      "likes": 537,
+      "retweets": 134,
+      "url": "https://x.com/ZelenskyyUa/status/2020831085756657797"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 485,
+      "retweets": 66,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 353,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "The more time I spend in this space, the more I just want to hold BTC over everything else.\n\nWhen I first entered crypto, I couldn't understand why anyone would buy Bitcoin over alts.\n\nNow I get it",
+      "likes": 262,
+      "retweets": 13,
+      "url": "https://x.com/waleswoosh/status/2020821348717871479"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Провів селектор по ситуації в енергетиці та ліквідації наслідків російських ударів. Найскладніші обставини досі в столиці: більш ніж 1400 багатоквартирних будинків Києва без опалення, і важливо, щоб люди з кожного такого будинку отримували всю необхідну підтримку. Також у Києві б",
+      "likes": 170,
+      "retweets": 17,
+      "url": "https://x.com/ZelenskyyUa/status/2020831089317593478"
+    },
+    {
+      "author": "inversebrah",
+      "text": "inb4 saylor bought $1B at $72k 🥹 https://t.co/xAcs3Z2b3j",
+      "likes": 155,
+      "retweets": 2,
+      "url": "https://x.com/inversebrah/status/2020807392787603474"
+    },
+    {
+      "author": "mert",
+      "text": "think the coinbase ad was good actually\n\nnot david ogilvy but nothing wrong with it \n\nit should be a big alarm bell that ppl have this negative of a reaction to crypto, not coinbase's fault",
+      "likes": 146,
+      "retweets": 10,
+      "url": "https://x.com/mert/status/2020819946926698660"
+    }
+  ]
+}

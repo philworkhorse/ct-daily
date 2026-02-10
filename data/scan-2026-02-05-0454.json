@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-02-05T04:54:51.123Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 3,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      4
+    ],
+    [
+      "$BITCOIN",
+      1
+    ],
+    [
+      "$MOLTSHOP",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 4
+      },
+      {
+        "ticker": "$BITCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTSHOP",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1,
+      "precious metals": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BITCOIN": [
+      {
+        "author": "Xaltcoins",
+        "text": "RT @tickerBITCOINbb: @Cobratate Yes the ticker is $BITCOIN\nHarryPotterObamaSonic10Inu to trillions 🟦🟥🟨 https://t.co/4dLZQSwaJA",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.23K of $BigTrout at $3.39M MC 🐳\n\nhttps://t.co/mnTSbCvBes",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.45K of $BigTrout at $3.52M MC 🐳\n\nhttps://t.co/e2TT236ztS",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.45K of $BigTrout at $3.52M MC 🐳\n\nhttps://t.co/nY3syCrZDt",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.54K of $BigTrout at $2.53M MC 🐳\n\nhttps://t.co/oUYbj6JNFa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTSHOP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @gillbertoed verified earnings for $MOLTSHOP on @BagsApp 💰\n\nhttps://t.co/HiwfwMUgG9",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $2.04K of $BigTrout at $2.87M MC 🐳\n\nhttps://t.co/7EVAzG6qXI",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "lBattleRhino",
+      "text": "When your friend says “but idk tho DYOR” after shilling you a shitcoin for the last 1.5 hours https://t.co/31tpK9bm7A",
+      "likes": 721,
+      "retweets": 66,
+      "url": "https://x.com/lBattleRhino/status/1717273993169002528"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "Yo can you get away from my league?",
+      "likes": 128,
+      "retweets": 1,
+      "url": "https://x.com/hoodg3nius/status/2019270029641150889"
+    },
+    {
+      "author": "inversebrah",
+      "text": "$80k+ saylor buy announcement imminent",
+      "likes": 124,
+      "retweets": 0,
+      "url": "https://x.com/inversebrah/status/2019262154042667411"
+    }
+  ]
+}

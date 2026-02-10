@@ -1,0 +1,449 @@
+{
+  "timestamp": "2026-01-30T19:18:09.893Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 2,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$USELESS",
+      2
+    ],
+    [
+      "$WOJAK",
+      2
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$CLAWDIUS",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$SILVER",
+      1
+    ],
+    [
+      "$GOLD",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$PEPE",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$PWENG",
+      1
+    ],
+    [
+      "$CASH",
+      1
+    ],
+    [
+      "$EUDAEMON",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$RANDOM",
+      1
+    ],
+    [
+      "$INX",
+      1
+    ],
+    [
+      "$EVA",
+      1
+    ],
+    [
+      "$PENGUN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USELESS",
+        "count": 2
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 2
+      },
+      {
+        "ticker": "$CLAWDIUS",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PWENG",
+        "count": 1
+      },
+      {
+        "ticker": "$CASH",
+        "count": 1
+      },
+      {
+        "ticker": "$EUDAEMON",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$RANDOM",
+        "count": 1
+      },
+      {
+        "ticker": "$INX",
+        "count": 1
+      },
+      {
+        "ticker": "$EVA",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$PEPE",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$SILVER",
+        "count": 1
+      },
+      {
+        "ticker": "$GOLD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "silver": 5,
+      "copper": 3
+    },
+    "metals": {
+      "gold": 5,
+      "precious metals": 1,
+      "silver": 5
+    },
+    "macro": {
+      "fed": 2,
+      "powell": 1
+    }
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "CryptoKaleo",
+        "text": "#Ethereum / $ETH\n\nSolid bounce for ETH off the base of the range and HTF support we've been waiting to retest.\n\nThe green box is for bidding. https://t.co/lj855W3Yai",
+        "likes": 25,
+        "retweets": 1
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "theunipcs",
+        "text": "Silver is down 28% on the day at the moment\n\nit was down an unbelievable 38% on the day at some point today\n\ndo you really need a stronger pitch for $USELESS coin when silver is trading like a $500k s",
+        "likes": 120,
+        "retweets": 19
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $31.88K of $CASH at $103.19M MC 🐳\n\nhttps://t.co/2UXKjIqo4m",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWDIUS": [
+      {
+        "author": "NickPlaysCrypto",
+        "text": "Check out $CLAWDIUS on fomo:\n\nhttps://t.co/vAUfCwKcoQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 91,
+        "retweets": 4
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 91,
+        "retweets": 4
+      }
+    ],
+    "$SILVER": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 91,
+        "retweets": 4
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 91,
+        "retweets": 4
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 91,
+        "retweets": 4
+      },
+      {
+        "author": "watchingmarkets",
+        "text": "Neckline BO attempt next.\n\n$WOJAK (4h) https://t.co/TYAId5BX3P",
+        "likes": 24,
+        "retweets": 3
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "watchingmarkets",
+        "text": "Even late entries were possible.\n\nNow send it.\n\nHYPE/PUMP barbell looks good here\n\n$PUMP https://t.co/W67M0DaNEz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PEPE": [
+      {
+        "author": "WogTheArtist",
+        "text": "$PEPE has its $FWOG\n\n$PENGUIN has its $PWENG\n\nlet that sink in \n\n🐸 = 🐧 https://t.co/KL4ziMqoaM",
+        "likes": 10,
+        "retweets": 4
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "WogTheArtist",
+        "text": "$PEPE has its $FWOG\n\n$PENGUIN has its $PWENG\n\nlet that sink in \n\n🐸 = 🐧 https://t.co/KL4ziMqoaM",
+        "likes": 10,
+        "retweets": 4
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "WogTheArtist",
+        "text": "$PEPE has its $FWOG\n\n$PENGUIN has its $PWENG\n\nlet that sink in \n\n🐸 = 🐧 https://t.co/KL4ziMqoaM",
+        "likes": 10,
+        "retweets": 4
+      }
+    ],
+    "$PWENG": [
+      {
+        "author": "WogTheArtist",
+        "text": "$PEPE has its $FWOG\n\n$PENGUIN has its $PWENG\n\nlet that sink in \n\n🐸 = 🐧 https://t.co/KL4ziMqoaM",
+        "likes": 10,
+        "retweets": 4
+      }
+    ],
+    "$CASH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $31.88K of $CASH at $103.19M MC 🐳\n\nhttps://t.co/2UXKjIqo4m",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EUDAEMON": [
+      {
+        "author": "0xHeme",
+        "text": "RT @hubbaabubbbaa: $EUDAEMON\n\ngem alert. number one poster on molt. building @calco_io which is followed by... Andreessen. don't see how th…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "As long as the community never dies, neither does the coin.\n\nDistribution &gt; supply control\n\n$GIGA is the most distributed coin in history.",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$RANDOM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @_annu2 verified earnings for $RANDOM on @BagsApp 💰\n\nhttps://t.co/eeRkCTYwrB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$INX": [
+      {
+        "author": "solana",
+        "text": "BREAKING: $INX, the @infinex token, is live on Solana https://t.co/77dO35aLSH",
+        "likes": 105,
+        "retweets": 26
+      }
+    ],
+    "$EVA": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @eyeamfin just bought $3.4K of $EVA at $2.64M MC 🐳\n\nhttps://t.co/faXPdz1PZT",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUN": [
+      {
+        "author": "watchingmarkets",
+        "text": "$PENGUN (1h) https://t.co/h2h42WKo4I",
+        "likes": 23,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "karpathy",
+      "text": "What's currently going on at @moltbook is genuinely the most incredible sci-fi takeoff-adjacent thing I have seen recently. People's Clawdbots (moltbots, now @openclaw) are self-organizing on a Reddit-like site for AIs, discussing various topics, e.g. even how to speak privately.",
+      "likes": 2722,
+      "retweets": 362,
+      "url": "https://x.com/karpathy/status/2017296988589723767"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "metals top crypto bottom pls pls pls pls pls pls pls pls pls pls pls pls pls pls",
+      "likes": 355,
+      "retweets": 16,
+      "url": "https://x.com/blknoiz06/status/2017312460097642983"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Everyone will rotate to Bitcoin after seeing how everything in the world is a big fat ponzi, including shiny rocks, that can ALL rug to zero in a heartbeat.\n\nIf you're meant to be someone who's risk-averse and wants to stay away from extreme volatility,\n\nYou often resort to simpl",
+      "likes": 243,
+      "retweets": 28,
+      "url": "https://x.com/trading_axe/status/2017312811995615232"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Celebrate the Year of the Fire Horse with the Limited Edition Wallet.",
+      "likes": 208,
+      "retweets": 19,
+      "url": "https://x.com/ridgewallet/status/2011151261823819829"
+    },
+    {
+      "author": "goodalexander",
+      "text": "The silver dev was just waiting for the Binance listing it turns out",
+      "likes": 205,
+      "retweets": 10,
+      "url": "https://x.com/goodalexander/status/2017244842783396014"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "The U.S. side spoke about refraining from strikes on energy infrastructure for a week—the countdown began overnight. How this all unfolds depends largely on our partners—the United States. Ukraine is ready to mirror the restraint, and today we did not attack Russian energy. https",
+      "likes": 201,
+      "retweets": 48,
+      "url": "https://x.com/ZelenskyyUa/status/2017314621560868953"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "is this a real chart",
+      "likes": 166,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2017312265981120916"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "My kneejerk reaction to Warsh Fed Chair is that it would be bearish initially (known hawk, wants to drain liquidity). However, if Trump chooses him it would imply he'd fall in line, cut rates, etc. Hard to know but thought Rieder would have been much more bullish.",
+      "likes": 147,
+      "retweets": 1,
+      "url": "https://x.com/Evan_ss6/status/2017041190768595104"
+    },
+    {
+      "author": "icobeast",
+      "text": "The next great farm?",
+      "likes": 135,
+      "retweets": 3,
+      "url": "https://x.com/icobeast/status/2017218520036106430"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Longed some coins can use that bottom around 80-81k as a pivot point based on global market resetting with some great fear there",
+      "likes": 125,
+      "retweets": 1,
+      "url": "https://x.com/lBattleRhino/status/2017312644923785301"
+    }
+  ]
+}

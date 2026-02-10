@@ -1,0 +1,286 @@
+{
+  "timestamp": "2026-01-29T21:56:45.721Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 2,
+    "neutral": 90,
+    "total": 100
+  },
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2,
+        "tweets": [
+          {
+            "author": "miragemunny",
+            "text": "RT @PumpfunEco: $Buttcoin has pumped 63% today! 🔥 https://t.co/cTBCtuHzCh",
+            "likes": 0,
+            "retweets": 15,
+            "url": "https://x.com/miragemunny/status/2016986200918413364"
+          },
+          {
+            "author": "miragemunny",
+            "text": "RT @0x3ren: just buy $1 worth of $buttcoin please! https://t.co/aLzgRC2d5A",
+            "likes": 0,
+            "retweets": 4,
+            "url": "https://x.com/miragemunny/status/2016981080927326253"
+          }
+        ]
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "osf_rekt",
+            "text": "made this on claude overnight\n\n1. searches for global news trends\n2. creates a prompt to send to a model trained on my artwork\n3. mints it from the rektguy.eth account and lists it for 0.01ETH\n4. proceeds are used to purchase $REKT and then burn it\n\nit should hopefully run every day - it's mainly ju",
+            "likes": 162,
+            "retweets": 26,
+            "url": "https://x.com/osf_rekt/status/2016943137189515276"
+          }
+        ]
+      },
+      {
+        "ticker": "$DONALD",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "whalewatchalert",
+            "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $Donald with a PnL of +385.11%.\n\n$Donald has been trending on Moby since $53.35K MC. Currently sitting at $2.63M MC. https://t.co/SfNmRlkMCC",
+            "likes": 0,
+            "retweets": 0,
+            "url": "https://x.com/whalewatchalert/status/2016993546507526381"
+          }
+        ]
+      },
+      {
+        "ticker": "$SEI",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "cryptosanthoshK",
+            "text": "SEI is moving towards a more sustainable development on chain.\n\nThey are taking tokenization seriously and now that @OndoFinance has partnered I can only see how great things are gonna be on @SeiNetwork \n\nBig things coming for $SEI \n\nBullish.",
+            "likes": 7,
+            "retweets": 2,
+            "url": "https://x.com/cryptosanthoshK/status/2016993361962397971"
+          }
+        ]
+      },
+      {
+        "ticker": "$CANCER",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "whalewatchalert",
+            "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CANCER with a PnL of +120.44%.\n\n$CANCER has been trending on Moby since $118.93K MC. Currently sitting at $1.1M MC. https://t.co/sFKbj8dtrg",
+            "likes": 0,
+            "retweets": 1,
+            "url": "https://x.com/whalewatchalert/status/2016992810520416259"
+          }
+        ]
+      },
+      {
+        "ticker": "$BP",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "whalewatchalert",
+            "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $BP with a PnL of +346.68%.\n\n$BP has been trending on Moby since $228.22K MC. Currently sitting at $12.35M MC. https://t.co/1VKbalZiqC",
+            "likes": 0,
+            "retweets": 0,
+            "url": "https://x.com/whalewatchalert/status/2016992538914120181"
+          }
+        ]
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "cat_maxxxed",
+            "text": "What’s the deal on $jup airdrop",
+            "likes": 2,
+            "retweets": 0,
+            "url": "https://x.com/cat_maxxxed/status/2016992090031608300"
+          }
+        ]
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "CookerFlips",
+            "text": "$HYPE last year went from single digits to over $50 and retraced to 20 \n\nThis year I'd expect similar PA for any new coin entering the top 20\n\nMaybe like 150 down to 70 settling somewhere in the middle\n\nHaven't sold any since inception and I'm telling you there's not much time left to accumulate\n\nYo",
+            "likes": 12,
+            "retweets": 2,
+            "url": "https://x.com/CookerFlips/status/2016991807054430372"
+          }
+        ]
+      },
+      {
+        "ticker": "$ROHIT",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "BagsEarnings",
+            "text": "Earnings Report: @Policia42605898 verified earnings for $ROHIT on @BagsApp 💰\n\nhttps://t.co/6NjBUCIgGk",
+            "likes": 1,
+            "retweets": 0,
+            "url": "https://x.com/BagsEarnings/status/2016991626036470002"
+          }
+        ]
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1,
+        "tweets": [
+          {
+            "author": "gigagriff",
+            "text": "RT @gigamaximilist: $GIGA will be trading over $1 this year https://t.co/PDR9sYhKyB",
+            "likes": 0,
+            "retweets": 4,
+            "url": "https://x.com/gigagriff/status/2016991036841525329"
+          }
+        ]
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 5,
+        "tweets": [
+          {
+            "author": "thiccyth0t",
+            "text": "bitcoin is thought of as a debasement hedge but it is a digital asset first and foremost amidst a secular rotation from the world of bits into the world of atoms, a shift thiel has been predicting for over a decade",
+            "likes": 9,
+            "retweets": 2,
+            "url": "https://x.com/thiccyth0t/status/2016993719170318452"
+          },
+          {
+            "author": "inversebrah",
+            "text": "now gold is up 25%, silver up 62% and \n\nbtc is down 3.5%",
+            "likes": 19,
+            "retweets": 0,
+            "url": "https://x.com/inversebrah/status/2016990725582581805"
+          },
+          {
+            "author": "remusofmars",
+            "text": "@inversebrah Saylor the best person to do this everyone is straight tripping. We need a dude who may actually burn the bitcoin when the gov boys come for it. Saylor is that dude.",
+            "likes": 3,
+            "retweets": 0,
+            "url": "https://x.com/remusofmars/status/2016992711169990724"
+          },
+          {
+            "author": "rekt_tekashi",
+            "text": "BTC/GOLD hitting a decent support area now. \n\nlet's see. https://t.co/h0Q7OrW0F3",
+            "likes": 8,
+            "retweets": 0,
+            "url": "https://x.com/rekt_tekashi/status/2016992189314662753"
+          },
+          {
+            "author": "inversebrah",
+            "text": "now gold is up 25%, silver up 62% and \n\nbtc is down 3.5%",
+            "likes": 19,
+            "retweets": 0,
+            "url": "https://x.com/inversebrah/status/2016990725582581805"
+          }
+        ]
+      },
+      {
+        "ticker": "$ETH",
+        "count": 2,
+        "tweets": [
+          {
+            "author": "osf_rekt",
+            "text": "made this on claude overnight\n\n1. searches for global news trends\n2. creates a prompt to send to a model trained on my artwork\n3. mints it from the rektguy.eth account and lists it for 0.01ETH\n4. proceeds are used to purchase $REKT and then burn it\n\nit should hopefully run every day - it's mainly ju",
+            "likes": 162,
+            "retweets": 26,
+            "url": "https://x.com/osf_rekt/status/2016943137189515276"
+          },
+          {
+            "author": "DeeZe",
+            "text": "RT @laurashin: EXCLUSIVE: Ethereum OGs and @VitalikButerin to create a $220 million Ethereum security fund 🤯\n\nYou'll never guess where the…",
+            "likes": 0,
+            "retweets": 40,
+            "url": "https://x.com/DeeZe/status/2016986247302992035"
+          }
+        ]
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "silver": 3,
+      "oil": 1,
+      "coffee": 1
+    },
+    "metals": {
+      "gold": 5,
+      "silver": 3
+    },
+    "macro": {}
+  },
+  "highEngagement": [
+    {
+      "author": "intern",
+      "text": "Some personal news: I’ll be stepping down as Director of Growth at the Monad Foundation.\n\nI've been working on Monad over the last 3 years.\n\nI’ve spent the last 9 years in crypto and been full time in the industry since joining the VC team at CMS in 2020.\n\nAfter fielding 1,000+ startup pitches, I ca",
+      "likes": 653,
+      "retweets": 13,
+      "url": "https://x.com/intern/status/2016965624807788958"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Gold and Silver going parabolic is a precursor to a Massive Crypto Bull Run.",
+      "likes": 344,
+      "retweets": 80,
+      "url": "https://x.com/MustStopMurad/status/2016987646183297323"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "Generational bottom. https://t.co/8OjPs37hjt",
+      "likes": 93,
+      "retweets": 6,
+      "url": "https://x.com/DipWheeler/status/2016984860704067838"
+    },
+    {
+      "author": "inversebrah",
+      "text": "rt https://t.co/Mnmzc2i2JN",
+      "likes": 60,
+      "retweets": 3,
+      "url": "https://x.com/inversebrah/status/2016982166371172571"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "fellas you can only save one which you saving https://t.co/LKG93Yo3he",
+      "likes": 58,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2016991301758042572"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "fellas you can only save one which you saving https://t.co/LKG93Yo3he",
+      "likes": 57,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2016991301758042572"
+    },
+    {
+      "author": "mert",
+      "text": "ok I need PRICE TO GO UP. I cant take this anymore. every day I am checking price and its dipping. every day,\n@checkprice, bad price. I cant take this anymore, I have over invested, by a lot. it is what it is. but I need price to GO UP ALREADY. can devs DO SOMETHING",
+      "likes": 55,
+      "retweets": 1,
+      "url": "https://x.com/mert/status/2016984191544488083"
+    }
+  ]
+}

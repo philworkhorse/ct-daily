@@ -1,0 +1,82 @@
+{
+  "timestamp": "2026-02-05T03:44:13.178Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 0,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 1,
+    "neutral": 45,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @ButtCoin: NEW $BUTTCOIN WEBSITE LAUNCHED!\n\nhttps://t.co/cRPXrK4g35\n\nWe've put together a new, simple website that briefly covers our hi…",
+        "likes": 0,
+        "retweets": 27
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ZeMirch",
+      "text": "so one thing im noticing is that last time (2022) prices went down but most of us thought crypto was still interesting, however this time there is a large pool of us that don’t believe that any more",
+      "likes": 728,
+      "retweets": 28,
+      "url": "https://x.com/ZeMirch/status/2019038961801527594"
+    },
+    {
+      "author": "gainzy222",
+      "text": "this is the worst crypto has ever been since i’ve entered in 2017",
+      "likes": 472,
+      "retweets": 12,
+      "url": "https://x.com/gainzy222/status/2019244360811049177"
+    },
+    {
+      "author": "udiWertheimer",
+      "text": "everyone was right\n\nbitcoin maxis were right: eth is going to zero\n\nethereum maxis were right: btc is going to zero\n\nsolana maxis were right: L2s are going to zero\n\nL2 maxis were right: sol is going to zero\n\nzcash maxis were right: xmr is going to zero etc\n\nwe are all very smart",
+      "likes": 156,
+      "retweets": 6,
+      "url": "https://x.com/udiWertheimer/status/2019240880499224675"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "uh does that say 130 billion?",
+      "likes": 113,
+      "retweets": 4,
+      "url": "https://x.com/notthreadguy/status/2019229594021429488"
+    }
+  ]
+}

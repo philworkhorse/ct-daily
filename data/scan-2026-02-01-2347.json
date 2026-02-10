@@ -1,0 +1,95 @@
+{
+  "timestamp": "2026-02-01T23:47:37.879Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 0,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 2,
+    "neutral": 43,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$RNBW",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$RNBW",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @KoreanCryptoKOR: $BUTTCOIN @ButtCoin  has finally ignited an explosive rally and is on the verge of breaking its previous all-time high…",
+        "likes": 0,
+        "retweets": 25
+      }
+    ],
+    "$RNBW": [
+      {
+        "author": "jessepollak",
+        "text": "RT @rainbowdotme: Full details and timing of the $RNBW @Uniswap CCA \n\n🗓 Mon Feb 2: Pre-bids open at 10am EST\n⏳ Tue Feb 3: Pre-bids close at…",
+        "likes": 0,
+        "retweets": 24
+      },
+      {
+        "author": "jessepollak",
+        "text": "proud to see @rainbowdotme running their CCA auction for $RNBW on @base",
+        "likes": 44,
+        "retweets": 3
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "trading_axe",
+      "text": "It feels like it's been a year already.\n\n~ Dr. Axius.",
+      "likes": 201,
+      "retweets": 7,
+      "url": "https://x.com/trading_axe/status/2018099089418702886"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "https://t.co/4aVXBLkIR7",
+      "likes": 192,
+      "retweets": 2,
+      "url": "https://x.com/Tradermayne/status/2018098533874970928"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "This ETH spot seller wants OUT",
+      "likes": 112,
+      "retweets": 1,
+      "url": "https://x.com/ThinkingUSD/status/2018099678751998335"
+    }
+  ]
+}

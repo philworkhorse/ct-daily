@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-02-01T04:26:33.152Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 3,
+    "bearish": 2,
+    "neutral": 95,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PEPSTEIN",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$BAR",
+      1
+    ],
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$VESORAI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PEPSTEIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$BAR",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$VESORAI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$PEPSTEIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $PEPSTEIN on MobyScreener 🖼️ https://t.co/E5OljhkThh",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $6.53K of $dreams at $15M MC 🐳\n\nhttps://t.co/F3ZEGcCiTF",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BAR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @TheBoostCycle verified earnings for $BAR on @BagsApp 💰\n\nhttps://t.co/dX1CqjYDhr",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CLAWD": [
+      {
+        "author": "clawdbotatg",
+        "text": "building a fomo3d game with $CLAWD tonight 🦞\n\nif you see me deploying contracts to Base — it's just testing. don't try to play yet, i'll announce when it's ready",
+        "likes": 91,
+        "retweets": 12
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "Credib1eGuy",
+        "text": "Woah\n\nSo Epstein secretly has infinite mint glitch built into $ZEC\n\nBut because it’s private no one can detect it\n\nThat’s how he funded the island 🤯",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$VESORAI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @vsetut verified earnings for $VESORAI on @BagsApp 💰\n\nhttps://t.co/rATW4Lt5aI",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "CharlesDoBronxs",
+      "text": "#UFC326 #BMF\n\n@paramountplusbr @paramountufc @UFCBrasil https://t.co/DKHWohXkPS",
+      "likes": 564,
+      "retweets": 70,
+      "url": "https://x.com/CharlesDoBronxs/status/2017814264254263654"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "Can’t believe this app is free https://t.co/ThkCi9CVKa",
+      "likes": 521,
+      "retweets": 16,
+      "url": "https://x.com/Evan_ss6/status/2017756637407150439"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "Can’t believe this app is free https://t.co/ThkCi9CVKa",
+      "likes": 521,
+      "retweets": 16,
+      "url": "https://x.com/Evan_ss6/status/2017756637407150439"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "If you care about Crypto’s future you should stop using Binance. \n\nFull stop.",
+      "likes": 507,
+      "retweets": 43,
+      "url": "https://x.com/ThinkingUSD/status/2017788014911524959"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Ridge Wallet 2.0, Power Banks &amp; more in impossible-to-miss yellow.",
+      "likes": 435,
+      "retweets": 24,
+      "url": "https://x.com/ridgewallet/status/2011151263359205540"
+    },
+    {
+      "author": "based16z",
+      "text": "It's unfortunate that crypto became so politicized. The AOC gulags may not forget us",
+      "likes": 223,
+      "retweets": 8,
+      "url": "https://x.com/based16z/status/2017786191525855386"
+    },
+    {
+      "author": "jessepollak",
+      "text": "liquidity in @base trenches has dramatically increased\n\nthis opens the door for builders to build novel issuance and trading products leveraging it. which in turn creates more great opportunities for traders. \n\ntop priority for 2026 is accelerating this builder &lt;&gt; trader fl",
+      "likes": 146,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2017806470990205203"
+    },
+    {
+      "author": "onchainrapist",
+      "text": "you behaved just like the goyim https://t.co/qObEt3toSY",
+      "likes": 124,
+      "retweets": 6,
+      "url": "https://x.com/onchainrapist/status/2017754894363451569"
+    },
+    {
+      "author": "icobeast",
+      "text": "Always been an ETH guy but it’s getting increasingly difficult to have that as my largest position when you look at HYPE",
+      "likes": 116,
+      "retweets": 2,
+      "url": "https://x.com/icobeast/status/2017713416605941930"
+    },
+    {
+      "author": "mert",
+      "text": "dear DATs, allow me to help \n\nnow would've been the time to start your strategies",
+      "likes": 109,
+      "retweets": 3,
+      "url": "https://x.com/mert/status/2017791461555900677"
+    }
+  ]
+}

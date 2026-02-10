@@ -1,0 +1,209 @@
+{
+  "timestamp": "2026-02-07T05:38:19.974Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 1,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MSTR",
+      2
+    ],
+    [
+      "$XAUUSD",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$PENGU",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$WAR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGU",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$WAR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 2
+      }
+    ],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$XAUUSD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$MSTR": [
+      {
+        "author": "Tradermayne",
+        "text": "$MSTR\n\nSigh looking back the signs were everywhere. \n\nBig zone here for Strategy could find a decent temp bottom but ultimately I'd love to buy this thing around $40-$50. https://t.co/hmfvnOvj3q",
+        "likes": 71,
+        "retweets": 3
+      },
+      {
+        "author": "Tradermayne",
+        "text": "$MSTR\n\nSigh looking back the signs were everywhere. \n\nBig zone here for Strategy could find a decent temp bottom but ultimately I'd love to buy this thing around $40-$50. https://t.co/hmfvnOvj3q",
+        "likes": 71,
+        "retweets": 3
+      }
+    ],
+    "$XAUUSD": [
+      {
+        "author": "Tradermayne",
+        "text": "$XAUUSD\n\nGot to be one of the craziest charts out there right now. https://t.co/Y83VO9VBQX",
+        "likes": 60,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Tradermayne",
+        "text": "$BTC\n\nUnderside retest of the last consolidation would be cool https://t.co/ivDvaNMqau",
+        "likes": 177,
+        "retweets": 4
+      }
+    ],
+    "$PENGU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGU whale just bought $33.48K of $PENGU at $516.85M MC 🐳\n\nhttps://t.co/ZM03tZMqr8",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $6.01K of $PsyopAnime at $5.15M MC 🐳\n\nhttps://t.co/zJusxwsbpo",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WAR": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @zinceth just bought $5.73K of $WAR at $31.76M MC 🐳\n\nhttps://t.co/mTtzeAfvMX",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Crypto_Chase",
+      "text": "Hey all. I'm proud to announce that I've partnered with @krakenpro to bring you guys livestreams, education, charts, n more. \n\nI’ve waited years for a highly reputable company to support me in creating content the way I always have. A big thank you to them, show Kraken some love!",
+      "likes": 788,
+      "retweets": 10,
+      "url": "https://x.com/Crypto_Chase/status/2019816782861856833"
+    },
+    {
+      "author": "traderpow",
+      "text": "I am pleased to announce that I am now partnered up with @TradingTerminal! They recently got acquired by @Pumpfun and I believe their mission aligns with mine in which their mission is to be the top of all categories via on-chain and more down the line.\n\nTrading terminals have be",
+      "likes": 449,
+      "retweets": 15,
+      "url": "https://x.com/traderpow/status/2019872757014790503"
+    },
+    {
+      "author": "docXBT",
+      "text": "Now that over a year has passed it’s wild to think I really closed my giga delusional conviction trades, took cash to the bank, moved across the country, got a house and changed my life at the top. Also had enough experience or foresight by then to stay in trader mode waiting to ",
+      "likes": 228,
+      "retweets": 7,
+      "url": "https://x.com/docXBT/status/2019962192305525155"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "Don’t ever meet your idols 💔 https://t.co/NXWWLhDR5j",
+      "likes": 214,
+      "retweets": 7,
+      "url": "https://x.com/hoodg3nius/status/2020004662137786468"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "$BTC\n\nUnderside retest of the last consolidation would be cool https://t.co/ivDvaNMqau",
+      "likes": 177,
+      "retweets": 4,
+      "url": "https://x.com/Tradermayne/status/2019983517753729243"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "It wouldn’t be a bear market if China wasn’t banning crypto",
+      "likes": 168,
+      "retweets": 2,
+      "url": "https://x.com/intocryptoverse/status/2020004940333404335"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "Built a quick tool for crowdsourcing punks aesthetic premiums:\n\nhttps://t.co/sstPYvkAsK https://t.co/jkfWiFUeUX",
+      "likes": 165,
+      "retweets": 20,
+      "url": "https://x.com/jackbutcher/status/2019825566522978796"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Technically this is a short. \n\nUnsure if this can push up again and make a slightly higher high. \n\nBut the unwind is coming soon I reckon. https://t.co/OUNanASJee",
+      "likes": 155,
+      "retweets": 2,
+      "url": "https://x.com/Tradermayne/status/2019986161020924040"
+    },
+    {
+      "author": "jessepollak",
+      "text": "can't stop won't stop scaling",
+      "likes": 148,
+      "retweets": 9,
+      "url": "https://x.com/jessepollak/status/2019981598960271811"
+    }
+  ]
+}

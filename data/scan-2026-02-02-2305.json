@@ -1,0 +1,242 @@
+{
+  "timestamp": "2026-02-02T23:05:10.268Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 2,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$THINK",
+      2
+    ],
+    [
+      "$NVDA",
+      1
+    ],
+    [
+      "$PREORDER",
+      1
+    ],
+    [
+      "$SOLO",
+      1
+    ],
+    [
+      "$PLAIPIN",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ],
+    [
+      "$FKH",
+      1
+    ],
+    [
+      "$VOLTCORE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$THINK",
+        "count": 2
+      },
+      {
+        "ticker": "$PREORDER",
+        "count": 1
+      },
+      {
+        "ticker": "$SOLO",
+        "count": 1
+      },
+      {
+        "ticker": "$PLAIPIN",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      },
+      {
+        "ticker": "$FKH",
+        "count": 1
+      },
+      {
+        "ticker": "$VOLTCORE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$NVDA",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 2,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$NVDA": [
+      {
+        "author": "based16z",
+        "text": "RT @tradfi: *ALTMAN: NVIDIA MAKES THE BEST AI CHIPS IN THE WORLD\n\n$NVDA",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$PREORDER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @CrayohlaEU verified earnings for $PREORDER on @BagsApp 💰\n\nhttps://t.co/fFI77hcLZW",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SOLO": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @notsuavizim just bought $3.48K of $SOLO at $14.35M MC 🐳\n\nhttps://t.co/EackzIjtWq",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PLAIPIN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @livinofwater verified earnings for $PLAIPIN on @BagsApp 💰\n\nhttps://t.co/CN0Dt5wp2v",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$THINK": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $THINK with a PnL of +107.14%.\n\n$THINK has been trending on Moby since $351.71K MC. Currently sitting at $1.3M MC. https://t.co/8Bz9qFzr",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $THINK with a PnL of +144.45%.\n\n$THINK has been trending on Moby since $351.71K MC. Currently sitting at $1.52M MC. https://t.co/9XBukuR",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $3.37K of $FKH at $699.88K MC 🐳\n\nhttps://t.co/sOzcN0619L",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FKH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $3.37K of $FKH at $699.88K MC 🐳\n\nhttps://t.co/sOzcN0619L",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$VOLTCORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $1.57K of $VOLTCORE at $352.41K MC 🐳\n\nhttps://t.co/M42VFdJCUi",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "sama",
+      "text": "I am very excited about AI, but to go off-script for a minute:\n\nI built an app with Codex last week. It was very fun. Then I started asking it for ideas for new features and at least a couple of them were better than I was thinking of.\n\nI felt a little useless and it was sad.",
+      "likes": 1848,
+      "retweets": 73,
+      "url": "https://x.com/sama/status/2018444309750862333"
+    },
+    {
+      "author": "levelsio",
+      "text": "The German mentality goes both ways\n\nExtreme skill and obsession\n\nUsed for good you get great science and inventions\n\nUsed for bad you get mass psychosis (WW2 and current climate change obsession and import the entire third world mania)",
+      "likes": 320,
+      "retweets": 14,
+      "url": "https://x.com/levelsio/status/2018431316870434941"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Musk IPO'ing SpaceX is really sharp, he'll drain all the retain liquidity out of the market before OpenAI or Anthropic can IPO. \n\nSigns of a market top?",
+      "likes": 209,
+      "retweets": 4,
+      "url": "https://x.com/ThinkingUSD/status/2018441127678853231"
+    },
+    {
+      "author": "rektmando",
+      "text": "think we bounce for a little longer here\n\nunfortunately i think Bitcoin going sub $70k is inevitable this year though",
+      "likes": 147,
+      "retweets": 1,
+      "url": "https://x.com/rektmando/status/2018438800725196818"
+    },
+    {
+      "author": "jessepollak",
+      "text": "awesome to see long time offchain builders like @Austen and @nateliason starting to build onchain agents\n\nwe need to continue building better tools AND onboarding infrastructure to get the best builders from everywhere onchain",
+      "likes": 137,
+      "retweets": 7,
+      "url": "https://x.com/jessepollak/status/2018452445949792302"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "It’s amazing how much better $79K Bitcoin looks today than it did two days ago.",
+      "likes": 134,
+      "retweets": 1,
+      "url": "https://x.com/CryptoKaleo/status/2018453238736212132"
+    },
+    {
+      "author": "retardmode",
+      "text": "added\n&gt;pawn shops\n&gt;altima/hellcat sales heatmap (includes scat)\n\nHUD data separated\n&gt;section 8 (private owned govt funded)\n&gt;public housing (govt owned and funded)\n&gt;LIHTC grants (primary federal program for building low-income housing)\n\nenhanced UI, working to add m",
+      "likes": 110,
+      "retweets": 7,
+      "url": "https://x.com/retardmode/status/2018458230847123941"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/VMbM5XFxne",
+      "likes": 105,
+      "retweets": 1,
+      "url": "https://x.com/blknoiz06/status/2018457237145145385"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/VMbM5XFxne",
+      "likes": 105,
+      "retweets": 1,
+      "url": "https://x.com/blknoiz06/status/2018457237145145385"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "https://t.co/FSwGJIqNMM",
+      "likes": 101,
+      "retweets": 10,
+      "url": "https://x.com/DipWheeler/status/2018444570548437202"
+    }
+  ]
+}

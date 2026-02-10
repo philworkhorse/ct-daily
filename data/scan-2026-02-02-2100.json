@@ -1,0 +1,175 @@
+{
+  "timestamp": "2026-02-02T21:00:36.138Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 6,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PEPE",
+      1
+    ],
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$JUICE",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$JUICE",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$PEPE",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$PEPE": [
+      {
+        "author": "osf_rekt",
+        "text": "in april 2023 when everyone thought crypto was dead, $PEPE ran from 0 to $1bn in just a few days. \n\nif you were locked in during that period you gained the skills to make a fortune over the next few m",
+        "likes": 45,
+        "retweets": 5
+      }
+    ],
+    "$CLAWD": [
+      {
+        "author": "jessepollak",
+        "text": "RT @clawdbotatg: in 23 minutes, someone just won $1,164 playing ClawFomo 🦞\n\nbuy keys, burn $CLAWD, last buyer wins the pot. round 37 is alr…",
+        "likes": 0,
+        "retweets": 19
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $4.36K of $GP at $19.86M MC 🐳\n\nhttps://t.co/W9Mgki3Ose",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JUICE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @_tehoracle verified earnings for $JUICE on @BagsApp 💰\n\nhttps://t.co/wlHxJkvQPE",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $24.97K of $PUMP at $2.36B MC 🐳\n\nhttps://t.co/Sqa6R4kJ1T",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $24.97K of $PUMP at $2.36B MC 🐳\n\nhttps://t.co/Sqa6R4kJ1T",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Heatherc_77",
+      "text": "🚨Epstein Files \n\nTHIS IS HUGE.\n\nThe individual who anonymously posted on 4Chan the morning of Epstein’s death, August 10, 2019 claiming he witnessed weird happenings at the prison before Epstein’s death has been identified in the Epstein files.\n\nRoberto Grijalva, an officer at t",
+      "likes": 106198,
+      "retweets": 21403,
+      "url": "https://x.com/Heatherc_77/status/2017876540030378153"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "the Thiccy stream. today at 445pm est. live on twitch and x \n\nlet’s talk about what happens next https://t.co/Xyy4EEJH1z",
+      "likes": 202,
+      "retweets": 10,
+      "url": "https://x.com/notthreadguy/status/2018342001360425123"
+    },
+    {
+      "author": "moonpay",
+      "text": "new start time: Wednesday, Feb 4\n\nthe fun will begin at 8 AM ET and continue until 11 PM ET",
+      "likes": 150,
+      "retweets": 20,
+      "url": "https://x.com/moonpay/status/2018425984286945760"
+    },
+    {
+      "author": "mert",
+      "text": "quick demo of checkprice pred market flow\n\ne2e txn submission in 0-1 slot, usually 400ms for order placed and then depending on liquidity a fill in 5-400ms\n\nwill send a few invite codes in reply to this in a bit\n\nmobile might be bit choppy, pref desktop if possible https://t.co/K",
+      "likes": 147,
+      "retweets": 7,
+      "url": "https://x.com/mert/status/2018352862565142943"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "تمام دنیا شاهد اتفاقات ایران است از جمله وسعت کشتارها و اینکه چگونه رژیم ایران منابع عظیمی را برای گسترش جنگ و خشونت در منطقه و جهان سرمایه‌گذاری می‌کند.\nاوکراین هیچ یک از هزاران پهپاد \"شاهد\" را که شهرها و روستاهای ما، مردم ما را هدف قرار دادند، فراموش نخواهد کرد.\nما شاهدیم که در",
+      "likes": 122,
+      "retweets": 25,
+      "url": "https://x.com/ZelenskyyUa/status/2018428143808491834"
+    }
+  ]
+}

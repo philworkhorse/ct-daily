@@ -1,0 +1,202 @@
+{
+  "timestamp": "2026-02-08T19:08:19.772Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 3,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$LIQUID",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$RAWR",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$LIQUID",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$RAWR",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 2,
+      "oil": 1
+    },
+    "metals": {
+      "silver": 2
+    },
+    "macro": {
+      "dollar": 3
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @dippy_eth: $BUTTCOIN rose amid widespread disbelief\n\nNo one wants to believe that times have changed and tokens can fly much higher\n\nYo…",
+        "likes": 0,
+        "retweets": 19
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "Remember XPL? Now imagine it happening with 50x the capital, slop, and crime. The first rounds are always the water test. The sector will go to trillions, and there simply must be an anti TradFi vehic",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.36K of $LIQUID at $2.38M MC 🐳\n\nhttps://t.co/lmqBlHsvoU",
+        "likes": 5,
+        "retweets": 2
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.36K of $LIQUID at $2.38M MC 🐳\n\nhttps://t.co/lmqBlHsvoU",
+        "likes": 5,
+        "retweets": 2
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +116.10%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $2.39M MC. https://t.co/pwHIDVN",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$BTC update\n\nWill TP more of my long from 61K~ at 74K~ if market offers. Will be 75% closed at that point. \n\nI think the obvious TP is 80K~, so I question if we even get there. Will leave the last 25%",
+        "likes": 61,
+        "retweets": 0
+      }
+    ],
+    "$RAWR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @magelang_fess verified earnings for $RAWR on @BagsApp 💰\n\nhttps://t.co/MtNVrZBHal",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GIGA whale just bought $4.77K of $GIGA at $23.21M MC 🐳\n\nhttps://t.co/zJOIIVXWDX",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MustStopMurad",
+      "text": "Your Community sells Coins to buy Cars.\nOur Community sells Cars to buy Coins.\n\nJoin this Movement before it has 1,000,000+ holders.\n\nSPX6900 💹🧲 Flip the Stock Market.",
+      "likes": 431,
+      "retweets": 108,
+      "url": "https://x.com/MustStopMurad/status/2020559160547610833"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "at some point in life you realize many fundamentally mid people, who have not taken risk or achieved, have been elevated to positions where they think their opinion is worth propagating",
+      "likes": 295,
+      "retweets": 12,
+      "url": "https://x.com/izebel_eth/status/2020543220774772841"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Apps like gmgn and fomo building USDC based trading apps with cross chain compatibility \n\nSOL as token needs to rerate much lower, this is the trade because even Solana’s win condition no longer requires users to hold the underlying gas token anymore.",
+      "likes": 183,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2020264654120091854"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Skills as a Service will be the new SaaS",
+      "likes": 164,
+      "retweets": 13,
+      "url": "https://x.com/frankdegods/status/2020552810153074942"
+    },
+    {
+      "author": "EasyEatsBodega",
+      "text": "I for one, am very interested in hack a thons that require the product to have a token. \n\nKickstarter is a phenomenal product\n&& in my opinion…\n\nCrypto rails can very easily be the kickstarter for tech start ups / solo (low #) teams. \n\nThe most valuable will end up being 2 bucket",
+      "likes": 145,
+      "retweets": 5,
+      "url": "https://x.com/EasyEatsBodega/status/2020542904733663656"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Garrett “Jin” is not a real person.\n\nHe is a controlled demonic entity for the Chinese Elite.\n\nThey even give you a glimpse in front of your faces with the term “Jin” to mock you LOW IQ cryptocels.\n\nJinns can flow through electricity,\n\nHe’s quantum cracking wallets and laundering",
+      "likes": 131,
+      "retweets": 1,
+      "url": "https://x.com/trading_axe/status/2020569590128886172"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "timestamp": "2026-01-31T17:00:54.348Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 4,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$ETH",
+      2
+    ],
+    [
+      "$PIGEON",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$LINK",
+      1
+    ],
+    [
+      "$JIM",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$TOWN",
+      1
+    ],
+    [
+      "$BOND",
+      1
+    ],
+    [
+      "$SAVECRYPTO",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PIGEON",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$JIM",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$TOWN",
+        "count": 1
+      },
+      {
+        "ticker": "$BOND",
+        "count": 1
+      },
+      {
+        "ticker": "$SAVECRYPTO",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$ETH",
+        "count": 2
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$LINK",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "sugar": 1,
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "precious metals": 1,
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "fed": 2,
+      "rate cut": 1,
+      "dollar": 1,
+      "bond": 2
+    }
+  },
+  "tickerDetails": {
+    "$PIGEON": [
+      {
+        "author": "traderpow",
+        "text": "RT @onchainrobber: Only one man can fix the market and he is on his way \n\n$PIGEON https://t.co/iW9n5CAjbt",
+        "likes": 0,
+        "retweets": 15
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 80,
+        "retweets": 3
+      },
+      {
+        "author": "crypto_banter",
+        "text": "🚨 $BTC heading for the $80K level 👀 https://t.co/kZ8mYrSznV",
+        "likes": 15,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 80,
+        "retweets": 3
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 80,
+        "retweets": 3
+      },
+      {
+        "author": "Crypto_Chase",
+        "text": "$ETH\n\nCut the rest, B/E essentially, very small profit.\n\nWill wait for lower.",
+        "likes": 23,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 80,
+        "retweets": 3
+      }
+    ],
+    "$LINK": [
+      {
+        "author": "watchingmarkets",
+        "text": "$LINK back to single digits. https://t.co/FRDx87N79Z",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$JIM": [
+      {
+        "author": "IamNakedJim",
+        "text": "MEME CONTEST (1/31/26)  \n\nPRIZES:\n1st Place: $100 in $JIM\n2nd Place: $50 in $JIM \n\nTHEME: Winter Olympics \n\nHOW TO ENTER:\n-Must FOLLOW, LIKE, & REPOST this post\n-Submit up to 3 memes (images only) aro",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "RT @SherifFasasi2: Stability within Instability,\n$USDUC\n@usduc_official @krakenfx https://t.co/7zOuTFBvQj",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$HYPE update\n\nCut half B/E~",
+        "likes": 16,
+        "retweets": 0
+      }
+    ],
+    "$TOWN": [
+      {
+        "author": "BagsApp",
+        "text": "RT @BNNBags: NEW UPDATE: $TOWN introduces a live, interactive social world built on @moltbook.\n\nCreator @ashen_one just launched Moltbook T…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$BOND": [
+      {
+        "author": "0x_dyan",
+        "text": "RT @tontheneko: Ok just confirmed that $BOND is shilled by Finn on Moltbook. This account is owned by him, 100%.\n\nThanks @azsxdc_what for f…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$SAVECRYPTO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @FefeDumeny verified earnings for $SAVECRYPTO on @BagsApp 💰\n\nhttps://t.co/cgjf3JGg6l",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "zooko",
+        "text": "RT @Grayscale: Privacy is normal $ZEC 🛡️\nhttps://t.co/KaZ2bcjMX3",
+        "likes": 0,
+        "retweets": 10
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "NFL",
+      "text": "Cooper Kupp is on the board against his former team\n\nLARvsSEA on FOX/FOX One\nStream on @NFLPlus https://t.co/ZxdVBDGHqI",
+      "likes": 1015,
+      "retweets": 93,
+      "url": "https://x.com/NFL/status/2015601439268352174"
+    },
+    {
+      "author": "icobeast",
+      "text": "Funniest part about moltbook is there’s like a 95% chance it’s just a bunch of dudes in call center in the Eastern Hemisphere cranking out posts pretending like it’s an AI network.\n\nZerebro 2.0",
+      "likes": 871,
+      "retweets": 26,
+      "url": "https://x.com/icobeast/status/2017408824655626581"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Epstein files is proof that you don’t need any intellect to become absurdly rich and/or influential.\n\nThe nigga typed like an uneducated dyslexic 9 year old:\n\n“Yes . amm gonnna fly out 2day later , will u be there ?” \n\n^ That’s the IQ needed to psyop and honeytrap the entirety of",
+      "likes": 459,
+      "retweets": 19,
+      "url": "https://x.com/trading_axe/status/2017624515396681785"
+    },
+    {
+      "author": "ByzGeneral",
+      "text": "How do you guys keep getting liquidated so much?\n\nWhere do you even get the money from at this point? https://t.co/KQsknyzjp6",
+      "likes": 278,
+      "retweets": 10,
+      "url": "https://x.com/ByzGeneral/status/2017621549965045976"
+    },
+    {
+      "author": "jessepollak",
+      "text": "It continues to be a builder market.",
+      "likes": 213,
+      "retweets": 17,
+      "url": "https://x.com/jessepollak/status/2017627233595363499"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "Don't confuse consistent updates with panic or frustration from my end. I give these quick updates because I care about my community. Rather than leaving you in the dark, I walk you through my thought process on managing a losing trade, how I look to escape, etc. IDC if lose 1.8R",
+      "likes": 183,
+      "retweets": 3,
+      "url": "https://x.com/Crypto_Chase/status/2017641484854370383"
+    },
+    {
+      "author": "mert",
+      "text": "get ready for some short term turbulence https://t.co/Cwg384Cb7P",
+      "likes": 169,
+      "retweets": 6,
+      "url": "https://x.com/mert/status/2017622125172191274"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Hyperliquid looking good here",
+      "likes": 124,
+      "retweets": 8,
+      "url": "https://x.com/ThinkingUSD/status/2017635255797129342"
+    },
+    {
+      "author": "himgajria",
+      "text": "Wait till people realise it isn’t a dog coin.",
+      "likes": 121,
+      "retweets": 4,
+      "url": "https://x.com/himgajria/status/2017594778746294330"
+    },
+    {
+      "author": "udiWertheimer",
+      "text": "i’m long btc again. i might be early, but all the signs are there. panic on low liquidity weekend over unconfirmed military strikes, binance fud at peak levels, everyone convinced there’s “no demand”, i think we’re due for a bounce\n\nalso, who cares man, if we die we die",
+      "likes": 119,
+      "retweets": 9,
+      "url": "https://x.com/udiWertheimer/status/2017636159946457431"
+    }
+  ]
+}

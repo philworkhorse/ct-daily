@@ -1,0 +1,253 @@
+{
+  "timestamp": "2026-02-08T15:55:31.938Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 7,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$WHITEWHALE",
+      4
+    ],
+    [
+      "$LIQUID",
+      3
+    ],
+    [
+      "$ALPHA",
+      2
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$ZIRO",
+      1
+    ],
+    [
+      "$JEW",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$LAUNCH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 4
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 3
+      },
+      {
+        "ticker": "$ALPHA",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$ZIRO",
+        "count": 1
+      },
+      {
+        "ticker": "$JEW",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$LAUNCH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "gdp": 1,
+      "fed": 1,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +90.38%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.66M MC. https://t.co/vRFf8hKd",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.1K of $LIQUID at $1.6M MC 🐳\n\nhttps://t.co/9nSbrTtRRy",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.56K of $LIQUID at $1.82M MC 🐳\n\nhttps://t.co/O1JnHiFX93",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ALPHA": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ALPHA with a PnL of +125.72%.\n\n$ALPHA has been trending on Moby since $187.69K MC. Currently sitting at $2.63M MC. https://t.co/4k55oFM",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ALPHA with a PnL of +204.24%.\n\n$ALPHA has been trending on Moby since $187.69K MC. Currently sitting at $2.5M MC. https://t.co/DXvw75MR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.1K of $LIQUID at $1.6M MC 🐳\n\nhttps://t.co/9nSbrTtRRy",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $19.85K of $PENGUIN at $27.31M MC 🐳\n\nhttps://t.co/R6Rr3HXVv6",
+        "likes": 5,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.05K of $ZIRO at $103.97K MC 🐳\n\nhttps://t.co/OnrgAlRDYY",
+        "likes": 1,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.56K of $LIQUID at $1.82M MC 🐳\n\nhttps://t.co/O1JnHiFX93",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $19.85K of $PENGUIN at $27.31M MC 🐳\n\nhttps://t.co/R6Rr3HXVv6",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$ZIRO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.05K of $ZIRO at $103.97K MC 🐳\n\nhttps://t.co/OnrgAlRDYY",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$JEW": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $JEW on MobyScreener 🖼️ https://t.co/gjpTa9stMO",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $9.17K of $Buttcoin at $34.22M MC 🐳\n\nhttps://t.co/RukJ87yAp7",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$LAUNCH": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @xbtPalatine verified earnings for $LAUNCH on @BagsApp 💰\n\nhttps://t.co/aiFPTJ3zxO",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "&gt;run liquid fund\n&gt;don’t own hyperliquid in size\n\nyou will not have a job",
+      "likes": 527,
+      "retweets": 26,
+      "url": "https://x.com/ThinkingUSD/status/1862686956120920455"
+    },
+    {
+      "author": "mdudas",
+      "text": "i’m extremely optimistic about the future of crypto \n\ni have an incredible partnership and a largely terrific group of founders and lp’s that i’m fortunate to work with\n\nthat being said, i would estimate the rate of shady / sketchy / unethical people in crypto is at least 5x that",
+      "likes": 488,
+      "retweets": 14,
+      "url": "https://x.com/mdudas/status/2019944993746559399"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all due respect to Chris, I completely disagree with this take.\n\nChris argues that \"web3,\" particularly crypto-powered gaming and media, failed due to scams and regulation, and that better regulation will unlock these non-financial cases.\n\nOK, think about this for a second. ",
+      "likes": 270,
+      "retweets": 10,
+      "url": "https://x.com/hosseeb/status/2020451853633511696"
+    },
+    {
+      "author": "based16z",
+      "text": "Kyle realized he missed the one good project and became washed eth maxi equivalent and said fuck it I’m leavin",
+      "likes": 243,
+      "retweets": 6,
+      "url": "https://x.com/based16z/status/2020494296693268969"
+    },
+    {
+      "author": "inversebrah",
+      "text": "💀💀💀 https://t.co/E0Rvb7OIG6",
+      "likes": 147,
+      "retweets": 13,
+      "url": "https://x.com/inversebrah/status/2020500251560567140"
+    },
+    {
+      "author": "mert",
+      "text": "how come great britain still has the word great in it",
+      "likes": 142,
+      "retweets": 1,
+      "url": "https://x.com/mert/status/2020515176361967986"
+    },
+    {
+      "author": "himgajria",
+      "text": "No better marketing than ‘price go up’.\nNo better signal than ‘whales buying’.\nNo better risk management than ‘floor strong’.",
+      "likes": 128,
+      "retweets": 13,
+      "url": "https://x.com/himgajria/status/2020501278766555155"
+    }
+  ]
+}

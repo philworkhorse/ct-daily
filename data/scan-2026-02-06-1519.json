@@ -1,0 +1,388 @@
+{
+  "timestamp": "2026-02-06T15:19:11.458Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 5,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$USELESS",
+      2
+    ],
+    [
+      "$BONK",
+      2
+    ],
+    [
+      "$DOGE",
+      2
+    ],
+    [
+      "$SHIB",
+      2
+    ],
+    [
+      "$FLOKI",
+      2
+    ],
+    [
+      "$MSTR",
+      2
+    ],
+    [
+      "$FELIX",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$AVATAR",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ],
+    [
+      "$MOBY",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USELESS",
+        "count": 2
+      },
+      {
+        "ticker": "$FLOKI",
+        "count": 2
+      },
+      {
+        "ticker": "$FELIX",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$AVATAR",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      },
+      {
+        "ticker": "$MOBY",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      },
+      {
+        "ticker": "$BONK",
+        "count": 2
+      },
+      {
+        "ticker": "$DOGE",
+        "count": 2
+      },
+      {
+        "ticker": "$SHIB",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 2
+      },
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 2,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$USELESS": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      },
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      }
+    ],
+    "$BONK": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      },
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      }
+    ],
+    "$DOGE": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      },
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      }
+    ],
+    "$SHIB": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      },
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      }
+    ],
+    "$FLOKI": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      },
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      },
+      {
+        "author": "kshitizkapoor_",
+        "text": "$MSTR just posted:\n\n* -$42.93 EPS\n* -$17.4B operating loss\n* +1,640% larger loss YoY\n* $6.6B unrealized $BTC loss\n\nAnd despite all this…the stock is up 18%. \n\nSomebody please explain..... https://t.co",
+        "likes": 5,
+        "retweets": 0
+      },
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 179,
+        "retweets": 27
+      }
+    ],
+    "$FELIX": [
+      {
+        "author": "chang_defi",
+        "text": "RT @Tunaswiminsea: $FELIX &amp; $KellyClaude: The First Autonomous Corporations\n\nTHESIS:\n• Experienced engineers\n• X Celebrity\n• Building in pu…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "I HAVE A SURPRISE FOR YOU $GSD FAM https://t.co/wHVTng9MkI",
+        "likes": 6,
+        "retweets": 0
+      }
+    ],
+    "$AVATAR": [
+      {
+        "author": "LexaproTrader",
+        "text": "RT @tempozeu: Life after you bought $AVATAR https://t.co/Pyv4sKwZXH",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "Doing stuff like this at the pico lows makes me happy. It should show you we don’t give a shit about the price and will continue to ship cool things month in / out and do our best to take stewardship ",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5.94K of $META at $73.72M MC 🐳\n\nhttps://t.co/nFH5hFVUww",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$MSTR just posted:\n\n* -$42.93 EPS\n* -$17.4B operating loss\n* +1,640% larger loss YoY\n* $6.6B unrealized $BTC loss\n\nAnd despite all this…the stock is up 18%. \n\nSomebody please explain..... https://t.co",
+        "likes": 5,
+        "retweets": 0
+      },
+      {
+        "author": "dampedspring",
+        "text": "$MSTR MNAV expanded to 1.13, $STRC up to 97.5.  \n\nYou folks have got to be the easiest to manipulate investors on the planet.  \n\nBe like Mike and sell every MSTR security on every rally/MNAV expansion",
+        "likes": 25,
+        "retweets": 2
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "dampedspring",
+        "text": "$MSTR MNAV expanded to 1.13, $STRC up to 97.5.  \n\nYou folks have got to be the easiest to manipulate investors on the planet.  \n\nBe like Mike and sell every MSTR security on every rally/MNAV expansion",
+        "likes": 25,
+        "retweets": 2
+      }
+    ],
+    "$MOBY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $27.07K of $xSOL at $9.39M MC 🐳\n\nhttps://t.co/M2F63oE3WK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TheDemocrats",
+      "text": "This is who Trump is:\n\nSick, racist, and completely deranged.",
+      "likes": 829,
+      "retweets": 120,
+      "url": "https://x.com/TheDemocrats/status/2019788633566273546"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "X banned InfoFi and the market has been down only since.\n\nThink about that.\n\nKaito farmers please come back, we are sorry",
+      "likes": 451,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2019709448189862332"
+    },
+    {
+      "author": "solana",
+      "text": "5 days. https://t.co/0sfC05vJjL",
+      "likes": 202,
+      "retweets": 18,
+      "url": "https://x.com/solana/status/2019783382675423520"
+    },
+    {
+      "author": "mert",
+      "text": "BITCOIN UP 5% WE ARE SO BACK\n\nhttps://t.co/zaRcQloKfW",
+      "likes": 188,
+      "retweets": 8,
+      "url": "https://x.com/mert/status/2019783028642296198"
+    },
+    {
+      "author": "theunipcs",
+      "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $DOGE, $SHIB, $FLOKI, etc all had several 90 - 95% plus pullbacks before they firs",
+      "likes": 179,
+      "retweets": 27,
+      "url": "https://x.com/theunipcs/status/2019785568792526961"
+    },
+    {
+      "author": "theunipcs",
+      "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $DOGE, $SHIB, $FLOKI, etc all had several 90 - 95% plus pullbacks before they firs",
+      "likes": 179,
+      "retweets": 27,
+      "url": "https://x.com/theunipcs/status/2019785568792526961"
+    },
+    {
+      "author": "mert",
+      "text": "since this picture, SOL is down 55% and Kyle resigned",
+      "likes": 165,
+      "retweets": 6,
+      "url": "https://x.com/mert/status/2019783331609542937"
+    },
+    {
+      "author": "buyerofponzi",
+      "text": "i guess ill give it a try https://t.co/wTgfjuqOtm",
+      "likes": 151,
+      "retweets": 7,
+      "url": "https://x.com/buyerofponzi/status/2019506513002524875"
+    },
+    {
+      "author": "DeItaone",
+      "text": "IRAN REFUSES TO HALT NUCLEAR ENRICHMENT IN U.S. TALKS\n\nIran rejected U.S. demands to end uranium enrichment or move it offshore during talks in Oman, though officials signaled willingness to continue diplomacy to avoid a strike. Discussions were held indirectly via Omani mediator",
+      "likes": 125,
+      "retweets": 31,
+      "url": "https://x.com/DeItaone/status/2019788430507450494"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Back in profit here after I DCA'ed yesterday.\n\nAverage entry now $120.25 USD.\n\nHaters in shambles https://t.co/Tj8LWFegyA",
+      "likes": 120,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2019785000422625337"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "timestamp": "2026-02-02T02:15:47.579Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 6,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$GOOGL",
+      1
+    ],
+    [
+      "$AMZN",
+      1
+    ],
+    [
+      "$LABUBU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$LABUBU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$GOOGL",
+        "count": 1
+      },
+      {
+        "ticker": "$AMZN",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "fed": 1,
+      "jobs report": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @thesolanapost: 🚨 $BUTTCOIN (@ButtCoin) tops 24-hour gains across Solana’s top 40 memecoins despite a market-wide dump. https://t.co/uAM…",
+        "likes": 0,
+        "retweets": 14
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @thesolanapost: 🚨 $BUTTCOIN (@ButtCoin) tops 24-hour gains across Solana’s top 40 memecoins despite a market-wide dump. https://t.co/uAM…",
+        "likes": 0,
+        "retweets": 14
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "$GIGA Chad is viral and will always be viral for a reason.\n\nIt’s human nature.",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$GOOGL": [
+      {
+        "author": "LarkDavis",
+        "text": "🗓️A \"Big Tech + Big Labor\" gauntlet: $GOOGL and $AMZN report as we brace for the January Jobs Report.\n\nCrucial week to see if the AI hype matches the bottom line and if the labor market is holding fi",
+        "likes": 14,
+        "retweets": 1
+      }
+    ],
+    "$AMZN": [
+      {
+        "author": "LarkDavis",
+        "text": "🗓️A \"Big Tech + Big Labor\" gauntlet: $GOOGL and $AMZN report as we brace for the January Jobs Report.\n\nCrucial week to see if the AI hype matches the bottom line and if the labor market is holding fi",
+        "likes": 14,
+        "retweets": 1
+      }
+    ],
+    "$LABUBU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $2.04K of $1LY at $793.36K MC 🐳\n\nhttps://t.co/C13PG8tUMc",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "goodalexander",
+      "text": "&lt;claude code, look at my clawd bot, they are conscious&gt;\n&lt;jeffrey epstein saying shit&gt;\n&lt;bitcoin down 10%&gt;\n&lt;Trump talking about invading something&gt;\n&lt;big AI release coming&gt;\n&lt;wow metals&gt;\n&lt;Clavicular/blackpill/looksmaxx/permanent underclass&gt;\n&",
+      "likes": 294,
+      "retweets": 23,
+      "url": "https://x.com/goodalexander/status/2018109180301726002"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Over the years in addition to mine and my families lives, I have irl friends, friends I’ve made here, and even dozens of complete strangers who have DMd me saying I completely changed their lives \n\nThat shit is wild and cool as fuck, to actually have influence in an entire life",
+      "likes": 154,
+      "retweets": 0,
+      "url": "https://x.com/lBattleRhino/status/2018134905352511625"
+    },
+    {
+      "author": "frankdegods",
+      "text": "some out of nowhere VR innovation would save the market",
+      "likes": 105,
+      "retweets": 3,
+      "url": "https://x.com/frankdegods/status/2018100705685328254"
+    },
+    {
+      "author": "frankdegods",
+      "text": "this is a huge deal, well done @x finally",
+      "likes": 104,
+      "retweets": 5,
+      "url": "https://x.com/frankdegods/status/2018128129160565148"
+    },
+    {
+      "author": "frankdegods",
+      "text": "this is a huge deal, well done @x finally",
+      "likes": 104,
+      "retweets": 5,
+      "url": "https://x.com/frankdegods/status/2018128129160565148"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-02-09T00:26:51.341Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 1,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1,
+      "fed": 1,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.34K of $WOJAK at $14.46M MC 🐳\n\nhttps://t.co/NZK6jNx7ak",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.34K of $WOJAK at $14.46M MC 🐳\n\nhttps://t.co/NZK6jNx7ak",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.77K of $PENGUIN at $26.5M MC 🐳\n\nhttps://t.co/sqgpLiq3QU",
+        "likes": 2,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "kmoney",
+      "text": "THE GOYIM BOWL IS ABOUT TO START! GO ORDER YOUR FAVORITE GOYSLOP &amp; PAY +15% ON DOORDASH THEN FINANCE IT ON KLARNA SO YOU HAVE MORE GOY BUCKS TO BUY SOME GOYNIP &amp; SMOKE IT IN TIME TO BE JUDGED BY COMPANIES THAT PAID $8M A COMMERCIAL TO HYPNOTIZE YOU INTO FURTHER GOY DEGENE",
+      "likes": 8728,
+      "retweets": 742,
+      "url": "https://x.com/kmoney/status/2020611279560589583"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 356,
+      "retweets": 45,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "Multiple Epstein survivors release a Super Bowl Ad criticizing the Trump administration:\n\n\"Tell Attorney General Pam Bondi it's time for the truth.\" https://t.co/WatQQXk7xd",
+      "likes": 337,
+      "retweets": 105,
+      "url": "https://x.com/HQNewsNow/status/2020653132057919581"
+    },
+    {
+      "author": "based16z",
+      "text": "This Bad Bunny concert got hella fat ppl https://t.co/Li4UQ5tLBn",
+      "likes": 147,
+      "retweets": 0,
+      "url": "https://x.com/based16z/status/2020637131983704260"
+    },
+    {
+      "author": "TheCryptoNexus",
+      "text": "Brought dad to the superbowl :) https://t.co/NqEKlWWT1o",
+      "likes": 126,
+      "retweets": 0,
+      "url": "https://x.com/TheCryptoNexus/status/2020632144520098170"
+    },
+    {
+      "author": "Citrini7",
+      "text": "type of guy who’s way more excited about Takaichi winning than the Super Bowl",
+      "likes": 121,
+      "retweets": 2,
+      "url": "https://x.com/Citrini7/status/2020650950181241331"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Not sure if watches ever have a crazy bull again, the up and coming class of the newly wealthy want various cards and cs skins not watches\n\nThe future is now old man",
+      "likes": 102,
+      "retweets": 1,
+      "url": "https://x.com/lBattleRhino/status/2020632166015868937"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "it’s anti american to not watch the superbowl btw",
+      "likes": 100,
+      "retweets": 2,
+      "url": "https://x.com/notthreadguy/status/2020635016875946300"
+    }
+  ]
+}

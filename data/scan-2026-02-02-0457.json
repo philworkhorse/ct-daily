@@ -1,0 +1,235 @@
+{
+  "timestamp": "2026-02-02T04:57:58.796Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 4,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$JITOSOL",
+      2
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$MILAIDY",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$QRNG",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JITOSOL",
+        "count": 2
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$MILAIDY",
+        "count": 1
+      },
+      {
+        "ticker": "$QRNG",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "silver": 1,
+      "gold": 1
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "fed": 1,
+      "powell": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "CryptoKaleo",
+        "text": "#Bitcoin / $BTC\n\nEveryone is saying May of 2022.\n\nBut what if we’re actually running back September of 2023? https://t.co/QsPHWi60YV",
+        "likes": 71,
+        "retweets": 3
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "blknoiz06",
+        "text": "RT @Crypto_Chase: If we get a very bloody Monday, my focus will be on 3 assets. S&amp;P 500, Gold, and $HYPE\n\nThose are the assets that are goi…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $14.65K of $JitoSOL at $1.41B MC 🐳\n\nhttps://t.co/9IRaPj555p",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $50.8K of $mSOL at $340.67M MC 🐳\n\nhttps://t.co/IEx0ep1uJr",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MILAIDY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @CarlotaFang77 verified earnings for $MILAIDY on @BagsApp 💰\n\nhttps://t.co/C8UkiRMGKf",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @notsuavizim just bought $4.98K of $META at $85.94M MC 🐳\n\nhttps://t.co/2mrFJeEdtT",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$QRNG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @wtrscape verified earnings for $QRNG on @BagsApp 💰\n\nhttps://t.co/qCH3pWSdvl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $3.03K of $URANUS at $2.81M MC 🐳\n\nhttps://t.co/shdRABQ1uW",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "retardmode",
+      "text": "im building things no ever has before\n\n&gt;node count up to ~1.4m\n\n&gt;added all popeyes locations available as a filter\n\n&gt;added a violent crime heat map filter\n\n&gt;added state pages, check most unique names &amp; loudest zip codes in your state\n\nbuilders build\n\nhttps://t.co/",
+      "likes": 3786,
+      "retweets": 212,
+      "url": "https://x.com/retardmode/status/2018145195611607097"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "nigga tom lee bouta break the record for largest investment loss in the history of mankind for topblasting eth at 4k https://t.co/zfu9jgNEn9",
+      "likes": 1020,
+      "retweets": 60,
+      "url": "https://x.com/blknoiz06/status/2018164491876216930"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "nigga tom lee bouta break the record for largest investment loss in the history of mankind for topblasting eth at 4k https://t.co/zfu9jgNEn9",
+      "likes": 1020,
+      "retweets": 60,
+      "url": "https://x.com/blknoiz06/status/2018164491876216930"
+    },
+    {
+      "author": "gainzy222",
+      "text": "This is where you’re supposed to long if you’re liquid imo",
+      "likes": 722,
+      "retweets": 12,
+      "url": "https://x.com/gainzy222/status/2017609824993706200"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bro spent fifty billion dollars buying bitcoin over the past five years and is now underwater",
+      "likes": 677,
+      "retweets": 21,
+      "url": "https://x.com/blknoiz06/status/2018171633039466989"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Illiquid dump on a weekend into massive liquidations?\n\nYeah i'll buy that",
+      "likes": 585,
+      "retweets": 21,
+      "url": "https://x.com/ThinkingUSD/status/2017739782336479278"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Illiquid dump on a weekend into massive liquidations?\n\nYeah i'll buy that",
+      "likes": 585,
+      "retweets": 21,
+      "url": "https://x.com/ThinkingUSD/status/2017739782336479278"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "Well. It’s not March yet. But think this 70-75k area is attractive for $btc \n\nGot some first small bids hit \n\nMight become active in this market again for the first time in awhile",
+      "likes": 329,
+      "retweets": 8,
+      "url": "https://x.com/Pentosh1/status/2018176581110288497"
+    },
+    {
+      "author": "Icebergy",
+      "text": "this crypto president fucking sucks",
+      "likes": 224,
+      "retweets": 15,
+      "url": "https://x.com/Icebergy/status/2018169535677841803"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "BTC 75,000\n\nETH 2,200\n\nSOL 98\n\nHYPE 31",
+      "likes": 108,
+      "retweets": 1,
+      "url": "https://x.com/rasmr_eth/status/2018170630047465637"
+    }
+  ]
+}

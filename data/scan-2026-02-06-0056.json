@@ -1,0 +1,245 @@
+{
+  "timestamp": "2026-02-06T00:56:24.810Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 8,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      4
+    ],
+    [
+      "$SOL",
+      3
+    ],
+    [
+      "$CBBTC",
+      2
+    ],
+    [
+      "$POLY",
+      1
+    ],
+    [
+      "$XRP",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CBBTC",
+        "count": 2
+      },
+      {
+        "ticker": "$POLY",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 4
+      },
+      {
+        "ticker": "$SOL",
+        "count": 3
+      },
+      {
+        "ticker": "$XRP",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 2
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 2
+    },
+    "macro": {
+      "dollar": 3
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "Tradermayne",
+        "text": "So this time wasn't different, the 4 year cycle remains king and $BTC topped in Q4, 4 years after the prior top. \n\nI can only assume then that this bear market will play out similar to the prior ones ",
+        "likes": 86,
+        "retweets": 10
+      },
+      {
+        "author": "crypto_bitlord7",
+        "text": "Updated crypto support levels:\n\n$BTC $8.2k\n$XRP $0.14c\n$SOL $5\n$ETH $200-300\n\nGood luck everyone 👍",
+        "likes": 14,
+        "retweets": 1
+      },
+      {
+        "author": "iamkadense",
+        "text": "My $BTC bids against this force selling cascade https://t.co/e9ztXKc6cW",
+        "likes": 10,
+        "retweets": 1
+      },
+      {
+        "author": "Tradermayne",
+        "text": "So this time wasn't different, the 4 year cycle remains king and $BTC topped in Q4, 4 years after the prior top. \n\nI can only assume then that this bear market will play out similar to the prior ones ",
+        "likes": 86,
+        "retweets": 10
+      }
+    ],
+    "$POLY": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @zoomerfied: [ ZOOMER ]\n\nPOLYMARKET FILES TRADEMARK FOR $POLY TOKEN: SYNOPTIC",
+        "likes": 0,
+        "retweets": 20
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "Bluntz_Capital",
+        "text": "macro 0.78 fib hit on $SOL, in no world is buying sol at a 78% discount from ath a bad long term decision imo https://t.co/MFmykVLBMj",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "crypto_bitlord7",
+        "text": "Updated crypto support levels:\n\n$BTC $8.2k\n$XRP $0.14c\n$SOL $5\n$ETH $200-300\n\nGood luck everyone 👍",
+        "likes": 14,
+        "retweets": 1
+      },
+      {
+        "author": "crypto_bitlord7",
+        "text": "From $8k btc, $400 ETH amd $2 $SOL",
+        "likes": 13,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $59.9K of $cbBTC at $281M MC 🐳\n\nhttps://t.co/z2Wzhntk5w",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $64.97K of $cbBTC at $281.58M MC 🐳\n\nhttps://t.co/S1PIArQg3z",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$XRP": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "Updated crypto support levels:\n\n$BTC $8.2k\n$XRP $0.14c\n$SOL $5\n$ETH $200-300\n\nGood luck everyone 👍",
+        "likes": 14,
+        "retweets": 1
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "Updated crypto support levels:\n\n$BTC $8.2k\n$XRP $0.14c\n$SOL $5\n$ETH $200-300\n\nGood luck everyone 👍",
+        "likes": 14,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "gut says we're topped",
+      "likes": 2987,
+      "retweets": 155,
+      "url": "https://x.com/blknoiz06/status/1964307513655927069"
+    },
+    {
+      "author": "frankdegods",
+      "text": "that was a brutal bear market",
+      "likes": 341,
+      "retweets": 11,
+      "url": "https://x.com/frankdegods/status/2019549930931777574"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "As if things couldn’t get worse. \n\nThey just turned likes public again.",
+      "likes": 321,
+      "retweets": 4,
+      "url": "https://x.com/Tradermayne/status/2019566817677848774"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "By far the most vicious selling I’ve seen in Crypto, feels forced, indiscriminate.\n\nFew theories:\n\n- Secret Sovereign dumping $10B+ (Saudi/UAE/Russia/China)\n \n- Exchange blowup, or Exchange that had tens of billions of dollars of Bitcoin on the balance sheet forced to sell for wh",
+      "likes": 268,
+      "retweets": 14,
+      "url": "https://x.com/ThinkingUSD/status/2019572664302510274"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "By far the most vicious selling I’ve seen in Crypto, feels forced, indiscriminate.\n\nFew theories:\n\n- Secret Sovereign dumping $10B+ (Saudi/UAE/Russia/China)\n \n- Exchange blowup, or Exchange that had tens of billions of dollars of Bitcoin on the balance sheet forced to sell for wh",
+      "likes": 268,
+      "retweets": 14,
+      "url": "https://x.com/ThinkingUSD/status/2019572664302510274"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "We have gone low enough I’ll stop bragging as it just feels rude now, anyone who tailed the macro risk off, ggs we’ll see ya for the risk on phase hopefully later this year",
+      "likes": 243,
+      "retweets": 2,
+      "url": "https://x.com/lBattleRhino/status/2019567788013281665"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "either crypto just died a miserable fast death as an asset class or all risk assets are about to die",
+      "likes": 158,
+      "retweets": 7,
+      "url": "https://x.com/notthreadguy/status/2019567447343526359"
+    },
+    {
+      "author": "mert",
+      "text": "me and tom lee have combined for 7B in losses so far",
+      "likes": 133,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2019568555843547177"
+    },
+    {
+      "author": "frankdegods",
+      "text": "🫠 https://t.co/QaoZ96bVYn",
+      "likes": 124,
+      "retweets": 3,
+      "url": "https://x.com/frankdegods/status/2019567885077676492"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "it is now $70 with no bid",
+      "likes": 114,
+      "retweets": 2,
+      "url": "https://x.com/notthreadguy/status/2019567255970009468"
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "timestamp": "2026-01-31T12:29:26.023Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 1,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      7
+    ],
+    [
+      "$FARTCOIN",
+      3
+    ],
+    [
+      "$ETH",
+      2
+    ],
+    [
+      "$AVICI",
+      2
+    ],
+    [
+      "$WOJAK",
+      2
+    ],
+    [
+      "$FLAWNCH",
+      1
+    ],
+    [
+      "$USD",
+      1
+    ],
+    [
+      "$BNSOL",
+      1
+    ],
+    [
+      "$ENA",
+      1
+    ],
+    [
+      "$MOLTGOD",
+      1
+    ],
+    [
+      "$SHELLMATES",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$MOBY",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$KORI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 7
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 3
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 2
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 2
+      },
+      {
+        "ticker": "$FLAWNCH",
+        "count": 1
+      },
+      {
+        "ticker": "$USD",
+        "count": 1
+      },
+      {
+        "ticker": "$BNSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$ENA",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTGOD",
+        "count": 1
+      },
+      {
+        "ticker": "$SHELLMATES",
+        "count": 1
+      },
+      {
+        "ticker": "$MOBY",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$KORI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 2
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 3,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 3
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$FLAWNCH": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Nexusclaw verified earnings for $FLAWNCH on @BagsApp 💰\n\nhttps://t.co/CPwPh37MKo",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $10.95K of $PENGUIN at $63.98M MC 🐳\n\nhttps://t.co/l2V8Ab9xax",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $4.89K of $PENGUIN at $66.91M MC 🐳\n\nhttps://t.co/0ZpkEugOPh",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $3.4K of $PENGUIN at $64.56M MC 🐳\n\nhttps://t.co/JqdMNGmDoz",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $4.93K of $PENGUIN at $63.73M MC 🐳\n\nhttps://t.co/iwBttTlyfn",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $6.46K of $PENGUIN at $63.73M MC 🐳\n\nhttps://t.co/68DTReeQMf",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $6.2K of $PENGUIN at $64.13M MC 🐳\n\nhttps://t.co/BFhLcGr6rK",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.1K of $Shellraiser at $1.78M MC 🐳\n\nhttps://t.co/NuynR82Tur",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "rekt_tekashi",
+        "text": "RT @HyperRektBot: liquidated long on Ethereum\n\n0xfb6678f8bb51215606b01ca1162afa005b28e4c2 - just got rekt!\n\n$3,553,489 in $ETH lost! ~ than…",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 56,
+        "retweets": 2
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $4.89K of $PENGUIN at $66.91M MC 🐳\n\nhttps://t.co/0ZpkEugOPh",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $3.4K of $PENGUIN at $64.56M MC 🐳\n\nhttps://t.co/JqdMNGmDoz",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $4.93K of $PENGUIN at $63.73M MC 🐳\n\nhttps://t.co/iwBttTlyfn",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USD": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "What Actually Caused the October Crash and What You Might Have Missed\n\nThe Oct 10-11 (“1011”) crypto crash is back in focus.\n\nQuick Recap First:\n- The market saw a sudden sell-off with $19B in liquida",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BNSOL": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "What Actually Caused the October Crash and What You Might Have Missed\n\nThe Oct 10-11 (“1011”) crypto crash is back in focus.\n\nQuick Recap First:\n- The market saw a sudden sell-off with $19B in liquida",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ENA": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "What Actually Caused the October Crash and What You Might Have Missed\n\nThe Oct 10-11 (“1011”) crypto crash is back in focus.\n\nQuick Recap First:\n- The market saw a sudden sell-off with $19B in liquida",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTGOD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ianmiles verified earnings for $MOLTGOD on @BagsApp 💰\n\nhttps://t.co/RKkRc1W6yo",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SHELLMATES": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @AHearth___ verified earnings for $SHELLMATES on @BagsApp 💰\n\nhttps://t.co/ejycqKBkDD",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $6.46K of $PENGUIN at $63.73M MC 🐳\n\nhttps://t.co/68DTReeQMf",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $6.2K of $PENGUIN at $64.13M MC 🐳\n\nhttps://t.co/BFhLcGr6rK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 56,
+        "retweets": 2
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 56,
+        "retweets": 2
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 56,
+        "retweets": 2
+      },
+      {
+        "author": "watchingmarkets",
+        "text": "Let’s turn this around and show the Solana bears what we’re made of.\n\n$WOJAK https://t.co/t2o9PKu0Rb",
+        "likes": 15,
+        "retweets": 6
+      }
+    ],
+    "$MOBY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $1.06K of $Shellraiser at $2.34M MC 🐳\n\nhttps://t.co/9J598BfDIx",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $4.44K of $KORI at $2.12M MC 🐳\n\nhttps://t.co/tkLaSTKK7b",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$KORI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $4.44K of $KORI at $2.12M MC 🐳\n\nhttps://t.co/tkLaSTKK7b",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1315,
+      "retweets": 194,
+      "url": "https://x.com/Neuravision_A/status/2010102620502011981"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Read this now.\n\nThis is the most important thing you will read this year.",
+      "likes": 1012,
+      "retweets": 219,
+      "url": "https://x.com/MustStopMurad/status/2017302001441542522"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all respect to Star, this story is candidly ridiculous.\n\nStar is trying to claim that the root cause of 10/10 was Binance creating an Ethena yield campaign, causing USDe to get overleveraged from traders looping it on Binance, which eventually unwound because of a small pric",
+      "likes": 478,
+      "retweets": 49,
+      "url": "https://x.com/hosseeb/status/2017547160695578667"
+    },
+    {
+      "author": "vydamo_",
+      "text": "Himgarja shittin screamin pissing and crying that he sent tomato to zero and attached himself to copper inu right before the next AI szn \n\nHe could've been screaming philosophical nonsense about an agent he owns 97% of right now",
+      "likes": 286,
+      "retweets": 11,
+      "url": "https://x.com/vydamo_/status/2017322979127177721"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "What's one app, protocol or ecosystem that really excites you about crypto right now?\n\nI need some inspiration",
+      "likes": 270,
+      "retweets": 16,
+      "url": "https://x.com/waleswoosh/status/2017542596449673484"
+    },
+    {
+      "author": "gainzy222",
+      "text": "i’ve decided\n\ni’m gonna start day drinking\n\nthank u for ur attention to this matter",
+      "likes": 206,
+      "retweets": 3,
+      "url": "https://x.com/gainzy222/status/2017544960635974052"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "rate outta 10 https://t.co/JtcLMDt72U",
+      "likes": 162,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017532278985920746"
+    },
+    {
+      "author": "moonpay",
+      "text": "gm!",
+      "likes": 139,
+      "retweets": 16,
+      "url": "https://x.com/moonpay/status/2017573306661044330"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "ion truss ppl who don't like the snow.",
+      "likes": 129,
+      "retweets": 6,
+      "url": "https://x.com/blknoiz06/status/2017543769369805167"
+    }
+  ]
+}

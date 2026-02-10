@@ -1,0 +1,222 @@
+{
+  "timestamp": "2026-01-31T03:16:35.648Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 2,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$META",
+      3
+    ],
+    [
+      "$EVA",
+      1
+    ],
+    [
+      "$BAGGED",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$BAG",
+      1
+    ],
+    [
+      "$CVX",
+      1
+    ],
+    [
+      "$RELICRYPT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$EVA",
+        "count": 1
+      },
+      {
+        "ticker": "$BAGGED",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$BAG",
+        "count": 1
+      },
+      {
+        "ticker": "$CVX",
+        "count": 1
+      },
+      {
+        "ticker": "$RELICRYPT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 3
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "coffee": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$EVA": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $EVA with a PnL of +171.70%.\n\n$EVA has been trending on Moby since $451.83K MC. Currently sitting at $2.17M MC. https://t.co/n2zu59Mxeq",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BAGGED": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @icetea_4ever verified earnings for $BAGGED on @BagsApp 💰\n\nhttps://t.co/ds8qEe34Cx",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $75.52K of $JitoSOL at $1.68B MC 🐳\n\nhttps://t.co/9YWz5Je0wB",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $73.05K of $JitoSOL at $1.68B MC 🐳\n\nhttps://t.co/h6NKHgSX52",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $63.47K of $JitoSOL at $1.68B MC 🐳\n\nhttps://t.co/eX3kjS9BEy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "$MOLT on base is like investing in Facebook but for AI bots",
+        "likes": 30,
+        "retweets": 0
+      }
+    ],
+    "$BAG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @TraderBurry verified earnings for $BAG on @BagsApp 💰\n\nhttps://t.co/y2MHq8fqMF",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CVX": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Guys I think my long-form article might be getting too long-form $CVX https://t.co/bOGk2yGIu9",
+        "likes": 78,
+        "retweets": 5
+      }
+    ],
+    "$RELICRYPT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Shoalst0ne verified earnings for $RELICRYPT on @BagsApp 💰\n\nhttps://t.co/fHPYVxrGQM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MarvelStudios",
+      "text": "\"Did you hear about Wonder Man?”\n\nStream all 8 episodes of Marvel Television’s Wonder Man now on Disney+.",
+      "likes": 6553,
+      "retweets": 260,
+      "url": "https://x.com/MarvelStudios/status/2016697743256011000"
+    },
+    {
+      "author": "jessepollak",
+      "text": "anything is possible on @base https://t.co/uKzPOu55Yb",
+      "likes": 565,
+      "retweets": 39,
+      "url": "https://x.com/jessepollak/status/2017378543572029883"
+    },
+    {
+      "author": "jessepollak",
+      "text": "anything is possible on @base https://t.co/uKzPOu55Yb",
+      "likes": 564,
+      "retweets": 39,
+      "url": "https://x.com/jessepollak/status/2017378543572029883"
+    },
+    {
+      "author": "fejau_inc",
+      "text": "Posted my entire trading log history in Claude to ask for feedback and it basically roasted me for ever trying to trade bonds and told me to give up 👍",
+      "likes": 194,
+      "retweets": 3,
+      "url": "https://x.com/fejau_inc/status/2017408488268349674"
+    },
+    {
+      "author": "_Shadow36",
+      "text": "Fuck your ceilings.\n\nSEND MY COINS TO BILLIONS.\n\nYALL NEVER GONNA STOP ME FROM DREAMING. \n\nSend \n\n$Troll\n$retire\n$nothing\n$buttcoin\n$giga https://t.co/1zklp2NSpt",
+      "likes": 121,
+      "retweets": 16,
+      "url": "https://x.com/_Shadow36/status/2017392411249397858"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "you're not ready for the new mm mechanism.\n\n$5.",
+      "likes": 107,
+      "retweets": 23,
+      "url": "https://x.com/DipWheeler/status/2017406101084594365"
+    },
+    {
+      "author": "frankdegods",
+      "text": "nice. thanks @elonmusk https://t.co/JUZ69PEwBT",
+      "likes": 106,
+      "retweets": 0,
+      "url": "https://x.com/frankdegods/status/2017403394088911280"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "will literally never sell my testicles.\n\nnut up, son.",
+      "likes": 104,
+      "retweets": 13,
+      "url": "https://x.com/DipWheeler/status/2017402068223594599"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "timestamp": "2026-01-31T22:03:30.723Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 19,
+    "bearish": 4,
+    "neutral": 77,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$KARMA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$KARMA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1,
+      "copper": 2,
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $16.48K of $xSOL at $10.6M MC 🐳\n\nhttps://t.co/ZGOpzqSYGG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KARMA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Enginebroke verified earnings for $KARMA on @BagsApp 💰\n\nhttps://t.co/g6FZunWFnz",
+        "likes": 4,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1328,
+      "retweets": 195,
+      "url": "https://x.com/Neuravision_A/status/2010102620502011981"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "If history is any indication, the market cycle low for Bitcoin will occur between October 3rd to October 11th of 2026, plus or minus a few days.\n\nI'm sure plenty of rallies will occur between now and then.",
+      "likes": 374,
+      "retweets": 24,
+      "url": "https://x.com/intocryptoverse/status/2017716603563974823"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "oh brother do i have something for you",
+      "likes": 258,
+      "retweets": 1,
+      "url": "https://x.com/notthreadguy/status/2017507236159816187"
+    },
+    {
+      "author": "MartinShkreli",
+      "text": "hiring optical engineers, any location but prefer SF, NY/NJ, or greater Boston area. paying up to $400k+ base for the right candidate. send me DM or email martin at dlsoftware dot com",
+      "likes": 242,
+      "retweets": 11,
+      "url": "https://x.com/MartinShkreli/status/2017693339504546299"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Of course since BTC topped on apathy, rather than euphoria, it will make sense to re-asses this view in the summer of 2026.",
+      "likes": 187,
+      "retweets": 3,
+      "url": "https://x.com/intocryptoverse/status/2017716958649610550"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "https://t.co/sHxllCMCvQ",
+      "likes": 126,
+      "retweets": 9,
+      "url": "https://x.com/notthreadguy/status/2017707259485200575"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "CZ right now. https://t.co/FVJ4tUH3Iw",
+      "likes": 107,
+      "retweets": 5,
+      "url": "https://x.com/DipWheeler/status/2017712179915481505"
+    }
+  ]
+}

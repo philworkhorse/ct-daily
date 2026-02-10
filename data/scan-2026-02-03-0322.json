@@ -1,0 +1,176 @@
+{
+  "timestamp": "2026-02-03T03:22:34.876Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 1,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$VIRTUALS",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$MYOBOT",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$VIRTUALS",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$MYOBOT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "inversebrah",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 210
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @TBC_on_X: JUST IN: $BUTTCOIN soars to new ATH as the community aims to flip $BTC. https://t.co/vUhqdiCoNw",
+        "likes": 0,
+        "retweets": 45
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "inversebrah",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 210
+      }
+    ],
+    "$VIRTUALS": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "I really just CANT WAIT for my $VIRTUALS to unlock in May of 2027! \n\nHopefully the bull is back by then!",
+        "likes": 22,
+        "retweets": 0
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @TBC_on_X: JUST IN: $BUTTCOIN soars to new ATH as the community aims to flip $BTC. https://t.co/vUhqdiCoNw",
+        "likes": 0,
+        "retweets": 45
+      }
+    ],
+    "$MYOBOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @patrickwagner verified earnings for $MYOBOT on @BagsApp 💰\n\nhttps://t.co/ed5e29yYdF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SOL with a PnL of +83.86%.\n\n$SOL has been trending on Moby since $52.13K MC. Currently sitting at $2.32M MC. https://t.co/KQUGMA878t",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SPX whale just bought $1.45K of $blueberry at $288.53K MC 🐳\n\nhttps://t.co/ZuJPvGV8We",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MrBeast",
+      "text": "@WoodysGamertag follow me",
+      "likes": 1598,
+      "retweets": 53,
+      "url": "https://x.com/MrBeast/status/2018470700030521643"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/VMbM5XFxne",
+      "likes": 480,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2018457237145145385"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "timestamp": "2026-02-08T13:16:30.651Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 16,
+    "bearish": 3,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$WOW",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$PAP",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WOW",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$PAP",
+        "count": 1
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "dollar": 1,
+      "treasury": 1
+    }
+  },
+  "tickerDetails": {
+    "$WOW": [
+      {
+        "author": "LexaproTrader",
+        "text": "Degen Gambl/ Zero info/ NOT Alfa but I like it $WOW\n\n6YdDyLQ5RnKpjcVFCKVe8GURVxFsAVhXwArW9wrRpump",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +401.79%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $974.86K MC. https://t.co/yueVx",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PAP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/QRw7eO7dY3 verified earnings for $PAP on @BagsApp 💰\n\nhttps://t.co/1Ale1p3lD8",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "If you have been following, I have been calling gold for 6-8 months.\n\nAnd I strongly recommend that you take this seriously.\n\nGold is a ticking time bomb. \n\nEspecially under 6000$.\n\n$XAU https://t.co/",
+        "likes": 79,
+        "retweets": 8
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Pumpfun",
+      "text": "trenches bought the bottom yet nobody holds bitcoin\n\nlesson in there https://t.co/75HpZwLd7k",
+      "likes": 1791,
+      "retweets": 239,
+      "url": "https://x.com/Pumpfun/status/2020218757268869384"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 452,
+      "retweets": 23,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "niggas just throw a bunch of buzzwords together &amp; convince ppl they know what they're talking ab lmao",
+      "likes": 208,
+      "retweets": 21,
+      "url": "https://x.com/blknoiz06/status/971804744212721667"
+    },
+    {
+      "author": "mert",
+      "text": "when warcraft gold is more private than digital gold\n\nI will not finish the rest of this tweet for legal purposes",
+      "likes": 142,
+      "retweets": 9,
+      "url": "https://x.com/mert/status/2020464617969856516"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "Massive, love to see the retirement of the most insane pricing tiers of all time.",
+      "likes": 126,
+      "retweets": 0,
+      "url": "https://x.com/jackbutcher/status/2019985136625078448"
+    },
+    {
+      "author": "traderpow",
+      "text": "https://t.co/rVSGeCqYdv",
+      "likes": 115,
+      "retweets": 6,
+      "url": "https://x.com/traderpow/status/2020249137242095956"
+    },
+    {
+      "author": "based16z",
+      "text": "Alright maybe its getting a bit much gn",
+      "likes": 108,
+      "retweets": 2,
+      "url": "https://x.com/based16z/status/2020391577458516280"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "timestamp": "2026-02-10T01:00:35.345Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 1,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$AGENCY",
+      3
+    ],
+    [
+      "$GIGA",
+      2
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$POPCAT",
+      1
+    ],
+    [
+      "$MOONDOG",
+      1
+    ],
+    [
+      "$PPW",
+      1
+    ],
+    [
+      "$AAI",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$LMAO",
+      1
+    ],
+    [
+      "$RICO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$AGENCY",
+        "count": 3
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 2
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$POPCAT",
+        "count": 1
+      },
+      {
+        "ticker": "$MOONDOG",
+        "count": 1
+      },
+      {
+        "ticker": "$PPW",
+        "count": 1
+      },
+      {
+        "ticker": "$AAI",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$LMAO",
+        "count": 1
+      },
+      {
+        "ticker": "$RICO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$AGENCY": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @OinkersRUs just bought $2.22K of $AGENCY at $433.16K MC 🐳\n\nhttps://t.co/4A9oTbv2yJ",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ForeskinBain just bought $5K of $AGENCY at $429.08K MC 🐳\n\nhttps://t.co/qnp4Jkzshx",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @collectible just bought $1.4K of $AGENCY at $448.43K MC 🐳\n\nhttps://t.co/TmVCvsONEv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "When CT says we should all “send” a coin together, what they really mean is that early whales shouldn’t nuke momentum, allowing the coin to run and causing the rest of CT to fomo in.\n\nThe issue with t",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "gigagriff",
+        "text": "50,000+ retail normies own $GIGA\n\nunfortunately, they don’t bring trade so there’s no volume.\n\nVolume comes from, these 1k guys on CT.\n\nOnce overall volume returns into the extremely distributed $GIGA",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "gigagriff",
+        "text": "When CT says we should all “send” a coin together, what they really mean is that early whales shouldn’t nuke momentum, allowing the coin to run and causing the rest of CT to fomo in.\n\nThe issue with t",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "gigagriff",
+        "text": "When CT says we should all “send” a coin together, what they really mean is that early whales shouldn’t nuke momentum, allowing the coin to run and causing the rest of CT to fomo in.\n\nThe issue with t",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$POPCAT": [
+      {
+        "author": "gigagriff",
+        "text": "When CT says we should all “send” a coin together, what they really mean is that early whales shouldn’t nuke momentum, allowing the coin to run and causing the rest of CT to fomo in.\n\nThe issue with t",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOONDOG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @MSocheat48716 verified earnings for $MOONDOG on @BagsApp 💰\n\nhttps://t.co/GLdbl0s0Le",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PPW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @pizzintwatch verified earnings for $PPW on @BagsApp 💰\n\nhttps://t.co/b1AN7n3jon",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AAI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/S38J0tIpR3 verified earnings for $AAI on @BagsApp 💰\n\nhttps://t.co/7P5UzMgncc",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $38K of $JUP at $1.04B MC 🐳\n\nhttps://t.co/K4H6aGjAN8",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "I am reformed.\n\nSpending days away from the trenches.\n\nSpending more time on health and fitness.\n\n100% of my energy on being an actual \"dev.\"\n\nIt's time to send $LMAO! as high as one can during the wo",
+        "likes": 37,
+        "retweets": 7
+      }
+    ],
+    "$RICO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Lololujh verified earnings for $RICO on @BagsApp 💰\n\nhttps://t.co/ERctuTb2Ja",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": []
+}

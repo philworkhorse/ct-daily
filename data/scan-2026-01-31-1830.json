@@ -1,0 +1,248 @@
+{
+  "timestamp": "2026-01-31T18:30:42.749Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 5,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$USOR",
+      1
+    ],
+    [
+      "$BOBO",
+      1
+    ],
+    [
+      "$CHAT",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$USOR",
+        "count": 1
+      },
+      {
+        "ticker": "$BOBO",
+        "count": 1
+      },
+      {
+        "ticker": "$CHAT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $1.54K of $Accelerando at $251.97K MC 🐳\n\nhttps://t.co/xORWi4C7zE",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "dampedspring",
+        "text": "Can someone credible explain the reason that $MSTR average acquisition cost matters at all?",
+        "likes": 8,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.96K of $aura at $11.37M MC 🐳\n\nhttps://t.co/KVgmWw20KQ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USOR": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $USOR with a PnL of +100.30%.\n\n$USOR has been trending on Moby since $6.29M MC. Currently sitting at $37.23M MC. https://t.co/AUWLxYXCzV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BOBO": [
+      {
+        "author": "rekt_tekashi",
+        "text": "RT @bobocoineth: Sippin' on that dip. $BOBO 🐻 https://t.co/ZAZigKvHO6",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "PARABOLIT",
+        "text": "Now we run it up\n\n$BTC",
+        "likes": 37,
+        "retweets": 1
+      },
+      {
+        "author": "PARABOLIT",
+        "text": "RT @PARABOLIT: Last shakeout before we run it to $500k+\n\n$BTC https://t.co/cHtSc63TUW",
+        "likes": 0,
+        "retweets": 30
+      }
+    ],
+    "$CHAT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @varaxium verified earnings for $CHAT on @BagsApp 💰\n\nhttps://t.co/xuW5dWn8JU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SPX whale just bought $12.81K of $SPX at $27.01M MC 🐳\n\nhttps://t.co/Y6XdZgLwZx",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 540,
+      "retweets": 52,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Longed some coins can use that bottom around 80-81k as a pivot point based on global market resetting with some great fear there",
+      "likes": 490,
+      "retweets": 16,
+      "url": "https://x.com/lBattleRhino/status/2017312644923785301"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "charts look horrendous btw",
+      "likes": 472,
+      "retweets": 23,
+      "url": "https://x.com/blknoiz06/status/2017648414213787905"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 219,
+      "retweets": 30,
+      "url": "https://x.com/Ledger/status/2010719908100005940"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "gotta respect CZ's dedication to nonstop rape at this point.",
+      "likes": 203,
+      "retweets": 3,
+      "url": "https://x.com/DipWheeler/status/2017654584584405484"
+    },
+    {
+      "author": "mert",
+      "text": "how do you guys even have money left to lose",
+      "likes": 189,
+      "retweets": 7,
+      "url": "https://x.com/mert/status/2017656947038949749"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "The only takeaway from the Star vs CZ drama is we will never know who's correct. CEXs are a black box, who are reluctant to publish their balance sheet, profitability, and best practices in the event that there are drawdowns in reserves due crashes.\n\nWith Hyperliquid you don't ha",
+      "likes": 176,
+      "retweets": 22,
+      "url": "https://x.com/ThinkingUSD/status/2017660173662515416"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "A lot of people are using the RSI of BTC to explain why the bear market had already ended.\n\nRemember RSI is a terrible indicator by itself.\n\nIt *must* be used with other indicators to have any value at all.",
+      "likes": 158,
+      "retweets": 4,
+      "url": "https://x.com/intocryptoverse/status/2017665641390526494"
+    },
+    {
+      "author": "rektober",
+      "text": "reminder bottoms take time to form\n\nno need to try knife catch the dead cat bounces",
+      "likes": 157,
+      "retweets": 5,
+      "url": "https://x.com/rektober/status/2017656105183179043"
+    },
+    {
+      "author": "ByzGeneral",
+      "text": "The bad news is that it's al over.\n\nThe good news is that we can stop stressing out all day looking at collapsing charts.\n\nI'll see you guys behind the stove at McDonalds 🫡",
+      "likes": 141,
+      "retweets": 3,
+      "url": "https://x.com/ByzGeneral/status/2017658186216456454"
+    }
+  ]
+}

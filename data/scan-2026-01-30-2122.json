@@ -1,0 +1,227 @@
+{
+  "timestamp": "2026-01-30T21:22:26.455Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 5,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$OPENCLAW",
+      2
+    ],
+    [
+      "$TROLL",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$OPENCLAW",
+        "count": 2
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 4,
+      "gold": 2
+    },
+    "metals": {
+      "silver": 4,
+      "gold": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: BUTTCOIN was most compared to FARTCOIN last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $FARTCOIN's current market cap, its p…",
+        "likes": 0,
+        "retweets": 14
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: BUTTCOIN was most compared to FARTCOIN last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $FARTCOIN's current market cap, its p…",
+        "likes": 0,
+        "retweets": 14
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +129.87%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $4.33M MC. https://t.co/J",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +254.78%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $4.13M MC. https://t.co/4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "BasedShillBH",
+        "text": "RT @seyong: some cool stats re: $MOLT\n\n- fomo has driven 50% of all volume to the token\n- nearly 1/2 of holders with a real balance live on…",
+        "likes": 0,
+        "retweets": 15
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.18K of $Profit at $290.68K MC 🐳\n\nhttps://t.co/k78Gwzf4et",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.26K of $Profit at $290.68K MC 🐳\n\nhttps://t.co/SqsJdZk89X",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "haha ya everybody needs to stop trying to get cute.\n\nbuy hold dca wait til market recovers\n\nit’s not rocket science\n\n$GIGA is a free 40x back to ATH (first stop)\n\nthe only way you can lose is if u get",
+        "likes": 3,
+        "retweets": 2
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $4.05K of $testicle❄️ at $4.78M MC 🐳\n\nhttps://t.co/xbrhYOwmuR",
+        "likes": 1,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "rasmr_eth",
+      "text": "14 year old describes how he makes $100k per month on Roblox\n\n“We made a game in 14 hours start to finish, we put $100 into ads, and once it hit the algorithm we sold the game for $250k”\n https://t.co/Zs7qxr0AZZ",
+      "likes": 10955,
+      "retweets": 232,
+      "url": "https://x.com/rasmr_eth/status/2017277680325169619"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1462,
+      "retweets": 221,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "TimSweeneyEpic",
+      "text": "Steam’s rules do explicitly prohibit games from steering players to competing purchase methods, forcing everyone to pay 30% to Valve.\n\nApple and Google did the same until the court explicitly found this practice to be unlawful. Now they don’t!",
+      "likes": 757,
+      "retweets": 31,
+      "url": "https://x.com/TimSweeneyEpic/status/2017028895875195171"
+    },
+    {
+      "author": "elliotrades",
+      "text": "Gonna tell my kids this was One Piece https://t.co/x9KpC3LNho",
+      "likes": 159,
+      "retweets": 3,
+      "url": "https://x.com/elliotrades/status/2017335413321678876"
+    },
+    {
+      "author": "GwartyGwart",
+      "text": "Jamie Dimon apparently livid that they gave up creator coins",
+      "likes": 156,
+      "retweets": 7,
+      "url": "https://x.com/GwartyGwart/status/2017331052390359448"
+    },
+    {
+      "author": "mert",
+      "text": "nice sequence of events for crypto? some cope:\n\ni) metals moved 6x crypto's entire mcap in 24h. yea, we're early\n\nii) gold/silver mooning will amplify how annoying they are to work with at scale\n\niii) hard for suits to use \"crypto too volatile\" as an excuse from here\n\n10,000",
+      "likes": 145,
+      "retweets": 4,
+      "url": "https://x.com/mert/status/2017332165814403396"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "there’s a parallel universe where worldcoin was the best performing token ever",
+      "likes": 144,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2017249158281732511"
+    },
+    {
+      "author": "intro",
+      "text": "Meet Intro, advisors for your business, on-demand.\n\n - Access to 1K+ founders &amp; execs\n - Business advice via 1:1 video calls\n - Businesses are seeing real ROIs\n\nOur experts —&gt; Founder of Reddit ($10B), Founder of Zillow ($12B), Founder of Sweetgreen ($4B) and 1000+ more",
+      "likes": 111,
+      "retweets": 12,
+      "url": "https://x.com/intro/status/1991973580154998943"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "it’s always been crypto we are not wrong just early",
+      "likes": 101,
+      "retweets": 2,
+      "url": "https://x.com/notthreadguy/status/2017332583177011617"
+    }
+  ]
+}

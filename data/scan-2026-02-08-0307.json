@@ -1,0 +1,243 @@
+{
+  "timestamp": "2026-02-08T03:07:46.104Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 3,
+    "bearish": 3,
+    "neutral": 94,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      5
+    ],
+    [
+      "$GP",
+      2
+    ],
+    [
+      "$SHT",
+      2
+    ],
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$BONK",
+      1
+    ],
+    [
+      "$ASTER",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 5
+      },
+      {
+        "ticker": "$GP",
+        "count": 2
+      },
+      {
+        "ticker": "$SHT",
+        "count": 2
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$ASTER",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BONK",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $4.99K of $GP at $19.51M MC 🐳\n\nhttps://t.co/bjLTLs3jop",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $5.05K of $GP at $19.21M MC 🐳\n\nhttps://t.co/lkOas5wiz5",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BONK": [
+      {
+        "author": "iamkadense",
+        "text": "$BONK is undervalued",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$ASTER": [
+      {
+        "author": "sapphycrypto",
+        "text": "Liquidate all shorts on $ASTER",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.08K of $SHT at $558.81K MC 🐳\n\nhttps://t.co/1F3d1TnVJe",
+        "likes": 2,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.9K of $PENGUIN at $21.06M MC 🐳\n\nhttps://t.co/8Nq4YbiGNl",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.91K of $PENGUIN at $21.01M MC 🐳\n\nhttps://t.co/wB8WDU95WV",
+        "likes": 4,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.03K of $SHT at $469.57K MC 🐳\n\nhttps://t.co/renyL6ey9O",
+        "likes": 3,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $14.82K of $Pnut at $49.96M MC 🐳\n\nhttps://t.co/bC18KSoi0b",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.08K of $SHT at $558.81K MC 🐳\n\nhttps://t.co/1F3d1TnVJe",
+        "likes": 2,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.03K of $SHT at $469.57K MC 🐳\n\nhttps://t.co/renyL6ey9O",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.9K of $PENGUIN at $21.06M MC 🐳\n\nhttps://t.co/8Nq4YbiGNl",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.91K of $PENGUIN at $21.01M MC 🐳\n\nhttps://t.co/wB8WDU95WV",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Where do you see $BTC headed next?",
+        "likes": 0,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "EmmanuelMacron",
+      "text": "In France, we believe in science.\n                            \nThat is why, on May 5, I issued a clear and open call to the world: for science, choose France.\n                                                      \nI am very proud to see that this call has resonated so strongly.\n\n",
+      "likes": 7599,
+      "retweets": 1193,
+      "url": "https://x.com/EmmanuelMacron/status/2019137350022955117"
+    },
+    {
+      "author": "mert",
+      "text": "@EmmanuelMacron Meta pays individual AI engineers more than your entire country investment\n\ndelete your account",
+      "likes": 1995,
+      "retweets": 41,
+      "url": "https://x.com/mert/status/2019768989543469421"
+    },
+    {
+      "author": "0xSisyphus",
+      "text": "Clavicular was mid jestergooning when a group of Foids came and spiked his Cortisol levels 😭\n\nIs Ignoring the Foids while munting and mogging Moids more useful then SMV chadfishing in the club?\n\nHyperliquid",
+      "likes": 294,
+      "retweets": 15,
+      "url": "https://x.com/0xSisyphus/status/2020266677984981008"
+    },
+    {
+      "author": "MoonOverlord",
+      "text": "nothing says america like looking at someone's boobs then paying interest on it for 9 months",
+      "likes": 154,
+      "retweets": 10,
+      "url": "https://x.com/MoonOverlord/status/2020268981228314845"
+    },
+    {
+      "author": "frankdegods",
+      "text": "ai hype cycle is cool because there’s periods of hyperprogress when new breakthrough models come out but progress is so exponential that you almost have to spend all day keeping up with the updates\n\nthen when it finally plateaus for a few months, that’s when the really cool stuff",
+      "likes": 134,
+      "retweets": 5,
+      "url": "https://x.com/frankdegods/status/2020309634817364220"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "https://t.co/zHAlVm2jxr",
+      "likes": 132,
+      "retweets": 6,
+      "url": "https://x.com/DipWheeler/status/2020306247648714962"
+    },
+    {
+      "author": "moonpay",
+      "text": "if round tripping generational wealth was an Olympic sport, would you win a gold medal?",
+      "likes": 102,
+      "retweets": 4,
+      "url": "https://x.com/moonpay/status/2020327329034342474"
+    }
+  ]
+}

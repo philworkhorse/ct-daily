@@ -1,0 +1,196 @@
+{
+  "timestamp": "2026-02-10T02:22:42.277Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 3,
+    "bearish": 5,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$GIRAFFES",
+      2
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$BNKR",
+      1
+    ],
+    [
+      "$PERCSDK",
+      1
+    ],
+    [
+      "$MODULAR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$GIRAFFES",
+        "count": 2
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$BNKR",
+        "count": 1
+      },
+      {
+        "ticker": "$PERCSDK",
+        "count": 1
+      },
+      {
+        "ticker": "$MODULAR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5K of $WOJAK at $15.26M MC 🐳\n\nhttps://t.co/0IA9EYMvHA",
+        "likes": 0,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.63K of $GIRAFFES at $250.14K MC 🐳\n\nhttps://t.co/ewUxEfumZg",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5K of $WOJAK at $15.26M MC 🐳\n\nhttps://t.co/0IA9EYMvHA",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $1.5K of $GIRAFFES at $292.1K MC 🐳\n\nhttps://t.co/eEqbqauK9E",
+        "likes": 2,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.63K of $GIRAFFES at $250.14K MC 🐳\n\nhttps://t.co/ewUxEfumZg",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "Well explained.\n\nThe only solution to “a few whales rotating” and “early holders derisking” is distribution.\n\nCoins that survive the distribution phase with high diamond hands go parabolic.\n\n$GIGA htt",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$BNKR": [
+      {
+        "author": "0xuberM",
+        "text": "RT @0xDeployer: @Zeneca to date our fees have gone to operations, $BNKR buy backs, and reward distributions to $BNKR staking. \n\nsoon (tonig…",
+        "likes": 0,
+        "retweets": 31
+      }
+    ],
+    "$PERCSDK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @cryptoduke01 verified earnings for $PERCSDK on @BagsApp 💰\n\nhttps://t.co/28EVep6cx8",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MODULAR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @modular_wallet verified earnings for $MODULAR on @BagsApp 💰\n\nhttps://t.co/yzlm6oXAuj",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TheNBACentel",
+      "text": "Isaiah Stewart RAN from the bench to CHASE BRIDGES 😭😭https://t.co/2HosYMryZR",
+      "likes": 9552,
+      "retweets": 517,
+      "url": "https://x.com/TheNBACentel/status/2021039594557583700"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Duncan Robinson reaction to the fight 😭 https://t.co/9te9n0Ly1f",
+      "likes": 712,
+      "retweets": 32,
+      "url": "https://x.com/TheNBACentel/status/2021041440873382134"
+    },
+    {
+      "author": "Grummz",
+      "text": "Discord has really screwed the pooch. \n\nAssuming everyone is a teen until proven otherwise. And the only way to prove it is to upload your face or ID, which will promptly get hacked and leaked at massive scale.\n\nThe UK/EU wants your ID and is applying huge pressure. It's a censor",
+      "likes": 335,
+      "retweets": 43,
+      "url": "https://x.com/Grummz/status/2021042526564815140"
+    },
+    {
+      "author": "frankdegods",
+      "text": "state of making internet money feb9, 2026:\n\nsocial media is peak efficiency now\n\nyou have to make something EXCELLENT. if you want to break out you have to make something VIRAL within a niche.\n\npick niches with most upside/money\n\nnot all niches are built equal\nie. you could be th",
+      "likes": 137,
+      "retweets": 9,
+      "url": "https://x.com/frankdegods/status/2021038246197612599"
+    },
+    {
+      "author": "frankdegods",
+      "text": "state of making internet money feb9, 2026:\n\nsocial media is peak efficiency now\n\nyou have to make something EXCELLENT. if you want to break out you have to make something VIRAL within a niche.\n\npick niches with most upside/money\n\nnot all niches are built equal\nie. you could be th",
+      "likes": 137,
+      "retweets": 9,
+      "url": "https://x.com/frankdegods/status/2021038246197612599"
+    }
+  ]
+}

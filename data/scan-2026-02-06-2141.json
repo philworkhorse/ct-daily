@@ -1,0 +1,238 @@
+{
+  "timestamp": "2026-02-06T21:41:28.505Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 4,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$AVATAR",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$WASHEDFV",
+      1
+    ],
+    [
+      "$CLAWDE",
+      1
+    ],
+    [
+      "$MOLTNOW",
+      1
+    ],
+    [
+      "$MD",
+      1
+    ],
+    [
+      "$REKTOBER",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$AVATAR",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$WASHEDFV",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWDE",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTNOW",
+        "count": 1
+      },
+      {
+        "ticker": "$MD",
+        "count": 1
+      },
+      {
+        "ticker": "$REKTOBER",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "unemployment": 2,
+      "dollar": 3,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @alexxxx: Wow $BUTTCOIN strength in this current market is remarkable. \n\nThis is THE one. https://t.co/Dk30MfiDuR",
+        "likes": 0,
+        "retweets": 26
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $5.29K of $AVATAR at $531.7K MC 🐳\n\nhttps://t.co/IBsTiKG5vB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AVATAR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $5.29K of $AVATAR at $531.7K MC 🐳\n\nhttps://t.co/IBsTiKG5vB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @R_n_z__ verified earnings for $TROLL on @BagsApp 💰\n\nhttps://t.co/G06UzYzSHm",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WASHEDFV": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Washedfv1 verified earnings for $WASHEDFV on @BagsApp 💰\n\nhttps://t.co/TqbqF5gRT1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWDE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Clawde_ETH verified earnings for $CLAWDE on @BagsApp 💰\n\nhttps://t.co/u44RUSLV4O",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTNOW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Moltnowagent verified earnings for $MOLTNOW on @BagsApp 💰\n\nhttps://t.co/TPbLH1PsZg",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MD": [
+      {
+        "author": "0xtearss",
+        "text": "i am the homunculus\n\n$MD @MarketDomSol https://t.co/SQBsExsNWG",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$REKTOBER": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @PainCrypt0 just bought $1.86K of $REKTOBER at $212.4K MC 🐳\n\nhttps://t.co/4j9eoEPPWP",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "GwartyGwart",
+      "text": "I mean I wouldn’t call it all a “failed experiment” we did create an exchange that makes a cow moo sound when you make a swap which, to my knowledge, did not exist before crypto",
+      "likes": 2279,
+      "retweets": 155,
+      "url": "https://x.com/GwartyGwart/status/2019484675203383366"
+    },
+    {
+      "author": "headquarters68_",
+      "text": "Everyone booed anyway. Sad! https://t.co/Ifquj1w6AO",
+      "likes": 467,
+      "retweets": 81,
+      "url": "https://x.com/headquarters68_/status/2019887360545030494"
+    },
+    {
+      "author": "SexyyRed314_",
+      "text": "Boy don’t do det 👉🏾👈🏾😏 https://t.co/bC8zf8K2ly",
+      "likes": 241,
+      "retweets": 31,
+      "url": "https://x.com/SexyyRed314_/status/2019886393502363837"
+    },
+    {
+      "author": "imperooterxbt",
+      "text": "Just realized everyone is tracking wallets again on fomo app. I’ve said this 100 times but there is zero reason to trade with a doxxed wallet unless it benefits them. Influencers who are using doxxed wallets are either taking insider deals to buy tokens on their wallet or farming",
+      "likes": 158,
+      "retweets": 3,
+      "url": "https://x.com/imperooterxbt/status/2019820469503873439"
+    },
+    {
+      "author": "TradingTerminal",
+      "text": "Welcome, pow! https://t.co/8nFyyd8YWr",
+      "likes": 153,
+      "retweets": 7,
+      "url": "https://x.com/TradingTerminal/status/2019873748657270892"
+    },
+    {
+      "author": "solana",
+      "text": "Actually insane.",
+      "likes": 144,
+      "retweets": 16,
+      "url": "https://x.com/solana/status/2019885810061836545"
+    },
+    {
+      "author": "inversebrah",
+      "text": "who haz more aura?\n\n#poll pls rt :3",
+      "likes": 117,
+      "retweets": 21,
+      "url": "https://x.com/inversebrah/status/2019646051121263108"
+    },
+    {
+      "author": "cwantcg",
+      "text": ".@a1lon9 get rid of creator fees https://t.co/mORDD7qNZj",
+      "likes": 110,
+      "retweets": 3,
+      "url": "https://x.com/cwantcg/status/2019814898646348245"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "timestamp": "2026-01-30T00:14:00.324Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 3,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ELON",
+      8
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$HCC",
+      1
+    ],
+    [
+      "$CHEZI",
+      1
+    ],
+    [
+      "$EVA",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$BAGSCOIN",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ELON",
+        "count": 8
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$HCC",
+        "count": 1
+      },
+      {
+        "ticker": "$CHEZI",
+        "count": 1
+      },
+      {
+        "ticker": "$EVA",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$BAGSCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$ELON": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "The memecoin trenches have not been THIS HOT in SO LONG.\n\nChamath tweets a ticker, $ELON as if that may be signifying the combination of Tesla + SpaceX + xAI under the specualtion of a merger.\n\nDegens",
+        "likes": 58,
+        "retweets": 8
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @deecayz just bought $1.03K of $ELON at $6.73M MC 🐳\n\nhttps://t.co/ifVN8nOHYR",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +297.28%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $7.86M MC. https://t.co/TdusNp49od",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +125.11%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $7.86M MC. https://t.co/yt3cAtJTw1",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.96K of $ELON at $7.44M MC 🐳\n\nhttps://t.co/vUGJEPXnUA",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.78K of $ELON at $7.44M MC 🐳\n\nhttps://t.co/jnNPx6XfXO",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @eyeamfin just bought $4.67K of $ELON at $6.03M MC 🐳\n\nhttps://t.co/alaBSg0hy4",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $11.07K of $ELON at $5.68M MC 🐳\n\nhttps://t.co/kad38eZNUl",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$HCC": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Applestreet504 verified earnings for $HCC on @BagsApp 💰\n\nhttps://t.co/uMpbW5Dpoh",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CHEZI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ImStillChezi verified earnings for $CHEZI on @BagsApp 💰\n\nhttps://t.co/8F23BZlKBq",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EVA": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $EVA with a PnL of +193.49%.\n\n$EVA has been trending on Moby since $451.83K MC. Currently sitting at $2.61M MC. https://t.co/LFeP4Lwc49",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.96K of $ELON at $7.44M MC 🐳\n\nhttps://t.co/vUGJEPXnUA",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.78K of $ELON at $7.44M MC 🐳\n\nhttps://t.co/jnNPx6XfXO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "staxbt",
+        "text": "$TROLL bottom",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$BAGSCOIN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @DividendBots verified earnings for $BAGSCOIN on @BagsApp 💰\n\nhttps://t.co/kgLfTKMUi1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $11.07K of $ELON at $5.68M MC 🐳\n\nhttps://t.co/kad38eZNUl",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "rasmr_eth",
+      "text": "im friends with a Roblox guy who had 4 cars and 7 figs before he even graduated high school\n\nnow he’s partying at ASU (easy hot white girls) and lives in a fucking mansion while having an ai startup on the side",
+      "likes": 165,
+      "retweets": 3,
+      "url": "https://x.com/rasmr_eth/status/2016954596158308618"
+    },
+    {
+      "author": "thiccyth0t",
+      "text": "we will never be a return to touching grass just as we will never return to using the horse and buggy \n\nanybody that tries to fight this tide will inevitably be selected out \n\ncivilization will continue to be more terminally online",
+      "likes": 120,
+      "retweets": 6,
+      "url": "https://x.com/thiccyth0t/status/2017005991527662020"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "The tax fix is so obvious. Instead of taxing unrealized PnL just double the margin loan rate. Take whatever rate the bank issues (typically SOFR + 3%) and then double it, and the rest of it goes to the government. Taxing unrealized gains is the stupidest idea ever.",
+      "likes": 100,
+      "retweets": 1,
+      "url": "https://x.com/ThinkingUSD/status/2017010225706918254"
+    }
+  ]
+}

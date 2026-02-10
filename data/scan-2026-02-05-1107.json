@@ -1,0 +1,185 @@
+{
+  "timestamp": "2026-02-05T11:07:57.884Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 6,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SOL",
+      2
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$MANGAMURA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$MANGAMURA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 2
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "gold": 2
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$SOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SOL with a PnL of +205.32%.\n\n$SOL has been trending on Moby since $124.53K MC. Currently sitting at $495.35K MC. https://t.co/Z0z2xK6v6",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.34K of $SOL at $304.91K MC 🐳\n\nhttps://t.co/jxEdoEMs2f",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.34K of $SOL at $304.91K MC 🐳\n\nhttps://t.co/jxEdoEMs2f",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.06K of $BigTrout at $3.21M MC 🐳\n\nhttps://t.co/TOs9oBms4b",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "MitaoCatCS",
+        "text": "I never expected such a drawdown. With the heavy FUD and capitulation we're seeing, my initial call for a $80k bottom was clearly off.💔\n\nBut stay strong—we are nearing the floor. 2025 was a brutal be",
+        "likes": 39,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "MitaoCatCS",
+        "text": "I never expected such a drawdown. With the heavy FUD and capitulation we're seeing, my initial call for a $80k bottom was clearly off.💔\n\nBut stay strong—we are nearing the floor. 2025 was a brutal be",
+        "likes": 39,
+        "retweets": 0
+      }
+    ],
+    "$MANGAMURA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @rami_hoshino verified earnings for $MANGAMURA on @BagsApp 💰\n\nhttps://t.co/dtH0jzKCe5",
+        "likes": 5,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "vydamo_",
+      "text": "Beaver winning the $1m article prize by elaborately shilling his coin is incredibly based lmfao",
+      "likes": 471,
+      "retweets": 9,
+      "url": "https://x.com/vydamo_/status/2018821505845698677"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "My birthday is next week and all I wish for is BTC to go back to my entry",
+      "likes": 328,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2019324064511516766"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "☹️",
+      "likes": 239,
+      "retweets": 5,
+      "url": "https://x.com/intocryptoverse/status/2019363874366017736"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "I held a daily coordination call to assess the situation in the energy sector and throughout Ukraine's regions. Over the course of the night, the Russians deployed 183 attack drones against our state, approximately 110 of which were \"Shaheds.\" A significant number were shot down.",
+      "likes": 238,
+      "retweets": 61,
+      "url": "https://x.com/ZelenskyyUa/status/2019364698487988721"
+    },
+    {
+      "author": "gainzy222",
+      "text": "bro it’s been literally 8+ years of this shit\n\ncz replying to absolute bottom of the barrel retards writing drivel and the rest of us pretending this is somehow normal https://t.co/H9RthmtDvP",
+      "likes": 206,
+      "retweets": 10,
+      "url": "https://x.com/gainzy222/status/2019337621600890911"
+    },
+    {
+      "author": "SolidTradesz",
+      "text": "Every reset builds stronger hands",
+      "likes": 156,
+      "retweets": 6,
+      "url": "https://x.com/SolidTradesz/status/2019361211960422594"
+    }
+  ]
+}

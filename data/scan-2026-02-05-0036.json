@@ -1,0 +1,197 @@
+{
+  "timestamp": "2026-02-05T00:36:16.654Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 19,
+    "bearish": 8,
+    "neutral": 73,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CBBTC",
+      2
+    ],
+    [
+      "$HYPE",
+      2
+    ],
+    [
+      "$TWR",
+      1
+    ],
+    [
+      "$MM",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$GLD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CBBTC",
+        "count": 2
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 2
+      },
+      {
+        "ticker": "$TWR",
+        "count": 1
+      },
+      {
+        "ticker": "$MM",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$GLD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 4
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 2,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$TWR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Monad1444 verified earnings for $TWR on @BagsApp 💰\n\nhttps://t.co/DIAUiga16d",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MM": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0GAntD just bought $2.36K of $MM at $267.46K MC 🐳\n\nhttps://t.co/oYWCTC5VU8",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $14.54K of $HYPE at $11.91M MC 🐳\n\nhttps://t.co/PzFZZoQwXr",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $14.52K of $HYPE at $11.88M MC 🐳\n\nhttps://t.co/WhnDaM5F92",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $14.54K of $HYPE at $11.91M MC 🐳\n\nhttps://t.co/PzFZZoQwXr",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $14.52K of $HYPE at $11.88M MC 🐳\n\nhttps://t.co/WhnDaM5F92",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $45.56K of $GLDx at $17.63M MC 🐳\n\nhttps://t.co/wrdDSYm3kR",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GLD": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $45.56K of $GLDx at $17.63M MC 🐳\n\nhttps://t.co/wrdDSYm3kR",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "DipWheeler",
+      "text": "Generational bottom. https://t.co/eXyovVOgAE",
+      "likes": 15094,
+      "retweets": 211,
+      "url": "https://x.com/DipWheeler/status/2019074182022045832"
+    },
+    {
+      "author": "karpathy",
+      "text": "Anyone else approved for a loan every single day 20 times or so? Overcome with joy, really https://t.co/zInPQDur5h",
+      "likes": 283,
+      "retweets": 6,
+      "url": "https://x.com/karpathy/status/2019203959404347851"
+    },
+    {
+      "author": "moonpay",
+      "text": "LMAO @Gemini is on the hook for $20,000 on the toilet 🫵😹 https://t.co/MATywM6CPL",
+      "likes": 214,
+      "retweets": 31,
+      "url": "https://x.com/moonpay/status/2019200652292039116"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "Tempting to think a local bottom is close,  but:\n\n-There are still 200 DATs w no viable biz model, all under mNAV\n-overhang from quantum shaking investors\n-2 largest ETH whales still have a lot of spot to sell\n\nWork through that and we can talk about rebuilding in q4\n\nGL, Sahara ",
+      "likes": 154,
+      "retweets": 3,
+      "url": "https://x.com/Evan_ss6/status/2019183182747238654"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "what is the best vehicle  to long x402",
+      "likes": 135,
+      "retweets": 9,
+      "url": "https://x.com/notthreadguy/status/2019136894999883884"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "https://t.co/Q2usXVdVAp",
+      "likes": 109,
+      "retweets": 2,
+      "url": "https://x.com/Tradermayne/status/2019186720164733348"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Five years of buying Bitcoin.\n\n-$2.2 Billion\n\nPain.",
+      "likes": 106,
+      "retweets": 10,
+      "url": "https://x.com/CryptoKaleo/status/2019195692158448060"
+    }
+  ]
+}

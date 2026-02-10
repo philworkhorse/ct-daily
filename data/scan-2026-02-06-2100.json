@@ -1,0 +1,230 @@
+{
+  "timestamp": "2026-02-06T21:00:38.268Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 19,
+    "bearish": 9,
+    "neutral": 72,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$LINK",
+      1
+    ],
+    [
+      "$ZERA",
+      1
+    ],
+    [
+      "$BLOXX",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$ZERA",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOXX",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$LINK",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @jaymesrogers: New day, different $REKT 🟣 https://t.co/LFxa0ZqsuE",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "Bluntz_Capital",
+        "text": "believe is something, anybody who's not a tourist and has actually witnessed multiple cycles knows this is an amazing long term $sol entry.\n\n for the record the reason im bullposting sol more than any",
+        "likes": 22,
+        "retweets": 3
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $108.46K of $hyUSD at $19.27M MC 🐳\n\nhttps://t.co/kRRXzYgWi0",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$LINK": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Yes, $LINK is another alt that I should have covered in my recent video update- looks fantastic, and is in the basket of alts that looks to be forming a macro, HTF bottom, with fantastic R/R for spot ",
+        "likes": 44,
+        "retweets": 2
+      }
+    ],
+    "$ZERA": [
+      {
+        "author": "Fitzybrypto",
+        "text": "RT @littlemustacho: this dude @Fitzybrypto told me to ape :\n\n1. #griffain at 1m and it went to 650m\n\n2. $ZERA at 800k and it went 40m\n\n3. $…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$BLOXX": [
+      {
+        "author": "BloxApi",
+        "text": "$BLOXX | BloxAPI Revenue Model @Pumpfun #BuildInPublic Hackathon https://t.co/ZBkq7LD0xc",
+        "likes": 9,
+        "retweets": 3
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $8.85K of $BigTrout at $5.77M MC 🐳\n\nhttps://t.co/adUPwYdlIc",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.53K of $BigTrout at $5.77M MC 🐳\n\nhttps://t.co/MpEl8rnlLD",
+        "likes": 5,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "CryptoKaleo",
+      "text": "$70K Bitcoin yesterday vs. $70K Bitcoin today. https://t.co/4wZFGEBGM5",
+      "likes": 3057,
+      "retweets": 114,
+      "url": "https://x.com/CryptoKaleo/status/2019811812527796610"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "Hey all. I'm proud to announce that I've partnered with @krakenpro to bring you guys livestreams, education, charts, n more. \n\nI’ve waited years for a highly reputable company to support me in creating content the way I always have. A big thank you to them, show Kraken some love!",
+      "likes": 595,
+      "retweets": 6,
+      "url": "https://x.com/Crypto_Chase/status/2019816782861856833"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Watch Bitcoin V straight back up to $100K within a couple weeks of everyone in the world grave dancing on it.",
+      "likes": 348,
+      "retweets": 6,
+      "url": "https://x.com/CryptoKaleo/status/2019860682095620428"
+    },
+    {
+      "author": "traderpow",
+      "text": "I am pleased to announce that I am now partnered up with @TradingTerminal! They recently got acquired by @Pumpfun and I believe their mission aligns with mine in which their mission is to be the top of all categories via on-chain and more down the line.\n\nTrading terminals have be",
+      "likes": 236,
+      "retweets": 7,
+      "url": "https://x.com/traderpow/status/2019872757014790503"
+    },
+    {
+      "author": "traderpow",
+      "text": "I am pleased to announce that I am now partnered up with @TradingTerminal! They recently got acquired by @Pumpfun and I believe their mission aligns with mine in which their mission is to be the top of all categories via on-chain and more down the line.\n\nTrading terminals have be",
+      "likes": 236,
+      "retweets": 7,
+      "url": "https://x.com/traderpow/status/2019872757014790503"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Our negotiating team is returning to Ukraine today, late in the evening. Tomorrow, they will report on the sensitive aspects of the negotiations in Abu Dhabi that cannot be discussed over the phone.\n\nWe are preparing for the next meetings — trilateral ones. https://t.co/dNtjTehDg",
+      "likes": 215,
+      "retweets": 39,
+      "url": "https://x.com/ZelenskyyUa/status/2019876701581484243"
+    },
+    {
+      "author": "rektmando",
+      "text": "closed half here - think we going to $72k https://t.co/KTN0bJTJO6",
+      "likes": 193,
+      "retweets": 2,
+      "url": "https://x.com/rektmando/status/2019810597794435567"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "lmao",
+      "likes": 116,
+      "retweets": 0,
+      "url": "https://x.com/blknoiz06/status/2019860244281848013"
+    },
+    {
+      "author": "a1lon9",
+      "text": "@traderpow @TradingTerminal @Pumpfun welcome to the winner’s terminal!",
+      "likes": 112,
+      "retweets": 1,
+      "url": "https://x.com/a1lon9/status/2019875924003680716"
+    },
+    {
+      "author": "a1lon9",
+      "text": "@traderpow @TradingTerminal @Pumpfun welcome to the winner’s terminal!",
+      "likes": 111,
+      "retweets": 1,
+      "url": "https://x.com/a1lon9/status/2019875924003680716"
+    }
+  ]
+}

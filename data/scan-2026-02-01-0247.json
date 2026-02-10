@@ -1,0 +1,225 @@
+{
+  "timestamp": "2026-02-01T02:47:03.143Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 7,
+    "neutral": 78,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$MOLTPET",
+      1
+    ],
+    [
+      "$LMAO",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$FLUFY",
+      1
+    ],
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$WAR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTPET",
+        "count": 1
+      },
+      {
+        "ticker": "$LMAO",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$FLUFY",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WAR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 3,
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$HYPE": [
+      {
+        "author": "ThinkingUSD",
+        "text": "RT @WClementeIII: Finally bought some $HYPE on this pullback",
+        "likes": 0,
+        "retweets": 11
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @PumpfunEco: $COPPERINU has pumped 124% today! 🔥 https://t.co/eFGzpfq0PP",
+        "likes": 0,
+        "retweets": 21
+      }
+    ],
+    "$MOLTPET": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @MoltPet verified earnings for $MOLTPET on @BagsApp 💰\n\nhttps://t.co/CDHVExafnt",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "as soon as you see decent buys like this move the MC without as much blockage (meteora supression, pools, price manipulation), the sooner you see that we only have the dumbest people on earth left hol",
+        "likes": 12,
+        "retweets": 2
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.07K of $Epstein at $2.41M MC 🐳\n\nhttps://t.co/8KYkOxJYDD",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FLUFY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @FlufyBots verified earnings for $FLUFY on @BagsApp 💰\n\nhttps://t.co/NX2ghnwh4C",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CLAWD": [
+      {
+        "author": "alpinestar17",
+        "text": "RT @chironchain: this is really cool. $CLAWD built an agent-to-agent job marketplace that incorporates ERC-8004 for identity and x402 for p…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.56K of $WAR at $16.02M MC 🐳\n\nhttps://t.co/j4qsHvxD6f",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WAR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.56K of $WAR at $16.02M MC 🐳\n\nhttps://t.co/j4qsHvxD6f",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "getdelve",
+      "text": "AI agents just closed a SOC 2 audit in 19 days that should have taken months.",
+      "likes": 6330,
+      "retweets": 904,
+      "url": "https://x.com/getdelve/status/1927236340699033687"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1574,
+      "retweets": 230,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 257,
+      "retweets": 24,
+      "url": "https://x.com/Ledger/status/2010719908032877041"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "CZ with everyone's portfolio. https://t.co/QJhPjHbtq2",
+      "likes": 127,
+      "retweets": 5,
+      "url": "https://x.com/DipWheeler/status/2017771839129276783"
+    },
+    {
+      "author": "icobeast",
+      "text": "Always been an ETH guy but it’s getting increasingly difficult to have that as my largest position when you look at HYPE",
+      "likes": 106,
+      "retweets": 2,
+      "url": "https://x.com/icobeast/status/2017713416605941930"
+    },
+    {
+      "author": "icobeast",
+      "text": "Always been an ETH guy but it’s getting increasingly difficult to have that as my largest position when you look at HYPE",
+      "likes": 106,
+      "retweets": 2,
+      "url": "https://x.com/icobeast/status/2017713416605941930"
+    }
+  ]
+}

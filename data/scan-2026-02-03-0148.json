@@ -1,0 +1,258 @@
+{
+  "timestamp": "2026-02-03T01:48:23.743Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 3,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      4
+    ],
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$KRUGER",
+      1
+    ],
+    [
+      "$USD",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$TWIN",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$ELON",
+      1
+    ],
+    [
+      "$LMAO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$KRUGER",
+        "count": 1
+      },
+      {
+        "ticker": "$USD",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$TWIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$ELON",
+        "count": 1
+      },
+      {
+        "ticker": "$LMAO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 4
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "copper": 1,
+      "gold": 1
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 2,
+      "fed": 3
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @TBC_on_X: JUST IN: $BUTTCOIN soars to new ATH as the community aims to flip $BTC. https://t.co/vUhqdiCoNw",
+        "likes": 0,
+        "retweets": 42
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @TBC_on_X: JUST IN: $BUTTCOIN soars to new ATH as the community aims to flip $BTC. https://t.co/vUhqdiCoNw",
+        "likes": 0,
+        "retweets": 42
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "miragemunny",
+        "text": "RT @TBC_on_X: JUST IN: $BUTTCOIN soars to new ATH as the community aims to flip $BTC. https://t.co/vUhqdiCoNw",
+        "likes": 0,
+        "retweets": 42
+      },
+      {
+        "author": "based16z",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 182
+      },
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in United States #Dollars\n\n$BTC / $USD:     💵  $78,643.25 https://t.co/oAAskv9zvT",
+        "likes": 41,
+        "retweets": 7
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @TBC_on_X: JUST IN: $BUTTCOIN soars to new ATH as the community aims to flip $BTC. https://t.co/vUhqdiCoNw",
+        "likes": 0,
+        "retweets": 42
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "based16z",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 182
+      }
+    ],
+    "$KRUGER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @LatestKruger verified earnings for $KRUGER on @BagsApp 💰\n\nhttps://t.co/8SPYdIEmbu",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USD": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in United States #Dollars\n\n$BTC / $USD:     💵  $78,643.25 https://t.co/oAAskv9zvT",
+        "likes": 41,
+        "retweets": 7
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "CookerFlips",
+        "text": "You're waiting for $HYPE to hit $20 to bid?\n\nYou had your chance twice already buddy",
+        "likes": 11,
+        "retweets": 0
+      }
+    ],
+    "$TWIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @7spyzer just bought $1.2K of $TWIN at $219.93K MC 🐳\n\nhttps://t.co/eMNGgPd72U",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $2.08K of $ELON at $377.15K MC 🐳\n\nhttps://t.co/c4QCckxBdQ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $2.08K of $ELON at $377.15K MC 🐳\n\nhttps://t.co/c4QCckxBdQ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "i create opportunities for people to make a lot of money.\n\ni lose a lot of money in things i do. sometimes i dont.\n\ni dont know. my intentions are always wholesome and good when it comes to my long te",
+        "likes": 15,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/VMbM5XFxne",
+      "likes": 407,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2018457237145145385"
+    },
+    {
+      "author": "shaundadevens",
+      "text": "Impressive weekend price action for SILVER on Hyperliquid\n\nThe exchange ran continuous silver price discovery while COMEX was closed: 175k trades, $257M notional over 48hrs.\n\nAt Sunday's reopen, COMEX uncrossed at $84.4(+69bps vs HL's $83.8) reverting $83.98 within 1 second. http",
+      "likes": 138,
+      "retweets": 9,
+      "url": "https://x.com/shaundadevens/status/2018410276974924004"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "Next X Article drops tomorrow called \"Study: Lessons from PnL &amp; Tuition\" reflecting on the most important trading lessons I've learned through experience\n\nHope you read and like it",
+      "likes": 107,
+      "retweets": 0,
+      "url": "https://x.com/Evan_ss6/status/2018133777889841315"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "https://t.co/mvmIE7vATR",
+      "likes": 102,
+      "retweets": 5,
+      "url": "https://x.com/Tradermayne/status/2018489583114109208"
+    }
+  ]
+}

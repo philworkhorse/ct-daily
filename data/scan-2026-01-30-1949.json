@@ -1,0 +1,244 @@
+{
+  "timestamp": "2026-01-30T19:49:32.341Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 3,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$TOKABU",
+      1
+    ],
+    [
+      "$KLED",
+      1
+    ],
+    [
+      "$AISI",
+      1
+    ],
+    [
+      "$HOUSE",
+      1
+    ],
+    [
+      "$SPSC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 1
+      },
+      {
+        "ticker": "$KLED",
+        "count": 1
+      },
+      {
+        "ticker": "$AISI",
+        "count": 1
+      },
+      {
+        "ticker": "$HOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$SPSC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "silver": 9,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 3,
+      "silver": 9,
+      "precious metals": 1
+    },
+    "macro": {
+      "fed": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @rektguy: $REKT Daily Art\n\ndoj files federal charges against man accused of attackin...\n\nListed for 0.01 ETH. Proceeds used to buy and b…",
+        "likes": 0,
+        "retweets": 7
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "CryptoKaleo",
+        "text": "#Bitcoin / $BTC\n\nFinally completed retest of the base of the range and the retest of the trendline breakout we've been looking for.\n\nTime to run it back turbo and get revenge on the boomers. https://t",
+        "likes": 134,
+        "retweets": 2
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "CryptoKaleo",
+        "text": "#Ethereum / $ETH\n\nSolid bounce for ETH off the base of the range and HTF support we've been waiting to retest.\n\nThe green box is for bidding. https://t.co/lj855W3Yai",
+        "likes": 87,
+        "retweets": 6
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $9.85K of $KLED at $21.29M MC 🐳\n\nhttps://t.co/ziurVfbrXQ",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$KLED": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $9.85K of $KLED at $21.29M MC 🐳\n\nhttps://t.co/ziurVfbrXQ",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$AISI": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $AISI with a PnL of +82.17%.\n\n$AISI has been trending on Moby since $66.21K MC. Currently sitting at $725.04K MC. https://t.co/UbpipMTVL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $HOUSE whale just bought $6.1K of $SPSC at $2.62M MC 🐳\n\nhttps://t.co/NHjQlN1bZ5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SPSC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $HOUSE whale just bought $6.1K of $SPSC at $2.62M MC 🐳\n\nhttps://t.co/NHjQlN1bZ5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "pepsi",
+      "text": "Challenge over, winner decided: The choice is PEPSI https://t.co/RrcOKUTjoc",
+      "likes": 121664,
+      "retweets": 12767,
+      "url": "https://x.com/pepsi/status/2016889076008571307"
+    },
+    {
+      "author": "karpathy",
+      "text": "What's currently going on at @moltbook is genuinely the most incredible sci-fi takeoff-adjacent thing I have seen recently. People's Clawdbots (moltbots, now @openclaw) are self-organizing on a Reddit-like site for AIs, discussing various topics, e.g. even how to speak privately.",
+      "likes": 4026,
+      "retweets": 561,
+      "url": "https://x.com/karpathy/status/2017296988589723767"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1457,
+      "retweets": 220,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "metals top crypto bottom pls pls pls pls pls pls pls pls pls pls pls pls pls pls",
+      "likes": 761,
+      "retweets": 35,
+      "url": "https://x.com/blknoiz06/status/2017312460097642983"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "metals top crypto bottom pls pls pls pls pls pls pls pls pls pls pls pls pls pls",
+      "likes": 760,
+      "retweets": 35,
+      "url": "https://x.com/blknoiz06/status/2017312460097642983"
+    },
+    {
+      "author": "0xSammy",
+      "text": "‘Reddit’ for AI Agents, written by AI Agents\n\nAI is seeking ethical guidelines for interactions with its humans\n\nThis is getting more dystopian by the day",
+      "likes": 494,
+      "retweets": 36,
+      "url": "https://x.com/0xSammy/status/2017179033042096489"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Everyone will rotate to Bitcoin after seeing how everything in the world is a big fat ponzi, including shiny rocks, that can ALL rug to zero in a heartbeat.\n\nIf you're meant to be someone who's risk-averse and wants to stay away from extreme volatility,\n\nYou often resort to simpl",
+      "likes": 425,
+      "retweets": 41,
+      "url": "https://x.com/trading_axe/status/2017312811995615232"
+    },
+    {
+      "author": "trading_axe",
+      "text": "I don't think you guys truly understand how many people got fucking obliterated today lmfao.\n\nSilver nuking damn near -40% is beyond ridiculous, \n\nWe're used to seeing shitcoins swing insane amounts up and down, so it means nothing to us.\n\nBut imagine BOOMERS.\n\nTHINK for a second",
+      "likes": 407,
+      "retweets": 31,
+      "url": "https://x.com/trading_axe/status/2017317423460827544"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "is this a real chart",
+      "likes": 357,
+      "retweets": 7,
+      "url": "https://x.com/blknoiz06/status/2017312265981120916"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Longed some coins can use that bottom around 80-81k as a pivot point based on global market resetting with some great fear there",
+      "likes": 225,
+      "retweets": 6,
+      "url": "https://x.com/lBattleRhino/status/2017312644923785301"
+    }
+  ]
+}

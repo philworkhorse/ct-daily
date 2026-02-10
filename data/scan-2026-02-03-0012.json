@@ -1,0 +1,185 @@
+{
+  "timestamp": "2026-02-03T00:12:20.370Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 1,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ELON",
+      2
+    ],
+    [
+      "$TOKABU",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ELON",
+        "count": 2
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "silver": 3,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 3,
+      "silver": 3
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0GAntD just bought $1.96K of $ELON at $314.79K MC 🐳\n\nhttps://t.co/fGN7NiDNkh",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.04K of $ELON at $117.29K MC 🐳\n\nhttps://t.co/gEKYu5DuFc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $3.31K of $Goyim at $1.5M MC 🐳\n\nhttps://t.co/TjbnIHC5zp",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "_Shadow36",
+        "text": "Every fucking monday.\n\nAlso saw that @gigachad is teasing energy drinks too.\n\nSo thats:\n\n1.) fitness apparel \n\n2.) supplements\n\n3.) energy drinks?\n\nAnd you can invest in one of the greatest memes of a",
+        "likes": 16,
+        "retweets": 2
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.04K of $ELON at $117.29K MC 🐳\n\nhttps://t.co/gEKYu5DuFc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "watchingmarkets",
+        "text": "$BUTTCOIN\n- Expansion leg from 5m to 30m, clean flagging structure \n- Also on LTF, price is consolidating in a bull flag/tight range, probably continuation rather than distribution.\n- As long as it ho",
+        "likes": 152,
+        "retweets": 16
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "watchingmarkets",
+        "text": "$BUTTCOIN\n- Expansion leg from 5m to 30m, clean flagging structure \n- Also on LTF, price is consolidating in a bull flag/tight range, probably continuation rather than distribution.\n- As long as it ho",
+        "likes": 152,
+        "retweets": 16
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Evan_ss6",
+      "text": "Study: Lessons from PnL & Tuition",
+      "likes": 205,
+      "retweets": 23,
+      "url": "https://x.com/Evan_ss6/status/2018362394209054886"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Prediction: Prediction market companies are some of the most overvalued companies in Crypto today. Investors in the previous rounds (Polymarket $10B, Kalshi $11B) will lose shocking amounts of money.",
+      "likes": 168,
+      "retweets": 6,
+      "url": "https://x.com/ThinkingUSD/status/2018466692075323732"
+    },
+    {
+      "author": "CryptoParadyme",
+      "text": "friend's dad https://t.co/TcD0szM7zu",
+      "likes": 154,
+      "retweets": 3,
+      "url": "https://x.com/CryptoParadyme/status/2018445091552338210"
+    },
+    {
+      "author": "watchingmarkets",
+      "text": "$BUTTCOIN\n- Expansion leg from 5m to 30m, clean flagging structure \n- Also on LTF, price is consolidating in a bull flag/tight range, probably continuation rather than distribution.\n- As long as it holds above the flag base, path of least resistance, butt it higher.\n\n$WOJAK\n-  St",
+      "likes": 152,
+      "retweets": 16,
+      "url": "https://x.com/watchingmarkets/status/2018264118189240519"
+    },
+    {
+      "author": "ColdBloodShill",
+      "text": "Best buying opportunity of 2026.\n\nAside from trading cards.",
+      "likes": 110,
+      "retweets": 3,
+      "url": "https://x.com/ColdBloodShill/status/2018459629358031076"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "A lot of people keep quote tweeting this saying that I said to pivot to metals.\n\nNo where did I say that.\n\nI have warned that we were heading for a blow-off top for metals.\n\nAdditionally, since I said to pivot out of alts they have *only* dropped since then.\n\nThen, on Jan. 28th, ",
+      "likes": 102,
+      "retweets": 2,
+      "url": "https://x.com/intocryptoverse/status/2018472469795934295"
+    }
+  ]
+}

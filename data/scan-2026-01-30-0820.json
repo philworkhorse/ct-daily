@@ -1,0 +1,302 @@
+{
+  "timestamp": "2026-01-30T08:20:37.251Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 1,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CRUST",
+      4
+    ],
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$INX",
+      2
+    ],
+    [
+      "$OPENCLAW",
+      2
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ],
+    [
+      "$JOB",
+      1
+    ],
+    [
+      "$DECLAN",
+      1
+    ],
+    [
+      "$CLAWBOI",
+      1
+    ],
+    [
+      "$META",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CRUST",
+        "count": 4
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$INX",
+        "count": 2
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 2
+      },
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      },
+      {
+        "ticker": "$JOB",
+        "count": 1
+      },
+      {
+        "ticker": "$DECLAN",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWBOI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "gold": 1
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 1
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$INX": [
+      {
+        "author": "waleswoosh",
+        "text": "Looks like a fake @bandosei screenshot, but it’s real.\n\nInfinex Patrons are down to 0.08 ETH after the $INX distribution snapshot.\n\nA few people had bids open that got filled, paying 0.6+ ETH for what",
+        "likes": 124,
+        "retweets": 3
+      },
+      {
+        "author": "waleswoosh",
+        "text": "Infinex TGE today and barely anyone on my timeline is talking about it.\n\nPolymarket now puts the odds of $INX trading above $300M USD at just 25%.\n\nA few weeks ago, people were calling everyone stupid",
+        "likes": 200,
+        "retweets": 6
+      }
+    ],
+    "$CRUST": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @wenmoonsolana_ just bought $1.92K of $CRUST at $2.31M MC 🐳\n\nhttps://t.co/EgTB3TILoC",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $1.17K of $CRUST at $2.39M MC 🐳\n\nhttps://t.co/8yven60rI2",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.71K of $CRUST at $2.24M MC 🐳\n\nhttps://t.co/NgY2YcKhkl",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.49K of $CRUST at $3.13M MC 🐳\n\nhttps://t.co/dIDuNElrNg",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "CredibleCrypto",
+        "text": "“Today, we’re taking another step forward:\nBinance will convert the SAFU fund’s ~$1B stablecoin reserves into BTC with the process completing within the next 30 days.”\n\nBinance just publicly announced",
+        "likes": 41,
+        "retweets": 1
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $1.17K of $CRUST at $2.39M MC 🐳\n\nhttps://t.co/8yven60rI2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JOB": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @tetsuoarena verified earnings for $JOB on @BagsApp 💰\n\nhttps://t.co/kMjF3sqhRj",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$DECLAN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @DeclanCrypt verified earnings for $DECLAN on @BagsApp 💰\n\nhttps://t.co/OGbJKzofWU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWBOI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @j_doohen verified earnings for $CLAWBOI on @BagsApp 💰\n\nhttps://t.co/edaztrD2ld",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.71K of $CRUST at $2.24M MC 🐳\n\nhttps://t.co/NgY2YcKhkl",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.12K of $OPENCLAW at $2.74M MC 🐳\n\nhttps://t.co/TnvC3XgUMW",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.49K of $CRUST at $3.13M MC 🐳\n\nhttps://t.co/dIDuNElrNg",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +211.31%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $2.74M MC. https://t.co/x",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.12K of $OPENCLAW at $2.74M MC 🐳\n\nhttps://t.co/TnvC3XgUMW",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $14.77K of $META at $123.17M MC 🐳\n\nhttps://t.co/FrmEydTyBe",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Dexerto",
+      "text": "Lore-accurate Chewbacca player goes wild after Luke Skywalker dies in front of him\n\n🎥: u/Jls-BeenCheezin https://t.co/nFN274t4js",
+      "likes": 8051,
+      "retweets": 344,
+      "url": "https://x.com/Dexerto/status/2016753176876126575"
+    },
+    {
+      "author": "Envy",
+      "text": "What can you even do to stop @canezerra? https://t.co/tHj7ngVIib",
+      "likes": 2664,
+      "retweets": 43,
+      "url": "https://x.com/Envy/status/2016624295607230759"
+    },
+    {
+      "author": "SBF_FTX",
+      "text": "1) Why I became a Republican in 2022. https://t.co/otNVWmzvya",
+      "likes": 665,
+      "retweets": 50,
+      "url": "https://x.com/SBF_FTX/status/2017034165879751079"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "buying sub 80 bitcoin in april didn’t feel as scary as sub 80 right now",
+      "likes": 325,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2017062687121776657"
+    },
+    {
+      "author": "frankdegods",
+      "text": "ai bros and crypto bros are both D1 at hating their own industry",
+      "likes": 245,
+      "retweets": 5,
+      "url": "https://x.com/frankdegods/status/2015552783533945065"
+    },
+    {
+      "author": "frankdegods",
+      "text": "ai bros and crypto bros are both D1 at hating their own industry",
+      "likes": 245,
+      "retweets": 5,
+      "url": "https://x.com/frankdegods/status/2015552783533945065"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Infinex TGE today and barely anyone on my timeline is talking about it.\n\nPolymarket now puts the odds of $INX trading above $300M USD at just 25%.\n\nA few weeks ago, people were calling everyone stupid for not participating in the presale round at a $300M FDV with a 12-month locku",
+      "likes": 200,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2017122457782722861"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Looks like a fake @bandosei screenshot, but it’s real.\n\nInfinex Patrons are down to 0.08 ETH after the $INX distribution snapshot.\n\nA few people had bids open that got filled, paying 0.6+ ETH for what is now a worthless Patron.\n\nThanks for playing https://t.co/na4Iz1RtQQ",
+      "likes": 124,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2017142569373966682"
+    }
+  ]
+}

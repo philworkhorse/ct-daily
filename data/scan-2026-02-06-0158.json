@@ -1,0 +1,194 @@
+{
+  "timestamp": "2026-02-06T01:58:58.165Z",
+  "stats": {
+    "listTweets": 0,
+    "followingTweets": 50,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 2,
+    "neutral": 43,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$HOSICO",
+      1
+    ],
+    [
+      "$SURGE",
+      1
+    ],
+    [
+      "$DEXTER",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ],
+    [
+      "$TYLERFOUST",
+      1
+    ],
+    [
+      "$LMAO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HOSICO",
+        "count": 1
+      },
+      {
+        "ticker": "$SURGE",
+        "count": 1
+      },
+      {
+        "ticker": "$DEXTER",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      },
+      {
+        "ticker": "$TYLERFOUST",
+        "count": 1
+      },
+      {
+        "ticker": "$LMAO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$HOSICO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $HOSICO whale just bought $3.01K of $SURGE at $18.36M MC 🐳\n\nhttps://t.co/0JHdwwKMTc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SURGE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $HOSICO whale just bought $3.01K of $SURGE at $18.36M MC 🐳\n\nhttps://t.co/0JHdwwKMTc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "RT @astronomer_zero: $BTC\n\n63k, midpoint htf POI and silver pocket hit.\n\nDo we get our bounce and form a range?\n\nI don't believe in hope th…",
+        "likes": 0,
+        "retweets": 16
+      },
+      {
+        "author": "inversebrah",
+        "text": "RT @inmortalcrypto: After 840 days, we are at 200 MA again\n\n$BTC https://t.co/NzLOxM5u1y",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$DEXTER": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @nosanityxbt just bought $3.08K of $DEXTER at $1.48M MC 🐳\n\nhttps://t.co/tsThQPwyJ6",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $5.03K of $BELIEVE at $1.78M MC 🐳\n\nhttps://t.co/fhWOcT11xt",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $5.03K of $BELIEVE at $1.78M MC 🐳\n\nhttps://t.co/fhWOcT11xt",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TYLERFOUST": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @TylerFoust13 verified earnings for $TYLERFOUST on @BagsApp 💰\n\nhttps://t.co/nWz9mfFevS",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "if you ignore the massive dump from frogs 16% bundle on the first run up, $LMAO is poised to be one of the best looking charts (so long as it finally goes up one day).\n\njust draw the A already. https:",
+        "likes": 9,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "a1lon9",
+      "text": "Despite market conditions, we’re expanding our team rapidly and aggressively.\n\n@_relational , @whythebrixxx & @scardi have proven that they have an outstanding understanding and passion for the onchain trading space over the past few years.\n\nSupporting our existing team with thei",
+      "likes": 511,
+      "retweets": 21,
+      "url": "https://x.com/a1lon9/status/2019531898356404711"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Longing some btc and eth",
+      "likes": 240,
+      "retweets": 7,
+      "url": "https://x.com/lBattleRhino/status/2019566087751496151"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "One common pattern in midterm years for #BTC is that we see a lot of weakness going into early February, followed by strength into March. Then weakness again going into April/May.",
+      "likes": 235,
+      "retweets": 14,
+      "url": "https://x.com/intocryptoverse/status/2019589403966865615"
+    }
+  ]
+}

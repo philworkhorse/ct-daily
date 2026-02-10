@@ -1,0 +1,326 @@
+{
+  "timestamp": "2026-02-10T06:51:27.136Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIRAFFES",
+      6
+    ],
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$ZRO",
+      1
+    ],
+    [
+      "$STABLE",
+      1
+    ],
+    [
+      "$RAIN",
+      1
+    ],
+    [
+      "$PIPPIN",
+      1
+    ],
+    [
+      "$RIVER",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$NERK",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIRAFFES",
+        "count": 6
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$ZRO",
+        "count": 1
+      },
+      {
+        "ticker": "$STABLE",
+        "count": 1
+      },
+      {
+        "ticker": "$RAIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PIPPIN",
+        "count": 1
+      },
+      {
+        "ticker": "$RIVER",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$NERK",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @rezzonico: gm. How’s your day going? \n$REKT https://t.co/iKsbbIfYkw",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "RT @astronomer_zero: $BTC\n\nCalled the bottom at 63k when the market was fearful, I am still confident in that call.\n\nBut now at 70k the bea…",
+        "likes": 0,
+        "retweets": 24
+      },
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: It blows my mind how weak $BTC is\n\nWe touched the MicroStrategy entry price, and 0 reaction\n\nSaylor has been buying $BTC sinc…",
+        "likes": 0,
+        "retweets": 5
+      },
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC is facing strong resistance at 71K and currently trading around 69K, still stuck in a sideways range.\n\nEven with US futures red yesterday, major indices managed to close green.\n\nNow here’s where ",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $41.84K of $WhiteWhale at $65.74M MC 🐳\n\nhttps://t.co/p5JQRk1rVL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +646.52%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $2.7M MC. https://t.co/9f",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +294.13%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $3.1M MC. https://t.co/Rx",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +826.63%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $3.03M MC. https://t.co/B",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $1.27K of $GIRAFFES at $2.22M MC 🐳\n\nhttps://t.co/cB8UfaBFqa",
+        "likes": 5,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +432.61%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $2.12M MC. https://t.co/6",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +544.59%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $2.15M MC. https://t.co/W",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$ZRO": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC is facing strong resistance at 71K and currently trading around 69K, still stuck in a sideways range.\n\nEven with US futures red yesterday, major indices managed to close green.\n\nNow here’s where ",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$STABLE": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC is facing strong resistance at 71K and currently trading around 69K, still stuck in a sideways range.\n\nEven with US futures red yesterday, major indices managed to close green.\n\nNow here’s where ",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$RAIN": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC is facing strong resistance at 71K and currently trading around 69K, still stuck in a sideways range.\n\nEven with US futures red yesterday, major indices managed to close green.\n\nNow here’s where ",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$PIPPIN": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC is facing strong resistance at 71K and currently trading around 69K, still stuck in a sideways range.\n\nEven with US futures red yesterday, major indices managed to close green.\n\nNow here’s where ",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$RIVER": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC is facing strong resistance at 71K and currently trading around 69K, still stuck in a sideways range.\n\nEven with US futures red yesterday, major indices managed to close green.\n\nNow here’s where ",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $1.27K of $GIRAFFES at $2.22M MC 🐳\n\nhttps://t.co/cB8UfaBFqa",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$NERK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @nerk0tic verified earnings for $NERK0TIC on @BagsApp 💰\n\nhttps://t.co/30uxJYt3oH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.96K of $PENGUIN at $22.01M MC 🐳\n\nhttps://t.co/ipJRR76WiB",
+        "likes": 5,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "solana",
+      "text": "TradFi and AI agents just found common ground. It's Solana.\n\nA white-glove trading program for institutions went live. Agents started managing DAOs, funding their own keys, and deploying tokens via X.\n\nHere’s what happened over the week:\n\n📰 Headline News\n\n- @SolanaFndn unveiled ",
+      "likes": 1139,
+      "retweets": 262,
+      "url": "https://x.com/solana/status/2020497853676978223"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm friends https://t.co/jdzN1zNbQh",
+      "likes": 476,
+      "retweets": 13,
+      "url": "https://x.com/waleswoosh/status/2021101865530953759"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 357,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "solana",
+      "text": "24 hours to go till we Accelerate https://t.co/zOodX2PkhS",
+      "likes": 276,
+      "retweets": 59,
+      "url": "https://x.com/solana/status/2021103911717962108"
+    },
+    {
+      "author": "Grummz",
+      "text": "Blizzard caved. Will be remaking her the \"strong older sister type.\" https://t.co/7Uj38sf0JN",
+      "likes": 158,
+      "retweets": 10,
+      "url": "https://x.com/Grummz/status/2021107112940798348"
+    },
+    {
+      "author": "Austen",
+      "text": "I think we just had a breakthrough for @KellyClaudeAI building mobile apps.\n\nWill test more tomorrow but it’s successfully built a few apps end to end autonomously now.",
+      "likes": 144,
+      "retweets": 10,
+      "url": "https://x.com/Austen/status/2021082157821698127"
+    },
+    {
+      "author": "DeeZe",
+      "text": "Absolutely shocking news",
+      "likes": 123,
+      "retweets": 15,
+      "url": "https://x.com/DeeZe/status/2021076656350191685"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "😂😂😂",
+      "likes": 115,
+      "retweets": 10,
+      "url": "https://x.com/blknoiz06/status/2021084554878984386"
+    }
+  ]
+}

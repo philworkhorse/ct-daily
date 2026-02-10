@@ -1,0 +1,254 @@
+{
+  "timestamp": "2026-02-09T19:54:00.298Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 2,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$AVAX",
+      1
+    ],
+    [
+      "$GABRIEL",
+      1
+    ],
+    [
+      "$KIKI",
+      1
+    ],
+    [
+      "$CLAUDE",
+      1
+    ],
+    [
+      "$GUINS",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$ORCL",
+      1
+    ],
+    [
+      "$GOOG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GABRIEL",
+        "count": 1
+      },
+      {
+        "ticker": "$KIKI",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAUDE",
+        "count": 1
+      },
+      {
+        "ticker": "$GUINS",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$ORCL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$AVAX",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$GOOG",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$AVAX": [
+      {
+        "author": "CryptoKaleo",
+        "text": "$AVAX / $BTC\n\nRecent price action is incredibly similar to what was seen in late 2020 soon after the launch.\n\nWould make sense for the bounce to happen at HTF lows after a bit more bleeding and make a",
+        "likes": 47,
+        "retweets": 3
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "CryptoKaleo",
+        "text": "$AVAX / $BTC\n\nRecent price action is incredibly similar to what was seen in late 2020 soon after the launch.\n\nWould make sense for the bounce to happen at HTF lows after a bit more bleeding and make a",
+        "likes": 47,
+        "retweets": 3
+      },
+      {
+        "author": "crypto_banter",
+        "text": "🟢 STRONG $BTC LONG INCOMING!\n\nIF we see a Bitcoin Bottom...\n\nHere's the support levels @Sheldon_Sniper is watching very closely 🤝",
+        "likes": 12,
+        "retweets": 0
+      }
+    ],
+    "$GABRIEL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @RPDegen verified earnings for $GABRIEL on @BagsApp 💰\n\nhttps://t.co/vPHc4YnT1s",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$KIKI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @BrianRoemmele verified earnings for $KIKI on @BagsApp 💰\n\nhttps://t.co/xLAs95Wl8M",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$CLAUDE": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CLAUDE with a PnL of +95.35%.\n\n$CLAUDE has been trending on Moby since $68.78K MC. Currently sitting at $1.42M MC. https://t.co/YGE0cW6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GUINS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ChillGuinsNFT verified earnings for $GUINS on @BagsApp 💰\n\nhttps://t.co/nvBg5q0YKC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3K of $PENGUIN at $24.72M MC 🐳\n\nhttps://t.co/959mkPFZkR",
+        "likes": 8,
+        "retweets": 0
+      }
+    ],
+    "$ORCL": [
+      {
+        "author": "junkbondinvest",
+        "text": "MS expects hyperscalers to borrow $400 billion this year.\n\nOracle: $25B done\nAlphabet: $20B pricing now\n\nIG spreads at two-decade tights. \n\nSupply is coming.\n\n$ORCL $GOOG https://t.co/5zYKo3qtpO",
+        "likes": 12,
+        "retweets": 2
+      }
+    ],
+    "$GOOG": [
+      {
+        "author": "junkbondinvest",
+        "text": "MS expects hyperscalers to borrow $400 billion this year.\n\nOracle: $25B done\nAlphabet: $20B pricing now\n\nIG spreads at two-decade tights. \n\nSupply is coming.\n\n$ORCL $GOOG https://t.co/5zYKo3qtpO",
+        "likes": 12,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MustStopMurad",
+      "text": "I am extremely Bullish on the Crypto Market and think that BTC will soon begin a rapid ascent to $200,000+",
+      "likes": 1637,
+      "retweets": 191,
+      "url": "https://x.com/MustStopMurad/status/2020926157894647894"
+    },
+    {
+      "author": "a1lon9",
+      "text": "we’re selecting a few teams to come on stream and pitch their idea/product directly to Tim and me tomorrow\n\nwho should we invite?",
+      "likes": 838,
+      "retweets": 84,
+      "url": "https://x.com/a1lon9/status/2020931882175824358"
+    },
+    {
+      "author": "a1lon9",
+      "text": "we’re selecting a few teams to come on stream and pitch their idea/product directly to Tim and me tomorrow\n\nwho should we invite?",
+      "likes": 838,
+      "retweets": 84,
+      "url": "https://x.com/a1lon9/status/2020931882175824358"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 569,
+      "retweets": 80,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Shoutout to @TheArena for being the only real 1st gen SoFi platform still standing.\n\nPretty insane to lookback at the graveyard of competitors - Friendtech, NBC / Alpha, PostTech etc.\n\nReally think if there's any hope for that sector, The Arena is still it. They've continued to s",
+      "likes": 254,
+      "retweets": 61,
+      "url": "https://x.com/CryptoKaleo/status/2019850387831026166"
+    },
+    {
+      "author": "jessepollak",
+      "text": "the beautiful thing about tokenized agents is:\n\n1. the barrier to entry is low — anyone can create one\n2. tokenization provides an instant funding mechanism\n3. revenue is onchain so progress is measurable\n\nthis makes it an ~infinite game, perfectly suited to onchain markets",
+      "likes": 211,
+      "retweets": 20,
+      "url": "https://x.com/jessepollak/status/2020936593243242715"
+    },
+    {
+      "author": "jessepollak",
+      "text": "the beautiful thing about tokenized agents is:\n\n1. the barrier to entry is low — anyone can create one\n2. tokenization provides an instant funding mechanism\n3. revenue is onchain so progress is measurable\n\nthis makes it an ~infinite game, perfectly suited to onchain markets",
+      "likes": 211,
+      "retweets": 20,
+      "url": "https://x.com/jessepollak/status/2020936593243242715"
+    },
+    {
+      "author": "elliotrades",
+      "text": "Right now we're all staring at the opportunity AS BIG as Bitcoin in 2010\n\nThis is the moment Zoomers will look back on and realize they missed their shot at genny wealth and a good life by doomscrolling and playing arc raiders \n\nThe world is about to go into hyperdrive",
+      "likes": 175,
+      "retweets": 11,
+      "url": "https://x.com/elliotrades/status/2020939997772439664"
+    },
+    {
+      "author": "jessepollak",
+      "text": "PSA: I am making a last minute call to go to @EthereumDenver \n\nwhy? because with prices down, it's more important than ever to be with builders. and because despite what you may have heard on CT, we win together.\n\nsee you there.",
+      "likes": 171,
+      "retweets": 9,
+      "url": "https://x.com/jessepollak/status/2020938767721542005"
+    }
+  ]
+}

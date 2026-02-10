@@ -1,0 +1,261 @@
+{
+  "timestamp": "2026-01-31T02:14:35.914Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 4,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$FARTCOIN",
+      2
+    ],
+    [
+      "$SYNP",
+      2
+    ],
+    [
+      "$CRUSTY",
+      2
+    ],
+    [
+      "$LUPU",
+      1
+    ],
+    [
+      "$DALE",
+      1
+    ],
+    [
+      "$MOLTWALLET",
+      1
+    ],
+    [
+      "$MUSK",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$BASILISK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$FARTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$SYNP",
+        "count": 2
+      },
+      {
+        "ticker": "$CRUSTY",
+        "count": 2
+      },
+      {
+        "ticker": "$LUPU",
+        "count": 1
+      },
+      {
+        "ticker": "$DALE",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTWALLET",
+        "count": 1
+      },
+      {
+        "ticker": "$MUSK",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$BASILISK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "coffee": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "bond": 1,
+      "fed": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $2.48K of $SYNP at $710.99K MC 🐳\n\nhttps://t.co/trKlcJx43h",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $3.58K of $SYNP at $454.4K MC 🐳\n\nhttps://t.co/TVZ5ph4Ubd",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SYNP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $2.48K of $SYNP at $710.99K MC 🐳\n\nhttps://t.co/trKlcJx43h",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $3.58K of $SYNP at $454.4K MC 🐳\n\nhttps://t.co/TVZ5ph4Ubd",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LUPU": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @LuckyPutSolana verified earnings for $LUPU on @BagsApp 💰\n\nhttps://t.co/za2FNxa4Xs",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$DALE": [
+      {
+        "author": "_imagyn",
+        "text": "RT @itscoinnoisseur: its a cold world but that’s what $DALE was made for https://t.co/97fAeWPTNj",
+        "likes": 0,
+        "retweets": 5
+      }
+    ],
+    "$CRUSTY": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @bandeez just bought $2.42K of $CRUSTY at $310.34K MC 🐳\n\nhttps://t.co/qjOpkBR42W",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @bandeez just bought $1.37K of $CRUSTY at $171.93K MC 🐳\n\nhttps://t.co/8TXMJhxYDD",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTWALLET": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @gillbertoed verified earnings for $MOLTWALLET on @BagsApp 💰\n\nhttps://t.co/GzfecsbT39",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$MUSK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @moltonmusk verified earnings for $MUSK on @BagsApp 💰\n\nhttps://t.co/o0oBSHJMrh",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $2.04K of $BASILISK at $208.03K MC 🐳\n\nhttps://t.co/ly9LQ1d6of",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BASILISK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $2.04K of $BASILISK at $208.03K MC 🐳\n\nhttps://t.co/ly9LQ1d6of",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 470,
+      "retweets": 42,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "DonAlt",
+      "text": "People keep saying \n\n\"But Bill Clinton and Bill Gates were also in the files\"\nPut them all to jail, Republican, Democrats, foreign people they can all have a party behind bars\n\nWhy the fuck are you all defending pedophiles?",
+      "likes": 271,
+      "retweets": 11,
+      "url": "https://x.com/DonAlt/status/2017414155909865800"
+    },
+    {
+      "author": "cz_binance",
+      "text": "Word of the day: 水军\n\nhttps://t.co/W0BMI3n58C\n\nSee how many complainers 👇 are from accounts you don't recognize. Most of them are new accounts, with low followers. \n\nWhile we are not perfect, we spend time on improving ourselves. Let them spend their time on us too.",
+      "likes": 266,
+      "retweets": 19,
+      "url": "https://x.com/cz_binance/status/2017416926528737514"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "DESMOND BANE CRASHING OUT AGAIN 😭 https://t.co/lug6RNMo0y",
+      "likes": 241,
+      "retweets": 5,
+      "url": "https://x.com/TheNBACentel/status/2017416538924495033"
+    },
+    {
+      "author": "fejau_inc",
+      "text": "Posted my entire trading log history in Claude to ask for feedback and it basically roasted me for ever trying to trade bonds and told me to give up 👍",
+      "likes": 130,
+      "retweets": 3,
+      "url": "https://x.com/fejau_inc/status/2017408488268349674"
+    },
+    {
+      "author": "Cricketnation",
+      "text": "$35, zero limits. Join Cricket and get a single line of unlimited for just $35/mo.",
+      "likes": 120,
+      "retweets": 1,
+      "url": "https://x.com/Cricketnation/status/2005457506114679112"
+    },
+    {
+      "author": "boldleonidas",
+      "text": ".@x has now paid me more than my first 18 months teaching. https://t.co/ttStCGikLh",
+      "likes": 110,
+      "retweets": 0,
+      "url": "https://x.com/boldleonidas/status/2017415285947728312"
+    },
+    {
+      "author": "Grummz",
+      "text": "Nvidia scraps OpenAI $100 BILLION dollar investment deal?\n\nFirst Apple switches from OpenAI to Gemini.\n\nNow they might lose the nvidia deal as Jensen Huang is critical of OpenAIs business practices.\n\nWhat is the plan for OpenAI as they face 12 billion in loses per quarter? https:",
+      "likes": 107,
+      "retweets": 7,
+      "url": "https://x.com/Grummz/status/2017413880079851878"
+    }
+  ]
+}

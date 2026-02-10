@@ -1,0 +1,214 @@
+{
+  "timestamp": "2026-02-09T09:30:17.873Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 3,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      4
+    ],
+    [
+      "$BNB",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$AGNIC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 4
+      },
+      {
+        "ticker": "$BNB",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$AGNIC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 2,
+      "copper": 2
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 2
+    },
+    "macro": {
+      "inflation": 2,
+      "fed": 1,
+      "treasury": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $13.19K of $PENGUIN at $27.15M MC 🐳\n\nhttps://t.co/3rfXW4EaLx",
+        "likes": 5,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $7.51K of $PENGUIN at $28.99M MC 🐳\n\nhttps://t.co/Jjzuj7jNSZ",
+        "likes": 11,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $7.06K of $PENGUIN at $28.41M MC 🐳\n\nhttps://t.co/1TAIZWH5rb",
+        "likes": 12,
+        "retweets": 2
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.37K of $PENGUIN at $28.65M MC 🐳\n\nhttps://t.co/295MyeQWHW",
+        "likes": 8,
+        "retweets": 1
+      }
+    ],
+    "$BNB": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "$BNB weekly chart broke below dangerous resistance and trying to reclaim it with a bounce.\n\nPray it hold. If not we are heading straight below.\n\nHigh likely we see a good bounce and reclaim 1600$. Top",
+        "likes": 36,
+        "retweets": 8
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "DreamDojo is a breakthrough in robot learning: a 2B–14B parameter video world model trained on 44,000 hours of egocentric human videos—6,000+ skills, 43,000+ objects, 10,000 scenes—dwarfing any previo",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "artsch00lreject",
+        "text": "RT @KillaXBT: Everyone keeps asking me... how did you predict the $BTC top?\n\nI didn't... My quant did. https://t.co/fW75gXhvMs",
+        "likes": 0,
+        "retweets": 43
+      }
+    ],
+    "$AGNIC": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @mahdi verified earnings for $AGNIC on @BagsApp 💰\n\nhttps://t.co/I0hdddH8tG",
+        "likes": 4,
+        "retweets": 4
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "brian_armstrong",
+      "text": "I loved the idea for our Super Bowl ad as soon as the team showed it to me. It's unique, just like our QR code ad in 2022.\n\nMost people half watch commercials (buzzed, in a loud room, with lots of people). It takes something unique to break through.\n\nTurning 100M+ screens into ka",
+      "likes": 3744,
+      "retweets": 205,
+      "url": "https://x.com/brian_armstrong/status/2020666148258304017"
+    },
+    {
+      "author": "coinbase",
+      "text": "Singing &gt; watching.\n\nSo we got millions of people watching the Big Game to sing along with us.\n\nOh, and we put it on the world's largest LED screen @SphereVegas. https://t.co/dYqBkEy41g",
+      "likes": 2644,
+      "retweets": 352,
+      "url": "https://x.com/coinbase/status/2020664192374645023"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "https://t.co/gCGsRQm2LC",
+      "likes": 1315,
+      "retweets": 87,
+      "url": "https://x.com/boldleonidas/status/2020727738878095542"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, new week let's get it https://t.co/TZqZcCjR8T",
+      "likes": 756,
+      "retweets": 21,
+      "url": "https://x.com/waleswoosh/status/2020739461869670891"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "MegaETH mainnet today.\n\nWhat apps should I check out day 1?",
+      "likes": 293,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020758685681946978"
+    },
+    {
+      "author": "frankdegods",
+      "text": "agents cant open bank accounts. crypto is literally the only way they can hold and move money autonomously.",
+      "likes": 288,
+      "retweets": 36,
+      "url": "https://x.com/frankdegods/status/2020757138285510993"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Many crypto companies have quietly laid off a significant portion of their staff over the past month.\n\nMore to come.\n\nExpect a wave of slow rugs this year.\n\nYou will still see them posting random updates, but make no mistake, they are not building anything anymore.\n\nAnd once all ",
+      "likes": 283,
+      "retweets": 12,
+      "url": "https://x.com/waleswoosh/status/2020774349117305317"
+    },
+    {
+      "author": "dricstudio",
+      "text": "https://t.co/dp7RUX7YJV",
+      "likes": 232,
+      "retweets": 14,
+      "url": "https://x.com/dricstudio/status/2020780996027986165"
+    },
+    {
+      "author": "jessepollak",
+      "text": "I love @nounsdao and anons is nouns for agents \n\nvery cool build by @ClawdiaBotAI",
+      "likes": 201,
+      "retweets": 19,
+      "url": "https://x.com/jessepollak/status/2020725407293825221"
+    },
+    {
+      "author": "frankdegods",
+      "text": "ai is going to be so big, i dont think u get it which is unfortunate because you spend all your time on screens anyway",
+      "likes": 191,
+      "retweets": 8,
+      "url": "https://x.com/frankdegods/status/2020759275111346673"
+    }
+  ]
+}

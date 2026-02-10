@@ -1,0 +1,147 @@
+{
+  "timestamp": "2026-01-29T04:23:46.900Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 5,
+    "neutral": 84,
+    "total": 100
+  },
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USELESS",
+        "count": 3
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 2
+      },
+      {
+        "ticker": "$EURC",
+        "count": 2
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$PWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 4,
+      "gold": 5,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 5,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "fed": 1
+    }
+  },
+  "highEngagement": [
+    {
+      "author": "REALFACTS_USA",
+      "text": "First, they tell you a heartbreaking story to tug at your heartstrings and turn you against our allies.  \nStop. Question. Verify https://t.co/7aqPWvMkhG",
+      "likes": 11742,
+      "retweets": 721,
+      "url": "https://x.com/REALFACTS_USA/status/2012865512372392060"
+    },
+    {
+      "author": "CoinbaseMarkets",
+      "text": "Assets added to the roadmap today: Hyperliquid (HYPE) \nhttps://t.co/lyEugQo7Cv",
+      "likes": 1361,
+      "retweets": 160,
+      "url": "https://x.com/CoinbaseMarkets/status/2016641510876328325"
+    },
+    {
+      "author": "Pumpfun",
+      "text": "Crypto’s BIGGEST Advisors are joining the Pump fun BiP Hackathon!\n\nNow is your chance to access the most successful &amp; biggest thinkers in crypto &amp; beyond, as well as the chance to receive a part of the $3M investment from Pump Fund, regardless of your stage\n\nMeet the Advisors 👇 https://t.co",
+      "likes": 1169,
+      "retweets": 123,
+      "url": "https://x.com/Pumpfun/status/2016631600033788089"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "#Bitcoin / $BTC\n\nSend it to $100K+ with haste. https://t.co/g5bP92DPjU",
+      "likes": 555,
+      "retweets": 40,
+      "url": "https://x.com/CryptoKaleo/status/2016253024558019057"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "coins printing a higher low https://t.co/ugiU2YLCRf",
+      "likes": 493,
+      "retweets": 25,
+      "url": "https://x.com/blknoiz06/status/2016714893022368014"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "coins printing a higher low https://t.co/ugiU2YLCRf",
+      "likes": 493,
+      "retweets": 25,
+      "url": "https://x.com/blknoiz06/status/2016714893022368014"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Gold chart looks like the end of the world is coming",
+      "likes": 438,
+      "retweets": 29,
+      "url": "https://x.com/Tradermayne/status/2016706566402297999"
+    },
+    {
+      "author": "CharlesDoBronxs",
+      "text": "Só tenho a agradecer.\n\nObrigado JESUS",
+      "likes": 291,
+      "retweets": 41,
+      "url": "https://x.com/CharlesDoBronxs/status/2016724844935581858"
+    },
+    {
+      "author": "mert",
+      "text": "if real-world assets are called real-world assets (RWAs), then this makes crypto, fake-world assets\n\nit all makes sense now\n\nzero",
+      "likes": 188,
+      "retweets": 11,
+      "url": "https://x.com/mert/status/2016700412779245934"
+    },
+    {
+      "author": "NBA",
+      "text": "Ace Bailey and the Jazz start the game on a 10-0 run! https://t.co/XUv33dU3NY",
+      "likes": 178,
+      "retweets": 13,
+      "url": "https://x.com/NBA/status/2016352255880888416"
+    }
+  ]
+}

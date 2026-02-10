@@ -1,0 +1,323 @@
+{
+  "timestamp": "2026-01-30T03:30:55.788Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 3,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ELON",
+      8
+    ],
+    [
+      "$PENGUIN",
+      5
+    ],
+    [
+      "$SURGE",
+      1
+    ],
+    [
+      "$BESH",
+      1
+    ],
+    [
+      "$SAM",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$MARS",
+      1
+    ],
+    [
+      "$CRV",
+      1
+    ],
+    [
+      "$COPPERINU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ELON",
+        "count": 8
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 5
+      },
+      {
+        "ticker": "$SURGE",
+        "count": 1
+      },
+      {
+        "ticker": "$BESH",
+        "count": 1
+      },
+      {
+        "ticker": "$SAM",
+        "count": 1
+      },
+      {
+        "ticker": "$MARS",
+        "count": 1
+      },
+      {
+        "ticker": "$CRV",
+        "count": 1
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "inflation": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +111.77%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $13.77M MC. https://t.co/Y85c28VTD6",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +275.06%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $14.03M MC. https://t.co/HUzhn4ta7g",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +132.61%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $15.12M MC. https://t.co/AM4ElN1mWu",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +186.29%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $15.43M MC. https://t.co/UIKc1yjV66",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +270.95%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $16.7M MC. https://t.co/4S0Pc3a00U",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.23K of $ELON at $16.7M MC 🐳\n\nhttps://t.co/KSTh7FXfhd",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.62K of $ELON at $13.54M MC 🐳\n\nhttps://t.co/orz1pbdrqS",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "zinceth",
+        "text": "Wow I can't believe ELON MUSK dropped his OFFICIAL COIN\n\nMathematically this should be AT LEAST HALF of trump coin market cap\n\n$ELON TO THE MOON. I love you @elonmusk",
+        "likes": 17,
+        "retweets": 2
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.43K of $SURGE at $34.47M MC 🐳\n\nhttps://t.co/u549tldURs",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.87K of $67 at $6.09M MC 🐳\n\nhttps://t.co/9xxCkyAQyQ",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.01K of $MARS at $365.45K MC 🐳\n\nhttps://t.co/uHpi8PyqIG",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.23K of $ELON at $16.7M MC 🐳\n\nhttps://t.co/KSTh7FXfhd",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.62K of $ELON at $13.54M MC 🐳\n\nhttps://t.co/orz1pbdrqS",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SURGE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.43K of $SURGE at $34.47M MC 🐳\n\nhttps://t.co/u549tldURs",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BESH": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @beshfun verified earnings for $BESH on @BagsApp 💰\n\nhttps://t.co/4Svr0Zpuvn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SAM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Fafi470608 verified earnings for $SAM on @BagsApp 💰\n\nhttps://t.co/nzqKVYhyBZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "CredibleCrypto",
+        "text": "This. \n\nThe idea of us breaching 74k and THEN reversing (expanded flat) that has been proposed is technically VALID, however it opens up the doors for multiple other scenarios as well, including one i",
+        "likes": 431,
+        "retweets": 21
+      }
+    ],
+    "$MARS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.01K of $MARS at $365.45K MC 🐳\n\nhttps://t.co/uHpi8PyqIG",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CRV": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Around ~38% of all $CRV in existence is locked and most of that is re-locked in perpetuity. \n\nThere will not be many unlocks at all.\n\nThe main reason that 38% figure might decline in the coming months",
+        "likes": 38,
+        "retweets": 1
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $4.98K of $COPPERINU at $4.94M MC 🐳\n\nhttps://t.co/1bsVlJ53J3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "NFL",
+      "text": "THE SEAHAWKS ARE GOING TO THE SUPER BOWL. https://t.co/duPxLO15D6",
+      "likes": 12664,
+      "retweets": 1654,
+      "url": "https://x.com/NFL/status/2015618865498390730"
+    },
+    {
+      "author": "REALFACTS_USA",
+      "text": "First, they tell you a heartbreaking story to tug at your heartstrings and turn you against our allies.  \nStop. Question. Verify https://t.co/7aqPWvMkhG",
+      "likes": 12126,
+      "retweets": 756,
+      "url": "https://x.com/REALFACTS_USA/status/2012865512372392060"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 3496,
+      "retweets": 548,
+      "url": "https://x.com/Neuravision_A/status/2010102623756792032"
+    },
+    {
+      "author": "intern",
+      "text": "Some personal news: I’ll be stepping down as Director of Growth at the Monad Foundation.\n\nI've been working on Monad over the last 3 years.\n\nI’ve spent the last 9 years in crypto and been full time in the industry since joining the VC team at CMS in 2020.\n\nAfter fielding 1,000+ s",
+      "likes": 1266,
+      "retweets": 22,
+      "url": "https://x.com/intern/status/2016965624807788958"
+    },
+    {
+      "author": "CredibleCrypto",
+      "text": "This. \n\nThe idea of us breaching 74k and THEN reversing (expanded flat) that has been proposed is technically VALID, however it opens up the doors for multiple other scenarios as well, including one in which we see a much larger, longer correction from these levels.\n\nWhereas, if ",
+      "likes": 431,
+      "retweets": 21,
+      "url": "https://x.com/CredibleCrypto/status/2017022566146462036"
+    },
+    {
+      "author": "DellTech",
+      "text": "Demand is outpacing supply when it comes to AI. @MichaelDell speaks to @CNBC about how businesses are leveraging data and next-gen models to stay ahead. 🖱️https://t.co/n8ohcB6p6B",
+      "likes": 261,
+      "retweets": 40,
+      "url": "https://x.com/DellTech/status/2016164322649473438"
+    },
+    {
+      "author": "BobLoukas",
+      "text": "@CredibleCrypto You’re right the trend has not broken. \n\nBut I’d argue the line to watch is $80.4k. That’s the clear last low.   The last line of hope.",
+      "likes": 221,
+      "retweets": 2,
+      "url": "https://x.com/BobLoukas/status/2017028960924619165"
+    },
+    {
+      "author": "CL207",
+      "text": "its getting depressing here, but truly kinda crazy we got one of the most insane commodity run of all time, literally all time\n\nmonetary scare, nasdaq ath, or whatever these metal prices and asset prices even mean\n\nand bitcoin has been bleeding, truly darkest days for crypto",
+      "likes": 194,
+      "retweets": 6,
+      "url": "https://x.com/CL207/status/2017069765488160932"
+    },
+    {
+      "author": "gainzy222",
+      "text": "&gt; retail hates cz\n&gt; funds hate cz\n&gt; vc’s hate cz\n&gt; competitors hate cz\n\nCz is truly universally hated\n\n“It’s coordinated fud” - cz\n\nLmao brother who exactly is coordinating, the literal entire world?",
+      "likes": 107,
+      "retweets": 6,
+      "url": "https://x.com/gainzy222/status/2017070094103245069"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bro said yall brokies better lockin fn",
+      "likes": 100,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2017072130303684682"
+    }
+  ]
+}

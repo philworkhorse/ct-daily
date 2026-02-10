@@ -1,0 +1,158 @@
+{
+  "timestamp": "2026-02-07T17:56:56.324Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 4,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$COW",
+      2
+    ],
+    [
+      "$BAGBANK",
+      1
+    ],
+    [
+      "$CHAKE",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$COW",
+        "count": 2
+      },
+      {
+        "ticker": "$BAGBANK",
+        "count": 1
+      },
+      {
+        "ticker": "$CHAKE",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 2,
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$BAGBANK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @realArtEdwards verified earnings for $BAGBANK on @BagsApp 💰\n\nhttps://t.co/TpLb1BKXQw",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CHAKE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @_broxy verified earnings for $CHAKE on @BagsApp 💰\n\nhttps://t.co/pg6lwpwQb2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$COW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $COW with a PnL of +137.32%.\n\n$COW has been trending on Moby since $64.61K MC. Currently sitting at $248.49K MC. https://t.co/FdJQ5mwx2e",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @rynzoeth just bought $1.12K of $COW at $237.51K MC 🐳\n\nhttps://t.co/cuNrhEmaXA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "zooko",
+        "text": "RT @Grayscale: .@VitalikButerin 🤝 $ZEC\nhttps://t.co/aRnVJyYvLn",
+        "likes": 0,
+        "retweets": 44
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "jessepollak",
+      "text": "gm what are we building this weekend?",
+      "likes": 208,
+      "retweets": 10,
+      "url": "https://x.com/jessepollak/status/2020180657742438742"
+    },
+    {
+      "author": "NostalgiaFolder",
+      "text": "https://t.co/8toYI0aN5Y",
+      "likes": 187,
+      "retweets": 23,
+      "url": "https://x.com/NostalgiaFolder/status/2020192978195869965"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "nyc “feels like -16 degrees” and i pay 54% taxes to live here",
+      "likes": 172,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2020172289166209105"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "https://t.co/r2GPV4kHam",
+      "likes": 111,
+      "retweets": 2,
+      "url": "https://x.com/notthreadguy/status/2020167326226682354"
+    },
+    {
+      "author": "himgajria",
+      "text": "Inu strength &gt; non-inu strength",
+      "likes": 103,
+      "retweets": 20,
+      "url": "https://x.com/himgajria/status/2020178368080249042"
+    },
+    {
+      "author": "himgajria",
+      "text": "Inu strength &gt; non-inu strength",
+      "likes": 103,
+      "retweets": 20,
+      "url": "https://x.com/himgajria/status/2020178368080249042"
+    },
+    {
+      "author": "deltaxbt",
+      "text": "wtf lol\nmm stat on crack https://t.co/plvp5wIo8b",
+      "likes": 101,
+      "retweets": 3,
+      "url": "https://x.com/deltaxbt/status/2020170716251922572"
+    }
+  ]
+}

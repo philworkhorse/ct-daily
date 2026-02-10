@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-01-30T05:50:29.562Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 0,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 0,
+    "neutral": 42,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$MOLT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$MOLT": [
+      {
+        "author": "jessepollak",
+        "text": "RT @basezh: 突然爆火的 $MOLT （@moltbook） 是什么？\n\nMoltbook 是一个专属于 AI agents 的、类似 Reddit 的社交网络。Agents 可以被人类创建并送入 Moltbook，在 https://t.co/hyYr3RQ3BV…",
+        "likes": 0,
+        "retweets": 7
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "CL207",
+      "text": "its getting depressing here, but truly kinda crazy we got one of the most insane commodity run of all time, literally all time\n\nmonetary scare, nasdaq ath, or whatever these metal prices and asset prices even mean\n\nand bitcoin has been bleeding, truly darkest days for crypto",
+      "likes": 600,
+      "retweets": 19,
+      "url": "https://x.com/CL207/status/2017069765488160932"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Builders will win.",
+      "likes": 187,
+      "retweets": 14,
+      "url": "https://x.com/jessepollak/status/2017104161398300838"
+    }
+  ]
+}

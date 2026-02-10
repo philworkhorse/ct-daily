@@ -1,0 +1,220 @@
+{
+  "timestamp": "2026-02-01T03:53:31.602Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 4,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GOLD",
+      3
+    ],
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$SURGE",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SURGE",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$GOLD",
+        "count": 3
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 5
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$CLAWD": [
+      {
+        "author": "clawdbotatg",
+        "text": "building a fomo3d game with $CLAWD tonight 🦞\n\nif you see me deploying contracts to Base — it's just testing. don't try to play yet, i'll announce when it's ready",
+        "likes": 13,
+        "retweets": 1
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $5.7K of $testicle❄️ at $5.06M MC 🐳\n\nhttps://t.co/WbKzDbcNdV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $7.38K of $SURGE at $29.1M MC 🐳\n\nhttps://t.co/5ThuPiNhJM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SURGE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $7.38K of $SURGE at $29.1M MC 🐳\n\nhttps://t.co/5ThuPiNhJM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Kevsznx just bought $1.08K of $GOLD at $163.28K MC 🐳\n\nhttps://t.co/4gcCPb68E0",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Kevsznx just bought $1.14K of $GOLD at $163.6K MC 🐳\n\nhttps://t.co/tpIWLfK6MB",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Kevsznx just bought $1.06K of $GOLD at $170.89K MC 🐳\n\nhttps://t.co/grJMZAKNsC",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "duckingnator",
+        "text": "RT @ChillTRD: $GSD metrics all vertical.\n\n• Crossed 10K Github Stars\n• 57K downloads in January\n• 19K of those this week alone\n• Mindshare…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1579,
+      "retweets": 230,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Ridge Wallet 2.0, Power Banks &amp; more in impossible-to-miss yellow.",
+      "likes": 430,
+      "retweets": 24,
+      "url": "https://x.com/ridgewallet/status/2011151263359205540"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "If you care about Crypto’s future you should stop using Binance. \n\nFull stop.",
+      "likes": 368,
+      "retweets": 28,
+      "url": "https://x.com/ThinkingUSD/status/2017788014911524959"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 230,
+      "retweets": 30,
+      "url": "https://x.com/Ledger/status/2010719908100005940"
+    },
+    {
+      "author": "DeItaone",
+      "text": "TRUMP: U.S. OPEN TO MAJOR OIL DEAL WITH CHINA\n\nFormer U.S. President Donald Trump said the United States would welcome China buying American oil and that the two countries could strike a “great deal.” He also said India would purchase oil from Venezuela instead of Iran.",
+      "likes": 213,
+      "retweets": 25,
+      "url": "https://x.com/DeItaone/status/2017800796293800282"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Watching Tom Lee torch 6 billion dollars of other people’a money on fire longing ETH will never not be funny to me. He choose an unpumpable asset.\n\nWhat is even funnier is imagine he had chosen HYPE? He’d have made billions of dollars for his shareholders. I actually had a call w",
+      "likes": 210,
+      "retweets": 12,
+      "url": "https://x.com/ThinkingUSD/status/2017785189129163020"
+    },
+    {
+      "author": "based16z",
+      "text": "It's unfortunate that crypto became so politicized. The AOC gulags may not forget us",
+      "likes": 170,
+      "retweets": 4,
+      "url": "https://x.com/based16z/status/2017786191525855386"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "and that was the first month of 2026",
+      "likes": 150,
+      "retweets": 4,
+      "url": "https://x.com/intocryptoverse/status/2017806045448446064"
+    },
+    {
+      "author": "hosseeb",
+      "text": "Just need the Economist to run a \"crypto is dead\" cover article. That's how you'll know the bottom is finally in.",
+      "likes": 133,
+      "retweets": 4,
+      "url": "https://x.com/hosseeb/status/2017786689264226745"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Repeat after me.\n\nIt’s not profit until you’ve withdraw the Bitcoin, off exchange, into your cold storage. \n\nUp until that point it’s all unrealized PnL.",
+      "likes": 131,
+      "retweets": 7,
+      "url": "https://x.com/ThinkingUSD/status/2017787460802019787"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "timestamp": "2026-02-09T17:01:27.958Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 17,
+    "bearish": 4,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CBBTC",
+      2
+    ],
+    [
+      "$WBTC",
+      2
+    ],
+    [
+      "$CLAWDDIT",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$TOLY",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CBBTC",
+        "count": 2
+      },
+      {
+        "ticker": "$WBTC",
+        "count": 2
+      },
+      {
+        "ticker": "$CLAWDDIT",
+        "count": 1
+      },
+      {
+        "ticker": "$TOLY",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "gold": 1,
+      "corn": 1
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 1
+    },
+    "macro": {},
+    "industry": {
+      "laid off": 1
+    }
+  },
+  "tickerDetails": {
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $69.92K of $WBTC at $276.79M MC 🐳\n\nhttps://t.co/rCjQnI9eCd",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $69.86K of $WBTC at $276.54M MC 🐳\n\nhttps://t.co/htz7t6sDjZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $69.92K of $WBTC at $276.79M MC 🐳\n\nhttps://t.co/rCjQnI9eCd",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $69.86K of $WBTC at $276.54M MC 🐳\n\nhttps://t.co/htz7t6sDjZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWDDIT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @clawreddit verified earnings for $CLAWDDIT on @BagsApp 💰\n\nhttps://t.co/KOUJCx0OK0",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "dampedspring",
+        "text": "$MSTR up to 1.19 MNAV.",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$TOLY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @paulnguyen_z2z verified earnings for $TOLY on @BagsApp 💰\n\nhttps://t.co/yuiRlSAJa4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 1394,
+      "retweets": 85,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "AndrewYang",
+      "text": "It’s @joinnoblemobile giveaway time!  Just like this post and one person will get free wireless for a year, a ~$600 value.  Winner chosen Monday at random.  Good luck and don’t let the big guys suck you dry!!  😀🎉 https://t.co/c5oqQ8e5ED",
+      "likes": 743,
+      "retweets": 82,
+      "url": "https://x.com/AndrewYang/status/2019770793685573710"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "Tim Dillon: Kash Patel is a liar. He's a big liar. He's a liar and should resign and step down because he is lying. And he's bad at it https://t.co/rGeAgWXoVl",
+      "likes": 390,
+      "retweets": 70,
+      "url": "https://x.com/HQNewsNow/status/2020902580251926950"
+    },
+    {
+      "author": "mert",
+      "text": "Tempo now has dankrad, dan romero, dan robinson, matt and georgios lmao \n\nthis is the golden state warriors with durant \n\nhype is probably the cavs w jeff as lebron\n\nsolana is 2014 spurs \n\nwill be a fun year get your popcorn ready",
+      "likes": 358,
+      "retweets": 4,
+      "url": "https://x.com/mert/status/2020876678247948763"
+    },
+    {
+      "author": "gainzy222",
+      "text": "Crypto was completely mainstream in 2017 as early as btc breaking &gt; 1k and eth being ~50\n\nxrp and doge were &lt;0.01 and outperformed everything and you could’ve made 8 figs from 500$ without ever selling\n\nfumbling that kind of wealth leads to mental illness\n https://t.co/shUu",
+      "likes": 265,
+      "retweets": 16,
+      "url": "https://x.com/gainzy222/status/2020883778915242085"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "HOW!? https://t.co/nKKRwVQCNv",
+      "likes": 229,
+      "retweets": 8,
+      "url": "https://x.com/CryptoKaleo/status/2020887237886390552"
+    },
+    {
+      "author": "hosseeb",
+      "text": "Crypto existed before Binance. It will exist long after Binance.\n\nIt existed before Trump. And it will exist long after Trump too.\n\nThat's the thing about crypto--you can't kill it. It's like a weed. It outlives everything.\n\nYour job is to make sure it doesn't outlive you.",
+      "likes": 182,
+      "retweets": 7,
+      "url": "https://x.com/hosseeb/status/2020885776326897856"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Hey @rediamondjr I really think you can refine the pitch next time you're speaking about @HyperliquidX on CNBC.\n\nPerpetual Swaps, the dominant product in Crypto markets are $20B+ fee generative market a year right now Hyperliquid has 6.5% market share, growing at double digit % e",
+      "likes": 181,
+      "retweets": 13,
+      "url": "https://x.com/ThinkingUSD/status/2020885316488347865"
+    },
+    {
+      "author": "icobeast",
+      "text": "Yeah given that I’m the only person in the world that identifies as icobeast and someone already scooped that within 2 hours of this going live I’ll never be using it.\n\nShould have had a much better domain squatting solution in place before launch. https://t.co/kvlQvkB3PW",
+      "likes": 158,
+      "retweets": 1,
+      "url": "https://x.com/icobeast/status/2020696549794418783"
+    },
+    {
+      "author": "ZeMirch",
+      "text": "100k: the four year cycle isn’t real \n\n60k: the four year cycle is the realist shit i ever heard",
+      "likes": 141,
+      "retweets": 9,
+      "url": "https://x.com/ZeMirch/status/2020890712162656347"
+    }
+  ]
+}

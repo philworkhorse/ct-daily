@@ -1,0 +1,268 @@
+{
+  "timestamp": "2026-02-06T14:44:28.570Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 7,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$POLY",
+      2
+    ],
+    [
+      "$AVATAR",
+      2
+    ],
+    [
+      "$FELIX",
+      1
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$MCRIB",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$LMAO",
+      1
+    ],
+    [
+      "$HYPER",
+      1
+    ],
+    [
+      "$NVDA",
+      1
+    ],
+    [
+      "$RAIKU",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$POLY",
+        "count": 2
+      },
+      {
+        "ticker": "$AVATAR",
+        "count": 2
+      },
+      {
+        "ticker": "$FELIX",
+        "count": 1
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$MCRIB",
+        "count": 1
+      },
+      {
+        "ticker": "$LMAO",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPER",
+        "count": 1
+      },
+      {
+        "ticker": "$RAIKU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      },
+      {
+        "ticker": "$NVDA",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "silver": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 3,
+      "silver": 1
+    },
+    "macro": {
+      "fed": 2
+    }
+  },
+  "tickerDetails": {
+    "$FELIX": [
+      {
+        "author": "chang_defi",
+        "text": "RT @Tunaswiminsea: $FELIX &amp; $KellyClaude: The First Autonomous Corporations\n\nTHESIS:\n• Experienced engineers\n• X Celebrity\n• Building in pu…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$POLY": [
+      {
+        "author": "Tyler_Did_It",
+        "text": "The Morning Minute (2.6)\n\nPowered by @yeet \n\n⏰Top News:\n-Crypto majors crash on Thursday as BTC hits $60k before rebounding\n-HYPE / BTC hits new ATH as Hyperliquid’s token holds strong\n-JPMorgan says ",
+        "likes": 18,
+        "retweets": 0
+      },
+      {
+        "author": "Tyler_Did_It",
+        "text": "ICYMI: Polymarket's parent company filed trademarks for POLY and $POLY yesterday\n\nIncluding trademark protection for “cryptocurrency services, financial trading platforms, and blockchain-based payment",
+        "likes": 23,
+        "retweets": 3
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @rektguy: $REKT Daily Art\n\nparamount ceo david ellison takes dig at ...\n\nListed for 0.03 ETH. Proceeds used to buy and burn $REKT.\n\nhttp…",
+        "likes": 0,
+        "retweets": 5
+      }
+    ],
+    "$MCRIB": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member @mcrib_sol just added a banner image for $MCRIB on MobyScreener 🖼️ https://t.co/8rDkQUOr36",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5.34K of $META at $73.92M MC 🐳\n\nhttps://t.co/4J9qempUpk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "RT @jitztoshi: LMAO this is actually retarded but it works. \n\n$LMAO \n\nFew. https://t.co/Bvgu1w5ShQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @HyperCasinoFun verified earnings for $HYPER on @BagsApp 💰\n\nhttps://t.co/kj2nOdOtTB",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$AVATAR": [
+      {
+        "author": "au_xbt",
+        "text": "$avatar \n\nQE2h38jHGbPu5f5C8whu12LWqyrWr7kisRSsH1hpump\n\nPeople are opening the Pump app, clicking profiles, and getting a prompt saying ‘Pump has created a new avatar for you.’\n\nEveryone’s switching PF",
+        "likes": 27,
+        "retweets": 2
+      },
+      {
+        "author": "au_xbt",
+        "text": "$AVATAR just hit ATH, 2x off the bottom\nIn this bear market, I just hope whatever I share doesn’t get insta-jeeted https://t.co/KOFPpbuzXh",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$NVDA": [
+      {
+        "author": "DeItaone",
+        "text": "$NVDA - NVIDIA SHARES UP 2% AFTER FIVE-STRAIGHT DAYS OF LOSSES",
+        "likes": 68,
+        "retweets": 3
+      }
+    ],
+    "$RAIKU": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @dikidrm55 verified earnings for $RAIKU on @BagsApp 💰\n\nhttps://t.co/Pce4oNFxbl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$BTC update\n\nWill TP more of 61K~ long position at 68.6K~ if market offers. \n\nIf this TP hits I'll be 50% closed in total. Will let the other 50% run and see if we've truly local bottomed to target 80",
+        "likes": 56,
+        "retweets": 3
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Take note of who's fudding crypto at the bottom.\n\nTake note of who's showing up on days like this.\n\nTake note of who's still optimistic about the future of this space.\n\nTake note of who's posting screenshots after a +1% bounce",
+      "likes": 259,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2019763692020158666"
+    },
+    {
+      "author": "gainzy222",
+      "text": "ok now i need to know \n\nwho roundtripped 20M https://t.co/UpBXg2ZSZe",
+      "likes": 240,
+      "retweets": 6,
+      "url": "https://x.com/gainzy222/status/2019704054671360054"
+    },
+    {
+      "author": "mert",
+      "text": "china bans crypto for the 9th time in 2 years\n\nif a top 2 superpower on earth is this worried about blockchains, it seems that blockchains are worth building\n\nway, way higher",
+      "likes": 170,
+      "retweets": 7,
+      "url": "https://x.com/mert/status/2019764601810792918"
+    },
+    {
+      "author": "buyerofponzi",
+      "text": "i guess ill give it a try https://t.co/wTgfjuqOtm",
+      "likes": 148,
+      "retweets": 7,
+      "url": "https://x.com/buyerofponzi/status/2019506513002524875"
+    },
+    {
+      "author": "osf_rekt",
+      "text": "shaved my head at the lows again https://t.co/kZg6ynJJyV",
+      "likes": 145,
+      "retweets": 0,
+      "url": "https://x.com/osf_rekt/status/2019757046686466369"
+    }
+  ]
+}

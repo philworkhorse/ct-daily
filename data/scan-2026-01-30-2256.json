@@ -1,0 +1,195 @@
+{
+  "timestamp": "2026-01-30T22:56:15.995Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 5,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$BREAM",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$SKYNET",
+      1
+    ],
+    [
+      "$ELON",
+      1
+    ],
+    [
+      "$OPENCLAW",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$BREAM",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$SKYNET",
+        "count": 1
+      },
+      {
+        "ticker": "$ELON",
+        "count": 1
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 3
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 3
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "the memecoin market is hungry &amp; nostalgic for the “classic memecoin” story, the stories that reach the masses; the co-workers; the classmates; the neighbors — stories like pepe, dogecoin, shiba in",
+        "likes": 20,
+        "retweets": 7
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "rektmando",
+        "text": "$HYPE one of the top 3 things in crypto ATM\n\nlet you guess what the others are...",
+        "likes": 11,
+        "retweets": 0
+      }
+    ],
+    "$BREAM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ShannonBream verified earnings for $BREAM on @BagsApp 💰\n\nhttps://t.co/3T1cUNehX3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.71K of $Robobook at $780.31K MC 🐳\n\nhttps://t.co/eMq1WMJFjS",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.01K of $ELON at $2M MC 🐳\n\nhttps://t.co/F6yFB8g6Wz",
+        "likes": 6,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.32K of $SKYNET at $228.5K MC 🐳\n\nhttps://t.co/ryTHKJK5dZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SKYNET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.32K of $SKYNET at $228.5K MC 🐳\n\nhttps://t.co/ryTHKJK5dZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.01K of $ELON at $2M MC 🐳\n\nhttps://t.co/F6yFB8g6Wz",
+        "likes": 6,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @deecayz just bought $1.16K of $OPENCLAW at $2.87M MC 🐳\n\nhttps://t.co/nhLSRL9KC9",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1470,
+      "retweets": 221,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "StateFarm",
+      "text": "Something even bigger to be unveiled 2.8.26",
+      "likes": 701,
+      "retweets": 88,
+      "url": "https://x.com/StateFarm/status/2015814352847392934"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 210,
+      "retweets": 2,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    }
+  ]
+}

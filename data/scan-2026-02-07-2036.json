@@ -1,0 +1,191 @@
+{
+  "timestamp": "2026-02-07T20:36:49.041Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 6,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$COW",
+      2
+    ],
+    [
+      "$CRV",
+      1
+    ],
+    [
+      "$TON",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$WOG",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ],
+    [
+      "$PERC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$COW",
+        "count": 2
+      },
+      {
+        "ticker": "$CRV",
+        "count": 1
+      },
+      {
+        "ticker": "$TON",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$WOG",
+        "count": 1
+      },
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      },
+      {
+        "ticker": "$PERC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 4
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$CRV": [
+      {
+        "author": "CredibleCrypto",
+        "text": "If you bang on the door hard enough, eventually it will break... $CRV\n\nFor a more detailed update on $CRV, watch my latest Youtube vid update (pinned tweet). https://t.co/GEf6oicNeY",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$COW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $COW with a PnL of +151.52%.\n\n$COW has been trending on Moby since $64.61K MC. Currently sitting at $236.94K MC. https://t.co/DMC2lK8u01",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $COW with a PnL of +130.53%.\n\n$COW has been trending on Moby since $64.61K MC. Currently sitting at $237.05K MC. https://t.co/BJkuAsXIHM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TON": [
+      {
+        "author": "0xdamx",
+        "text": "What will you say about $TON? https://t.co/VOKWWu6dHL",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $4.73K of $PsyopAnime at $7.6M MC 🐳\n\nhttps://t.co/O9JsAojC7E",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WOG": [
+      {
+        "author": "WogTheArtist",
+        "text": "$WOG \n\n15 mins\n\nBe ready. https://t.co/jmXtHTwUlZ",
+        "likes": 188,
+        "retweets": 40
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $2.88K of $PERC at $1.07M MC 🐳\n\nhttps://t.co/8Q5vg6ynWW",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$PERC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $2.88K of $PERC at $1.07M MC 🐳\n\nhttps://t.co/8Q5vg6ynWW",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "garrytan",
+      "text": "Is it possible I used Claude Code so much somehow my USB-C connectors burned out on my MacBook Pro? Two of mine are dead and won’t charge and now the third maxes out at 15 watts \n\nNow I am afraid my code tamagotchi is about to die",
+      "likes": 477,
+      "retweets": 1,
+      "url": "https://x.com/garrytan/status/2020169699464761811"
+    },
+    {
+      "author": "chooserich",
+      "text": "THE 10 KEY REASONS CRYPTO COLLAPSED https://t.co/4Qokrufcyv",
+      "likes": 346,
+      "retweets": 41,
+      "url": "https://x.com/chooserich/status/2020207189403791624"
+    },
+    {
+      "author": "WogTheArtist",
+      "text": "$WOG \n\n15 mins\n\nBe ready. https://t.co/jmXtHTwUlZ",
+      "likes": 188,
+      "retweets": 40,
+      "url": "https://x.com/WogTheArtist/status/2020233422900527423"
+    },
+    {
+      "author": "inversebrah",
+      "text": ". https://t.co/feAQKKmYRU",
+      "likes": 138,
+      "retweets": 8,
+      "url": "https://x.com/inversebrah/status/2020147286328918258"
+    },
+    {
+      "author": "0xBossman",
+      "text": "What the fuck is happening to Crypto right now? https://t.co/2ekIfGc6J3",
+      "likes": 117,
+      "retweets": 7,
+      "url": "https://x.com/0xBossman/status/2020172757477257604"
+    }
+  ]
+}

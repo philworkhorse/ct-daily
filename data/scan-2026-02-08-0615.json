@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-02-08T06:15:56.515Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 4,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SHT",
+      4
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$ZOHAR",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SHT",
+        "count": 4
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$ZOHAR",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 2,
+      "oil": 1
+    },
+    "metals": {
+      "silver": 2
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $3.47K of $FWOG at $6.1M MC 🐳\n\nhttps://t.co/unohGZRExR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZOHAR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/InZV06sfIQ verified earnings for $ZOHAR on @BagsApp 💰\n\nhttps://t.co/IIbkvDxEmv",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHT with a PnL of +186.12%.\n\n$SHT has been trending on Moby since $104.34K MC. Currently sitting at $799.63K MC. https://t.co/qDui0NsQ3",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHT with a PnL of +195.38%.\n\n$SHT has been trending on Moby since $104.34K MC. Currently sitting at $847.93K MC. https://t.co/yk18urPCl",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHT with a PnL of +650.92%.\n\n$SHT has been trending on Moby since $104.34K MC. Currently sitting at $855.87K MC. https://t.co/LV2Y3PUzH",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHT with a PnL of +660.15%.\n\n$SHT has been trending on Moby since $104.34K MC. Currently sitting at $868.65K MC. https://t.co/ybZQPOY0W",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "RT @jscottbuys: Join the best community in crypto \n$PENGUIN\n\nHave you ever seen holders stay this consistent after a 90% drawback from ATH.…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "0xSisyphus",
+      "text": "The non financial use cases of crypto have failed unequivocally \n\nBillions of dollars of other people’s money have been destroyed in the pursuit of web3, Hyperliquid with zero external funding will change the way traditional assets are traded",
+      "likes": 334,
+      "retweets": 18,
+      "url": "https://x.com/0xSisyphus/status/2019912835938037967"
+    },
+    {
+      "author": "gainzy222",
+      "text": "kalshi is actually such a piece of shit company that zooko has just retweeted a post about how evil they are\n\nbro i have never seen zooko go after anything ever lmao",
+      "likes": 151,
+      "retweets": 7,
+      "url": "https://x.com/gainzy222/status/2020352838803812784"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 102,
+      "retweets": 6,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    }
+  ]
+}

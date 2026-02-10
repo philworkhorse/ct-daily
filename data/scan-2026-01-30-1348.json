@@ -1,0 +1,350 @@
+{
+  "timestamp": "2026-01-30T13:48:18.630Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 7,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$MOLTBOOK",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$MEGA",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$LORB",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$DEEP",
+      1
+    ],
+    [
+      "$ELON",
+      1
+    ],
+    [
+      "$BUDDY",
+      1
+    ],
+    [
+      "$OPENCLAW",
+      1
+    ],
+    [
+      "$POLTV",
+      1
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$NPC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MOLTBOOK",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$MEGA",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$LORB",
+        "count": 1
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$DEEP",
+        "count": 1
+      },
+      {
+        "ticker": "$ELON",
+        "count": 1
+      },
+      {
+        "ticker": "$BUDDY",
+        "count": 1
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$POLTV",
+        "count": 1
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$NPC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 4,
+      "gold": 2,
+      "silver": 2,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 2
+    },
+    "macro": {
+      "fed": 3,
+      "powell": 3,
+      "dollar": 1,
+      "dxy": 1,
+      "inflation": 1,
+      "rate cut": 1
+    }
+  },
+  "tickerDetails": {
+    "$MOLTBOOK": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Moltbook has the CRYPTO && TECH worlds in SHOCK! \n\nFor those unaware, Moltbook, is basically Reddit, but only for AI Agents. \n\nIt allows Claude (now Molt) Bot, to be able to post and interact with oth",
+        "likes": 23,
+        "retweets": 1
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Moltbook has the CRYPTO && TECH worlds in SHOCK! \n\nFor those unaware, Moltbook, is basically Reddit, but only for AI Agents. \n\nIt allows Claude (now Molt) Bot, to be able to post and interact with oth",
+        "likes": 23,
+        "retweets": 1
+      }
+    ],
+    "$MEGA": [
+      {
+        "author": "waleswoosh",
+        "text": "The cabal is trying to manipulate the MegaETH pre-market price on Hyperliquid.\n\nWe all know $MEGA gonna trade above $0.4 USD https://t.co/wGW3MSEFH0",
+        "likes": 129,
+        "retweets": 2
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0x_leo_ just bought $9.99K of $PENGUIN at $67.66M MC 🐳\n\nhttps://t.co/OdJSb9a8ey",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LORB": [
+      {
+        "author": "yogchill_",
+        "text": "Did $crust register to the state and become a verified religion? Cause the @ChurchOfLorb was verified on December 27th, a whole month ago.\n\n(It takes a while to receive the verification letter)\n\nOver ",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Gold\n\n$BTC / $XAU:     🥇  16.153 oz https://t.co/RufR1651BK",
+        "likes": 39,
+        "retweets": 12
+      },
+      {
+        "author": "rektfencer",
+        "text": "⚡ UPDATE\n\nBhutan has quietly sold over 6,000 $BTC in a year.\n\nAnd they’re STILL selling.\n\nWhen countries capitulate, you know where we are in the cycle. https://t.co/DXycQf0gKv",
+        "likes": 9,
+        "retweets": 0
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Gold\n\n$BTC / $XAU:     🥇  16.153 oz https://t.co/RufR1651BK",
+        "likes": 39,
+        "retweets": 12
+      }
+    ],
+    "$DEEP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @EdgyZac verified earnings for $DEEP on @BagsApp 💰\n\nhttps://t.co/72HezmGoZy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ratwizardx just bought $1.14K of $ELON at $3.71M MC 🐳\n\nhttps://t.co/nWAYvGzC1C",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BUDDY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @AlexanderSmit21 verified earnings for $BUDDY on @BagsApp 💰\n\nhttps://t.co/deFUQj9YTe",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +678.61%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $2.67M MC. https://t.co/c",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$POLTV": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @PleyDaaa verified earnings for $POLTV2 on @BagsApp 💰\n\nhttps://t.co/SGPfThS1C1",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $8.87K of $WhiteWhale at $72.26M MC 🐳\n\nhttps://t.co/Id1f3i2ZmO",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$NPC": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $NPC with a PnL of +348.57%.\n\n$NPC has been trending on Moby since $71.09K MC. Currently sitting at $250.89K MC. https://t.co/vlIvzSTOvE",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TMobile",
+      "text": "T-Satellite changes everything. Check for weather updates and stay connected when you're off the beaten path.",
+      "likes": 705,
+      "retweets": 108,
+      "url": "https://x.com/TMobile/status/2008677943128797679"
+    },
+    {
+      "author": "moonpay",
+      "text": "literally trying to give away $30,000 in crypto \n\nall you need to do is follow @MoonPay to be eligible",
+      "likes": 308,
+      "retweets": 79,
+      "url": "https://x.com/moonpay/status/2017228283276939633"
+    },
+    {
+      "author": "mert",
+      "text": "after getting brutally violated by the market last night, I woke up thinking \"how much worse could it get?\"\n\nso I enter my study, and somehow a bird got in and shit LITERALLY everywhere\n\nas if cz and wintermute weren't enough I am now getting dumped on by mother nature https://t.",
+      "likes": 194,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2017213178367905924"
+    },
+    {
+      "author": "DeItaone",
+      "text": "*US DEC. PRODUCER PRICES RISE 0.5% M/M; EST. +0.2%\n*US DEC. PRODUCER PRICES RISE 3% Y/Y; EST. +2.7%\n\n*US DEC. CORE PPI RISES 0.7% M/M; EST. +0.2%\n*US DEC. CORE PPI RISES 3.3% Y/Y; EST. +2.9%",
+      "likes": 170,
+      "retweets": 42,
+      "url": "https://x.com/DeItaone/status/2017229050457055232"
+    },
+    {
+      "author": "moonpay",
+      "text": "if we hit 300K followers by Feb 1, the $30,000 giveaway begins",
+      "likes": 162,
+      "retweets": 20,
+      "url": "https://x.com/moonpay/status/2017228284744888486"
+    },
+    {
+      "author": "himgajria",
+      "text": "All the farmers are out? \nPerfect timing. https://t.co/kzu7mgfwxm",
+      "likes": 136,
+      "retweets": 14,
+      "url": "https://x.com/himgajria/status/2017203307551535169"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "The cabal is trying to manipulate the MegaETH pre-market price on Hyperliquid.\n\nWe all know $MEGA gonna trade above $0.4 USD https://t.co/wGW3MSEFH0",
+      "likes": 129,
+      "retweets": 2,
+      "url": "https://x.com/waleswoosh/status/2017225627133465063"
+    },
+    {
+      "author": "himgajria",
+      "text": "All fees accrued will go towards buying back units of copper (inu) in the open market, which will be burnt. \n\nOn the regular.\n\nI.e. perpetually deflationary.\n\nBetter economics than off-chain commodities.",
+      "likes": 125,
+      "retweets": 18,
+      "url": "https://x.com/himgajria/status/2017200008727245211"
+    },
+    {
+      "author": "himgajria",
+      "text": "10,000,000 units of copper (inu) melted permanently. Equivalent to 1% of total supply.",
+      "likes": 121,
+      "retweets": 16,
+      "url": "https://x.com/himgajria/status/2017199141739479543"
+    },
+    {
+      "author": "himgajria",
+      "text": "“I’m waiting for entry”\n*Entry comes* \n“I think it goes lower”\n*Proceeds to go up* \n“I should have bought”",
+      "likes": 111,
+      "retweets": 6,
+      "url": "https://x.com/himgajria/status/2017200755770569172"
+    }
+  ]
+}

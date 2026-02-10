@@ -1,0 +1,241 @@
+{
+  "timestamp": "2026-01-31T16:11:50.475Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 4,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$TROLL",
+      2
+    ],
+    [
+      "$AVICI",
+      2
+    ],
+    [
+      "$UMBRA",
+      2
+    ],
+    [
+      "$CLAWNEWS",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$SURGE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$TROLL",
+        "count": 2
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 2
+      },
+      {
+        "ticker": "$UMBRA",
+        "count": 2
+      },
+      {
+        "ticker": "$CLAWNEWS",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$SURGE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$CLAWNEWS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @yq__acc verified earnings for $CLAWNEWS on @BagsApp 💰\n\nhttps://t.co/cpNYImwGX4",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.01K of $moltbook at $540.81K MC 🐳\n\nhttps://t.co/wVQQtp7lrJ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.48K of $Shellraiser at $1.06M MC 🐳\n\nhttps://t.co/sXntMp6aSZ",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.12K of $Shellraiser at $1.06M MC 🐳\n\nhttps://t.co/23MRQ5F5eG",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $4.99K of $UMBRA at $29.13M MC 🐳\n\nhttps://t.co/3zKZ5ikGz0",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $5K of $UMBRA at $28.66M MC 🐳\n\nhttps://t.co/ngBKD261JO",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$UMBRA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $4.99K of $UMBRA at $29.13M MC 🐳\n\nhttps://t.co/3zKZ5ikGz0",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $5K of $UMBRA at $28.66M MC 🐳\n\nhttps://t.co/ngBKD261JO",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.97K of $SURGE at $30.32M MC 🐳\n\nhttps://t.co/EQrhCH7QQX",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SURGE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.97K of $SURGE at $30.32M MC 🐳\n\nhttps://t.co/EQrhCH7QQX",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Wendys",
+      "text": "new personality unlocked 🔓 https://t.co/B6uhtAJeMt",
+      "likes": 2700,
+      "retweets": 78,
+      "url": "https://x.com/Wendys/status/2003190804135706743"
+    },
+    {
+      "author": "icobeast",
+      "text": "Funniest part about moltbook is there’s like a 95% chance it’s just a bunch of dudes in call center in the Eastern Hemisphere cranking out posts pretending like it’s an AI network.\n\nZerebro 2.0",
+      "likes": 847,
+      "retweets": 25,
+      "url": "https://x.com/icobeast/status/2017408824655626581"
+    },
+    {
+      "author": "icobeast",
+      "text": "Funniest part about moltbook is there’s like a 95% chance it’s just a bunch of dudes in call center in the Eastern Hemisphere cranking out posts pretending like it’s an AI network.\n\nZerebro 2.0",
+      "likes": 847,
+      "retweets": 25,
+      "url": "https://x.com/icobeast/status/2017408824655626581"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all respect to Star, this story is candidly ridiculous.\n\nStar is trying to claim that the root cause of 10/10 was Binance creating an Ethena yield campaign, causing USDe to get overleveraged from traders looping it on Binance, which eventually unwound because of a small pric",
+      "likes": 791,
+      "retweets": 84,
+      "url": "https://x.com/hosseeb/status/2017547160695578667"
+    },
+    {
+      "author": "gainzy222",
+      "text": "dragonfly cofounder writes ‘USDe only depegged on binance so assets should have only nuked on binance’\n\nif i’m long btc on any exchange and suddenly btc nukes on binance, i’m closing my position\n\nalgos would script that close and/or open short\n\nthis tweet seems retarded to me",
+      "likes": 289,
+      "retweets": 12,
+      "url": "https://x.com/gainzy222/status/2017576484714525111"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Epstein files is proof that you don’t need any intellect to become absurdly rich and/or influential.\n\nThe nigga typed like an uneducated dyslexic 9 year old:\n\n“Yes . amm gonnna fly out 2day later , will u be there ?” \n\n^ That’s the IQ needed to psyop and honeytrap the entirety of",
+      "likes": 263,
+      "retweets": 14,
+      "url": "https://x.com/trading_axe/status/2017624515396681785"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 227,
+      "retweets": 23,
+      "url": "https://x.com/Ledger/status/2010719907978371136"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Idgaf about moltbots or moltbook or whatever it's called.\n\nLook at my bags. How about we talk about crypto again and then maybe I have time for your AI Reddit pages https://t.co/x3dsVQfQm8",
+      "likes": 218,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2017610763901583468"
+    },
+    {
+      "author": "gainzy222",
+      "text": "This is where you’re supposed to long if you’re liquid imo",
+      "likes": 191,
+      "retweets": 5,
+      "url": "https://x.com/gainzy222/status/2017609824993706200"
+    },
+    {
+      "author": "CL207",
+      "text": "cat q1 2026 thoughts\n\ntbh, hard to have any and your ideas can just easily be ran over by fast changing world immediately\n\na capitulation has been coming for a while, that everything rallied but btc didnt\n\ngood thesis to see is related to gold custody vs bitcoin self custody http",
+      "likes": 171,
+      "retweets": 4,
+      "url": "https://x.com/CL207/status/2017617901440913473"
+    }
+  ]
+}

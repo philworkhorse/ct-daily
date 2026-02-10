@@ -1,0 +1,240 @@
+{
+  "timestamp": "2026-02-08T09:00:35.612Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 3,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$JUP",
+      3
+    ],
+    [
+      "$WBTC",
+      3
+    ],
+    [
+      "$KLAUS",
+      2
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JUP",
+        "count": 3
+      },
+      {
+        "ticker": "$WBTC",
+        "count": 3
+      },
+      {
+        "ticker": "$KLAUS",
+        "count": 2
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "fed": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $4K of $jlJUPUSD at $50.93M MC 🐳\n\nhttps://t.co/KwIMeMeJZN",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +102.52%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $868.8K MC. https://t.co/Uiu2L3",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $74.09K of $WBTC at $277.75M MC 🐳\n\nhttps://t.co/lkTY8syo2m",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $16.48K of $WBTC at $278.76M MC 🐳\n\nhttps://t.co/6qAnOxnFaI",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $16.37K of $WBTC at $277.06M MC 🐳\n\nhttps://t.co/7XNtVCNnEY",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $74.09K of $WBTC at $277.75M MC 🐳\n\nhttps://t.co/lkTY8syo2m",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $16.48K of $WBTC at $278.76M MC 🐳\n\nhttps://t.co/6qAnOxnFaI",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $16.37K of $WBTC at $277.06M MC 🐳\n\nhttps://t.co/7XNtVCNnEY",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$KLAUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $KLAUS with a PnL of +201.13%.\n\n$KLAUS has been trending on Moby since $98.91K MC. Currently sitting at $528.32K MC. https://t.co/vgKdMg",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $KLAUS with a PnL of +167.83%.\n\n$KLAUS has been trending on Moby since $98.91K MC. Currently sitting at $443.31K MC. https://t.co/B4YIHb",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.21K of $PENGUIN at $28.78M MC 🐳\n\nhttps://t.co/28imvrTLoX",
+        "likes": 10,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $6.85K of $TROLL at $17.35M MC 🐳\n\nhttps://t.co/z1EPCselY7",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, taking some time off today https://t.co/hZU29fcv8d",
+      "likes": 544,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2020380982587847011"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Why does nobody question how computers or iPhones were made in the first place?\n\nHow the fuck did they put together random metals pieces and suddenly you could touch the screen to open apps?\n\nHow do you just \"discover\" the technology in the first place to make something touch scr",
+      "likes": 315,
+      "retweets": 7,
+      "url": "https://x.com/trading_axe/status/2020388725516104184"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Words can't describe how nice it is to finally be tapped into the Twitter firehose. Previous versions of this stuff were heavily limited by being glorified web scrapers.\n\nNow... everyone has access to efficiently query all of Twitter. Insane. Thanks @XDevelopers",
+      "likes": 261,
+      "retweets": 11,
+      "url": "https://x.com/frankdegods/status/2020366023162225137"
+    },
+    {
+      "author": "im_roy_lee",
+      "text": "if ur building in true consumer then please bro think twice about marketing on X\n\ntech twitter is TINY and at best will brutally force you into the hell hole of a plateau that is $300k/mo\n\nif u can find me irl and are not extremely unlikable, i will eagerly share all learnings ht",
+      "likes": 261,
+      "retweets": 5,
+      "url": "https://x.com/im_roy_lee/status/2020399699270713698"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 239,
+      "retweets": 14,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "SolidTradesz",
+      "text": "You just survived the 9th worst crash in Bitcoin history and the worst in absolute dollar terms\n\nCongratulations! https://t.co/6KXyoUJwBB",
+      "likes": 189,
+      "retweets": 11,
+      "url": "https://x.com/SolidTradesz/status/2020414687221858754"
+    },
+    {
+      "author": "toly",
+      "text": "If energy demand grows at 2% a year by year 5000 we should be using all the energy in the Milky Way galaxy.",
+      "likes": 166,
+      "retweets": 7,
+      "url": "https://x.com/toly/status/2020357661867528367"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "The 4 year cycle is repeating, Bitcoin is cooked. \n\nBut there is a silver lining. \n\nhttps://t.co/pH2cL94wFm",
+      "likes": 156,
+      "retweets": 7,
+      "url": "https://x.com/Tradermayne/status/2020378816473100420"
+    }
+  ]
+}

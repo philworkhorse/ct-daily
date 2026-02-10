@@ -1,0 +1,215 @@
+{
+  "timestamp": "2026-02-03T07:07:12.689Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 1,
+    "neutral": 93,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CRY",
+      2
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$CARDS",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$BITCAT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CRY",
+        "count": 2
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$CARDS",
+        "count": 1
+      },
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$BITCAT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 3
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.26K of $K2 at $386.44K MC 🐳\n\nhttps://t.co/xkLIgTcKH7",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @chibawan_info verified earnings for $SOL on @BagsApp 💰\n\nhttps://t.co/tW3DehI0f4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CRY": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CRY with a PnL of +92.17%.\n\n$CRY has been trending on Moby since $54.8K MC. Currently sitting at $232.96K MC. https://t.co/YFfcZkDwzh",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CRY with a PnL of +93.37%.\n\n$CRY has been trending on Moby since $54.8K MC. Currently sitting at $231.19K MC. https://t.co/bR5tmEI5N8",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $4.79K of $CARDS at $95.89M MC 🐳\n\nhttps://t.co/b4ZUZlf3xw",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CARDS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $4.79K of $CARDS at $95.89M MC 🐳\n\nhttps://t.co/b4ZUZlf3xw",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $3.89K of $WOJAK at $10.06M MC 🐳\n\nhttps://t.co/gSBdNRjAui",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $3.89K of $WOJAK at $10.06M MC 🐳\n\nhttps://t.co/gSBdNRjAui",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BITCAT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/exxW23bXUB verified earnings for $BITCAT on @BagsApp 💰\n\nhttps://t.co/jK5QhcBd4X",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "sama",
+      "text": "I am very excited about AI, but to go off-script for a minute:\n\nI built an app with Codex last week. It was very fun. Then I started asking it for ideas for new features and at least a couple of them were better than I was thinking of.\n\nI felt a little useless and it was sad.",
+      "likes": 9991,
+      "retweets": 398,
+      "url": "https://x.com/sama/status/2018444309750862333"
+    },
+    {
+      "author": "levelsio",
+      "text": "Germany has a 115 year history of repeated mass psychosis through ideological totalitarianism \n\nGerman culture raises people who pursue ideas with extreme thoroughness and moral intensity\n\nWW2 was nationalism brought to its extreme resulting in millions of people dead\n\nNow we hav",
+      "likes": 2844,
+      "retweets": 210,
+      "url": "https://x.com/levelsio/status/2018416434007638121"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet? https://t.co/G9lxitZiki",
+      "likes": 448,
+      "retweets": 7,
+      "url": "https://x.com/waleswoosh/status/2018565186270138474"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Hype so strong it'll bottom the rest of the market.\n\nGoodnight everybody.",
+      "likes": 337,
+      "retweets": 15,
+      "url": "https://x.com/ThinkingUSD/status/2018544998254526668"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "People are about to realize @HyperliquidX is the most important start up in the world not named OpenAI or Anthropic",
+      "likes": 295,
+      "retweets": 23,
+      "url": "https://x.com/ThinkingUSD/status/2018546636121575905"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bros whats a good new movie to stream",
+      "likes": 100,
+      "retweets": 1,
+      "url": "https://x.com/blknoiz06/status/2018571378820260255"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "timestamp": "2026-02-07T13:00:33.746Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 4,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ROUTER",
+      3
+    ],
+    [
+      "$DNB",
+      1
+    ],
+    [
+      "$SOMNIA",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$RIFTS",
+      1
+    ],
+    [
+      "$PIKACHU",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ROUTER",
+        "count": 3
+      },
+      {
+        "ticker": "$DNB",
+        "count": 1
+      },
+      {
+        "ticker": "$SOMNIA",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$RIFTS",
+        "count": 1
+      },
+      {
+        "ticker": "$PIKACHU",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "oil": 2,
+      "gold": 1
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$DNB": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Vinayapr23 verified earnings for $DNB on @BagsApp 💰\n\nhttps://t.co/2o8q5LEqIp",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$ROUTER": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $2.16K of $ROUTER at $292.89K MC 🐳\n\nhttps://t.co/nGY9fsEIY6",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Koyla_sol just bought $1.5K of $ROUTER at $211.45K MC 🐳\n\nhttps://t.co/mrlMX2DldN",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @spyzer just bought $1.05K of $ROUTER at $191.35K MC 🐳\n\nhttps://t.co/kypcdhufp6",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$SOMNIA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @jalalrimex verified earnings for $SOMNIA on @BagsApp 💰\n\nhttps://t.co/tanGWibzw9",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $3.25K of $RIFTS at $436.4K MC 🐳\n\nhttps://t.co/9VEdIbgePn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$RIFTS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $3.25K of $RIFTS at $436.4K MC 🐳\n\nhttps://t.co/9VEdIbgePn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PIKACHU": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @AlphaCrew23 just bought $1.77K of $PIKACHU at $221.7K MC 🐳\n\nhttps://t.co/tJfoThIwia",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.83K of $TROLL at $16.83M MC 🐳\n\nhttps://t.co/ztCxddvnBA",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $TOILET with a PnL of +277.01%.\n\n$TOILET has been trending on Moby since $70.4K MC. Currently sitting at $2.11M MC. https://t.co/qgouZyt",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "naval",
+      "text": "There is unlimited demand for intelligence.",
+      "likes": 2645,
+      "retweets": 239,
+      "url": "https://x.com/naval/status/2020107233317515676"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 323,
+      "retweets": 12,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Polymarket with more visits than the top crypto websites combined.\n\nAnd about to flip Robinhood.\n\nPolymarket supercycle",
+      "likes": 274,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2020033571449348426"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "snow, japan https://t.co/i0yfKPoOI1",
+      "likes": 220,
+      "retweets": 1,
+      "url": "https://x.com/izebel_eth/status/2020045284907090219"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "How will you explain to your kids and grandkids that you had one final chance to buy BTC under $65k USD before it runs to $250k USD.\n\nBut you chose to doompost on CT instead?\n\nYou're an embarrassment to your bloodline",
+      "likes": 196,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020112230176477255"
+    },
+    {
+      "author": "moonpay",
+      "text": "gm!",
+      "likes": 196,
+      "retweets": 15,
+      "url": "https://x.com/moonpay/status/2020115032864952707"
+    },
+    {
+      "author": "CL207",
+      "text": "❄️❄️❄️ https://t.co/sW11h07C2o",
+      "likes": 141,
+      "retweets": 0,
+      "url": "https://x.com/CL207/status/2020025668990619719"
+    }
+  ]
+}

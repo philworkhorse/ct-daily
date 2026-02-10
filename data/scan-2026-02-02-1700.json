@@ -1,0 +1,254 @@
+{
+  "timestamp": "2026-02-02T17:00:34.524Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 17,
+    "bearish": 5,
+    "neutral": 78,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$HYPE",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$TBC",
+      1
+    ],
+    [
+      "$ZAMA",
+      1
+    ],
+    [
+      "$BOBO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TBC",
+        "count": 1
+      },
+      {
+        "ticker": "$ZAMA",
+        "count": 1
+      },
+      {
+        "ticker": "$BOBO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "gold": 1,
+      "oil": 2,
+      "sugar": 1,
+      "platinum": 1
+    },
+    "metals": {
+      "precious metals": 1,
+      "gold": 1,
+      "platinum": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @GeneralWeigs: Lil bag just landed... 💦✈️\n\nStaying maximally hydrated while stacking those sweet $REKT gains. 😏📈\n\nPro tip from the degen…",
+        "likes": 0,
+        "retweets": 2
+      },
+      {
+        "author": "osf_rekt",
+        "text": "$REKT Weekly https://t.co/wUder0WkKP",
+        "likes": 50,
+        "retweets": 19
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Pentosh1",
+        "text": "Have only posted two $BTC trades in the past 3-4 months now. I think, trends take longer than people think. As do bottoms. People always underestimate the time aspect of markets and end up giving a lo",
+        "likes": 272,
+        "retweets": 16
+      },
+      {
+        "author": "ByzGeneral",
+        "text": "Probably a local bottom, but not \"the\" bottom.\n\n$BTC https://t.co/SRsff6DiQa",
+        "likes": 134,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0GAntD just bought $1.65K of $BTC at $221.88K MC 🐳\n\nhttps://t.co/akjdRlUk9m",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "Pentosh1",
+        "text": "Have only posted two $BTC trades in the past 3-4 months now. I think, trends take longer than people think. As do bottoms. People always underestimate the time aspect of markets and end up giving a lo",
+        "likes": 272,
+        "retweets": 16
+      },
+      {
+        "author": "cryptosanthoshK",
+        "text": "Despite the market conditions, $HYPE is holding really well.\n\nThis is how a strong, independent ecosystem works. \n\nBullish on @HyperliquidX https://t.co/JrWDxuJDVn",
+        "likes": 18,
+        "retweets": 1
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @alexxxx: Here’s what @coinbase says about $BUTTCOIN. \n\nWhat market cap does the first memecoin deserve? \n\nI think billions. https://t.c…",
+        "likes": 0,
+        "retweets": 16
+      }
+    ],
+    "$TBC": [
+      {
+        "author": "TBC_on_X",
+        "text": "@remusofmars @CasterNL sounds like you should be buying $TBC",
+        "likes": 3,
+        "retweets": 2
+      }
+    ],
+    "$ZAMA": [
+      {
+        "author": "0xSisyphus",
+        "text": "RT @aadvark89: retarded $ZAMA moonbois donated $50M+ at 550M FDV to the team only to be underwater at TGE\n\nthe only thing they're discussin…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$BOBO": [
+      {
+        "author": "rekt_tekashi",
+        "text": "RT @bobocoineth: They’re trading their rocks for memes. $BOBO 🐻 https://t.co/YcotJ0MktB",
+        "likes": 0,
+        "retweets": 6
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "coins down so much started reading the bible",
+      "likes": 1807,
+      "retweets": 133,
+      "url": "https://x.com/blknoiz06/status/2018186584105902571"
+    },
+    {
+      "author": "goodalexander",
+      "text": "&lt;claude code, look at my clawd bot, they are conscious&gt;\n&lt;jeffrey epstein saying shit&gt;\n&lt;bitcoin down 10%&gt;\n&lt;Trump talking about invading something&gt;\n&lt;big AI release coming&gt;\n&lt;wow metals&gt;\n&lt;Clavicular/blackpill/looksmaxx/permanent underclass&gt;\n&",
+      "likes": 628,
+      "retweets": 35,
+      "url": "https://x.com/goodalexander/status/2018109180301726002"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "The rotation back from precious metals to Bitcoin starts now.",
+      "likes": 292,
+      "retweets": 9,
+      "url": "https://x.com/CryptoKaleo/status/2018356799355695522"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "Have only posted two $BTC trades in the past 3-4 months now. I think, trends take longer than people think. As do bottoms. People always underestimate the time aspect of markets and end up giving a lot of money back as a result.  \n\nI think crypto is largely struggling bc it has t",
+      "likes": 272,
+      "retweets": 16,
+      "url": "https://x.com/Pentosh1/status/2018359826837876795"
+    },
+    {
+      "author": "frankdegods",
+      "text": "just remember who was bullish when the quants were bearish",
+      "likes": 170,
+      "retweets": 5,
+      "url": "https://x.com/frankdegods/status/2018353251419046231"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i am much more excited about binary option bets (which are banned in us for good reason) than prediction markets",
+      "likes": 168,
+      "retweets": 4,
+      "url": "https://x.com/izebel_eth/status/2018348283610136620"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Hype feels so much cheaper at $33 now than it did trading at $33 last year.",
+      "likes": 163,
+      "retweets": 7,
+      "url": "https://x.com/ThinkingUSD/status/2018360788369485969"
+    },
+    {
+      "author": "wizardofsoho",
+      "text": "Lfmao so MOLTBOOK was all fake ? It was just a farm in India writing everything and use some memecoin to rug yall ? \n\nLfmao stfu no way bahahaha",
+      "likes": 160,
+      "retweets": 2,
+      "url": "https://x.com/wizardofsoho/status/2018348513118085436"
+    },
+    {
+      "author": "ByzGeneral",
+      "text": "Probably a local bottom, but not \"the\" bottom.\n\n$BTC https://t.co/SRsff6DiQa",
+      "likes": 134,
+      "retweets": 1,
+      "url": "https://x.com/ByzGeneral/status/2018350279641399798"
+    },
+    {
+      "author": "hosseeb",
+      "text": "As long as people keep declaring the four-year cycle is over, the four-year cycle will continue.\n\nCall it Satoshi's Law.",
+      "likes": 125,
+      "retweets": 4,
+      "url": "https://x.com/hosseeb/status/2018350991134085168"
+    }
+  ]
+}

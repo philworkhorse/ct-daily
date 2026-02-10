@@ -1,0 +1,187 @@
+{
+  "timestamp": "2026-01-30T22:24:31.592Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 2,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MOLT",
+      3
+    ],
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$CASH",
+      1
+    ],
+    [
+      "$GOLD",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MOLT",
+        "count": 3
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$CASH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$GOLD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 6,
+      "gold": 3
+    },
+    "metals": {
+      "silver": 6,
+      "gold": 3
+    },
+    "macro": {
+      "bond": 1,
+      "dollar": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$MOLT": [
+      {
+        "author": "chang_defi",
+        "text": "RT @seyong: some cool stats re: $MOLT\n\n- fomo has driven 50% of all volume to the token\n- nearly 1/2 of holders with a real balance live on…",
+        "likes": 0,
+        "retweets": 20
+      },
+      {
+        "author": "CookerFlips",
+        "text": "$MOLT\n\nhttps://t.co/7xA6mKxwAl @PastelAlpha https://t.co/Rb25Aa8W7U",
+        "likes": 12,
+        "retweets": 0
+      },
+      {
+        "author": "CookerFlips",
+        "text": "Gunning for &gt;#75 in @notthreadguy list\n\nTagging him to piss him off or FOMO him $MOLT https://t.co/HuolnYXHJ9",
+        "likes": 29,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.57K of $PENGUIN at $52.25M MC 🐳\n\nhttps://t.co/48qemSauWw",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.01K of $Robobook at $757.56K MC 🐳\n\nhttps://t.co/wUfBDTbMX1",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.98K of $PENGUIN at $51.64M MC 🐳\n\nhttps://t.co/qjkNB1PsDy",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $14.55K of $CASH at $103.2M MC 🐳\n\nhttps://t.co/lbmLQkH8JW",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$CASH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $14.55K of $CASH at $103.2M MC 🐳\n\nhttps://t.co/lbmLQkH8JW",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "PARABOLIT",
+        "text": "Just locked almost all my $GOLD tokens 🫡",
+        "likes": 13,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC longs\n\nUp slightly now, +next milestones. Our 83.7k+ close is incoming.\n\nAlright longs up slightly now and going to plan.\n\nGood to see the line I saw most likely to play out still follow and our ",
+        "likes": 28,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1469,
+      "retweets": 221,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 152,
+      "retweets": 1,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Is this view is correct, it would eventually be bullish for crypto, but probably not until later this year.\n\nBasically crypto stays weak until stocks drop and makes the Fed do something.\n\nSince metals dropped and SPX broke down against Gold, there is a high chance stocks start dr",
+      "likes": 133,
+      "retweets": 8,
+      "url": "https://x.com/intocryptoverse/status/2017360319010517142"
+    }
+  ]
+}

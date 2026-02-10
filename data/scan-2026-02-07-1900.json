@@ -1,0 +1,220 @@
+{
+  "timestamp": "2026-02-07T19:00:42.332Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 1,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$PSYOPANIME",
+      1
+    ],
+    [
+      "$LEGS",
+      1
+    ],
+    [
+      "$RAY",
+      1
+    ],
+    [
+      "$ORCHESTRA",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$MET",
+      1
+    ],
+    [
+      "$PETAH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$PSYOPANIME",
+        "count": 1
+      },
+      {
+        "ticker": "$LEGS",
+        "count": 1
+      },
+      {
+        "ticker": "$RAY",
+        "count": 1
+      },
+      {
+        "ticker": "$ORCHESTRA",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$MET",
+        "count": 1
+      },
+      {
+        "ticker": "$PETAH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @realdogen: normies hitting me up about $BUTTCOIN \n\nthis is great for the space \n\ngot a just-in-case we go to buttlions bag",
+        "likes": 0,
+        "retweets": 4
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @realdogen: normies hitting me up about $BUTTCOIN \n\nthis is great for the space \n\ngot a just-in-case we go to buttlions bag",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$PSYOPANIME": [
+      {
+        "author": "traderpow",
+        "text": "I get my news from $PSYOPANIME",
+        "likes": 80,
+        "retweets": 10
+      }
+    ],
+    "$LEGS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ScottRWolcott verified earnings for $LEGS on @BagsApp 💰\n\nhttps://t.co/CsDaY9FgMX",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$RAY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $RAY whale just bought $18.43K of $RAY at $345.11M MC 🐳\n\nhttps://t.co/8cOuT9ugJI",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ORCHESTRA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @orchestraAIflow verified earnings for $ORCHESTRA on @BagsApp 💰\n\nhttps://t.co/STaja3Jy2q",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "@miragemunny unstable coin stands alone as the only anti TradFi vehicle railing against dogshit slop like XPL (which you know is only going to increase ten-fold as the bankers and countries send the s",
+        "likes": 4,
+        "retweets": 3
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "We will be shorting $BTC\n\nOn the daily timeframe, the 71K-73K zone is a key resistance. Price is now coming back for an underside retest.\n\n- Stop loss 75.5K-77K\n- Trigger below 69K\n- Target 61K-60K\n\nA",
+        "likes": 7,
+        "retweets": 0
+      }
+    ],
+    "$MET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $MET on MobyScreener 🖼️ https://t.co/MDqB78xUmN",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$PETAH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $3.69K of $PETAH at $329.51K MC 🐳\n\nhttps://t.co/wXalTIXSvA",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "notthreadguy",
+      "text": "nyc “feels like -16 degrees” and i pay 54% taxes to live here",
+      "likes": 364,
+      "retweets": 10,
+      "url": "https://x.com/notthreadguy/status/2020172289166209105"
+    },
+    {
+      "author": "miragemunny",
+      "text": "i believe the narrative for the next memecoin “cycle” will be legacy memecoins\n\nproper “memecoins;” tokenizations of legacy memes, not “tokenized viral memes” that come &amp; go\n\ncultural memes like doge, pepe, buttcoin, troll, wojak, popcat, dogwifhat, etc. (ownership being idea",
+      "likes": 238,
+      "retweets": 28,
+      "url": "https://x.com/miragemunny/status/2019863160266879212"
+    },
+    {
+      "author": "deltaxbt",
+      "text": "wtf lol\nmm stat on crack https://t.co/plvp5wIo8b",
+      "likes": 111,
+      "retweets": 3,
+      "url": "https://x.com/deltaxbt/status/2020170716251922572"
+    },
+    {
+      "author": "chooserich",
+      "text": "THE 10 KEY REASONS CRYPTO COLLAPSED https://t.co/4Qokrufcyv",
+      "likes": 105,
+      "retweets": 12,
+      "url": "https://x.com/chooserich/status/2020207189403791624"
+    },
+    {
+      "author": "based16z",
+      "text": "I'm working on dying",
+      "likes": 100,
+      "retweets": 2,
+      "url": "https://x.com/based16z/status/2020190882121806218"
+    }
+  ]
+}

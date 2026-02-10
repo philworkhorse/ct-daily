@@ -1,0 +1,268 @@
+{
+  "timestamp": "2026-01-30T04:33:19.187Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 17,
+    "bearish": 2,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ELON",
+      3
+    ],
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$PWENG",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$UMBRA",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$CHAMATH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ELON",
+        "count": 3
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$PWENG",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$UMBRA",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$CHAMATH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "no matter what price you buy $BUTTCOIN at, you’re buying the bottom",
+        "likes": 11,
+        "retweets": 1
+      },
+      {
+        "author": "miragemunny",
+        "text": "no matter what price you buy $BUTTCOIN at, you’re buying the bottom",
+        "likes": 11,
+        "retweets": 1
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $1K of $ELON at $11.6M MC 🐳\n\nhttps://t.co/yii257wNiZ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $1K of $ELON at $11.6M MC 🐳\n\nhttps://t.co/yii257wNiZ",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +116.44%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $10.28M MC. https://t.co/QkLC8GT1Jp",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +218.83%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $10.6M MC. https://t.co/MutqahrhEI",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "WogTheArtist",
+        "text": "I’m the CTO lead of $FWOG, and for the longest time I’ve had one idea sitting in the back of my mind ~ $PWENG (FWOG version of a penguin) \n\nThe only thing holding me back was time.\n\nNow I finally have",
+        "likes": 139,
+        "retweets": 11
+      }
+    ],
+    "$PWENG": [
+      {
+        "author": "WogTheArtist",
+        "text": "I’m the CTO lead of $FWOG, and for the longest time I’ve had one idea sitting in the back of my mind ~ $PWENG (FWOG version of a penguin) \n\nThe only thing holding me back was time.\n\nNow I finally have",
+        "likes": 139,
+        "retweets": 11
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $6.24K of $UMBRA at $33.2M MC 🐳\n\nhttps://t.co/Vd4ov0xhr2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$UMBRA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $6.24K of $UMBRA at $33.2M MC 🐳\n\nhttps://t.co/Vd4ov0xhr2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.35K of $CHAMATH at $155.77K MC 🐳\n\nhttps://t.co/7Zttjfyq1c",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$CHAMATH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.35K of $CHAMATH at $155.77K MC 🐳\n\nhttps://t.co/7Zttjfyq1c",
+        "likes": 3,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "NFL",
+      "text": "This @HoustonTexans defense keeps causing chaos 💪 https://t.co/FJGGoVPVF7",
+      "likes": 1183,
+      "retweets": 103,
+      "url": "https://x.com/NFL/status/2013012117906202655"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Fit 10,000mAh in the palm of your hand. One thing to pack, five ways to power.",
+      "likes": 996,
+      "retweets": 46,
+      "url": "https://x.com/ridgewallet/status/2012636179003478090"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "yo",
+      "likes": 673,
+      "retweets": 14,
+      "url": "https://x.com/blknoiz06/status/2014367703067177117"
+    },
+    {
+      "author": "SBF_FTX",
+      "text": "1) Why I became a Republican in 2022. https://t.co/otNVWmzvya",
+      "likes": 479,
+      "retweets": 39,
+      "url": "https://x.com/SBF_FTX/status/2017034165879751079"
+    },
+    {
+      "author": "cobie",
+      "text": "https://t.co/eMMZIwdIMt",
+      "likes": 450,
+      "retweets": 18,
+      "url": "https://x.com/cobie/status/2017089325083574667"
+    },
+    {
+      "author": "cobie",
+      "text": "https://t.co/eMMZIwdIMt",
+      "likes": 450,
+      "retweets": 18,
+      "url": "https://x.com/cobie/status/2017089325083574667"
+    },
+    {
+      "author": "CL207",
+      "text": "its getting depressing here, but truly kinda crazy we got one of the most insane commodity run of all time, literally all time\n\nmonetary scare, nasdaq ath, or whatever these metal prices and asset prices even mean\n\nand bitcoin has been bleeding, truly darkest days for crypto",
+      "likes": 425,
+      "retweets": 14,
+      "url": "https://x.com/CL207/status/2017069765488160932"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Price action moving like a toxic 10/10.\n\nWhat you niggaz know about BARS like that?\n\nFuck it though, flash crash us to zero again CZ.\n\nOne last time for old time’s sake.\n\n~ Dr. Axius.",
+      "likes": 391,
+      "retweets": 17,
+      "url": "https://x.com/trading_axe/status/2017052447303192709"
+    },
+    {
+      "author": "gainzy222",
+      "text": "&gt; retail hates cz\n&gt; funds hate cz\n&gt; vc’s hate cz\n&gt; competitors hate cz\n\nCz is truly universally hated\n\n“It’s coordinated fud” - cz\n\nLmao brother who exactly is coordinating, the literal entire world?",
+      "likes": 318,
+      "retweets": 15,
+      "url": "https://x.com/gainzy222/status/2017070094103245069"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "COOPER FLAGG TONIGHT:\n\n60 POINTS\n10 REBOUNDS \n3 ASSISTS \n\n🔥🔥🔥 https://t.co/rekzqZAv4Y",
+      "likes": 184,
+      "retweets": 4,
+      "url": "https://x.com/TheNBACentel/status/2017090814489382930"
+    }
+  ]
+}

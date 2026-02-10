@@ -1,0 +1,178 @@
+{
+  "timestamp": "2026-02-06T04:34:50.157Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 4,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$CLAWPY",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$DOG",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWPY",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$DOG",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "oil": 2
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1K of $Winston at $392.24K MC 🐳\n\nhttps://t.co/lRLfz1KbwH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWPY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Froge_Bot verified earnings for $CLAWPY on @BagsApp 💰\n\nhttps://t.co/1h4iiNyVki",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $2.01K of $DOG at $1.08M MC 🐳\n\nhttps://t.co/dqwlUfXUXC",
+        "likes": 2,
+        "retweets": 2
+      }
+    ],
+    "$DOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $2.01K of $DOG at $1.08M MC 🐳\n\nhttps://t.co/dqwlUfXUXC",
+        "likes": 2,
+        "retweets": 2
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.18K of $testicle❄️ at $3.18M MC 🐳\n\nhttps://t.co/esXxH5k91s",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "rasmr_eth",
+      "text": "Okay it is kinda weird that the one coin Binance doesn't own (HYPE) is the only one not nuking",
+      "likes": 1302,
+      "retweets": 76,
+      "url": "https://x.com/rasmr_eth/status/2019525516852666564"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "You guys must want the bear market to end soon 😅 https://t.co/LOfELLUIjI",
+      "likes": 285,
+      "retweets": 4,
+      "url": "https://x.com/intocryptoverse/status/2019626424911462812"
+    },
+    {
+      "author": "ThinkingBitmex",
+      "text": "Liquidation maps are showing something incredible\n\nThere are almost NO positions to liquidate until $58k\n\nOn the flip side there are a TON of shorts from here to $80k to liquidate\n\nBears are under pressure now https://t.co/MGWpgWWm4c",
+      "likes": 241,
+      "retweets": 10,
+      "url": "https://x.com/ThinkingBitmex/status/2019597116184703359"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "where the fuck is ben pasternak",
+      "likes": 227,
+      "retweets": 9,
+      "url": "https://x.com/notthreadguy/status/2019509407038755023"
+    },
+    {
+      "author": "based16z",
+      "text": "Bitcoin looking raped here",
+      "likes": 190,
+      "retweets": 6,
+      "url": "https://x.com/based16z/status/2019610671466574041"
+    },
+    {
+      "author": "fejau_inc",
+      "text": "Regardless of whether AI disrupts other segments of the economy, the catalyst of the most in demand and well paid sector (software engineering) turning into the most disrupted sounds pretty damn deflationary to me",
+      "likes": 163,
+      "retweets": 3,
+      "url": "https://x.com/fejau_inc/status/2019550592432239017"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Dillon Brooks talking TRASH to Steph Curry on the bench 😭 https://t.co/s96h7QmbhA",
+      "likes": 163,
+      "retweets": 3,
+      "url": "https://x.com/TheNBACentel/status/2019626016126455876"
+    },
+    {
+      "author": "Icebergy",
+      "text": "the vcs who funded all the dats and are now saying crypto is forever dead are some of the obnoxious people on this site",
+      "likes": 145,
+      "retweets": 17,
+      "url": "https://x.com/Icebergy/status/2019619483829301310"
+    }
+  ]
+}

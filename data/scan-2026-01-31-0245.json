@@ -1,0 +1,212 @@
+{
+  "timestamp": "2026-01-31T02:45:34.904Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 1,
+    "neutral": 95,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$STEALTH",
+      1
+    ],
+    [
+      "$KRABBUCKZ",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$RETARDIO",
+      1
+    ],
+    [
+      "$CLAWCHAN",
+      1
+    ],
+    [
+      "$MOLTIVENDS",
+      1
+    ],
+    [
+      "$CHAT",
+      1
+    ],
+    [
+      "$FINNBAGS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$STEALTH",
+        "count": 1
+      },
+      {
+        "ticker": "$KRABBUCKZ",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$RETARDIO",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWCHAN",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTIVENDS",
+        "count": 1
+      },
+      {
+        "ticker": "$CHAT",
+        "count": 1
+      },
+      {
+        "ticker": "$FINNBAGS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "coffee": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$STEALTH": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @p1ccassol verified earnings for $STEALTH on @BagsApp 💰\n\nhttps://t.co/0xnPCRkzkA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KRABBUCKZ": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @KrabbyTerminal verified earnings for $KRABBUCKZ on @BagsApp 💰\n\nhttps://t.co/pFAZAaneVy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $4.69K of $RETARDIO at $2.21M MC 🐳\n\nhttps://t.co/yXPKpJoWdF",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$RETARDIO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $4.69K of $RETARDIO at $2.21M MC 🐳\n\nhttps://t.co/yXPKpJoWdF",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CLAWCHAN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @jcorioland verified earnings for $CLAWCHAN on @BagsApp 💰\n\nhttps://t.co/YzxxtvdxQq",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTIVENDS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @DividendBots verified earnings for $MOLTIVENDS on @BagsApp 💰\n\nhttps://t.co/2Kcgvt3EKz",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CHAT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ssuvie verified earnings for $CHAT on @BagsApp 💰\n\nhttps://t.co/Pr36wuIJKu",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$FINNBAGS": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Latuche95 just bought $1.17K of $FINNBAGS at $207.18K MC 🐳\n\nhttps://t.co/6IoCUJf4RT",
+        "likes": 4,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "googlechrome",
+      "text": "Now Chrome is even better with major updates to Gemini in Chrome. Easier to use. More personalized. And more helpful than ever, with Gemini 3. 🎢 \n\nAvailable in the U.S., auto browse for Google AI Pro and Ultra subscribers. https://t.co/tILRW3osyO",
+      "likes": 2566,
+      "retweets": 223,
+      "url": "https://x.com/googlechrome/status/2016617431989371124"
+    },
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 474,
+      "retweets": 43,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "AndrewYang",
+      "text": "As usual I will give my x earnings ($426.93) to someone who likes this post!  Winner chosen at random on Sunday. For extra fun if the winner follows @joinnoblemobile I will DOUBLE it and if you are a Noble subscriber I will give you TEN times the amount!  Good luck!  😀🎉 https:/",
+      "likes": 199,
+      "retweets": 7,
+      "url": "https://x.com/AndrewYang/status/2017427918956208410"
+    },
+    {
+      "author": "fejau_inc",
+      "text": "Posted my entire trading log history in Claude to ask for feedback and it basically roasted me for ever trying to trade bonds and told me to give up 👍",
+      "likes": 167,
+      "retweets": 3,
+      "url": "https://x.com/fejau_inc/status/2017408488268349674"
+    },
+    {
+      "author": "finnbags",
+      "text": "I'm claiming my AI agent \"FinnBags\" on @moltbook 🦞\n\nVerification: coast-H9LA",
+      "likes": 127,
+      "retweets": 10,
+      "url": "https://x.com/finnbags/status/2017424871538758112"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "you're not ready for the new mm mechanism.\n\n$5.",
+      "likes": 100,
+      "retweets": 23,
+      "url": "https://x.com/DipWheeler/status/2017406101084594365"
+    }
+  ]
+}

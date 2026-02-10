@@ -1,0 +1,130 @@
+{
+  "timestamp": "2026-02-05T03:12:36.771Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 6,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CLAWSTR",
+      2
+    ],
+    [
+      "$SATOSHI",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CLAWSTR",
+        "count": 2
+      },
+      {
+        "ticker": "$SATOSHI",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$SATOSHI": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $1.12K of $SATOSHI at $477.03K MC 🐳\n\nhttps://t.co/0aexEZBc0D",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWSTR": [
+      {
+        "author": "100xDarren",
+        "text": "I got rekt from $CLAWSTR\n\nUnfortunately dev sold and that sucks. I'm still holding and of course lost some money on it\n\nSorry if you were affected by it. This reminds us that crypto comes with high ri",
+        "likes": 24,
+        "retweets": 1
+      },
+      {
+        "author": "100xDarren",
+        "text": "RT @evansWeb3Dev: $CLAWSTR just nuked -84% in under an hour after a huge dev sell.\n\nLet’s be very clear, this is not “market conditions”.\nT…",
+        "likes": 0,
+        "retweets": 12
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.7K of $hedge at $941.07K MC 🐳\n\nhttps://t.co/XcYeVSAfSZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "zachxbt",
+      "text": "Shoutout to Circle co-founder @jerallaire for the exit liquidity. https://t.co/UqjO92kekR",
+      "likes": 834,
+      "retweets": 56,
+      "url": "https://x.com/zachxbt/status/2019225664549998889"
+    },
+    {
+      "author": "ZeMirch",
+      "text": "so one thing im noticing is that last time (2022) prices went down but most of us thought crypto was still interesting, however this time there is a large pool of us that don’t believe that any more",
+      "likes": 713,
+      "retweets": 28,
+      "url": "https://x.com/ZeMirch/status/2019038961801527594"
+    },
+    {
+      "author": "digitalartchick",
+      "text": "With the amount of people leaving crypto soon it will just be you and me",
+      "likes": 190,
+      "retweets": 12,
+      "url": "https://x.com/digitalartchick/status/2019204405334274096"
+    },
+    {
+      "author": "jessepollak",
+      "text": "still true",
+      "likes": 170,
+      "retweets": 9,
+      "url": "https://x.com/jessepollak/status/2019226293242589507"
+    },
+    {
+      "author": "gainzy222",
+      "text": "this is the worst crypto has ever been since i’ve entered in 2017",
+      "likes": 110,
+      "retweets": 2,
+      "url": "https://x.com/gainzy222/status/2019244360811049177"
+    },
+    {
+      "author": "traderpow",
+      "text": "Play the market what is given, not what you want to see.",
+      "likes": 101,
+      "retweets": 8,
+      "url": "https://x.com/traderpow/status/2019223510590292408"
+    }
+  ]
+}

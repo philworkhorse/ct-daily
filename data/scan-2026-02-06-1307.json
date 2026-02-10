@@ -1,0 +1,229 @@
+{
+  "timestamp": "2026-02-06T13:07:26.295Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 8,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PUMP",
+      3
+    ],
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$POLY",
+      1
+    ],
+    [
+      "$SHANNON",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$BIRB",
+      1
+    ],
+    [
+      "$UNIQUE",
+      1
+    ],
+    [
+      "$AMZN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PUMP",
+        "count": 3
+      },
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$POLY",
+        "count": 1
+      },
+      {
+        "ticker": "$SHANNON",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$BIRB",
+        "count": 1
+      },
+      {
+        "ticker": "$UNIQUE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$AMZN",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "oil": 1,
+      "coffee": 1
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$POLY": [
+      {
+        "author": "Tyler_Did_It",
+        "text": "ICYMI: Polymarket's parent company filed trademarks for POLY and $POLY yesterday\n\nIncluding trademark protection for “cryptocurrency services, financial trading platforms, and blockchain-based payment",
+        "likes": 14,
+        "retweets": 1
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "rektmando",
+        "text": "good time to buy good coins like $REKT",
+        "likes": 55,
+        "retweets": 4
+      },
+      {
+        "author": "osf_rekt",
+        "text": "RT @TukasNFT: Started dca'ing some $REKT.\n\nBet on the communities and founders who are here through the bear and bull.\n\nAnd one of them @re…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$SHANNON": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Keygraph_io verified earnings for $SHANNON on @BagsApp 💰\n\nhttps://t.co/UvFHf0kxkG",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $9.99K of $jlJUPUSD at $45.38M MC 🐳\n\nhttps://t.co/qwn9hWHOtO",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $14.29K of $jlJUPUSD at $45.38M MC 🐳\n\nhttps://t.co/FzWCXq8MHy",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $17.96K of $jlJUPUSD at $45.38M MC 🐳\n\nhttps://t.co/LX1O3jZ3XP",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $10.03K of $BIRB at $311.68M MC 🐳\n\nhttps://t.co/0ATr5BEVCX",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BIRB": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $10.03K of $BIRB at $311.68M MC 🐳\n\nhttps://t.co/0ATr5BEVCX",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$UNIQUE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @MisterP69420 verified earnings for $UNIQUE on @BagsApp 💰\n\nhttps://t.co/8XtpLtKqf3",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$AMZN": [
+      {
+        "author": "DeItaone",
+        "text": "$AMZN - AMAZON'S CAPEX NEEDS TO SHOW RETURNS\n\nMorgan Stanley says Amazon’s $200B 2026 capex must deliver clear returns. AWS growth supports the spend, but investors are watching the satellite internet",
+        "likes": 57,
+        "retweets": 9
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "tayvano_",
+      "text": "Well I just learned the MetaMask offboarding process is the most MetaMask thing in the entire world 😅\n\nI’m so sorry to everyone I was mid-convo with\n\nAlso, I’m not going anywhere\n\nFrom now, I will just scream FUCKIN’ METAMASK with you. Instead of defending the indefensible. 💖",
+      "likes": 264,
+      "retweets": 10,
+      "url": "https://x.com/tayvano_/status/2019693670526775341"
+    },
+    {
+      "author": "mert",
+      "text": "LET'S GO https://t.co/kYufZAPui3",
+      "likes": 178,
+      "retweets": 9,
+      "url": "https://x.com/mert/status/2019746784994632160"
+    },
+    {
+      "author": "0xIT4I",
+      "text": "The next global reserve currency will probably be a basket of assets forged into a centralized bank digital currency (CBDC) - dominated by gold, yuan, and oil through the Saudi alliance, with a tiny portion of regional currencies like the ruble and rupee.\n\nChina understands its g",
+      "likes": 156,
+      "retweets": 9,
+      "url": "https://x.com/0xIT4I/status/2016159695439102266"
+    },
+    {
+      "author": "osf_rekt",
+      "text": "“i would buy the dip but i don’t have any money left” \n\n- if this is you (and it is a lot of people) then here’s what i would personally do \n\ni would still buy the dip, even if it’s with $1, and i would still average down, even if its just 10c at a time \n\nu can’t always be in the",
+      "likes": 140,
+      "retweets": 11,
+      "url": "https://x.com/osf_rekt/status/2019734240020123699"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "https://t.co/zBVT3WfwPj",
+      "likes": 133,
+      "retweets": 6,
+      "url": "https://x.com/izebel_eth/status/2019704499699585478"
+    },
+    {
+      "author": "inversebrah",
+      "text": "who haz more aura?\n\n#poll pls rt :3",
+      "likes": 101,
+      "retweets": 19,
+      "url": "https://x.com/inversebrah/status/2019646051121263108"
+    }
+  ]
+}

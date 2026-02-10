@@ -1,0 +1,280 @@
+{
+  "timestamp": "2026-02-06T23:49:00.936Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 3,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CHIPS",
+      3
+    ],
+    [
+      "$TSLA",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$MOLTRATS",
+      1
+    ],
+    [
+      "$CTO",
+      1
+    ],
+    [
+      "$PEPE",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$MOLA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CHIPS",
+        "count": 3
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTRATS",
+        "count": 1
+      },
+      {
+        "ticker": "$CTO",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$PEPE",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$TSLA",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$TSLA": [
+      {
+        "author": "0xDamien",
+        "text": "Tesla merging with SpaceX (xAI) is only a matter of when, not if\n\n$TSLA -&gt; $X https://t.co/k0o0Ef73qf",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $10K of $AVICI at $16.32M MC 🐳\n\nhttps://t.co/xsFl2uF23F",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $10K of $AVICI at $16.32M MC 🐳\n\nhttps://t.co/xsFl2uF23F",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTRATS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @jasonkneen verified earnings for $MOLTRATS on @BagsApp 💰\n\nhttps://t.co/qokCCDtJ8e",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$CTO": [
+      {
+        "author": "Crypto_rusky",
+        "text": "RT @cryptocekii: Ethereum $CTO is cooking\n\nSome early $PEPE whales joining also. This dude bought 0.1 eth and made 21,000,000$.\n\nhttps://t.…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$PEPE": [
+      {
+        "author": "Crypto_rusky",
+        "text": "RT @cryptocekii: Ethereum $CTO is cooking\n\nSome early $PEPE whales joining also. This dude bought 0.1 eth and made 21,000,000$.\n\nhttps://t.…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$CHIPS": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $1.55K of $CHIPS at $181.04K MC 🐳\n\nhttps://t.co/uCGjdUXB99",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @collectible just bought $1.1K of $CHIPS at $141.12K MC 🐳\n\nhttps://t.co/Izkpxho123",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0GAntD just bought $1.71K of $CHIPS at $104.93K MC 🐳\n\nhttps://t.co/NapW2gvxwH",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "More proof that\n\nethereum is the future of finance\n\n$ETH",
+        "likes": 467,
+        "retweets": 22
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "CookerFlips",
+        "text": "I've had this post bookmarked from nearly a year ago now\n\nPunch this into Grok and look at the update\n\nHow can you not be bullish on $HYPE",
+        "likes": 22,
+        "retweets": 0
+      }
+    ],
+    "$MOLA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @molaunch verified earnings for $MOLA on @BagsApp 💰\n\nhttps://t.co/nDlGEZljHJ",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "I have seen people on crack throw more money on the 1h fartcoin chart than france is throwing at science",
+      "likes": 539,
+      "retweets": 28,
+      "url": "https://x.com/mert/status/2019883774889402384"
+    },
+    {
+      "author": "fundstrat",
+      "text": "More proof that\n\nethereum is the future of finance\n\n$ETH",
+      "likes": 467,
+      "retweets": 22,
+      "url": "https://x.com/fundstrat/status/2019904152361660447"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "the longterm pmf successes during crypto's history have been: btc, exchanges, and stablecoins\n\nthese are the areas that have and will continue to see investment even while other thesis fail\n\ndespite sentiment, i think investing in good crypto projects will outperform traditional ",
+      "likes": 302,
+      "retweets": 20,
+      "url": "https://x.com/izebel_eth/status/2019800663027511645"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "New perpetual swap market share all time high. One venue is consistently growing while the others shrink.\n\nHyperliquid https://t.co/Hr7zSi7V8I",
+      "likes": 188,
+      "retweets": 19,
+      "url": "https://x.com/ThinkingUSD/status/2019906347685519822"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Onboarding the next billion users (agents)",
+      "likes": 150,
+      "retweets": 14,
+      "url": "https://x.com/jessepollak/status/2019909209165590741"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Base is for agents",
+      "likes": 130,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2019911747956826400"
+    },
+    {
+      "author": "trading_axe",
+      "text": "TLDR of comments:\n\nConspiracy theory about Patriots winning because of Vegas engineering a honeytrap, Jews wanting Patriots to win and they’ve done it before, something about Tom Brady etc.\n\nAnyway, I had heard enough.\n\nSeattles it is.\n\nALWAYS countertrade RETARDS who think they ",
+      "likes": 119,
+      "retweets": 0,
+      "url": "https://x.com/trading_axe/status/2019902886654710246"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Bears are so f*cked.",
+      "likes": 113,
+      "retweets": 3,
+      "url": "https://x.com/CryptoKaleo/status/2019910877407764872"
+    },
+    {
+      "author": "DeeZe",
+      "text": "In an ai token from 250k that frank degods hasn’t bought yet because the ticker doesn’t have claw or molt in it\n\nSo early",
+      "likes": 108,
+      "retweets": 2,
+      "url": "https://x.com/DeeZe/status/2019858645308125259"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "BREAKING: CRYPTO TRADERS WILL SOON BE ABLE TO USE KLARNA'S 'BUY NOW, PAY LATER' OPTION TO BUY MEMECOINS ON PUMPFUN. https://t.co/3gDcHbmBnj",
+      "likes": 100,
+      "retweets": 1,
+      "url": "https://x.com/DipWheeler/status/2019909841792430300"
+    }
+  ]
+}

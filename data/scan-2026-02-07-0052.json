@@ -1,0 +1,175 @@
+{
+  "timestamp": "2026-02-07T00:52:40.273Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 2,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PYTHIA",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$POLY",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PYTHIA",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$POLY",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1,
+      "gdp": 2
+    }
+  },
+  "tickerDetails": {
+    "$PYTHIA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @DirectorDotEth verified earnings for $PYTHIA on @BagsApp 💰\n\nhttps://t.co/wTilpdkWo0",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "Palgrani2",
+        "text": "RT @DreamInWeb3: $BUTTCOIN is about to repeat the $FARTCOIN run when it went to $3B Market cap without taking much time.\nBoth are similar b…",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "Palgrani2",
+        "text": "RT @DreamInWeb3: $BUTTCOIN is about to repeat the $FARTCOIN run when it went to $3B Market cap without taking much time.\nBoth are similar b…",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$POLY": [
+      {
+        "author": "LoveYouAllNFT",
+        "text": "Polymarket filed for $POLY trademark\n\n$14B FDV\n\nIt will be the biggest airdrop in history\n\nDo not miss out",
+        "likes": 24,
+        "retweets": 7
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.55K of $Pigeon at $434.67K MC 🐳\n\nhttps://t.co/mL4BxXCseE",
+        "likes": 12,
+        "retweets": 3
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "I have seen people on crack throw more money on the 1h fartcoin chart than france is throwing at science",
+      "likes": 829,
+      "retweets": 38,
+      "url": "https://x.com/mert/status/2019883774889402384"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "The price of Bitcoin went up $10k and the fear and greed index dropped from 9 to 6 🤣 https://t.co/WrssqqzkKa",
+      "likes": 305,
+      "retweets": 16,
+      "url": "https://x.com/intocryptoverse/status/2019932234988335108"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "vibe check https://t.co/FgP4UMNAKY",
+      "likes": 247,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2019925683657666600"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "vibe check https://t.co/FgP4UMNAKY",
+      "likes": 247,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2019925683657666600"
+    },
+    {
+      "author": "jessepollak",
+      "text": "who's building an agent on @base that I should follow?",
+      "likes": 179,
+      "retweets": 11,
+      "url": "https://x.com/jessepollak/status/2019921504151171101"
+    },
+    {
+      "author": "jessepollak",
+      "text": "who's building an agent on @base that I should follow?",
+      "likes": 179,
+      "retweets": 11,
+      "url": "https://x.com/jessepollak/status/2019921504151171101"
+    },
+    {
+      "author": "NostalgiaFolder",
+      "text": "Catscratch (2005-2007) https://t.co/4Z35KwM01e",
+      "likes": 161,
+      "retweets": 33,
+      "url": "https://x.com/NostalgiaFolder/status/2019932622055489809"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "https://t.co/EmxpgjPfyC https://t.co/oBth2VVBr2",
+      "likes": 121,
+      "retweets": 0,
+      "url": "https://x.com/DipWheeler/status/2019919607222706478"
+    }
+  ]
+}

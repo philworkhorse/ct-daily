@@ -1,0 +1,238 @@
+{
+  "timestamp": "2026-01-31T13:01:32.808Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 2,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$COPPERINU",
+      2
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$SILVER",
+      1
+    ],
+    [
+      "$GOLD",
+      1
+    ],
+    [
+      "$CLAWSPACE",
+      1
+    ],
+    [
+      "$MOBY",
+      1
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$BP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$COPPERINU",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$CLAWSPACE",
+        "count": 1
+      },
+      {
+        "ticker": "$MOBY",
+        "count": 1
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$BP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$SILVER",
+        "count": 1
+      },
+      {
+        "ticker": "$GOLD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 3,
+      "gold": 4,
+      "silver": 4
+    },
+    "metals": {
+      "gold": 4,
+      "silver": 4
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @0xpeely: people will remember $COPPERINU as the most hated rally of this cycle\n\nbookmark this https://t.co/h7274sXPif",
+        "likes": 0,
+        "retweets": 6
+      },
+      {
+        "author": "himgajria",
+        "text": "RT @0xpeely: people will remember $COPPERINU as the most hated rally of this cycle\n\nbookmark this https://t.co/h7274sXPif",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$SILVER": [
+      {
+        "author": "PARABOLIT",
+        "text": "Bought $SILVER and bound it to $GOLD\n\nOnchain commodity zhupercycle https://t.co/d1bPpWquir",
+        "likes": 7,
+        "retweets": 3
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "PARABOLIT",
+        "text": "Bought $SILVER and bound it to $GOLD\n\nOnchain commodity zhupercycle https://t.co/d1bPpWquir",
+        "likes": 7,
+        "retweets": 3
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.58K of $Shellraiser at $2.78M MC 🐳\n\nhttps://t.co/sy9fG55cyc",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.03K of $Shellraiser at $2.29M MC 🐳\n\nhttps://t.co/uAdAtFHxxd",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CLAWSPACE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @qrimeCapital verified earnings for $CLAWSPACE on @BagsApp 💰\n\nhttps://t.co/skkDta5pCN",
+        "likes": 7,
+        "retweets": 0
+      }
+    ],
+    "$MOBY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $7.63K of $EURC at $88.88M MC 🐳\n\nhttps://t.co/sP4CYT9mgR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $7.63K of $EURC at $88.88M MC 🐳\n\nhttps://t.co/sP4CYT9mgR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BP": [
+      {
+        "author": "Palgrani2",
+        "text": "RT @HeyItsMeTheDev: Barking Puppy is 1 or 2 @BPuppy80020 tweets away from 100 mil $BP",
+        "likes": 0,
+        "retweets": 4
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "NFL",
+      "text": "\"There's not a lot of backs in this league that make defenders look that silly.\" 👀 https://t.co/R1DOSe8PSP",
+      "likes": 2857,
+      "retweets": 259,
+      "url": "https://x.com/NFL/status/2005836425778868666"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Celebrate the Year of the Fire Horse with the Limited Edition Wallet.",
+      "likes": 1709,
+      "retweets": 103,
+      "url": "https://x.com/ridgewallet/status/2011151259475042306"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all respect to Star, this story is candidly ridiculous.\n\nStar is trying to claim that the root cause of 10/10 was Binance creating an Ethena yield campaign, causing USDe to get overleveraged from traders looping it on Binance, which eventually unwound because of a small pric",
+      "likes": 555,
+      "retweets": 58,
+      "url": "https://x.com/hosseeb/status/2017547160695578667"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "What's one app, protocol or ecosystem that really excites you about crypto right now?\n\nI need some inspiration",
+      "likes": 289,
+      "retweets": 19,
+      "url": "https://x.com/waleswoosh/status/2017542596449673484"
+    },
+    {
+      "author": "gainzy222",
+      "text": "i’ve decided\n\ni’m gonna start day drinking\n\nthank u for ur attention to this matter",
+      "likes": 236,
+      "retweets": 4,
+      "url": "https://x.com/gainzy222/status/2017544960635974052"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "ion truss ppl who don't like the snow.",
+      "likes": 140,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2017543769369805167"
+    },
+    {
+      "author": "himgajria",
+      "text": "Reversal?",
+      "likes": 115,
+      "retweets": 5,
+      "url": "https://x.com/himgajria/status/2017554795352232162"
+    },
+    {
+      "author": "DeItaone",
+      "text": "NVIDIA'S HUANG: WE WILL INVEST A GREAT DEAL OF MONEY IN OPENAI",
+      "likes": 114,
+      "retweets": 15,
+      "url": "https://x.com/DeItaone/status/2017577735795663242"
+    }
+  ]
+}

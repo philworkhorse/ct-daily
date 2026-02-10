@@ -1,0 +1,188 @@
+{
+  "timestamp": "2026-01-30T18:16:20.622Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 4,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$SLV",
+      1
+    ],
+    [
+      "$GLD",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$LORIA",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$OPENCLAW",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$LORIA",
+        "count": 1
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$SLV",
+        "count": 1
+      },
+      {
+        "ticker": "$GLD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 6,
+      "silver": 10,
+      "copper": 2,
+      "platinum": 1,
+      "palladium": 1
+    },
+    "metals": {
+      "gold": 6,
+      "silver": 10,
+      "platinum": 1,
+      "palladium": 1
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "the majority of volume going into $BUTTCOIN is coming from coinbase’s new solana on-chain integration\n\nthe wallet that operates on behalf of coinbase users is the top holder of $BUTTCOIN\n\nremember the",
+        "likes": 12,
+        "retweets": 3
+      },
+      {
+        "author": "miragemunny",
+        "text": "the majority of volume going into $BUTTCOIN is coming from coinbase’s new solana on-chain integration\n\nthe wallet that operates on behalf of coinbase users is the top holder of $BUTTCOIN\n\nremember the",
+        "likes": 12,
+        "retweets": 3
+      }
+    ],
+    "$SLV": [
+      {
+        "author": "deltaxbt",
+        "text": "RT @tradfi: *SPOT SILVER HEADS FOR WORST DAILY PERFORMANCE ON RECORD\n\n*SPOT GOLD FALLS 10% IN BIGGEST DROP IN DECADES\n\n$SLV $GLD",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$GLD": [
+      {
+        "author": "deltaxbt",
+        "text": "RT @tradfi: *SPOT SILVER HEADS FOR WORST DAILY PERFORMANCE ON RECORD\n\n*SPOT GOLD FALLS 10% IN BIGGEST DROP IN DECADES\n\n$SLV $GLD",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.98K of $PENGUIN at $57.43M MC 🐳\n\nhttps://t.co/IL7y0VOyhk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LORIA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Upwar_Earth verified earnings for $LORIA on @BagsApp 💰\n\nhttps://t.co/w9Hju7R7CX",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "brentradess",
+        "text": "LIVE with Gold and Silver Vet @basementron  Gold crash $BTC bottomed? https://t.co/4Rkf9lPUo4",
+        "likes": 25,
+        "retweets": 17
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/IKexDeRRMk verified earnings for $OPENCLAW on @BagsApp 💰\n\nhttps://t.co/3IIavF0O2L",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Applebees",
+      "text": "Try the NEW O-M-Cheese Burger for $11.99. Our Juicy Bacon Cheese Burger served in a skillet of cheese. Only at Applebee's",
+      "likes": 2130,
+      "retweets": 123,
+      "url": "https://x.com/Applebees/status/2009173234084974912"
+    },
+    {
+      "author": "DellTech",
+      "text": "Global CTO and Chief AI Officer @theICToptimist unpacks the future from AI factories to agentic AI. Tune in as he explains how to move beyond experiments to build a real competitive advantage with your data.",
+      "likes": 145,
+      "retweets": 15,
+      "url": "https://x.com/DellTech/status/2014085592221659209"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "🧸🎯",
+      "likes": 104,
+      "retweets": 2,
+      "url": "https://x.com/ThinkingUSD/status/2017291318611849565"
+    }
+  ]
+}

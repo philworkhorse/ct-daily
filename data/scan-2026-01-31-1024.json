@@ -1,0 +1,202 @@
+{
+  "timestamp": "2026-01-31T10:24:16.999Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 2,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 6,
+      "silver": 5,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 6,
+      "silver": 5
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/JgbdgvTmXG",
+        "likes": 51,
+        "retweets": 2
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $4.92K of $COPPERINU at $4.78M MC 🐳\n\nhttps://t.co/BXmjbIg5DU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $4.92K of $COPPERINU at $4.78M MC 🐳\n\nhttps://t.co/BXmjbIg5DU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.67K of $PENGUIN at $51.14M MC 🐳\n\nhttps://t.co/9VL2lnM1ve",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.58K of $PENGUIN at $51.14M MC 🐳\n\nhttps://t.co/JZfeXxM1hP",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "crypto_banter",
+        "text": "RT @crypto_banter: What's next for $BTC? 👇",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $4.06K of $FWOG at $7.87M MC 🐳\n\nhttps://t.co/wzb4WCNgOa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $4.06K of $FWOG at $7.87M MC 🐳\n\nhttps://t.co/wzb4WCNgOa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Wendys",
+      "text": "new personality unlocked 🔓 https://t.co/B6uhtAJeMt",
+      "likes": 2678,
+      "retweets": 78,
+      "url": "https://x.com/Wendys/status/2003190804135706743"
+    },
+    {
+      "author": "StateFarm",
+      "text": "Something even bigger to be unveiled 2.8.26",
+      "likes": 1923,
+      "retweets": 90,
+      "url": "https://x.com/StateFarm/status/2015814352847392934"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1551,
+      "retweets": 228,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "FTFonFS1",
+      "text": ".@getnickwright thinks Maye making the Super Bowl has more of an impact on other QBs than Darnold does:\n\n ”I think the big loser’s Joe Burrow. I think if I’m making a QB top 5 today, Joe Burrow is out and Drake Maye is in.” https://t.co/h8qDGDSe5t",
+      "likes": 484,
+      "retweets": 19,
+      "url": "https://x.com/FTFonFS1/status/2016258159871209792"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "LMAOOOOOOOOOOOO",
+      "likes": 124,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2017532767580409897"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "rate outta 10 https://t.co/JtcLMDt72U",
+      "likes": 102,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2017532278985920746"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "timestamp": "2026-02-05T01:00:40.810Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 7,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIGA",
+      2
+    ],
+    [
+      "$DJT",
+      1
+    ],
+    [
+      "$JW",
+      1
+    ],
+    [
+      "$CLAWGLASS",
+      1
+    ],
+    [
+      "$REEF",
+      1
+    ],
+    [
+      "$WILSON",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIGA",
+        "count": 2
+      },
+      {
+        "ticker": "$DJT",
+        "count": 1
+      },
+      {
+        "ticker": "$JW",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWGLASS",
+        "count": 1
+      },
+      {
+        "ticker": "$REEF",
+        "count": 1
+      },
+      {
+        "ticker": "$WILSON",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 3,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$DJT": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Truth Social Coin finally happening!? \n\nOnly 2 days behind when they initially documented it would be launching...\n\nThe Truth Social, social media page has added the ticker $DJT to its name...\n\nSource",
+        "likes": 10,
+        "retweets": 1
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "RSI Bottomed. ✅\nTime to send…🚀\n\n$GIGA https://t.co/ToGzO8NyJP",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "gigagriff",
+        "text": "They were making chinese knock off giga fitness back in 2024😂😂😂\n\nThis was before giga fitness was even launched.\n\nImagine how crazy things will get when the market returns.\n\n$GIGA https://t.co/J7pN",
+        "likes": 8,
+        "retweets": 2
+      }
+    ],
+    "$JW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @BrianRoemmele verified earnings for $JW on @BagsApp 💰\n\nhttps://t.co/rYgMX8GSr2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWGLASS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ClawGlases verified earnings for $CLAWGLASS on @BagsApp 💰\n\nhttps://t.co/yfYl4jmusE",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$REEF": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/YwkWvfevPF verified earnings for $REEF on @BagsApp 💰\n\nhttps://t.co/61Vh3sis4v",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WILSON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $WILSON on MobyScreener 🖼️ https://t.co/qeJ3SUVyRV",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "If you want to get me a birthday gift, buy some bitcoin for yourself. https://t.co/ZbaIdIpj10",
+      "likes": 21540,
+      "retweets": 1745,
+      "url": "https://x.com/saylor/status/2019043884152840596"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "Generational bottom. https://t.co/eXyovVOgAE",
+      "likes": 15554,
+      "retweets": 216,
+      "url": "https://x.com/DipWheeler/status/2019074182022045832"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "what is the best vehicle  to long x402",
+      "likes": 143,
+      "retweets": 9,
+      "url": "https://x.com/notthreadguy/status/2019136894999883884"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Calling the generational bottom for Bitcoin here.\n\n.\n\nNot going lower tomorrow.",
+      "likes": 112,
+      "retweets": 4,
+      "url": "https://x.com/CryptoKaleo/status/2019207002963300429"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "https://t.co/Q2usXVdVAp",
+      "likes": 112,
+      "retweets": 2,
+      "url": "https://x.com/Tradermayne/status/2019186720164733348"
+    },
+    {
+      "author": "mert",
+      "text": "AI is many decades old\n\ncrypto is 2 decades old, and scalable chains aren't even 5 years old\n\ncynicism towards crypto is a lack of imagination exacerbated by price-driven emotion\n\nwe will separate money from the state, encrypt it, and make it programmable at planetary scale",
+      "likes": 101,
+      "retweets": 3,
+      "url": "https://x.com/mert/status/2019200567009243587"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i don’t think saylor knows bitcoin is down but tom lee is having cold sweats and nightmares about his next cnbc appearance",
+      "likes": 100,
+      "retweets": 4,
+      "url": "https://x.com/notthreadguy/status/2019199440456667218"
+    }
+  ]
+}

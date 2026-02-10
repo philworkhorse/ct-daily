@@ -1,0 +1,161 @@
+{
+  "timestamp": "2026-02-08T04:41:04.655Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 4,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$MINI",
+      1
+    ],
+    [
+      "$OPAL",
+      1
+    ],
+    [
+      "$BELLA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$MINI",
+        "count": 1
+      },
+      {
+        "ticker": "$OPAL",
+        "count": 1
+      },
+      {
+        "ticker": "$BELLA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "based16z",
+        "text": "RT @lookonchain: Despite the market crash, Tom Lee(@fundstrat)'s #Bitmine bought another 20,000 $ETH($41.98M) 5 hours ago.\n\nhttps://t.co/r8…",
+        "likes": 0,
+        "retweets": 29
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $14.89K of $PENGUIN at $22.19M MC 🐳\n\nhttps://t.co/k2OKZ1ORh5",
+        "likes": 4,
+        "retweets": 1
+      },
+      {
+        "author": "crypto_bitlord7",
+        "text": "$PENGUIN ARMY RISE UP 🚀 🚀 🚀",
+        "likes": 34,
+        "retweets": 2
+      }
+    ],
+    "$MINI": [
+      {
+        "author": "st_jelmo",
+        "text": "RT @ABathingApeGX: Daily $MINI Spinny https://t.co/fwyWDEVeWm",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$OPAL": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $3.46K of $OPAL at $897.25K MC 🐳\n\nhttps://t.co/UvGf1kYMsl",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BELLA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @99999dicez verified earnings for $BELLA on @BagsApp 💰\n\nhttps://t.co/XXY9xXtxhv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "intocryptoverse",
+      "text": "this is what making money on alts looks like",
+      "likes": 538,
+      "retweets": 18,
+      "url": "https://x.com/intocryptoverse/status/2020343110165807420"
+    },
+    {
+      "author": "MoonOverlord",
+      "text": "nothing says america like looking at someone's boobs then paying interest on it for 9 months",
+      "likes": 185,
+      "retweets": 10,
+      "url": "https://x.com/MoonOverlord/status/2020268981228314845"
+    },
+    {
+      "author": "frankdegods",
+      "text": "\"crypto is software. the coolest neatest software that every 16 year old on the planet wants to play with. this software can find it's way into our real economy.\"\n\n-kevin warsh, 8 days ago at WEF",
+      "likes": 117,
+      "retweets": 5,
+      "url": "https://x.com/frankdegods/status/2020327270246674841"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "this thing bouta ruin my life https://t.co/TMD5bc1SAT",
+      "likes": 107,
+      "retweets": 0,
+      "url": "https://x.com/notthreadguy/status/2020302305137230317"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Holding a SOL balance so you can trade shitters is something we’ll view as outdated as we view gas wars now",
+      "likes": 103,
+      "retweets": 1,
+      "url": "https://x.com/rasmr_eth/status/2020263099501338766"
+    }
+  ]
+}

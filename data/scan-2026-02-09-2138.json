@@ -1,0 +1,250 @@
+{
+  "timestamp": "2026-02-09T21:38:38.836Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 3,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MERGE",
+      2
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$SHIZUKU",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$WETH",
+      1
+    ],
+    [
+      "$ROCK",
+      1
+    ],
+    [
+      "$MOLTEN",
+      1
+    ],
+    [
+      "$VAMP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MERGE",
+        "count": 2
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      },
+      {
+        "ticker": "$SHIZUKU",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$WETH",
+        "count": 1
+      },
+      {
+        "ticker": "$ROCK",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTEN",
+        "count": 1
+      },
+      {
+        "ticker": "$VAMP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1,
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "fed": 3,
+      "treasury": 2,
+      "powell": 1,
+      "inflation": 1,
+      "gdp": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$TOILET": [
+      {
+        "author": "0x_dyan",
+        "text": "RT @tontheneko: Okay I won't spam but I just want to say this:\n\nNothing changed for $TOILET, and it's even more bullish right now, I don't…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$MERGE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0GAntD just bought $1.46K of $MERGE at $134.32K MC 🐳\n\nhttps://t.co/GSe65DKnD6",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $1K of $MERGE at $114.24K MC 🐳\n\nhttps://t.co/9rsMRo3Lf3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SHIZUKU": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/HUwYS5vQBi verified earnings for $SHIZUKU on @BagsApp 💰\n\nhttps://t.co/FX5rpCN9XR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "One of my favorite examples of the importance of distribution is way back in the early days, a whale who owned 2.5% of $GIGA kept capitulated the $20m to $6m drop.\n\nThat distribution was necessary bec",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $43.02K of $WETH at $134.75M MC 🐳\n\nhttps://t.co/y8OtZ2BSQz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WETH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $43.02K of $WETH at $134.75M MC 🐳\n\nhttps://t.co/y8OtZ2BSQz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ROCK": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @nyhrox just bought $1.3K of $ROCK at $792.49K MC 🐳\n\nhttps://t.co/H5pN9ASpAw",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MOLTEN": [
+      {
+        "author": "iruletrenches",
+        "text": "The issue with these AI agentic plays on @base, and the reason they all trended back to zero, with @base getting flamed and compared to sol trenches is simple: zero real utility and misaligned incenti",
+        "likes": 25,
+        "retweets": 3
+      }
+    ],
+    "$VAMP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ApeElteClub verified earnings for $VAMP on @BagsApp 💰\n\nhttps://t.co/GXjlLmOh0R",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ZelenskyyUa",
+      "text": "His helmet bears portraits of our athletes who were killed by Russia. Figure skater Dmytro Sharpar, who was killed in combat near Bakhmut; Yevhen Malyshev, a 19-year-old biathlete killed by the occupiers near Kharkiv; and other Ukrainian athletes whose lives were taken by Russia’",
+      "likes": 645,
+      "retweets": 153,
+      "url": "https://x.com/ZelenskyyUa/status/2020973279947727320"
+    },
+    {
+      "author": "jessepollak",
+      "text": "we’re making the @baseapp feed tradable assets only — which means turning off the farcaster-powered “Talk” feed.\n\nhere's why: the app needs to have one primary focus, and that thing is trading. when you open @baseapp, you should know exactly what you're getting, and we’re focused",
+      "likes": 231,
+      "retweets": 23,
+      "url": "https://x.com/jessepollak/status/2020962065100538091"
+    },
+    {
+      "author": "zoink",
+      "text": "seriously?\n\nhttps://t.co/93p94Ii3mr",
+      "likes": 198,
+      "retweets": 4,
+      "url": "https://x.com/zoink/status/2020961396188758280"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bros how do we feel about shopify",
+      "likes": 194,
+      "retweets": 6,
+      "url": "https://x.com/blknoiz06/status/2020956898548183537"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "Roblox looks like a buy @ $74 https://t.co/SGUafK84MU",
+      "likes": 174,
+      "retweets": 11,
+      "url": "https://x.com/blknoiz06/status/2020957169290768397"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "CZ deserves prison for refusing to list fartcoin.",
+      "likes": 154,
+      "retweets": 3,
+      "url": "https://x.com/DipWheeler/status/2020954034061049903"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "livvy dunne gets brutally chestmogged by alabama sorority foid. https://t.co/gi0vadEqPa",
+      "likes": 105,
+      "retweets": 4,
+      "url": "https://x.com/DipWheeler/status/2020964242174906433"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "if i wanted to cop a camera to start doing photography w/ which one should i cop",
+      "likes": 104,
+      "retweets": 2,
+      "url": "https://x.com/blknoiz06/status/2020963512005317053"
+    }
+  ]
+}

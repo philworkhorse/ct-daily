@@ -1,0 +1,238 @@
+{
+  "timestamp": "2026-02-03T10:16:42.075Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 2,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HYPE",
+      3
+    ],
+    [
+      "$SYMBIENT",
+      2
+    ],
+    [
+      "$WHITEMOLT",
+      1
+    ],
+    [
+      "$GOYIM",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$ZIL",
+      1
+    ],
+    [
+      "$RENTAHUMAN",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 3
+      },
+      {
+        "ticker": "$SYMBIENT",
+        "count": 2
+      },
+      {
+        "ticker": "$WHITEMOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$GOYIM",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$ZIL",
+        "count": 1
+      },
+      {
+        "ticker": "$RENTAHUMAN",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "fed": 2,
+      "dollar": 1,
+      "treasury": 1
+    }
+  },
+  "tickerDetails": {
+    "$HYPE": [
+      {
+        "author": "chang_defi",
+        "text": "In the most aggressive scenario, I think you need a bit under 30% annual returns to hold HYPE through 2030.\n\nI think the most aggressive assumption of true supply of HYPE is ~60% of fd, so its $20bn m",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "chang_defi",
+        "text": "In the most aggressive scenario, I think you need a bit under 30% annual returns to hold HYPE through 2030.\n\nI think the most aggressive assumption of true supply of HYPE is ~60% of fd, so its $20bn m",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "frontrunnersx",
+        "text": "$30m of $HYPE bought by a fresh wallet in the last 24h.\n\nSole explainer of price action. \n\nSome serious pressure from these large wallets - no idea how much more they still want (if any). https://t.co",
+        "likes": 9,
+        "retweets": 1
+      }
+    ],
+    "$WHITEMOLT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @TheWhiteMolt verified earnings for $WHITEMOLT on @BagsApp 💰\n\nhttps://t.co/6mXQGeONeL",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$GOYIM": [
+      {
+        "author": "LexaproTrader",
+        "text": "RT @HopiumPapi: I am a proud $GOYIM.\n\n9S8edqWxoWz5LYLnxWUmWBJnePg35WfdYQp7HQkUpump",
+        "likes": 0,
+        "retweets": 11
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nLower $SOL prices favor meme trading and SOL accumulation, higher prices incentivize rotating SOL into cash and off ramping to bank accounts.\n\n$PUMP looks good here. https://t.co/CX8oXcVK0H",
+        "likes": 28,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nLower $SOL prices favor meme trading and SOL accumulation, higher prices incentivize rotating SOL into cash and off ramping to bank accounts.\n\n$PUMP looks good here. https://t.co/CX8oXcVK0H",
+        "likes": 28,
+        "retweets": 0
+      }
+    ],
+    "$SYMBIENT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @symbientlife verified earnings for $SYMBIENT on @BagsApp 💰\n\nhttps://t.co/KqJqzlyHep",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @hey_zjlla verified earnings for $SYMBIENT on @BagsApp 💰\n\nhttps://t.co/rtC6Sxzs49",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $3.22K of $FWOG at $7.11M MC 🐳\n\nhttps://t.co/vB53JmQN2T",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZIL": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$ZIL is pumping ahead of its Feb 5 hard fork, which brings, EVM compatibility, scalability and smarter contract upgrades. \n\nMeanwhile it is still down -98% from its ATH, so even small narrative shifts",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$RENTAHUMAN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @tomaki_x verified earnings for $RENTAHUMAN on @BagsApp 💰\n\nhttps://t.co/wb9ibmNDKY",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.56K of $Jmail at $291.54K MC 🐳\n\nhttps://t.co/hbDijJqaHt",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Money Badger Boxes currently trading at $230 USD.\n\nPicked one up here.\n\nThey will reveal into Money Badger NFTs at some point which is the cultural layer for Paradex.\n\nPlus there are two airdrops coming up.\n\nObviously some risk to it but NFTs are down bad anyway at the moment so ",
+      "likes": 276,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2018584283657785815"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Perps are fun and all, I get it.\n\nAnd I like trading them too.\n\nBut really the best thing you can do if you think BTC, ETH or SOL is at a good entry, is buy spot.\n\nNo need to buy on 40x leverage and get liquidated before the next leg up.\n\nBuild your portfolio slowly",
+      "likes": 237,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2018599450856562810"
+    }
+  ]
+}

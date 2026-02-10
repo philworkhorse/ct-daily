@@ -1,0 +1,148 @@
+{
+  "timestamp": "2026-02-08T16:28:48.258Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 8,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$CDA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$CDA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "gdp": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $13.69K of $WhiteWhale at $112.78M MC 🐳\n\nhttps://t.co/gIoApHG20y",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $23.12K of $WhiteWhale at $113.53M MC 🐳\n\nhttps://t.co/dzU4n2ZQch",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CDA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Amank1412 verified earnings for $CDA on @BagsApp 💰\n\nhttps://t.co/bIems4pcye",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "&gt;run liquid fund\n&gt;don’t own hyperliquid in size\n\nyou will not have a job",
+      "likes": 574,
+      "retweets": 29,
+      "url": "https://x.com/ThinkingUSD/status/1862686956120920455"
+    },
+    {
+      "author": "TheDemocrats",
+      "text": "All-American Halftime 🇺🇲 https://t.co/DjSqhsoBtH",
+      "likes": 426,
+      "retweets": 84,
+      "url": "https://x.com/TheDemocrats/status/2020532097253777823"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all due respect to Chris, I completely disagree with this take.\n\nChris argues that \"web3,\" particularly crypto-powered gaming and media, failed due to scams and regulation, and that better regulation will unlock these non-financial cases.\n\nOK, think about this for a second. ",
+      "likes": 300,
+      "retweets": 13,
+      "url": "https://x.com/hosseeb/status/2020451853633511696"
+    },
+    {
+      "author": "based16z",
+      "text": "Kyle realized he missed the one good project and became washed eth maxi equivalent and said fuck it I’m leavin",
+      "likes": 266,
+      "retweets": 7,
+      "url": "https://x.com/based16z/status/2020494296693268969"
+    },
+    {
+      "author": "mert",
+      "text": "how come great britain still has the word great in it",
+      "likes": 206,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2020515176361967986"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Apps like gmgn and fomo building USDC based trading apps with cross chain compatibility \n\nSOL as token needs to rerate much lower, this is the trade because even Solana’s win condition no longer requires users to hold the underlying gas token anymore.",
+      "likes": 169,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2020264654120091854"
+    },
+    {
+      "author": "DeItaone",
+      "text": "*TAKAICHI'S PARTY SET TO WIN 2/3 SUPERMAJORITY IN JAPAN: NHK",
+      "likes": 166,
+      "retweets": 23,
+      "url": "https://x.com/DeItaone/status/2020530895812186466"
+    },
+    {
+      "author": "gainzy222",
+      "text": "This is literally where I live lmao\n\nLads he’s not here I swear https://t.co/uYrIfBK2tP",
+      "likes": 141,
+      "retweets": 2,
+      "url": "https://x.com/gainzy222/status/2020508284709400632"
+    },
+    {
+      "author": "himgajria",
+      "text": "No better marketing than ‘price go up’.\nNo better signal than ‘whales buying’.\nNo better risk management than ‘floor strong’.",
+      "likes": 141,
+      "retweets": 15,
+      "url": "https://x.com/himgajria/status/2020501278766555155"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "GOOD MORNING TO BULLS AND BULLS ONLY https://t.co/K0KgCFwIlu",
+      "likes": 118,
+      "retweets": 9,
+      "url": "https://x.com/CryptoKaleo/status/2020522723198357619"
+    }
+  ]
+}

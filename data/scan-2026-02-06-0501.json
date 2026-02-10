@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-02-06T05:01:46.045Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 6,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$APEBAMA",
+      2
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$DHD",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$APEBAMA",
+        "count": 2
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$DHD",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 4,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$GIGA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GIGA whale just bought $20.92K of $GIGA at $20.08M MC 🐳\n\nhttps://t.co/ywM8oeGlc7",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$APEBAMA": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @wenmoonsolana_ just bought $1.21K of $APEBAMA at $650.57K MC 🐳\n\nhttps://t.co/TzXROIeuHp",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @f4vel just bought $1.27K of $APEBAMA at $371.15K MC 🐳\n\nhttps://t.co/EgNS8gbPEF",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$DHD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @iEcoAI verified earnings for $DHD on @BagsApp 💰\n\nhttps://t.co/0fvwJm42p0",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $3.92K of $HYPE at $13.41M MC 🐳\n\nhttps://t.co/knwTZoYbki",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $3.92K of $HYPE at $13.41M MC 🐳\n\nhttps://t.co/knwTZoYbki",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $39.23K of $cbBTC at $285M MC 🐳\n\nhttps://t.co/ibob4jcpOG",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TheNBACentel",
+      "text": "What are the 76ers doing? 😭😭https://t.co/ApwLZDjKNK",
+      "likes": 307,
+      "retweets": 9,
+      "url": "https://x.com/TheNBACentel/status/2019632521043185712"
+    },
+    {
+      "author": "ThinkingBitmex",
+      "text": "Liquidation maps are showing something incredible\n\nThere are almost NO positions to liquidate until $58k\n\nOn the flip side there are a TON of shorts from here to $80k to liquidate\n\nBears are under pressure now https://t.co/MGWpgWWm4c",
+      "likes": 275,
+      "retweets": 12,
+      "url": "https://x.com/ThinkingBitmex/status/2019597116184703359"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "where the fuck is ben pasternak",
+      "likes": 232,
+      "retweets": 9,
+      "url": "https://x.com/notthreadguy/status/2019509407038755023"
+    },
+    {
+      "author": "Icebergy",
+      "text": "the vcs who funded all the dats and are now saying crypto is forever dead are some of the obnoxious people on this site",
+      "likes": 187,
+      "retweets": 26,
+      "url": "https://x.com/Icebergy/status/2019619483829301310"
+    },
+    {
+      "author": "patty_fi",
+      "text": "whos still alive lol",
+      "likes": 186,
+      "retweets": 3,
+      "url": "https://x.com/patty_fi/status/2019545310700400962"
+    },
+    {
+      "author": "fejau_inc",
+      "text": "Regardless of whether AI disrupts other segments of the economy, the catalyst of the most in demand and well paid sector (software engineering) turning into the most disrupted sounds pretty damn deflationary to me",
+      "likes": 167,
+      "retweets": 3,
+      "url": "https://x.com/fejau_inc/status/2019550592432239017"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Who tf celebrates a technological industry going to zero? People losing millions of dollars. You're a weirdo",
+      "likes": 143,
+      "retweets": 4,
+      "url": "https://x.com/rasmr_eth/status/2019568673242116161"
+    },
+    {
+      "author": "ByzGeneral",
+      "text": "Apparently Trump has decided that our coins haven't crashed enough yet.",
+      "likes": 101,
+      "retweets": 5,
+      "url": "https://x.com/ByzGeneral/status/2019615732598706352"
+    },
+    {
+      "author": "Bluntz_Capital",
+      "text": "my wife just asked me if crypto is selling off because of the epstein files. I heard it on the news",
+      "likes": 101,
+      "retweets": 2,
+      "url": "https://x.com/Bluntz_Capital/status/2019632874220355726"
+    }
+  ]
+}

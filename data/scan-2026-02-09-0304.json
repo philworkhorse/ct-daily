@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-02-09T03:04:39.762Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 2,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [],
+  "byCategory": {
+    "crypto": [],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "corn": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "bond": 1
+    }
+  },
+  "tickerDetails": {},
+  "highEngagement": [
+    {
+      "author": "ZohranKMamdani",
+      "text": "NUEVAYoL 🇵🇷!",
+      "likes": 2566,
+      "retweets": 347,
+      "url": "https://x.com/ZohranKMamdani/status/2020693333639868558"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "People gonna think Logan’s being based but this is clearly the result of some incestual hollywood nonsense where bad bunny tried to fuck his girl 3 years ago",
+      "likes": 349,
+      "retweets": 0,
+      "url": "https://x.com/rasmr_eth/status/2020622382508171566"
+    },
+    {
+      "author": "vaneck_us",
+      "text": "you know it’s a bear market when the coinbase logo comes up and the whole crowd of normies boos",
+      "likes": 246,
+      "retweets": 10,
+      "url": "https://x.com/vaneck_us/status/2020669589168734589"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Base is for everybooooody.",
+      "likes": 193,
+      "retweets": 20,
+      "url": "https://x.com/jessepollak/status/2020678183084048474"
+    },
+    {
+      "author": "based16z",
+      "text": "I fw Bad Bunny songs but this def some one world government shit https://t.co/5K0sEIk1E0",
+      "likes": 191,
+      "retweets": 1,
+      "url": "https://x.com/based16z/status/2020672180791501047"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "The schedule getting postponed this nigga stinks",
+      "likes": 145,
+      "retweets": 1,
+      "url": "https://x.com/hoodg3nius/status/2020694323600543842"
+    }
+  ]
+}

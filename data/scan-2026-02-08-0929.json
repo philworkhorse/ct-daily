@@ -1,0 +1,224 @@
+{
+  "timestamp": "2026-02-08T09:29:40.782Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 2,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CBBTC",
+      3
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$WBTC",
+      1
+    ],
+    [
+      "$KLAUS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CBBTC",
+        "count": 3
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$WBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$KLAUS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/E24EQ8T8BF",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "0xFinish",
+        "text": "smth shady is happening on $ETH as well \n\nMarket Maker code is broken, someone big has blown off \n\nI can't share all the details yet https://t.co/AEA6484ytD",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $4.93K of $jlJUPUSD at $50.93M MC 🐳\n\nhttps://t.co/NUVn9NC90M",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $14.08K of $jlJUPUSD at $50.93M MC 🐳\n\nhttps://t.co/aPpkztShhf",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $4K of $jlJUPUSD at $50.93M MC 🐳\n\nhttps://t.co/KwIMeMeJZN",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "Fast-SAM3D just set a new bar for single-image 3D reconstruction: 2.67× faster object generation (31.0 s → 11.6 s) and 2.01× faster scenes, with *no retraining* and *negligible quality loss*—in fact, ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +102.52%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $868.8K MC. https://t.co/Uiu2L3",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $74.09K of $WBTC at $277.75M MC 🐳\n\nhttps://t.co/lkTY8syo2m",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $74.09K of $WBTC at $277.75M MC 🐳\n\nhttps://t.co/lkTY8syo2m",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$KLAUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $KLAUS with a PnL of +201.13%.\n\n$KLAUS has been trending on Moby since $98.91K MC. Currently sitting at $528.32K MC. https://t.co/vgKdMg",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ZelenskyyUa",
+      "text": "Russia launched more than 2,000 attack drones, 1,200 guided aerial bombs, and 116 missiles of various types at our cities and villages in just this past week. Almost every day, they strike energy facilities, logistics infrastructure, and residential buildings. And this is happeni",
+      "likes": 761,
+      "retweets": 290,
+      "url": "https://x.com/ZelenskyyUa/status/2020422355613282587"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, taking some time off today https://t.co/hZU29fcv8d",
+      "likes": 576,
+      "retweets": 11,
+      "url": "https://x.com/waleswoosh/status/2020380982587847011"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Words can't describe how nice it is to finally be tapped into the Twitter firehose. Previous versions of this stuff were heavily limited by being glorified web scrapers.\n\nNow... everyone has access to efficiently query all of Twitter. Insane. Thanks @XDevelopers",
+      "likes": 298,
+      "retweets": 12,
+      "url": "https://x.com/frankdegods/status/2020366023162225137"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 256,
+      "retweets": 14,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "The 4 year cycle is repeating, Bitcoin is cooked. \n\nBut there is a silver lining. \n\nhttps://t.co/pH2cL94wFm",
+      "likes": 159,
+      "retweets": 7,
+      "url": "https://x.com/Tradermayne/status/2020378816473100420"
+    },
+    {
+      "author": "DeItaone",
+      "text": "IRAN UNFAZED BY U.S. MILITARY BUILDUP\n\nIran’s Foreign Minister Abbas Araghchi said Sunday that Tehran is not intimidated by increased U.S. military presence in the Middle East.\n\nHe reaffirmed Iran’s refusal to abandon its nuclear program, calling it a sovereign right, and warned ",
+      "likes": 106,
+      "retweets": 11,
+      "url": "https://x.com/DeItaone/status/2020423553754026288"
+    }
+  ]
+}

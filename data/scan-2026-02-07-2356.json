@@ -1,0 +1,159 @@
+{
+  "timestamp": "2026-02-07T23:56:23.879Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 5,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PERC",
+      2
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$WOG",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$DAREDEV",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PERC",
+        "count": 2
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$WOG",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$DAREDEV",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $5.07K of $PERC at $3.17M MC 🐳\n\nhttps://t.co/1fq97qCP79",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$PERC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $5.07K of $PERC at $3.17M MC 🐳\n\nhttps://t.co/1fq97qCP79",
+        "likes": 4,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $1.06K of $PERC at $2.9M MC 🐳\n\nhttps://t.co/bxFtwAPzdu",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$WOG": [
+      {
+        "author": "WogTheArtist",
+        "text": "A cult is forming… \n\nThese are the best and strongest type of coins\n\nLove to see it… \n\n$WOG https://t.co/ObeSwZYgIS",
+        "likes": 46,
+        "retweets": 14
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $1.06K of $PERC at $2.9M MC 🐳\n\nhttps://t.co/bxFtwAPzdu",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$DAREDEV": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @lonemikol verified earnings for $DAREDEV on @BagsApp 💰\n\nhttps://t.co/hwH1SWZusA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "Everybody knows $GIGA is going back to $1b+\n\nWe’re all just waiting for market conditions to improve.\n\nAccumulate before they do.\n\nThe Big One🗿",
+        "likes": 5,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "garrytan",
+      "text": "I use a very specific prompt to push Claude to check its work and do a lot of testing and thinking about perf and refactoring. I find I can do big features (4K LOC+ with full testing) in about an hour. https://t.co/9lk5ruNUjw",
+      "likes": 2342,
+      "retweets": 113,
+      "url": "https://x.com/garrytan/status/2020072098635665909"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Used to know a guy who was into voicemaxxing in 2015~ and published his BEFORE and AFTER voice.\n\nThe results were night and day.\n\nVoice halo effect is so insane that most of you simply overlook it.\n\nIf you can speak CLEAR ENGLISH with coherent sentences,\n\nAll you need is a DEEP V",
+      "likes": 170,
+      "retweets": 4,
+      "url": "https://x.com/trading_axe/status/2020275404368683476"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "The evolution of sports is so wild. \n\nForget the skill of rugby or football just run into each other hard as fuck no pads. \n\nForget boxing or mma skills just stand here and slap each other hard as you can without defending yourself.",
+      "likes": 136,
+      "retweets": 4,
+      "url": "https://x.com/Tradermayne/status/2020258764482654603"
+    }
+  ]
+}

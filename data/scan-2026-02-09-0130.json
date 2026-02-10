@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-02-09T01:30:04.363Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 3,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SEAHAWKS",
+      1
+    ],
+    [
+      "$BSQAORG",
+      1
+    ],
+    [
+      "$BIGTROUT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SEAHAWKS",
+        "count": 1
+      },
+      {
+        "ticker": "$BSQAORG",
+        "count": 1
+      },
+      {
+        "ticker": "$BIGTROUT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$SEAHAWKS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @0xkenny verified earnings for $SEAHAWKS on @BagsApp 💰\n\nhttps://t.co/0uD5847vmX",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BSQAORG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/4XOQRS5ppj verified earnings for $BSQAORG on @BagsApp 💰\n\nhttps://t.co/9fMuXXeMrr",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BIGTROUT": [
+      {
+        "author": "NickPlaysCrypto",
+        "text": "RT @WarrenGuru: 🎮 Introducing $BIGTROUT RACE!\nNOW LIVE ON THE WEBSITE!\n — the first memecoin racing game powered by LIVE Solana blockchain…",
+        "likes": 0,
+        "retweets": 29
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "kmoney",
+      "text": "THE GOYIM BOWL IS ABOUT TO START! GO ORDER YOUR FAVORITE GOYSLOP &amp; PAY +15% ON DOORDASH THEN FINANCE IT ON KLARNA SO YOU HAVE MORE GOY BUCKS TO BUY SOME GOYNIP &amp; SMOKE IT IN TIME TO BE JUDGED BY COMPANIES THAT PAID $8M A COMMERCIAL TO HYPNOTIZE YOU INTO FURTHER GOY DEGENE",
+      "likes": 12379,
+      "retweets": 1040,
+      "url": "https://x.com/kmoney/status/2020611279560589583"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "lmfao",
+      "likes": 1301,
+      "retweets": 112,
+      "url": "https://x.com/HQNewsNow/status/2020666457164800248"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 372,
+      "retweets": 48,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "He brought the Latina fine shyt and got me dancing yeah fairs bad bunny this a generational performance",
+      "likes": 283,
+      "retweets": 29,
+      "url": "https://x.com/hoodg3nius/status/2020670645319696433"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "This bad bunny performance https://t.co/LFr6Ew5jRC",
+      "likes": 277,
+      "retweets": 24,
+      "url": "https://x.com/hoodg3nius/status/2020669384742617485"
+    },
+    {
+      "author": "GwartyGwart",
+      "text": "Wow polymarket bettors got that coin toss totally wrong. Nearly 50% of the money was on tails. It was heads. Not sure how “predictive” these markets really are",
+      "likes": 217,
+      "retweets": 7,
+      "url": "https://x.com/GwartyGwart/status/2020647731010879858"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "Niggas deadass listening to “Kid rock” over this 😭😭✌️",
+      "likes": 190,
+      "retweets": 13,
+      "url": "https://x.com/hoodg3nius/status/2020671174431162784"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "\"how ass is this Super Bowl?\" https://t.co/0ZywWVXril",
+      "likes": 156,
+      "retweets": 9,
+      "url": "https://x.com/DipWheeler/status/2020663066170712512"
+    },
+    {
+      "author": "TheCryptoNexus",
+      "text": "Brought dad to the superbowl :) https://t.co/NqEKlWWT1o",
+      "likes": 156,
+      "retweets": 0,
+      "url": "https://x.com/TheCryptoNexus/status/2020632144520098170"
+    },
+    {
+      "author": "coinbase",
+      "text": "If you're talking about it, it worked.\n\nCrypto is for everybody.",
+      "likes": 150,
+      "retweets": 12,
+      "url": "https://x.com/coinbase/status/2020668158437171237"
+    }
+  ]
+}

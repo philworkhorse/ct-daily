@@ -1,0 +1,364 @@
+{
+  "timestamp": "2026-02-08T12:43:35.451Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 7,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HYPE",
+      2
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$SHT",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$ZIRO",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$LORIA",
+      1
+    ],
+    [
+      "$HODLHOT",
+      1
+    ],
+    [
+      "$TOKABU",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$LOLA",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$IBIT",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 2
+      },
+      {
+        "ticker": "$SHT",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$ZIRO",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$LORIA",
+        "count": 1
+      },
+      {
+        "ticker": "$HODLHOT",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$LOLA",
+        "count": 1
+      },
+      {
+        "ticker": "$IBIT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "dollar": 1,
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "rektmando",
+        "text": "RT @lookonchain: Sell-off finished!\n\n#TrendResearch has deposited all 651,757 $ETH($1.34B) into #Binance at an average price of $2,055.\n\nTh…",
+        "likes": 0,
+        "retweets": 84
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "hyperbeat",
+        "text": "BeatPot Round 20 has concluded.\n\nThe 2497 $HYPE BeatPot was not drawn, that means a 2104 $HYPE Grand Prize is available for the current round!\n\n19 BeatPot prizes were awarded to ticket buyers, with Ba",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "hyperbeat",
+        "text": "Try to beat the odds to win ~2104 $HYPE or Play as the house to Earn from ticket sales. Daily draws, instant rewards.\n\nGenerate and share your referral code to earn HYPE directly from ticket sales her",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHT with a PnL of +272.51%.\n\n$SHT has been trending on Moby since $104.34K MC. Currently sitting at $1.35M MC. https://t.co/84GAedWqnM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $21.87K of $EURC at $94.31M MC 🐳\n\nhttps://t.co/kO6E80t4bg",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $21.87K of $EURC at $94.31M MC 🐳\n\nhttps://t.co/kO6E80t4bg",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$ZIRO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @zirowat verified earnings for $ZIRO on @BagsApp 💰\n\nhttps://t.co/cc2HZRWT99",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +403.72%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $968.93K MC. https://t.co/4XGPL",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GIGA whale just bought $3.85K of $LORIA at $3.71M MC 🐳\n\nhttps://t.co/wu7lzb9xbS",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LORIA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GIGA whale just bought $3.85K of $LORIA at $3.71M MC 🐳\n\nhttps://t.co/wu7lzb9xbS",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$HODLHOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @hodlhotx verified earnings for $HODLHOT on @BagsApp 💰\n\nhttps://t.co/RTOlO00wO8",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $4.84K of $AVICI at $15.71M MC 🐳\n\nhttps://t.co/NUExhZKQ8n",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $4.84K of $AVICI at $15.71M MC 🐳\n\nhttps://t.co/NUExhZKQ8n",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Kevsznx just bought $1.04K of $REKT at $103.98K MC 🐳\n\nhttps://t.co/5oVMGOCL8r",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$LOLA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/iWgN2bNdWO verified earnings for $LOLA on @BagsApp 💰\n\nhttps://t.co/W9ANspQnO6",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "dampedspring",
+        "text": "Update.  Seller at 83,999.  Will probably short $MSTR if that BTC price is available AND MNAV expands to 1.25 and hold the arb $IBIT.",
+        "likes": 33,
+        "retweets": 0
+      }
+    ],
+    "$IBIT": [
+      {
+        "author": "dampedspring",
+        "text": "Update.  Seller at 83,999.  Will probably short $MSTR if that BTC price is available AND MNAV expands to 1.25 and hold the arb $IBIT.",
+        "likes": 33,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC\n\nTP'd the low ✅️ Looking to short again into a high above 72.2k\n\nAlright, nice TP on these shorts into the exact low.\n\nNot reached our overall midrange yet but we are seeing some weekend liquidit",
+        "likes": 101,
+        "retweets": 6
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "CharlesDoBronxs",
+      "text": "With the best\n\n#UFC https://t.co/Yb1OiamYOn",
+      "likes": 485,
+      "retweets": 13,
+      "url": "https://x.com/CharlesDoBronxs/status/2020468919631249489"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 425,
+      "retweets": 22,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "moonpay",
+      "text": "gm!",
+      "likes": 191,
+      "retweets": 20,
+      "url": "https://x.com/moonpay/status/2020471943183368340"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "Massive, love to see the retirement of the most insane pricing tiers of all time.",
+      "likes": 126,
+      "retweets": 0,
+      "url": "https://x.com/jackbutcher/status/2019985136625078448"
+    },
+    {
+      "author": "based16z",
+      "text": "Alright maybe its getting a bit much gn",
+      "likes": 102,
+      "retweets": 2,
+      "url": "https://x.com/based16z/status/2020391577458516280"
+    },
+    {
+      "author": "astronomer_zero",
+      "text": "$BTC\n\nTP'd the low ✅️ Looking to short again into a high above 72.2k\n\nAlright, nice TP on these shorts into the exact low.\n\nNot reached our overall midrange yet but we are seeing some weekend liquidity adverse the drop so I'm very happy to plan another short now that the other on",
+      "likes": 101,
+      "retweets": 6,
+      "url": "https://x.com/astronomer_zero/status/2020464514689565013"
+    }
+  ]
+}

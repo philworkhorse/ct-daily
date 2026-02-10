@@ -1,0 +1,209 @@
+{
+  "timestamp": "2026-02-09T17:36:06.104Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 3,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BLOXX",
+      2
+    ],
+    [
+      "$JUICE",
+      1
+    ],
+    [
+      "$STABLE",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$SUI",
+      1
+    ],
+    [
+      "$MOAI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BLOXX",
+        "count": 2
+      },
+      {
+        "ticker": "$JUICE",
+        "count": 1
+      },
+      {
+        "ticker": "$STABLE",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$SUI",
+        "count": 1
+      },
+      {
+        "ticker": "$MOAI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "fed": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$JUICE": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $JUICE with a PnL of +2971.85%.\n\n$JUICE has been trending on Moby since $129.11K MC. Currently sitting at $3.96M MC. https://t.co/lMqdfp",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$STABLE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $3K of $STABLE at $403.82K MC 🐳\n\nhttps://t.co/7L67diPpdF",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "RT @sorthytgigabren: People feel $GIGA Chad, want self-improvement, and aim to become alpha males. With a clean ticker, 80,000+ real holder…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$BLOXX": [
+      {
+        "author": "BloxApi",
+        "text": "What's on the agenda this week for $BLOXX | BloxAPI?\n1) StreamerConnect @Roblox plugin ships (Live Stream data in Roblox games)\n2) Major partnership announcement\n3) ChainConnect plugin move towards re",
+        "likes": 1,
+        "retweets": 1
+      },
+      {
+        "author": "BloxApi",
+        "text": "GM! Incredible start to the day, lined up a MAJOR piece of the vision!\n\nFun stats:\n* $BLOXX MC: $642K  ATH: $1.7M\n* @Pumpfun Streams: 86  Hours:  267\n* GH Commits: 132\n* Waitlist: 35 Roblox Dev teams\n",
+        "likes": 17,
+        "retweets": 7
+      }
+    ],
+    "$SUI": [
+      {
+        "author": "the_davey",
+        "text": "It's time for $SUI to enter the equation!",
+        "likes": 6,
+        "retweets": 2
+      }
+    ],
+    "$MOAI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @theviralmoai verified earnings for $MOAI on @BagsApp 💰\n\nhttps://t.co/fq5wYL0i8P",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MrBeast",
+      "text": "I'm so excited to share that we are acquiring the financial services app, @step\n\nNobody taught me about investing, building credit, or managing money when I was growing up. That's exactly why we’re joining forces with Step! I want to give millions of young people the financial fo",
+      "likes": 1956,
+      "retweets": 117,
+      "url": "https://x.com/MrBeast/status/2020910218360782929"
+    },
+    {
+      "author": "AndrewYang",
+      "text": "It’s cold outside - so I’m giving away 3 hoodies!  Just like this post and we will pick the winners on Monday.  😀 https://t.co/riCximNK93 https://t.co/gNWqWBEicV",
+      "likes": 970,
+      "retweets": 42,
+      "url": "https://x.com/AndrewYang/status/2020127785080004831"
+    },
+    {
+      "author": "0xBossman",
+      "text": "There is literally nothing to do in Crypto right now",
+      "likes": 346,
+      "retweets": 25,
+      "url": "https://x.com/0xBossman/status/2020776975267397747"
+    },
+    {
+      "author": "hosseeb",
+      "text": "Crypto existed before Binance. It will exist long after Binance.\n\nIt existed before Trump. And it will exist long after Trump too.\n\nThat's the thing about crypto--you can't kill it. It's like a weed. It outlives everything.\n\nYour job is to make sure it doesn't outlive you.",
+      "likes": 230,
+      "retweets": 8,
+      "url": "https://x.com/hosseeb/status/2020885776326897856"
+    },
+    {
+      "author": "ZeMirch",
+      "text": "100k: the four year cycle isn’t real \n\n60k: the four year cycle is the realist shit i ever heard",
+      "likes": 170,
+      "retweets": 10,
+      "url": "https://x.com/ZeMirch/status/2020890712162656347"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Be more bullish.",
+      "likes": 169,
+      "retweets": 7,
+      "url": "https://x.com/CryptoKaleo/status/2020902582831501476"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "Avalanche founders exited via a DAT, completely left the organization, and hired a kaito slop poster to take over\n\nAnd no one's complaining?",
+      "likes": 162,
+      "retweets": 0,
+      "url": "https://x.com/Evan_ss6/status/2020877876740968638"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "GOOD MORNING BULLS",
+      "likes": 162,
+      "retweets": 2,
+      "url": "https://x.com/CryptoKaleo/status/2020884667621061037"
+    },
+    {
+      "author": "LomahCrypto",
+      "text": "Developing a theory that he just buys off Coinbase or something where he gets quoted a 5% higher price + fees because this is a ridiculous fill price.",
+      "likes": 159,
+      "retweets": 3,
+      "url": "https://x.com/LomahCrypto/status/2020898198030889393"
+    },
+    {
+      "author": "icobeast",
+      "text": "Yeah given that I’m the only person in the world that identifies as icobeast and someone already scooped that within 2 hours of this going live I’ll never be using it.\n\nShould have had a much better domain squatting solution in place before launch. https://t.co/kvlQvkB3PW",
+      "likes": 158,
+      "retweets": 1,
+      "url": "https://x.com/icobeast/status/2020696549794418783"
+    }
+  ]
+}

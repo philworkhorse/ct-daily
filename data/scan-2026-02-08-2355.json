@@ -1,0 +1,168 @@
+{
+  "timestamp": "2026-02-08T23:55:07.748Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 16,
+    "bearish": 3,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$KDEF",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$KDEF",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$CLAWD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ClawProtocols verified earnings for $CLAWD on @BagsApp 💰\n\nhttps://t.co/LZNfX1GNDL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.31K of $BadBunny at $851.18K MC 🐳\n\nhttps://t.co/4MsgpZPHou",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC shorts\n\nThat was quick, 70k reached, setting risk free here.\n\nAh, quick drop this hour already off our range high rejection point.\n\nI think this can be held longer, but I have to go to sleep and ",
+        "likes": 62,
+        "retweets": 3
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $12.35K of $Buttcoin at $34.6M MC 🐳\n\nhttps://t.co/SZKPfYLUKT",
+        "likes": 9,
+        "retweets": 1
+      }
+    ],
+    "$KDEF": [
+      {
+        "author": "fundstrat",
+        "text": "Love to see 🇰🇷$KDEF on this list",
+        "likes": 14,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "kmoney",
+      "text": "THE GOYIM BOWL IS ABOUT TO START! GO ORDER YOUR FAVORITE GOYSLOP &amp; PAY +15% ON DOORDASH THEN FINANCE IT ON KLARNA SO YOU HAVE MORE GOY BUCKS TO BUY SOME GOYNIP &amp; SMOKE IT IN TIME TO BE JUDGED BY COMPANIES THAT PAID $8M A COMMERCIAL TO HYPNOTIZE YOU INTO FURTHER GOY DEGENE",
+      "likes": 6265,
+      "retweets": 543,
+      "url": "https://x.com/kmoney/status/2020611279560589583"
+    },
+    {
+      "author": "X",
+      "text": "it's time\n\nshare live-updated plays, score cards, and team events, all from the Super Bowl LX Portal\nhttps://t.co/IeFOPT8FKg",
+      "likes": 293,
+      "retweets": 49,
+      "url": "https://x.com/X/status/2020640724208042455"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "Billie Joe Armstrong changes the lyrics during Super Bowl pre-game concert:\n\n\"The representative from Epstein's Island has the floor\" https://t.co/KgxyZmPXlQ",
+      "likes": 162,
+      "retweets": 36,
+      "url": "https://x.com/HQNewsNow/status/2020646902698487883"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "I will not be watching the superbowl because they promised me the meteor",
+      "likes": 135,
+      "retweets": 5,
+      "url": "https://x.com/hoodg3nius/status/2020643825203716538"
+    },
+    {
+      "author": "based16z",
+      "text": "This Bad Bunny concert got hella fat ppl https://t.co/Li4UQ5tLBn",
+      "likes": 115,
+      "retweets": 0,
+      "url": "https://x.com/based16z/status/2020637131983704260"
+    },
+    {
+      "author": "TheDemocrats",
+      "text": "No ad can cover up the truth. https://t.co/7bcaSXQC2n",
+      "likes": 113,
+      "retweets": 30,
+      "url": "https://x.com/TheDemocrats/status/2020644037934694899"
+    },
+    {
+      "author": "TheCryptoNexus",
+      "text": "Brought dad to the superbowl :) https://t.co/NqEKlWWT1o",
+      "likes": 101,
+      "retweets": 0,
+      "url": "https://x.com/TheCryptoNexus/status/2020632144520098170"
+    }
+  ]
+}

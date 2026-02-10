@@ -1,0 +1,330 @@
+{
+  "timestamp": "2026-01-31T09:21:12.802Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 3,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$KAITO",
+      1
+    ],
+    [
+      "$LABUBU",
+      1
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$GOLD",
+      1
+    ],
+    [
+      "$LORIA",
+      1
+    ],
+    [
+      "$RETARDIO",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$MOBY",
+      1
+    ],
+    [
+      "$EVA",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$KAITO",
+        "count": 1
+      },
+      {
+        "ticker": "$LABUBU",
+        "count": 1
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$LORIA",
+        "count": 1
+      },
+      {
+        "ticker": "$RETARDIO",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$MOBY",
+        "count": 1
+      },
+      {
+        "ticker": "$EVA",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$GOLD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "silver": 2,
+      "copper": 1,
+      "coffee": 1
+    },
+    "metals": {
+      "gold": 5,
+      "silver": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/JgbdgvTmXG",
+        "likes": 32,
+        "retweets": 2
+      }
+    ],
+    "$KAITO": [
+      {
+        "author": "waleswoosh",
+        "text": "This is a scheduled post from January 1st, 2026.\n\nBy the end of the month, I predict:\n\nBTC at $115,000 USD.\n\nETH at $4,250 USD.\n\nSOL at $180 USD.\n\n$KAITO at $1.25 USD",
+        "likes": 215,
+        "retweets": 5
+      }
+    ],
+    "$LABUBU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $4.78K of $EURC at $88.85M MC 🐳\n\nhttps://t.co/JdhFpjcZVC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $4.78K of $EURC at $88.85M MC 🐳\n\nhttps://t.co/JdhFpjcZVC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "PARABOLIT",
+        "text": "RT @MalleableGold: Bank grade gold bars are 400 Troy ounces, which is 12,400 grams. \n\nGiven 1 $GOLD coin equals 1 gram.\n\nOur Gold Bars set…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$LORIA": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @chimpfone just bought $3.79K of $LORIA at $3.59M MC 🐳\n\nhttps://t.co/0lA9sYkqXE",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$RETARDIO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $RETARDIO whale just bought $5.66K of $FWOG at $7.87M MC 🐳\n\nhttps://t.co/KKBZnrlPyz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $RETARDIO whale just bought $5.66K of $FWOG at $7.87M MC 🐳\n\nhttps://t.co/KKBZnrlPyz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $22.29K of $PENGUIN at $48.86M MC 🐳\n\nhttps://t.co/SA4yVMDHks",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "Can Evolutionary Strategies (ES) help LLMs learn continually on-device? This new study puts ES head-to-head with GRPO on 1–2B parameter models for math and reasoning. ES nearly matches GRPO (within 3–",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$MOBY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $3.71K of $EVA at $2.68M MC 🐳\n\nhttps://t.co/xvPqL0A5vu",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EVA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $3.71K of $EVA at $2.68M MC 🐳\n\nhttps://t.co/xvPqL0A5vu",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $16.92K of $SKR at $175.53M MC 🐳\n\nhttps://t.co/QzS4JoIJoV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $16.92K of $SKR at $175.53M MC 🐳\n\nhttps://t.co/QzS4JoIJoV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "FCBarcelona",
+      "text": "The future is taking shape 🏟️💫 https://t.co/wX99LMoDaC",
+      "likes": 11776,
+      "retweets": 775,
+      "url": "https://x.com/FCBarcelona/status/2017236587004768671"
+    },
+    {
+      "author": "StateFarm",
+      "text": "Something even bigger to be unveiled 2.8.26",
+      "likes": 1922,
+      "retweets": 90,
+      "url": "https://x.com/StateFarm/status/2015814352847392934"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1307,
+      "retweets": 201,
+      "url": "https://x.com/Neuravision_A/status/2010102620502011981"
+    },
+    {
+      "author": "FTFonFS1",
+      "text": "The Bills are promoting OC Joe Brady to HC. @getnickwright reacts:\n\n“I don’t like or dislike it, but I don’t understand it.” https://t.co/YVnx6DQnOm",
+      "likes": 713,
+      "retweets": 25,
+      "url": "https://x.com/FTFonFS1/status/2016249137058963902"
+    },
+    {
+      "author": "MattPRD",
+      "text": "Wow! What in the heck even happened today!\n\nThis past weekend I had a vision for @moltbook. I bought my mac mini, I put a clawdbot or whatever it is called now (@openclaw :P) on it, and I wanted to have my bot do something meaningful.\n\n\"With a bot so powerful he can't just be ans",
+      "likes": 465,
+      "retweets": 66,
+      "url": "https://x.com/MattPRD/status/2017511543576137995"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "looking back you can't even explain the silly shit that was going on in 2024, there was a crypto conference iggy azalea party with strippers &amp; a mechanical bull in the middle of a random venue in singapore, sounds like the most ridiculous ai slop scripted combination of thing",
+      "likes": 358,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017465926090678351"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "This is a scheduled post from January 1st, 2026.\n\nBy the end of the month, I predict:\n\nBTC at $115,000 USD.\n\nETH at $4,250 USD.\n\nSOL at $180 USD.\n\n$KAITO at $1.25 USD",
+      "likes": 215,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2017514470923505714"
+    },
+    {
+      "author": "SolidTradesz",
+      "text": "If you're still in crypto you are truly a psychopath",
+      "likes": 114,
+      "retweets": 5,
+      "url": "https://x.com/SolidTradesz/status/2017524064814805100"
+    },
+    {
+      "author": "based16z",
+      "text": "Redownloaded fomo on new phone and it’s just frank degods raping ppl. Movie",
+      "likes": 112,
+      "retweets": 4,
+      "url": "https://x.com/based16z/status/2017516730453553635"
+    }
+  ]
+}

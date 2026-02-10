@@ -1,0 +1,258 @@
+{
+  "timestamp": "2026-01-29T21:00:35.668Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 20,
+    "bearish": 5,
+    "neutral": 75,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIGA",
+      2
+    ],
+    [
+      "$TSLAX",
+      2
+    ],
+    [
+      "$USDG",
+      2
+    ],
+    [
+      "$ZRO",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$CRV",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIGA",
+        "count": 2
+      },
+      {
+        "ticker": "$TSLAX",
+        "count": 2
+      },
+      {
+        "ticker": "$USDG",
+        "count": 2
+      },
+      {
+        "ticker": "$ZRO",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$CRV",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 7,
+      "silver": 2,
+      "copper": 2
+    },
+    "metals": {
+      "gold": 7,
+      "silver": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$ZRO": [
+      {
+        "author": "Evan_ss6",
+        "text": "𝟏) 𝐖𝐡𝐚𝐭 ...\n\nhas been holding $ZRO down (besides BTC being -$14k the last 2 weeks) is, the last 5 days the FTX Estate woke up and decided to sell **its entire liquid position** (their first ZRO s",
+        "likes": 24,
+        "retweets": 1
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "Because $GIGA is primarily held by normies\n\nMost people on CT don’t know what’s being built.\n\nThe $GIGA community is building the most interesting thing of any memecoin, but only those who research wi",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "gigagriff",
+        "text": "RT @Dogecoinrich: Alright I’m 100% $GIGA. \n\nI can’t get away from how bullish it looks behind the scenes. \n\nThis @gigachad team is crazy go…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $43.76K of $PUMP at $2.91B MC 🐳\n\nhttps://t.co/aL9cxF5pdF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CRV": [
+      {
+        "author": "CredibleCrypto",
+        "text": "\"Houston, CrediBULL Crypto here. The Llama has landed.\" \n\n$CRV https://t.co/rEcQaCjf8o",
+        "likes": 64,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$BTC\n\nFilled. First long in a long long time while majority of CT has had you longing every dip for the \"catch up trade\" for months.\n\nTypical 1R position, nothing special. Stop at the previous capitul",
+        "likes": 236,
+        "retweets": 8
+      }
+    ],
+    "$TSLAX": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TSLAX whale just bought $300.15K of $USDG at $839.15M MC 🐳\n\nhttps://t.co/f3UF8zi5Ba",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $TSLAX whale just bought $499.74K of $USDG at $838.8M MC 🐳\n\nhttps://t.co/TzdqdcWCoK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TSLAX whale just bought $300.15K of $USDG at $839.15M MC 🐳\n\nhttps://t.co/f3UF8zi5Ba",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $TSLAX whale just bought $499.74K of $USDG at $838.8M MC 🐳\n\nhttps://t.co/TzdqdcWCoK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "watchingmarkets",
+        "text": "Whenever Solana is in a weak state, dumping into the monthly close and then consolidating at lower levels (“cheap SOL”), I saw some real parabolic meme coins out of nowhere.\n\nThat’s how it’s played ou",
+        "likes": 12,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "REALFACTS_USA",
+      "text": "First, they tell you a heartbreaking story to tug at your heartstrings and turn you against our allies.  \nStop. Question. Verify https://t.co/7aqPWvMkhG",
+      "likes": 11980,
+      "retweets": 747,
+      "url": "https://x.com/REALFACTS_USA/status/2012865512372392060"
+    },
+    {
+      "author": "Wendys",
+      "text": "new personality unlocked 🔓 https://t.co/B6uhtAJeMt",
+      "likes": 2502,
+      "retweets": 72,
+      "url": "https://x.com/Wendys/status/2003190804135706743"
+    },
+    {
+      "author": "intern",
+      "text": "Some personal news: I’ll be stepping down as Director of Growth at the Monad Foundation.\n\nI've been working on Monad over the last 3 years.\n\nI’ve spent the last 9 years in crypto and been full time in the industry since joining the VC team at CMS in 2020.\n\nAfter fielding 1,000+ s",
+      "likes": 399,
+      "retweets": 9,
+      "url": "https://x.com/intern/status/2016965624807788958"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "$BTC\n\nFilled. First long in a long long time while majority of CT has had you longing every dip for the \"catch up trade\" for months.\n\nTypical 1R position, nothing special. Stop at the previous capitulation low. Hold here or it's time to test Saylor's average entry price.",
+      "likes": 236,
+      "retweets": 8,
+      "url": "https://x.com/Crypto_Chase/status/2016956928467796141"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "When Crypto pumps 1% https://t.co/Nd7d6stOb7",
+      "likes": 204,
+      "retweets": 1,
+      "url": "https://x.com/Pentosh1/status/2016960188545454449"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Things are now rapidly accelerating. HIP-3 volumes and open interest are growing over 100% weekly now totally billions of average daily volume. Fees are split 50/50 between HL itself and the HIP-3 providers. \n\nThis is the growth story. \n\nUncorrelated returns and exposure. https:/",
+      "likes": 169,
+      "retweets": 11,
+      "url": "https://x.com/ThinkingUSD/status/2016966480462532941"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "CZ walking to his computer to absolutely rape the market. https://t.co/qvKK1ngJzW",
+      "likes": 161,
+      "retweets": 20,
+      "url": "https://x.com/DipWheeler/status/2016971746692452796"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "scared money don't make money.\n\nlet your nuts hang.",
+      "likes": 154,
+      "retweets": 19,
+      "url": "https://x.com/DipWheeler/status/2016968559478640676"
+    },
+    {
+      "author": "watchingmarkets",
+      "text": "Gm ☕️ https://t.co/IyLiBHDTXx",
+      "likes": 136,
+      "retweets": 2,
+      "url": "https://x.com/watchingmarkets/status/2016811859957928204"
+    },
+    {
+      "author": "based16z",
+      "text": "At least crypto is finally following gold price action",
+      "likes": 126,
+      "retweets": 1,
+      "url": "https://x.com/based16z/status/2016947432521626019"
+    }
+  ]
+}

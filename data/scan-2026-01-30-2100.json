@@ -1,0 +1,368 @@
+{
+  "timestamp": "2026-01-30T21:00:29.772Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 7,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIGA",
+      2
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$PENGU",
+      1
+    ],
+    [
+      "$AURA",
+      1
+    ],
+    [
+      "$MOLTMAN",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$SILVER",
+      1
+    ],
+    [
+      "$GOLD",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIGA",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGU",
+        "count": 1
+      },
+      {
+        "ticker": "$AURA",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTMAN",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$SILVER",
+        "count": 1
+      },
+      {
+        "ticker": "$GOLD",
+        "count": 1
+      }
+    ],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 7,
+      "gold": 5,
+      "oil": 1
+    },
+    "metals": {
+      "silver": 7,
+      "gold": 5
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: BUTTCOIN was most compared to FARTCOIN last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $FARTCOIN's current market cap, its p…",
+        "likes": 0,
+        "retweets": 14
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: BUTTCOIN was most compared to FARTCOIN last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $FARTCOIN's current market cap, its p…",
+        "likes": 0,
+        "retweets": 14
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "$GIGA and $PENGU are the only coins building IRL.\n\nof the 2, $GIGA is the only real viral meme.\n\n1 of 1\n\nThe Big One🗿",
+        "likes": 1,
+        "retweets": 1
+      },
+      {
+        "author": "gigagriff",
+        "text": "RT @PerpetualGS: 18% of $GIGA supply is in Coinbase wallets - aka locked up by normies who don't even know how to sell.\n\nThis is going to c…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$PENGU": [
+      {
+        "author": "gigagriff",
+        "text": "$GIGA and $PENGU are the only coins building IRL.\n\nof the 2, $GIGA is the only real viral meme.\n\n1 of 1\n\nThe Big One🗿",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$AURA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AURA whale just bought $3.31K of $PENGUIN at $52.89M MC 🐳\n\nhttps://t.co/WJnx9oXm8T",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AURA whale just bought $3.31K of $PENGUIN at $52.89M MC 🐳\n\nhttps://t.co/WJnx9oXm8T",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $11.66K of $PENGUIN at $52.47M MC 🐳\n\nhttps://t.co/pOBLmQrk4l",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$MOLTMAN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/m21E1bDmP8 verified earnings for $MOLTMAN on @BagsApp 💰\n\nhttps://t.co/FGdiSQLOyi",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "Seeing some social activity regarding this $MOLT AI bot network and the numbers continue growing\n\n0xb695559b26bb2c9703ef1935c37aeae9526bab07\n\nIt’s on base and you gotta mess around to buy but has dire",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 92,
+        "retweets": 4
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 92,
+        "retweets": 4
+      }
+    ],
+    "$SILVER": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 92,
+        "retweets": 4
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 92,
+        "retweets": 4
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 92,
+        "retweets": 4
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "watchingmarkets",
+        "text": "$ETH (1M) https://t.co/lvDo6U3GRH",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SPX whale just bought $53.96K of $pippin at $254.44M MC 🐳\n\nhttps://t.co/9cztkxqhbE",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TheDemocrats",
+      "text": "FREE DON LEMON.\nPROTECT FREE SPEECH.",
+      "likes": 17383,
+      "retweets": 2458,
+      "url": "https://x.com/TheDemocrats/status/2017268331707855281"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "14 year old describes how he makes $100k per month on Roblox\n\n“We made a game in 14 hours start to finish, we put $100 into ads, and once it hit the algorithm we sold the game for $250k”\n https://t.co/Zs7qxr0AZZ",
+      "likes": 9744,
+      "retweets": 209,
+      "url": "https://x.com/rasmr_eth/status/2017277680325169619"
+    },
+    {
+      "author": "MarvelStudios",
+      "text": "\"Did you hear about Wonder Man?”\n\nStream all 8 episodes of Marvel Television’s Wonder Man now on Disney+.",
+      "likes": 2077,
+      "retweets": 105,
+      "url": "https://x.com/MarvelStudios/status/2016697743256011000"
+    },
+    {
+      "author": "IBKR",
+      "text": "Invest in global AI &amp; technology innovators with the iShares Future AI &amp; Tech ETF (ARTY).",
+      "likes": 1331,
+      "retweets": 78,
+      "url": "https://x.com/IBKR/status/1904896126379028523"
+    },
+    {
+      "author": "frankdegods",
+      "text": "dude",
+      "likes": 676,
+      "retweets": 15,
+      "url": "https://x.com/frankdegods/status/2017297782080458936"
+    },
+    {
+      "author": "mert",
+      "text": "gold and silver combined moved 6x crypto's entire mcap in the past 24h\n\nI have literally never been more bullish crypto, ever\n\ngenerational opportunity handed to you on a silver platter (ba dum tss)",
+      "likes": 276,
+      "retweets": 19,
+      "url": "https://x.com/mert/status/2017322874084679979"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "All it takes is one hero to bid a few Billion of BTC and crush the correlation vol sellers",
+      "likes": 265,
+      "retweets": 7,
+      "url": "https://x.com/ThinkingUSD/status/2017329233228407196"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "This is insane.\n\nSilver really is a shitcoin. https://t.co/JOGSfSkbvx",
+      "likes": 250,
+      "retweets": 9,
+      "url": "https://x.com/CryptoKaleo/status/2017326982229381526"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "how come yall shill me 1 gazillion tickers in my mentions every day but never the ones that actually go up",
+      "likes": 206,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017319107289297321"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "there’s a parallel universe where worldcoin was the best performing token ever",
+      "likes": 140,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2017249158281732511"
+    }
+  ]
+}

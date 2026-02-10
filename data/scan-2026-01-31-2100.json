@@ -1,0 +1,192 @@
+{
+  "timestamp": "2026-01-31T21:00:26.892Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 16,
+    "bearish": 4,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$BTCUSD",
+      1
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$BLOXX",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$BTCUSD",
+        "count": 1
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOXX",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "copper": 2,
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$USELESS": [
+      {
+        "author": "theunipcs",
+        "text": "everyone can talk\n\neveryone can throw out insane targets for projects they believe in\n\nvery few can maintain conviction through 20%+ drawdown days or 90% pullbacks from ATH\n\ni’m publicly doubling down",
+        "likes": 170,
+        "retweets": 20
+      }
+    ],
+    "$BTCUSD": [
+      {
+        "author": "based16z",
+        "text": "RT @ShortSeller: $BTCUSD Lot of ways this can play out...yes that is still my base case (drawn a little different here) *but* if monthly ca…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $4.05K of $AVICI at $17.78M MC 🐳\n\nhttps://t.co/0cXB7E2gCM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $4.05K of $AVICI at $17.78M MC 🐳\n\nhttps://t.co/0cXB7E2gCM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BLOXX": [
+      {
+        "author": "BloxApi",
+        "text": "Do you know what the top selling Roblox plugin is? Theres no chart, but MoonAnimator 2 ($29) has 20k votes.\n\nDo you know how many Streamer related plugins there are? Zero. \n\nEarly win for $BLOXX https",
+        "likes": 2,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Wendys",
+      "text": "new personality unlocked 🔓 https://t.co/B6uhtAJeMt",
+      "likes": 2732,
+      "retweets": 80,
+      "url": "https://x.com/Wendys/status/2003190804135706743"
+    },
+    {
+      "author": "gainzy222",
+      "text": "The best performing group from 2017-2025 that kept their sanity and made it were btc maxis who just kept buying btc\n\nAlt maxis outperformed them massively during alt seasons but eventually zero’d out\n\nI think over the next 4-8 years this repeats with zec\n https://t.co/Qdye7YHfoJ",
+      "likes": 384,
+      "retweets": 23,
+      "url": "https://x.com/gainzy222/status/2017577535693816126"
+    },
+    {
+      "author": "karpathy",
+      "text": "nanochat can now train GPT-2 grade LLM for <<$100 (~$73, 3 hours on a single 8XH100 node).\n\nGPT-2 is just my favorite LLM because it's the first time the LLM stack comes together in a recognizably modern form. So it has become a bit of a weird & lasting obsession of mine to train",
+      "likes": 213,
+      "retweets": 12,
+      "url": "https://x.com/karpathy/status/2017703360393318587"
+    },
+    {
+      "author": "DonAlt",
+      "text": "Conservatives on Twitter https://t.co/yKYuNof7Hz",
+      "likes": 202,
+      "retweets": 9,
+      "url": "https://x.com/DonAlt/status/2017702031931363830"
+    },
+    {
+      "author": "theunipcs",
+      "text": "everyone can talk\n\neveryone can throw out insane targets for projects they believe in\n\nvery few can maintain conviction through 20%+ drawdown days or 90% pullbacks from ATH\n\ni’m publicly doubling down on $USELESS and stating plainly that it is destined for multi-billions\n\nit’s ha",
+      "likes": 170,
+      "retweets": 20,
+      "url": "https://x.com/theunipcs/status/2017699976986456074"
+    },
+    {
+      "author": "paramountplus",
+      "text": "TONIGHT: The new UFC on Paramount+ era continues with UFC 325! Catch featherweight champion Alexander Volkanovski in a rematch of his epic title fight against Diego Lopes. Plus, Dan Hooker throws down with Benois Saint-Denis and more. Stream live at 9PM ET on Paramount+.",
+      "likes": 145,
+      "retweets": 12,
+      "url": "https://x.com/paramountplus/status/2017317377390813434"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "let’s please stop talking about 10/10 it’s 1/31 and everything is worse",
+      "likes": 140,
+      "retweets": 8,
+      "url": "https://x.com/notthreadguy/status/2017684515938808140"
+    },
+    {
+      "author": "mert",
+      "text": "don't cry because it's over\n\ncry because it happened",
+      "likes": 118,
+      "retweets": 3,
+      "url": "https://x.com/mert/status/2017696638869840310"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Finally home. \n\nSo the TLDR everyone is a Satan worshipping pedo and 10/10 was the reason crypto missed the last leg higher on everything. \n\nDid I miss anything?",
+      "likes": 113,
+      "retweets": 1,
+      "url": "https://x.com/Tradermayne/status/2017702495913664832"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Finally home. \n\nSo the TLDR everyone is a Satan worshipping pedo and 10/10 was the reason crypto missed the last leg higher on everything. \n\nDid I miss anything?",
+      "likes": 113,
+      "retweets": 1,
+      "url": "https://x.com/Tradermayne/status/2017702495913664832"
+    }
+  ]
+}

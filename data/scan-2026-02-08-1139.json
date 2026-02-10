@@ -1,0 +1,214 @@
+{
+  "timestamp": "2026-02-08T11:39:43.159Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 10,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      4
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$ON",
+      1
+    ],
+    [
+      "$CLAWDBOT",
+      1
+    ],
+    [
+      "$BOBO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 4
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$ON",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWDBOT",
+        "count": 1
+      },
+      {
+        "ticker": "$BOBO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 2,
+      "copper": 2
+    },
+    "metals": {},
+    "macro": {
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "rektmando",
+        "text": "RT @lookonchain: Sell-off finished!\n\n#TrendResearch has deposited all 651,757 $ETH($1.34B) into #Binance at an average price of $2,055.\n\nTh…",
+        "likes": 0,
+        "retweets": 77
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/E24EQ8T8BF",
+        "likes": 73,
+        "retweets": 3
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5K of $ONyc at $89.31M MC 🐳\n\nhttps://t.co/1qwV4ZClzt",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5K of $ONyc at $89.31M MC 🐳\n\nhttps://t.co/1qwV4ZClzt",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PENGUIN with a PnL of +86.00%.\n\n$PENGUIN has been trending on Moby since $91.9K MC. Currently sitting at $25.88M MC. https://t.co/JIJ3M",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PENGUIN with a PnL of +86.31%.\n\n$PENGUIN has been trending on Moby since $91.9K MC. Currently sitting at $26.07M MC. https://t.co/JYmWD",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PENGUIN with a PnL of +85.42%.\n\n$PENGUIN has been trending on Moby since $91.9K MC. Currently sitting at $25.7M MC. https://t.co/jvJfuV",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.09K of $PENGUIN at $26.01M MC 🐳\n\nhttps://t.co/gCwzgtjeRH",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "crypto_banter",
+        "text": "🌈 $BTC is now back in the lower band of the regression trend chart.\n\nCompared to previous bear markets, it stays in this band for majority of the bear market. \n\nWill we EVER see red once more? 👇 htt",
+        "likes": 15,
+        "retweets": 0
+      },
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: Something happened on 10.10\n\nSince then, $BTC completely lost the correlation with M2 money supply\n\nSomething dark will come…",
+        "likes": 0,
+        "retweets": 7
+      }
+    ],
+    "$CLAWDBOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @OKAMAI verified earnings for $CLAWDBOT on @BagsApp 💰\n\nhttps://t.co/zEuYJ9Zy28",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$BOBO": [
+      {
+        "author": "rekt_tekashi",
+        "text": "RT @bobocoineth: Big Week. $BOBO 🐻♥️ https://t.co/7cXM9I1E2Z",
+        "likes": 0,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 363,
+      "retweets": 20,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 363,
+      "retweets": 20,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "DeItaone",
+      "text": "JAPAN ELECTION: LDP AND COALITION PARTNER ISHIN PROJECTED TO WIN COMBINED 302 TO 366 LOWER HOUSE SEATS OUT OF TOTAL 465 - NHK EXIT POLLS",
+      "likes": 198,
+      "retweets": 45,
+      "url": "https://x.com/DeItaone/status/2020453186285265279"
+    }
+  ]
+}

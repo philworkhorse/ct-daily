@@ -1,0 +1,160 @@
+{
+  "timestamp": "2026-02-06T03:01:10.736Z",
+  "stats": {
+    "listTweets": 0,
+    "followingTweets": 50,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 2,
+    "bearish": 4,
+    "neutral": 44,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$SPECTRUMBO",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$DOPPEL",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$EVA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SPECTRUMBO",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$DOPPEL",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$EVA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$SOL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @boldleonidas verified earnings for $SOL on @BagsApp 💰\n\nhttps://t.co/M63Bvs9HiD",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SPECTRUMBO": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @PainCrypt0 just bought $1.23K of $SPECTRUMBOY at $134.86K MC 🐳\n\nhttps://t.co/Ic4EcofeRd",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.7K of $TROLL at $16.48M MC 🐳\n\nhttps://t.co/3KHUtyFlNv",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$DOPPEL": [
+      {
+        "author": "Crypto_rusky",
+        "text": "Almost 3x on $DOPPEL\n\nI think this just getting started \n\nNot selling anything here\n\nDeserve to go millions 👀📈\n\n0xf27b8ef47842E6445E37804896f1BC5e29381b07\n\nhttps://t.co/kahSbpEwyN",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.44K of $PENGUIN at $19.81M MC 🐳\n\nhttps://t.co/nU2IzHTs6a",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "CredibleCrypto",
+        "text": "The first test of the largest/most significant cluster of consolidation of our entire rise from 15k-126k (after we front-ran it in April of last year). \n\nWe spent over 8 months consolidating in this r",
+        "likes": 190,
+        "retweets": 9
+      }
+    ],
+    "$EVA": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @SPYDA000 just bought $3.35K of $EVA at $1.66M MC 🐳\n\nhttps://t.co/lBrCtUO0yU",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "CredibleCrypto",
+      "text": "The first test of the largest/most significant cluster of consolidation of our entire rise from 15k-126k (after we front-ran it in April of last year). \n\nWe spent over 8 months consolidating in this range last year before eventually breaking out.\n\nWould be very surprised if it do",
+      "likes": 190,
+      "retweets": 9,
+      "url": "https://x.com/CredibleCrypto/status/2019601400322576643"
+    }
+  ]
+}

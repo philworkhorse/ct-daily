@@ -1,0 +1,352 @@
+{
+  "timestamp": "2026-01-31T07:10:42.848Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 2,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ETH",
+      2
+    ],
+    [
+      "$RICKROLL",
+      2
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$XLE",
+      1
+    ],
+    [
+      "$XLB",
+      1
+    ],
+    [
+      "$BMNR",
+      1
+    ],
+    [
+      "$TOWN",
+      1
+    ],
+    [
+      "$CLAWNCH",
+      1
+    ],
+    [
+      "$PPI",
+      1
+    ],
+    [
+      "$GLD",
+      1
+    ],
+    [
+      "$SLV",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$UMBRA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$RICKROLL",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$XLE",
+        "count": 1
+      },
+      {
+        "ticker": "$XLB",
+        "count": 1
+      },
+      {
+        "ticker": "$BMNR",
+        "count": 1
+      },
+      {
+        "ticker": "$TOWN",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWNCH",
+        "count": 1
+      },
+      {
+        "ticker": "$PPI",
+        "count": 1
+      },
+      {
+        "ticker": "$UMBRA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 2
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$GLD",
+        "count": 1
+      },
+      {
+        "ticker": "$SLV",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "dxy": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.71K of $Accelerando at $1.83M MC 🐳\n\nhttps://t.co/Kv2Kel6tgm",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XLE": [
+      {
+        "author": "fundstrat",
+        "text": "also why our top sector picks are Energy and Basic Materials in 2026 \n\n$XLE $XLB \n\n@fs_insight @FundstratCap @BitMNR \n$ETH $BMNR",
+        "likes": 18,
+        "retweets": 2
+      }
+    ],
+    "$XLB": [
+      {
+        "author": "fundstrat",
+        "text": "also why our top sector picks are Energy and Basic Materials in 2026 \n\n$XLE $XLB \n\n@fs_insight @FundstratCap @BitMNR \n$ETH $BMNR",
+        "likes": 18,
+        "retweets": 2
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "also why our top sector picks are Energy and Basic Materials in 2026 \n\n$XLE $XLB \n\n@fs_insight @FundstratCap @BitMNR \n$ETH $BMNR",
+        "likes": 18,
+        "retweets": 2
+      },
+      {
+        "author": "fundstrat",
+        "text": "Give this a watch 👀\n\nSat down with @Downtown @michaelbatnick on @TheCompoundNews \n\n- bull market intact \n- gold $GLD and silver $SLV\n- how AI may drive higher tax revs\n- crypto and blockchain for fin",
+        "likes": 80,
+        "retweets": 8
+      }
+    ],
+    "$BMNR": [
+      {
+        "author": "fundstrat",
+        "text": "also why our top sector picks are Energy and Basic Materials in 2026 \n\n$XLE $XLB \n\n@fs_insight @FundstratCap @BitMNR \n$ETH $BMNR",
+        "likes": 18,
+        "retweets": 2
+      }
+    ],
+    "$TOWN": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ihateoop just bought $1.01K of $TOWN at $281.1K MC 🐳\n\nhttps://t.co/icrVshDiMT",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CLAWNCH": [
+      {
+        "author": "100xDarren",
+        "text": "$CLAWNCH @Clawnch_Bot \n\nPotentially the next big runner on Base!\n\n- Token launchpad built by AI agents \n- No humans involved\n- Launched 3 hrs ago and already has 51 tokens launched\n- $170k agent fees ",
+        "likes": 16,
+        "retweets": 1
+      }
+    ],
+    "$PPI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Theeesis verified earnings for $PPI on @BagsApp 💰\n\nhttps://t.co/0pIPGpKjhf",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GLD": [
+      {
+        "author": "fundstrat",
+        "text": "Give this a watch 👀\n\nSat down with @Downtown @michaelbatnick on @TheCompoundNews \n\n- bull market intact \n- gold $GLD and silver $SLV\n- how AI may drive higher tax revs\n- crypto and blockchain for fin",
+        "likes": 80,
+        "retweets": 8
+      }
+    ],
+    "$SLV": [
+      {
+        "author": "fundstrat",
+        "text": "Give this a watch 👀\n\nSat down with @Downtown @michaelbatnick on @TheCompoundNews \n\n- bull market intact \n- gold $GLD and silver $SLV\n- how AI may drive higher tax revs\n- crypto and blockchain for fin",
+        "likes": 80,
+        "retweets": 8
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "fundstrat",
+        "text": "Give this a watch 👀\n\nSat down with @Downtown @michaelbatnick on @TheCompoundNews \n\n- bull market intact \n- gold $GLD and silver $SLV\n- how AI may drive higher tax revs\n- crypto and blockchain for fin",
+        "likes": 80,
+        "retweets": 8
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $18.86K of $UMBRA at $32.16M MC 🐳\n\nhttps://t.co/IscaBCY7G2",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$UMBRA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $18.86K of $UMBRA at $32.16M MC 🐳\n\nhttps://t.co/IscaBCY7G2",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$RICKROLL": [
+      {
+        "author": "LexaproTrader",
+        "text": "RT @Sanderro23: Yes, the remastered $RICKROLL video on YouTube has 1.7 BILLION VIEWS\n\nThe original video by Cotter548 (@EOTflash) is also R…",
+        "likes": 0,
+        "retweets": 3
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $RICKROLL with a PnL of +282.07%.\n\n$RICKROLL has been trending on Moby since $60.64K MC. Currently sitting at $426.92K MC. https://t.co/",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1522,
+      "retweets": 227,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "Austen",
+      "text": "I know this will sound insane but hear me out:\n\nAutonomous AI agents is the killer use case the crypto industry has been waiting for.\n\nEvery agent will need its own wallet and to be able to quickly and seamlessly transact.",
+      "likes": 1215,
+      "retweets": 80,
+      "url": "https://x.com/Austen/status/2017270942846632211"
+    },
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 498,
+      "retweets": 44,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 419,
+      "retweets": 4,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 419,
+      "retweets": 4,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    },
+    {
+      "author": "gainzy222",
+      "text": "elites absolutely shitting themselves with every epstein file dump\n\nit just gets worse and worse",
+      "likes": 357,
+      "retweets": 13,
+      "url": "https://x.com/gainzy222/status/2017454022974726423"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm happy weekend https://t.co/okT88CwOxQ",
+      "likes": 352,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2017477980092821526"
+    },
+    {
+      "author": "jessepollak",
+      "text": "this weekend is a prime building opportunity",
+      "likes": 311,
+      "retweets": 18,
+      "url": "https://x.com/jessepollak/status/2017473205062275291"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "looking back you can't even explain the silly shit that was going on in 2024, there was a crypto conference iggy azalea party with strippers &amp; a mechanical bull in the middle of a random venue in singapore, sounds like the most ridiculous ai slop scripted combination of thing",
+      "likes": 278,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2017465926090678351"
+    },
+    {
+      "author": "Ga__ke",
+      "text": "2 9 fig runners in the span of a week and quite nicely on both ends of the spectrum \n\nIs ur narrative good enough???",
+      "likes": 269,
+      "retweets": 5,
+      "url": "https://x.com/Ga__ke/status/2017421555882725837"
+    }
+  ]
+}

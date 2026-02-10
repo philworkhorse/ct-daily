@@ -1,0 +1,162 @@
+{
+  "timestamp": "2026-02-06T05:38:34.454Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 2,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MON",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MON",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$MON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @pr6spr just bought $3.19K of $MON at $2.22M MC 🐳\n\nhttps://t.co/boFrm9Cf4t",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "BlueLightCapit1",
+        "text": "CNBC just said stablecoins remove Bitcoins use case bc u don't need to have bitcoin to interact with the stablecoin universe lol\n\nI'm convinced the US gov being \"accepting\" of $BTC and enabling ETF's ",
+        "likes": 47,
+        "retweets": 7
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $19.01K of $WhiteWhale at $117.92M MC 🐳\n\nhttps://t.co/fmC8fA44M0",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $13.91K of $SKR at $254.39M MC 🐳\n\nhttps://t.co/ae8sUCE6Vu",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TheNBACentel",
+      "text": "LEBRON BREAKING ANKLES 🔥🔥🔥https://t.co/qs6PlSO4d1",
+      "likes": 274,
+      "retweets": 15,
+      "url": "https://x.com/TheNBACentel/status/2019640455848423797"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "PODZ WAS HOOPING TONIGHT 🔥🔥🔥\n\n(Via ⁦@realapp⁩) https://t.co/euYHvLIV3h",
+      "likes": 268,
+      "retweets": 10,
+      "url": "https://x.com/TheNBACentel/status/2019644352939598017"
+    },
+    {
+      "author": "frankdegods",
+      "text": "🫠 https://t.co/QaoZ96bVYn",
+      "likes": 233,
+      "retweets": 9,
+      "url": "https://x.com/frankdegods/status/2019567885077676492"
+    },
+    {
+      "author": "frankdegods",
+      "text": "🫠 https://t.co/QaoZ96bVYn",
+      "likes": 233,
+      "retweets": 9,
+      "url": "https://x.com/frankdegods/status/2019567885077676492"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "where the fuck is ben pasternak",
+      "likes": 232,
+      "retweets": 9,
+      "url": "https://x.com/notthreadguy/status/2019509407038755023"
+    },
+    {
+      "author": "SilvXBT",
+      "text": "Where's the fucking up only episode bastard sold his company at the top and didn't even give us an el",
+      "likes": 224,
+      "retweets": 2,
+      "url": "https://x.com/SilvXBT/status/2019569935106838860"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "DILLON BROOKS GAME WINNER 🔥 https://t.co/0KwKJOuvvR",
+      "likes": 161,
+      "retweets": 10,
+      "url": "https://x.com/TheNBACentel/status/2019644829278380114"
+    },
+    {
+      "author": "frankdegods",
+      "text": "i think the final marginal buyers of the ai trade will be the government, specifically the military\n\nMag7 are ramping up capex because they know they can. they’re calling bluff. \n\nthe worst case scenario they will be bailed out by money printer for reasons of national defense\n\ni ",
+      "likes": 109,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2019625656737239275"
+    },
+    {
+      "author": "BasedShillBH",
+      "text": "First cyclers, You have now earned your stripes. \n\nAnyone telling you this industry is OVER. Block.",
+      "likes": 107,
+      "retweets": 10,
+      "url": "https://x.com/BasedShillBH/status/2019586924747649157"
+    }
+  ]
+}

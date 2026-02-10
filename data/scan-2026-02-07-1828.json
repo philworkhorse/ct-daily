@@ -1,0 +1,242 @@
+{
+  "timestamp": "2026-02-07T18:28:33.425Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 4,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$COW",
+      2
+    ],
+    [
+      "$PSYOPANIME",
+      1
+    ],
+    [
+      "$SOV",
+      1
+    ],
+    [
+      "$FLUXTRADE",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$BP",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$DUPE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$COW",
+        "count": 2
+      },
+      {
+        "ticker": "$PSYOPANIME",
+        "count": 1
+      },
+      {
+        "ticker": "$SOV",
+        "count": 1
+      },
+      {
+        "ticker": "$FLUXTRADE",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$BP",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$DUPE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$PSYOPANIME": [
+      {
+        "author": "traderpow",
+        "text": "I get my news from $PSYOPANIME",
+        "likes": 50,
+        "retweets": 6
+      }
+    ],
+    "$SOV": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @MidTernDev verified earnings for $SOV on @BagsApp 💰\n\nhttps://t.co/8qYmZTYyLI",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$COW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $COW with a PnL of +134.07%.\n\n$COW has been trending on Moby since $64.61K MC. Currently sitting at $244.03K MC. https://t.co/cslF0iiPYF",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $COW with a PnL of +159.82%.\n\n$COW has been trending on Moby since $64.61K MC. Currently sitting at $246.34K MC. https://t.co/j8JKd9bqWn",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$FLUXTRADE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Lioara199621 verified earnings for $FLUXTRADE on @BagsApp 💰\n\nhttps://t.co/wSR1WMARpE",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.02K of $BP at $3.58M MC 🐳\n\nhttps://t.co/P4reUqX0E5",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.02K of $BP at $3.58M MC 🐳\n\nhttps://t.co/P4reUqX0E5",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "ATTENTION:\n\n100% of the fees I make today are going right back into $GSD. I'll continue to add and lock liquidity until the midnight.",
+        "likes": 32,
+        "retweets": 4
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $4.01K of $DUPE at $8.08M MC 🐳\n\nhttps://t.co/FJgkTnhkxO",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$DUPE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $4.01K of $DUPE at $8.08M MC 🐳\n\nhttps://t.co/FJgkTnhkxO",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MrBeast",
+      "text": "I gathered 100 people ages 1 thru 100 and put them thru athletic channels to see what age is peak athleticism! Go Watch! https://t.co/iA52eP2VQs",
+      "likes": 478,
+      "retweets": 35,
+      "url": "https://x.com/MrBeast/status/2020201879888859568"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "nyc “feels like -16 degrees” and i pay 54% taxes to live here",
+      "likes": 263,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2020172289166209105"
+    },
+    {
+      "author": "jessepollak",
+      "text": "gm what are we building this weekend?",
+      "likes": 250,
+      "retweets": 15,
+      "url": "https://x.com/jessepollak/status/2020180657742438742"
+    },
+    {
+      "author": "simonw",
+      "text": "I wrote about the most ambitious form of AI-assisted software development I've seen yet - Strong DM's \"Software Factory\" approach, where two of the guiding principles are \"Code must not be written by humans\" and \"Code must not be reviewed by humans\" https://t.co/R0VYRwaZP5",
+      "likes": 247,
+      "retweets": 32,
+      "url": "https://x.com/simonw/status/2020161285376082326"
+    },
+    {
+      "author": "moonpay",
+      "text": "https://t.co/Ns83WPzWDZ",
+      "likes": 165,
+      "retweets": 24,
+      "url": "https://x.com/moonpay/status/2020197274694086897"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "https://t.co/r2GPV4kHam",
+      "likes": 147,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2020167326226682354"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "What it feels like when you win a trade in a bear market \n\n https://t.co/0GQJDKmT4q",
+      "likes": 109,
+      "retweets": 7,
+      "url": "https://x.com/CryptoKaleo/status/2020184980476031476"
+    },
+    {
+      "author": "deltaxbt",
+      "text": "wtf lol\nmm stat on crack https://t.co/plvp5wIo8b",
+      "likes": 106,
+      "retweets": 3,
+      "url": "https://x.com/deltaxbt/status/2020170716251922572"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "timestamp": "2026-02-03T05:27:33.490Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 2,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CRY",
+      1
+    ],
+    [
+      "$ROOTS",
+      1
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$AURA",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$JITOSOL",
+      1
+    ],
+    [
+      "$ORGO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CRY",
+        "count": 1
+      },
+      {
+        "ticker": "$ROOTS",
+        "count": 1
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$AURA",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$ORGO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$CRY": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CRY with a PnL of +159.50%.\n\n$CRY has been trending on Moby since $54.8K MC. Currently sitting at $183.17K MC. https://t.co/L2DxaHTPb5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ROOTS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @metamantra verified earnings for $ROOTS on @BagsApp 💰\n\nhttps://t.co/PqR1c3g9u6",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $8.93K of $ORE at $30.61M MC 🐳\n\nhttps://t.co/bxoMM4CRec",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AURA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AURA whale just bought $9.45K of $PENGUIN at $39.2M MC 🐳\n\nhttps://t.co/EzKwRHRhm5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AURA whale just bought $9.45K of $PENGUIN at $39.2M MC 🐳\n\nhttps://t.co/EzKwRHRhm5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $1.83M of $JitoSOL at $1.47B MC 🐳\n\nhttps://t.co/qogrGPV2Q3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ORGO": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $10.26K of $ORGO at $10.93M MC 🐳\n\nhttps://t.co/Gdi2XqgXed",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "hyperliquid is like bitcoin but without the pedos and with a real business generating billions of revenue on top",
+      "likes": 572,
+      "retweets": 37,
+      "url": "https://x.com/blknoiz06/status/2018531776440987797"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "epstein files a multi-decade top of US dominance as a global superpower",
+      "likes": 296,
+      "retweets": 9,
+      "url": "https://x.com/blknoiz06/status/2018531652943925734"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "hey hey heyyyyyyyy https://t.co/WPHUMmMFJ5",
+      "likes": 278,
+      "retweets": 6,
+      "url": "https://x.com/blknoiz06/status/2018528492976308672"
+    },
+    {
+      "author": "based16z",
+      "text": "Hyperliquid… that shit goin up",
+      "likes": 243,
+      "retweets": 5,
+      "url": "https://x.com/based16z/status/2018529445855048149"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Hype so strong it'll bottom the rest of the market.\n\nGoodnight everybody.",
+      "likes": 223,
+      "retweets": 11,
+      "url": "https://x.com/ThinkingUSD/status/2018544998254526668"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "People are about to realize @HyperliquidX is the most important start up in the world not named OpenAI or Anthropic",
+      "likes": 150,
+      "retweets": 12,
+      "url": "https://x.com/ThinkingUSD/status/2018546636121575905"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "hype legit saving crypto",
+      "likes": 149,
+      "retweets": 4,
+      "url": "https://x.com/notthreadguy/status/2018537516320895094"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "hype legit saving crypto",
+      "likes": 149,
+      "retweets": 4,
+      "url": "https://x.com/notthreadguy/status/2018537516320895094"
+    },
+    {
+      "author": "icobeast",
+      "text": "What happens if hyperliquid gets short squeezed on HYPE?",
+      "likes": 129,
+      "retweets": 1,
+      "url": "https://x.com/icobeast/status/2018382471377613178"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "What the fuck is you talking about saw this shit coming like I had binoculars BOY",
+      "likes": 120,
+      "retweets": 2,
+      "url": "https://x.com/ThinkingUSD/status/2018529512645132668"
+    }
+  ]
+}

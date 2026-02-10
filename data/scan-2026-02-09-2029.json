@@ -1,0 +1,164 @@
+{
+  "timestamp": "2026-02-09T20:29:22.202Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 2,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GROYPER",
+      1
+    ],
+    [
+      "$LMAO",
+      1
+    ],
+    [
+      "$JUICE",
+      1
+    ],
+    [
+      "$JITOSOL",
+      1
+    ],
+    [
+      "$LORIA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GROYPER",
+        "count": 1
+      },
+      {
+        "ticker": "$LMAO",
+        "count": 1
+      },
+      {
+        "ticker": "$JUICE",
+        "count": 1
+      },
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$LORIA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$GROYPER": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @zinceth just bought $3K of $GROYPER at $391.74K MC 🐳\n\nhttps://t.co/NdBkjdAdDl",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "gLMAO community and friends,\n\nI will be looking into integrating $LMAO! into the $JUICE platform (this can be turned off at any single time).\n\nI will be using a brand new wallet which I am CTO'ing LMA",
+        "likes": 7,
+        "retweets": 0
+      }
+    ],
+    "$JUICE": [
+      {
+        "author": "slingoorio",
+        "text": "gLMAO community and friends,\n\nI will be looking into integrating $LMAO! into the $JUICE platform (this can be turned off at any single time).\n\nI will be using a brand new wallet which I am CTO'ing LMA",
+        "likes": 7,
+        "retweets": 0
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $299.33K of $JitoSOL at $1.18B MC 🐳\n\nhttps://t.co/QPVWvLb1Yc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LORIA": [
+      {
+        "author": "official_taches",
+        "text": "RT @MCGlive: @daydreamsagents @EmpulserTech @ProductEMP @LaunchOnSoar @bankrbot @base Reviewing @BagsApp tokens at 2:10:00\n\n$LORIA - @mynt_…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "If you want to really learn about the world just follow the money. Every single war revolves around financing and capital formation. Every single cultural revolution and change of power occurred around debt needing to be refinanced.",
+      "likes": 219,
+      "retweets": 15,
+      "url": "https://x.com/ThinkingUSD/status/2020947445413564926"
+    },
+    {
+      "author": "bonkfun",
+      "text": "Introducing the next update to BONKERS:\n\nAll tokens launched under BONKERS will now automatically use 100% of their creator fees to buyback the token.\n\nMore details below 🧵👇 https://t.co/9GwqLqh3iu",
+      "likes": 193,
+      "retweets": 31,
+      "url": "https://x.com/bonkfun/status/2020951315925565924"
+    },
+    {
+      "author": "patty_fi",
+      "text": "Today is my loves birthday @PattyIceWife",
+      "likes": 139,
+      "retweets": 12,
+      "url": "https://x.com/patty_fi/status/2020880650807472141"
+    },
+    {
+      "author": "trading_axe",
+      "text": "@rasmr_eth Nigga pinched his nips right before this.\n\n~ Dr. Axius.",
+      "likes": 133,
+      "retweets": 0,
+      "url": "https://x.com/trading_axe/status/2020945448924741930"
+    },
+    {
+      "author": "solana",
+      "text": "BREAKING: @SushiSwap, one of crypto's most established DEXs, has officially launched on Solana\n\n4M+ users now have direct access to Solana's trading ecosystem. https://t.co/iV5GTO2ieL",
+      "likes": 133,
+      "retweets": 34,
+      "url": "https://x.com/solana/status/2020956032084668844"
+    },
+    {
+      "author": "fejau_inc",
+      "text": "the economy is re-accelerating",
+      "likes": 122,
+      "retweets": 5,
+      "url": "https://x.com/fejau_inc/status/2020942837689487669"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "impossible to focus on anything after what happened at ASU this weekend. https://t.co/08hvW0Ac6B",
+      "likes": 117,
+      "retweets": 2,
+      "url": "https://x.com/DipWheeler/status/2020942657267302596"
+    }
+  ]
+}

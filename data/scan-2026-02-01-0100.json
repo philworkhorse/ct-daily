@@ -1,0 +1,194 @@
+{
+  "timestamp": "2026-02-01T01:00:31.528Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 1,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$VIRTUAL",
+      1
+    ],
+    [
+      "$RAY",
+      1
+    ],
+    [
+      "$TOKABU",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$UFD",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$VIRTUAL",
+        "count": 1
+      },
+      {
+        "ticker": "$RAY",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$UFD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$VIRTUAL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $VIRTUAL whale just bought $36.05K of $RAY at $423.4M MC 🐳\n\nhttps://t.co/vOV5SQqKH2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$RAY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $VIRTUAL whale just bought $36.05K of $RAY at $423.4M MC 🐳\n\nhttps://t.co/vOV5SQqKH2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $1.19K of $Buildx402 at $152.04K MC 🐳\n\nhttps://t.co/bPhnzZQFVC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $11.55K of $UFD at $12.05M MC 🐳\n\nhttps://t.co/THhurTGnEA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$UFD": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $11.55K of $UFD at $12.05M MC 🐳\n\nhttps://t.co/THhurTGnEA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "1d34h4z4rd",
+        "text": "RT @heehah: $SPX 🤍🪽 https://t.co/rYoH568aL8",
+        "likes": 0,
+        "retweets": 37
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "They're going to slam rates to 1% and Bitcoin is going to double to 160k+. \n\nIt's obvious. \n\nAlso for as a Bonus, here's the new US Federal Reserve Chair Kevin Warsh talking about Bitcoin. https://t.co/Vv3oHyt9wq",
+      "likes": 2705,
+      "retweets": 223,
+      "url": "https://x.com/ThinkingUSD/status/2017298096032473105"
+    },
+    {
+      "author": "BurgerKing",
+      "text": "You in the spotlight with the Ultimate Steakhouse Whopper inspired by… YOU 📸",
+      "likes": 880,
+      "retweets": 44,
+      "url": "https://x.com/BurgerKing/status/2001011802872930490"
+    },
+    {
+      "author": "based16z",
+      "text": "a lotta yall still dont get it\n\nape holders can use multiple slurp juices on a single ape\n\nso if you have 1 astro ape and 3 slurp juices you can create 3 new apes",
+      "likes": 838,
+      "retweets": 33,
+      "url": "https://x.com/based16z/status/2017698835191976315"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "https://t.co/sHxllCMCvQ",
+      "likes": 183,
+      "retweets": 11,
+      "url": "https://x.com/notthreadguy/status/2017707259485200575"
+    },
+    {
+      "author": "jessepollak",
+      "text": "when your kid wants to shrinkydink but all you can think about is agents on @base https://t.co/kNaeguPZXj",
+      "likes": 177,
+      "retweets": 8,
+      "url": "https://x.com/jessepollak/status/2017749754416075242"
+    },
+    {
+      "author": "mert",
+      "text": "once emotions settle, it will remain clear once again that solana is the most scalable, usable and battle-tested universal platform for finance\n\nyou may not like this, and that's ok, but it is correct",
+      "likes": 141,
+      "retweets": 7,
+      "url": "https://x.com/mert/status/2017751252503863519"
+    },
+    {
+      "author": "cryptoklotz",
+      "text": "BTC topped in dec '24.\n\nBTCEUR is the more honest chart.\n\nalts (way more sensitive to excess liquidity) also generationally giga-topped there and have been down-only since, offering only paltry echo pumps.\n\ncrypto bear market is 14 months long and counting tbh https://t.co/C63W3d",
+      "likes": 126,
+      "retweets": 9,
+      "url": "https://x.com/cryptoklotz/status/2017713450974085345"
+    },
+    {
+      "author": "lendxyz",
+      "text": "📈Our first tokenized Real Estate sale is now 85% committed! \n\nInvest your USDC in a 9% APR tokenized datacenter and earn Lend points.",
+      "likes": 108,
+      "retweets": 29,
+      "url": "https://x.com/lendxyz/status/2016824894818832639"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "timestamp": "2026-02-05T17:35:37.736Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$MINI",
+      1
+    ],
+    [
+      "$NOBODY",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$BNB",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$MINI",
+        "count": 1
+      },
+      {
+        "ticker": "$NOBODY",
+        "count": 1
+      },
+      {
+        "ticker": "$BNB",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 2,
+      "bond": 1,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @KirillTalai: I just published my first deep dive: \"Getting $REKT Has Never Felt So Good\".\nA bull case for $REKT—the first brand coin wi…",
+        "likes": 0,
+        "retweets": 12
+      }
+    ],
+    "$MINI": [
+      {
+        "author": "st_jelmo",
+        "text": "RT @ABathingApeGX: Daily $MINI Spinny https://t.co/0OnfsccJK8",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$NOBODY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $NOBODY whale just bought $3.73K of $NOBODY at $5M MC 🐳\n\nhttps://t.co/YFs5jk9ZpS",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "CookerFlips",
+        "text": "In the last week $BTC $ETH $SOL $BNB all dropped 20-30% \n\nTrillions was lost\n\nA crazy amount of shady shit is happening behind the scenes they don’t want you to know about and below I say why",
+        "likes": 15,
+        "retweets": 1
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "CookerFlips",
+        "text": "In the last week $BTC $ETH $SOL $BNB all dropped 20-30% \n\nTrillions was lost\n\nA crazy amount of shady shit is happening behind the scenes they don’t want you to know about and below I say why",
+        "likes": 15,
+        "retweets": 1
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "CookerFlips",
+        "text": "In the last week $BTC $ETH $SOL $BNB all dropped 20-30% \n\nTrillions was lost\n\nA crazy amount of shady shit is happening behind the scenes they don’t want you to know about and below I say why",
+        "likes": 15,
+        "retweets": 1
+      }
+    ],
+    "$BNB": [
+      {
+        "author": "CookerFlips",
+        "text": "In the last week $BTC $ETH $SOL $BNB all dropped 20-30% \n\nTrillions was lost\n\nA crazy amount of shady shit is happening behind the scenes they don’t want you to know about and below I say why",
+        "likes": 15,
+        "retweets": 1
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $282.56K of $mSOL at $267.07M MC 🐳\n\nhttps://t.co/nBpcgdDbAc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TheNBACentel",
+      "text": "Giannis Antetokounmpo is open to trading Shams Charania from his Celebrity Game roster, per @ChrisBHayne https://t.co/41XpsyB4lZ",
+      "likes": 605,
+      "retweets": 28,
+      "url": "https://x.com/TheNBACentel/status/2019463383028773066"
+    },
+    {
+      "author": "goodalexander",
+      "text": "The idea that Saylor hasn’t made any money from Bitcoin is dishonest \n\nHe has sold over $370 million in MSTR equity personally since 2020",
+      "likes": 192,
+      "retweets": 6,
+      "url": "https://x.com/goodalexander/status/2019456530488172930"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "If you can’t handle the 70% drawdowns, then you don’t deserve the 5% pumps. HODL",
+      "likes": 143,
+      "retweets": 8,
+      "url": "https://x.com/Evan_ss6/status/2019456530043547655"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Can’t overestimate the psychological impact of SOL not even breaking $300 last cycle\n\nTrump coin, mania, memecoins, ai season. And it could hardly break 2021 ath. \n\nThe climb back to ATH feels impossible",
+      "likes": 122,
+      "retweets": 5,
+      "url": "https://x.com/rasmr_eth/status/2019443055732969834"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "pulse check",
+      "likes": 114,
+      "retweets": 2,
+      "url": "https://x.com/blknoiz06/status/2019462671372878245"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "pulse check",
+      "likes": 114,
+      "retweets": 2,
+      "url": "https://x.com/blknoiz06/status/2019462671372878245"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "timestamp": "2026-02-07T00:20:54.900Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 5,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MOLTSHOP",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$MOLTSHOP",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 2,
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$MOLTSHOP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @xGateAcademy verified earnings for $MOLTSHOP on @BagsApp 💰\n\nhttps://t.co/eToQJzEWn0",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "LoveYouAllNFT",
+        "text": "Made over 8 figs this year and it’s only February.\nAped 1% of $WhiteWhale at $2m, rode it to $200m. 100x.\nAped the bottom of $Ralph at $500k, exited at $50m before the nuke.\nRolled it into $Penguin at",
+        "likes": 15,
+        "retweets": 4
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "$GIGA in classic wyckoff accumulation pattern https://t.co/AEx4YN2F7j",
+        "likes": 7,
+        "retweets": 1
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "RT @Short__Shot: Over 60% of the profits I make in CT goes straight into $USDUC . GIVE ME THOSE UNSTABLE COINS. Been doing this since 30m,…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "I have seen people on crack throw more money on the 1h fartcoin chart than france is throwing at science",
+      "likes": 715,
+      "retweets": 33,
+      "url": "https://x.com/mert/status/2019883774889402384"
+    },
+    {
+      "author": "jessepollak",
+      "text": "who's building an agent on @base that I should follow?",
+      "likes": 121,
+      "retweets": 6,
+      "url": "https://x.com/jessepollak/status/2019921504151171101"
+    },
+    {
+      "author": "DeItaone",
+      "text": "SPACEX DELAYS MARS PLANS TO FOCUS ON MOON - WSJ\n\nSPACEX  WILL TARGET MARCH 2027 FOR A LUNAR LANDING WITHOUT HUMANS ON BOARD - WSJ",
+      "likes": 121,
+      "retweets": 16,
+      "url": "https://x.com/DeItaone/status/2019925049382207495"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "vibe check https://t.co/FgP4UMNAKY",
+      "likes": 118,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2019925683657666600"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "vibe check https://t.co/FgP4UMNAKY",
+      "likes": 117,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2019925683657666600"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "timestamp": "2026-02-09T13:00:39.707Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 3,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$PUMP",
+      2
+    ],
+    [
+      "$JTO",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$LORIA",
+      1
+    ],
+    [
+      "$SNKAI",
+      1
+    ],
+    [
+      "$ROCK",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$CLAWRA",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 2
+      },
+      {
+        "ticker": "$JTO",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$LORIA",
+        "count": 1
+      },
+      {
+        "ticker": "$SNKAI",
+        "count": 1
+      },
+      {
+        "ticker": "$ROCK",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWRA",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "inflation": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "docXBT",
+        "text": "$BTC - Looking for us to build out value here; starting off by using prev week's vah/val and anchored vwap as a guide. https://t.co/qvjy8k0WZp",
+        "likes": 11,
+        "retweets": 0
+      },
+      {
+        "author": "docXBT",
+        "text": "$BTC - Looking for us to build out value here; starting off by using prev week's vah/val and anchored vwap as a guide. https://t.co/qvjy8k0WZp",
+        "likes": 11,
+        "retweets": 0
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "$REKT Weekly https://t.co/trWDrdfeOZ",
+        "likes": 21,
+        "retweets": 2
+      },
+      {
+        "author": "osf_rekt",
+        "text": "impromptu $REKT weekly in a few mins, while i have a spare moment! https://t.co/pCyKcj4jdN",
+        "likes": 24,
+        "retweets": 5
+      }
+    ],
+    "$JTO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JTO whale just bought $31.92K of $JitoSOL at $1.14B MC 🐳\n\nhttps://t.co/wqOu8lcfY4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GIGA whale just bought $3.36K of $GIGA at $22.05M MC 🐳\n\nhttps://t.co/ZFJp5h3pDa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.06K of $LORIA at $4.76M MC 🐳\n\nhttps://t.co/uGMkmFxvpv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LORIA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.06K of $LORIA at $4.76M MC 🐳\n\nhttps://t.co/uGMkmFxvpv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SNKAI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @snakey_ai verified earnings for $SNKAI on @BagsApp 💰\n\nhttps://t.co/q8StnmKRph",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $10K of $Fartcoin at $186.73M MC 🐳\n\nhttps://t.co/4uSj1UvJ4s",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $5.07K of $PsyopAnime at $3.56M MC 🐳\n\nhttps://t.co/cGLEnD3m7M",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$ROCK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @talyonsol verified earnings for $ROCK on @BagsApp 💰\n\nhttps://t.co/qgJJ7xponU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.52K of $Buttcoin at $33.36M MC 🐳\n\nhttps://t.co/cGHBQXVg7v",
+        "likes": 8,
+        "retweets": 2
+      }
+    ],
+    "$CLAWRA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @davidhoyun verified earnings for $CLAWRA on @BagsApp 💰\n\nhttps://t.co/JQX6XOiGbH",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @onchainrobber just bought $6K of $WOJAK at $12.56M MC 🐳\n\nhttps://t.co/4oymb45fSQ",
+        "likes": 1,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "retardmode",
+      "text": "i ordered a pallet of luxury handbags from aliexpress in 2016 for $4/piece, i’ve given one as a valentines day gift every year and no woman has called me out yet\n\nevery year around this time i start getting nervous to try my luck again",
+      "likes": 1244,
+      "retweets": 8,
+      "url": "https://x.com/retardmode/status/2020500688015687970"
+    },
+    {
+      "author": "levelsio",
+      "text": "New video model by ByteDance (TikTok) seems to drop tomorrow\n\nSeedance 2.0 apparently outperforms Veo 3.1, Sora 2 and Kling 3.0\n\nWhat it does (kinda like Sora but more advanced) is act like a director being able to create entire full length videos with lots of cuts and different ",
+      "likes": 819,
+      "retweets": 37,
+      "url": "https://x.com/levelsio/status/2020699321675456906"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 487,
+      "retweets": 66,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "The more time I spend in this space, the more I just want to hold BTC over everything else.\n\nWhen I first entered crypto, I couldn't understand why anyone would buy Bitcoin over alts.\n\nNow I get it",
+      "likes": 303,
+      "retweets": 13,
+      "url": "https://x.com/waleswoosh/status/2020821348717871479"
+    },
+    {
+      "author": "mert",
+      "text": "think the coinbase ad was good actually\n\nnot david ogilvy but nothing wrong with it \n\nit should be a big alarm bell that ppl have this negative of a reaction to crypto, not coinbase's fault",
+      "likes": 163,
+      "retweets": 10,
+      "url": "https://x.com/mert/status/2020819946926698660"
+    },
+    {
+      "author": "inversebrah",
+      "text": "inb4 saylor bought $1B at $72k 🥹 https://t.co/xAcs3Z2b3j",
+      "likes": 163,
+      "retweets": 2,
+      "url": "https://x.com/inversebrah/status/2020807392787603474"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "timestamp": "2026-02-01T20:45:48.266Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 6,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PURCH",
+      3
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$DUPE",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$TETSUOAREN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PURCH",
+        "count": 3
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$DUPE",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$TETSUOAREN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$PURCH": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "In a WILD turn of events... \n\nCircle has just given some legitimacy to their Pump Fun token...\n\n$PURCH is a token that allows AI Agents to purchase goods and settle with USDC via the payment rails. \n\n",
+        "likes": 72,
+        "retweets": 7
+      },
+      {
+        "author": "au_xbt",
+        "text": "$PURCH @trypurch is undervalued for a few reasons:\n\n7EW5dDD6MYJK4PcZ89MGApJQwWeDEeNgH4NCVU4qpump\n\n&gt; Only 60% circulating\n&gt; $DUPE (same shopping lane) is still at 6m\n&gt; Got shilled by the Circl",
+        "likes": 19,
+        "retweets": 2
+      },
+      {
+        "author": "au_xbt",
+        "text": "This is what it looks like when people realize it wasn’t hacked, FOMO back in — and start seeing $PURCH as undervalued https://t.co/n4CgAoZjb0",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "Back in 2016 Zcash was using Jefferey Epstein to dump black market $ZEC \n\n-That red candle makes sense now.\n\nDo not trust them with anything. These people are sick. https://t.co/aQzUgNsyE5",
+        "likes": 8,
+        "retweets": 1
+      }
+    ],
+    "$DUPE": [
+      {
+        "author": "au_xbt",
+        "text": "$PURCH @trypurch is undervalued for a few reasons:\n\n7EW5dDD6MYJK4PcZ89MGApJQwWeDEeNgH4NCVU4qpump\n\n&gt; Only 60% circulating\n&gt; $DUPE (same shopping lane) is still at 6m\n&gt; Got shilled by the Circl",
+        "likes": 19,
+        "retweets": 2
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "caseycallouts",
+        "text": "JupiterExchange is more than just a DEX it powers liquidity across Solana. The $JUP distribution is designed to reward active ecosystem participants and now integrated with poly market is huge news fo",
+        "likes": 65,
+        "retweets": 20
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5.03K of $AVICI at $18.66M MC 🐳\n\nhttps://t.co/tf7TE5z87C",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5.03K of $AVICI at $18.66M MC 🐳\n\nhttps://t.co/tf7TE5z87C",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TETSUOAREN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @tetsuoarena verified earnings for $TETSUOAREN on @BagsApp 💰\n\nhttps://t.co/6q1bQqvdJ3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "frankdegods",
+      "text": "roundtripped a mil, how was ur morning? https://t.co/Jdll752CGE",
+      "likes": 580,
+      "retweets": 14,
+      "url": "https://x.com/frankdegods/status/2017984590556639434"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 567,
+      "retweets": 66,
+      "url": "https://x.com/Neuravision_A/status/2012979139880566854"
+    },
+    {
+      "author": "jessepollak",
+      "text": "More builders. \nMore agents. \nMore traders. \nMore capital. \n\nUp to all of us to onboard them.",
+      "likes": 395,
+      "retweets": 33,
+      "url": "https://x.com/jessepollak/status/2018040098470941106"
+    },
+    {
+      "author": "satsdats",
+      "text": "As some of you may have heard, I am joining @bonkfun as Head of Product.\n\nI have been quite vocal with my opinions on how launchpads operate in the past, some negative, some positive, but it’s clear this space is not going away any time soon.\n\nI will try my best to give the ‘tren",
+      "likes": 338,
+      "retweets": 29,
+      "url": "https://x.com/satsdats/status/2018031568770478504"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Base needs more independent, opinionated curators of attention and capital. \n\nThe more voices and allocators, the more resilient and decentralized our marketplace of innovation will be. \n\nWho will rise to the challenge?",
+      "likes": 287,
+      "retweets": 21,
+      "url": "https://x.com/jessepollak/status/2018041252340810096"
+    },
+    {
+      "author": "icobeast",
+      "text": "Always been an ETH guy but it’s getting increasingly difficult to have that as my largest position when you look at HYPE",
+      "likes": 234,
+      "retweets": 4,
+      "url": "https://x.com/icobeast/status/2017713416605941930"
+    },
+    {
+      "author": "levelsio",
+      "text": "🚶 Installed Another World (1991) now on https://t.co/M1hEUBAynC\n\nApparently a classic game from 35 years ago! \n\nBut somehow it aged amazingly, it could be any of those modern indie games you see, and feels very futuristic Bladerunner/Cyberpunk-esque\n\nI have absolutely no clue ho",
+      "likes": 217,
+      "retweets": 9,
+      "url": "https://x.com/levelsio/status/2018041371127353743"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Draymond Green reportedly approached Stephen Curry about giving up his All-Star starter spot to LeBron James.\n\n(Via @ChrisBHayne) https://t.co/XZJqXwYS9a",
+      "likes": 211,
+      "retweets": 9,
+      "url": "https://x.com/TheNBACentel/status/2018061864144425201"
+    },
+    {
+      "author": "mert",
+      "text": "solana casually doing 4.3k tps without requiring central servers and blocks aren't even full\n\nthe universal API for planetary finance",
+      "likes": 142,
+      "retweets": 10,
+      "url": "https://x.com/mert/status/2018039059223060593"
+    },
+    {
+      "author": "Raydium",
+      "text": "Toly: I like memes\n\nCt: 🤯🤯🤯",
+      "likes": 124,
+      "retweets": 3,
+      "url": "https://x.com/Raydium/status/2018050447454454137"
+    }
+  ]
+}

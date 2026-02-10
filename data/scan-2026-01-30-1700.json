@@ -1,0 +1,216 @@
+{
+  "timestamp": "2026-01-30T17:00:27.872Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 5,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$ZEPHYR",
+      2
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$OPENCLAW",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$PUDGY",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$ZEPHYR",
+        "count": 2
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PUDGY",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "silver": 3,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 5,
+      "silver": 3
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$MOLT": [
+      {
+        "author": "jessepollak",
+        "text": "$MOLT is #1 trending on @coinbase right now https://t.co/GR9QW1XwEY",
+        "likes": 100,
+        "retweets": 18
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "i think it is important to never underestimate our community\n\n$REKT https://t.co/SQXIRqSrgx",
+        "likes": 68,
+        "retweets": 13
+      },
+      {
+        "author": "osf_rekt",
+        "text": "RT @0xLapom: $REKT GM ☀️ https://t.co/Rncl4wa8Ih",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "jessepollak",
+        "text": "RT @flaunchgg: ICYMI: @MattPRD's @yesnoerror was bridged to Base ~5 months ago, and is picking up steam 🔥\n\n$YNE has done over $67,000 volum…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "jessepollak",
+        "text": "RT @jai_prasad17: Shit got even crazier since the Clawdbot days:\n\nClawdbot fully rebranded to Moltnot and then to OpenClaw. $OPENCLAW token…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.63K of $dreams at $15.23M MC 🐳\n\nhttps://t.co/TKAA8pG3pp",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUDGY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Younkoseven verified earnings for $PUDGY on @BagsApp 💰\n\nhttps://t.co/mGE6gTyoFH",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ZEPHYR": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Loopierr just bought $1.37K of $ZEPHYR at $317.07K MC 🐳\n\nhttps://t.co/4EoVoUuUwt",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @px_721 just bought $1.16K of $ZEPHYR at $233.18K MC 🐳\n\nhttps://t.co/2VFjtwmOor",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "NFL",
+      "text": "A dime in stride 💰 https://t.co/5NfgN7abPN",
+      "likes": 3262,
+      "retweets": 184,
+      "url": "https://x.com/NFL/status/2010140576822534307"
+    },
+    {
+      "author": "jessepollak",
+      "text": "You can make it on @base.",
+      "likes": 167,
+      "retweets": 13,
+      "url": "https://x.com/jessepollak/status/2017272179470340533"
+    },
+    {
+      "author": "AzFlin",
+      "text": "Question for VCs / founders cause I really don’t know how all this works\n\nSay someone builds a launchpad and farms 5M in fees. But they raised 5M from VCs\n\nHow much of that 5M earned do the founders pocket? Or do VCs have to be made whole first 🤔",
+      "likes": 163,
+      "retweets": 3,
+      "url": "https://x.com/AzFlin/status/2017094529711739072"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "I thought metals dumping too would make me feel better about being invested in crypto.\n\nBut it doesn’t.\n\nI don’t really feel anything anymore",
+      "likes": 153,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2017271176931017199"
+    },
+    {
+      "author": "DeItaone",
+      "text": "*SILVER PLUNGES 20% IN BIGGEST INTRADAY DECLINE SINCE 2008",
+      "likes": 147,
+      "retweets": 31,
+      "url": "https://x.com/DeItaone/status/2017279725786271875"
+    },
+    {
+      "author": "jessepollak",
+      "text": "let your agents sign up for moltbook",
+      "likes": 131,
+      "retweets": 9,
+      "url": "https://x.com/jessepollak/status/2017271385555603708"
+    },
+    {
+      "author": "jessepollak",
+      "text": "$MOLT is #1 trending on @coinbase right now https://t.co/GR9QW1XwEY",
+      "likes": 100,
+      "retweets": 18,
+      "url": "https://x.com/jessepollak/status/2017276877526974884"
+    }
+  ]
+}

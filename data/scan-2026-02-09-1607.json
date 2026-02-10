@@ -1,0 +1,183 @@
+{
+  "timestamp": "2026-02-09T16:07:14.610Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 5,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PSX",
+      1
+    ],
+    [
+      "$TERP",
+      1
+    ],
+    [
+      "$CLAWSCR",
+      1
+    ],
+    [
+      "$SWARM",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PSX",
+        "count": 1
+      },
+      {
+        "ticker": "$TERP",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWSCR",
+        "count": 1
+      },
+      {
+        "ticker": "$SWARM",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "gold": 4,
+      "corn": 2,
+      "coffee": 1,
+      "copper": 2
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 4
+    },
+    "macro": {
+      "fed": 1,
+      "inflation": 1,
+      "cpi": 1,
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$PSX": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @eyeamfin just bought $1K of $PSX at $165.63K MC 🐳\n\nhttps://t.co/qLXfMgExdH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TERP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @OnlyTerp verified earnings for $TERP on @BagsApp 💰\n\nhttps://t.co/S5seOvzrZL",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CLAWSCR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ClawdScore verified earnings for $CLAWSCR on @BagsApp 💰\n\nhttps://t.co/aUxsbFb5IO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SWARM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ClawdSwarm verified earnings for $SWARM on @BagsApp 💰\n\nhttps://t.co/7pAHaY50uO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MrBeast",
+      "text": "No one has solved the $1,000,000 puzzle in our SuperBowl ad yesterday. You could win a million dollars from your pc today 🤪",
+      "likes": 10395,
+      "retweets": 339,
+      "url": "https://x.com/MrBeast/status/2020851385747522045"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 1385,
+      "retweets": 84,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "135 million viewers tuned in to Bad Bunny’s record-breaking Superbowl Halftime performance.\n\nKid Rock and TPUSA peaked at 6 million viewers during their livestream. https://t.co/DlALr6umsm",
+      "likes": 575,
+      "retweets": 80,
+      "url": "https://x.com/HQNewsNow/status/2020888430436037030"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "https://t.co/fggL2W6K7i",
+      "likes": 507,
+      "retweets": 42,
+      "url": "https://x.com/boldleonidas/status/2020802290672697766"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "What are the odds SOLBTC is just ETHBTC next cycle? https://t.co/pG19Cpmfmv",
+      "likes": 455,
+      "retweets": 16,
+      "url": "https://x.com/Tradermayne/status/2020612629719327111"
+    },
+    {
+      "author": "TheDemocrats",
+      "text": "Right https://t.co/1DsQRliLRI",
+      "likes": 302,
+      "retweets": 16,
+      "url": "https://x.com/TheDemocrats/status/2020889123406389484"
+    },
+    {
+      "author": "mert",
+      "text": "Tempo now has dankrad, dan romero, dan robinson, matt and georgios lmao \n\nthis is the golden state warriors with durant \n\nhype is probably the cavs w jeff as lebron\n\nsolana is 2014 spurs \n\nwill be a fun year get your popcorn ready",
+      "likes": 261,
+      "retweets": 3,
+      "url": "https://x.com/mert/status/2020876678247948763"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "To whom it may concern:\n\nI'm now holding more BTC than ever before",
+      "likes": 214,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2020879891768762628"
+    },
+    {
+      "author": "toly",
+      "text": "TPS report",
+      "likes": 167,
+      "retweets": 10,
+      "url": "https://x.com/toly/status/2020869248801783820"
+    },
+    {
+      "author": "icobeast",
+      "text": "Yeah given that I’m the only person in the world that identifies as icobeast and someone already scooped that within 2 hours of this going live I’ll never be using it.\n\nShould have had a much better domain squatting solution in place before launch. https://t.co/kvlQvkB3PW",
+      "likes": 156,
+      "retweets": 1,
+      "url": "https://x.com/icobeast/status/2020696549794418783"
+    }
+  ]
+}

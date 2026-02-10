@@ -1,0 +1,263 @@
+{
+  "timestamp": "2026-01-30T17:14:03.165Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 3,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$MOLT",
+      2
+    ],
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$MOLTBOOK",
+      1
+    ],
+    [
+      "$ORDO",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$GOLD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTBOOK",
+        "count": 1
+      },
+      {
+        "ticker": "$ORDO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$GOLD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 7,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 7,
+      "silver": 1
+    },
+    "macro": {
+      "fed": 3,
+      "rate cut": 1,
+      "treasury": 1,
+      "yields": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "if you’re in [losing money buying the “new, shiny thing” daily], simply pivot to buying &amp; holding $BUTTCOIN (by @ButtCoin) and ignoring everything else\n\nit has been a refreshing experience",
+        "likes": 21,
+        "retweets": 6
+      },
+      {
+        "author": "miragemunny",
+        "text": "if you’re in [losing money buying the “new, shiny thing” daily], simply pivot to buying &amp; holding $BUTTCOIN (by @ButtCoin) and ignoring everything else\n\nit has been a refreshing experience",
+        "likes": 21,
+        "retweets": 6
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "jessepollak",
+        "text": "$MOLT is #1 trending on @coinbase right now https://t.co/GR9QW1XwEY",
+        "likes": 148,
+        "retweets": 23
+      },
+      {
+        "author": "0xBossman",
+        "text": "Memecoins will never die. \n\n$MOLT https://t.co/1YVVDzHplF",
+        "likes": 11,
+        "retweets": 2
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "i think it is important to never underestimate our community\n\n$REKT https://t.co/SQXIRqSrgx",
+        "likes": 77,
+        "retweets": 14
+      },
+      {
+        "author": "osf_rekt",
+        "text": "RT @0xLapom: $REKT GM ☀️ https://t.co/Rncl4wa8Ih",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "jessepollak",
+        "text": "RT @flaunchgg: ICYMI: @MattPRD's @yesnoerror was bridged to Base ~5 months ago, and is picking up steam 🔥\n\n$YNE has done over $67,000 volum…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$MOLTBOOK": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Feanor_crypt just bought $1.49K of $MOLTBOOK at $624.4K MC 🐳\n\nhttps://t.co/JMUlWj97u4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ORDO": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Ga__ke just bought $4.62K of $ORDO at $233.08K MC 🐳\n\nhttps://t.co/jdjGJAr6jn",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $4.97K of $GOLD at $3.07M MC 🐳\n\nhttps://t.co/MhltDHAGKn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $4.97K of $GOLD at $3.07M MC 🐳\n\nhttps://t.co/MhltDHAGKn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "\"We believe Bitcoin is the foundational asset of this ecosystem and the premier long-term store of value.\" - @binance",
+      "likes": 657,
+      "retweets": 71,
+      "url": "https://x.com/saylor/status/2017283708902941121"
+    },
+    {
+      "author": "IBKR",
+      "text": "Consolidate, track and analyze all your financial accounts on a single dashboard using powerful portfolio analytics and planning tools.",
+      "likes": 559,
+      "retweets": 55,
+      "url": "https://x.com/IBKR/status/1932878427360801190"
+    },
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 380,
+      "retweets": 39,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "I discussed joint energy projects with @NicusorDanRO that can significantly strengthen the energy security of both Ukraine and Romania. It is crucial to realize all of them. Our teams will continue discussions at the ministerial level. I thank the President and the people of Roma",
+      "likes": 231,
+      "retweets": 47,
+      "url": "https://x.com/ZelenskyyUa/status/2017282838928715811"
+    },
+    {
+      "author": "jessepollak",
+      "text": "You can make it on @base.",
+      "likes": 204,
+      "retweets": 16,
+      "url": "https://x.com/jessepollak/status/2017272179470340533"
+    },
+    {
+      "author": "AzFlin",
+      "text": "Question for VCs / founders cause I really don’t know how all this works\n\nSay someone builds a launchpad and farms 5M in fees. But they raised 5M from VCs\n\nHow much of that 5M earned do the founders pocket? Or do VCs have to be made whole first 🤔",
+      "likes": 167,
+      "retweets": 3,
+      "url": "https://x.com/AzFlin/status/2017094529711739072"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "I thought metals dumping too would make me feel better about being invested in crypto.\n\nBut it doesn’t.\n\nI don’t really feel anything anymore",
+      "likes": 164,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2017271176931017199"
+    },
+    {
+      "author": "jessepollak",
+      "text": "$MOLT is #1 trending on @coinbase right now https://t.co/GR9QW1XwEY",
+      "likes": 148,
+      "retweets": 23,
+      "url": "https://x.com/jessepollak/status/2017276877526974884"
+    },
+    {
+      "author": "jessepollak",
+      "text": "let your agents sign up for moltbook",
+      "likes": 148,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2017271385555603708"
+    },
+    {
+      "author": "mert",
+      "text": "solana will emerge as the universal API for all finance",
+      "likes": 108,
+      "retweets": 7,
+      "url": "https://x.com/mert/status/2017273788870557940"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "timestamp": "2026-02-05T20:10:03.698Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 4,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BLOXX",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$SPHERON",
+      1
+    ],
+    [
+      "$FUNGI",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BLOXX",
+        "count": 1
+      },
+      {
+        "ticker": "$SPHERON",
+        "count": 1
+      },
+      {
+        "ticker": "$FUNGI",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BLOXX": [
+      {
+        "author": "BloxApi",
+        "text": "GOING.\nLIVE.\n\nFirst up, short term roadmap and then some vision-casting. Time to plot the path, business model and resources needed to get $BLOXX to a $100MC valuation.\n\n@pumpfun Link in comments, or ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $7.14K of $META at $70.52M MC 🐳\n\nhttps://t.co/XzVUOQmf0d",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SPHERON": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/co5NcoHFSt verified earnings for $SPHERON on @BagsApp 💰\n\nhttps://t.co/Flwe1dqSjn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FUNGI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @sm0le__ verified earnings for $FUNGI on @BagsApp 💰\n\nhttps://t.co/DYpetovVMp",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC spot plan updated\n\nHTF POI approaching, reminder to wait for a range before deploying spot buy 2\n\nAlright, $BTC reaching the mid 60's now. Not forming a range yet so still not interested in longi",
+        "likes": 53,
+        "retweets": 2
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $4.77K of $PENGUIN at $17.8M MC 🐳\n\nhttps://t.co/Tw31d7fC7y",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $4.77K of $PENGUIN at $17.8M MC 🐳\n\nhttps://t.co/Tw31d7fC7y",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "HODL",
+      "likes": 44422,
+      "retweets": 4638,
+      "url": "https://x.com/saylor/status/2019426255268204617"
+    },
+    {
+      "author": "zachxbt",
+      "text": "1/2 In June 2024 a victim was brutally robbed for $4.3M+ of crypto assets at gunpoint via home invasion in the UK after the attackers posed as delivery drivers.  \n\nI am proud to share that Faris & his two other accomplices were just sentenced and nearly the full amount of stolen ",
+      "likes": 5995,
+      "retweets": 404,
+      "url": "https://x.com/zachxbt/status/1990809384738230584"
+    },
+    {
+      "author": "zachxbt",
+      "text": "2/2 You can read my investigation from Oct 2024 into the incident below.",
+      "likes": 673,
+      "retweets": 27,
+      "url": "https://x.com/zachxbt/status/1990809390044131464"
+    },
+    {
+      "author": "GwartyGwart",
+      "text": "I mean I wouldn’t call it all a “failed experiment” we did create an exchange that makes a cow moo sound when you make a swap which, to my knowledge, did not exist before crypto",
+      "likes": 518,
+      "retweets": 39,
+      "url": "https://x.com/GwartyGwart/status/2019484675203383366"
+    },
+    {
+      "author": "LarkDavis",
+      "text": "Real Talk. Everybody wants to own one whole Bitcoin. But nobody wants to buy, when a fire sale presents itself",
+      "likes": 509,
+      "retweets": 34,
+      "url": "https://x.com/LarkDavis/status/2019294996558393412"
+    },
+    {
+      "author": "zachxbt",
+      "text": "Update: Metropolitan Police posted a video of the perpetrators involved in the $4.3M UK robbery yesterday",
+      "likes": 319,
+      "retweets": 21,
+      "url": "https://x.com/zachxbt/status/2019496528809709948"
+    },
+    {
+      "author": "frankdegods",
+      "text": "what the fuck is michael saylor going to say at earnings call?",
+      "likes": 230,
+      "retweets": 7,
+      "url": "https://x.com/frankdegods/status/2019480661329944873"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "BTC is 67k 😂😂 get it? 6-7 🤣🤣",
+      "likes": 228,
+      "retweets": 13,
+      "url": "https://x.com/rasmr_eth/status/2019439007151845809"
+    },
+    {
+      "author": "leap_xyz",
+      "text": "There’s legit no catalysts left, nothing to believe in, btc coopted by DATS/mstr, nations not bidding, tradfi making their own chains (tempo), alt season probably won’t happen again, quantum fud, crypto as a whole tied way too much to trump/republicans and democrats probably win ",
+      "likes": 226,
+      "retweets": 25,
+      "url": "https://x.com/leap_xyz/status/2019483358837801209"
+    },
+    {
+      "author": "based16z",
+      "text": "Excited for earnings!",
+      "likes": 157,
+      "retweets": 4,
+      "url": "https://x.com/based16z/status/2019494620233687128"
+    }
+  ]
+}

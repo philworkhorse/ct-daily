@@ -1,0 +1,161 @@
+{
+  "timestamp": "2026-01-30T11:58:13.940Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 5,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$ELON",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$OPENCLAW",
+      1
+    ],
+    [
+      "$GOVIRALX",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$ELON",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$GOVIRALX",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2
+    },
+    "metals": {},
+    "macro": {
+      "fed": 3,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.18K of $ELON at $4.76M MC 🐳\n\nhttps://t.co/SsbXVn2sLy",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.18K of $ELON at $4.76M MC 🐳\n\nhttps://t.co/SsbXVn2sLy",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $3.99K of $Win at $610.73K MC 🐳\n\nhttps://t.co/3pBJ4psRhe",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +286.00%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $2.69M MC. https://t.co/p",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GOVIRALX": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @IndiDevHailey verified earnings for $GOVIRALX on @BagsApp 💰\n\nhttps://t.co/gZLQhHLInK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 500,
+      "retweets": 59,
+      "url": "https://x.com/Neuravision_A/status/2012979139880566854"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Sometimes you see talent or potential, and you gotta to support it.\n\nNot just for their sake, but for your own.\n\nThe fastest way to become irrelevant is losing touch with the next generation",
+      "likes": 304,
+      "retweets": 11,
+      "url": "https://x.com/waleswoosh/status/2017180797409919461"
+    },
+    {
+      "author": "DellTech",
+      "text": "Demand is outpacing supply when it comes to AI. @MichaelDell speaks to @CNBC about how businesses are leveraging data and next-gen models to stay ahead. 🖱️https://t.co/n8ohcB6p6B",
+      "likes": 302,
+      "retweets": 43,
+      "url": "https://x.com/DellTech/status/2016164322649473438"
+    },
+    {
+      "author": "hosseeb",
+      "text": "This is... fascinating.\n\n@moltbook is an AI agent social network created for Moltbots (FKA Clawdbot). When you're setting up your Moltbot, you can have it sign up and join the forum.\n\nSo all over the world, people are setting up their Moltbots and letting them join the forum, int",
+      "likes": 144,
+      "retweets": 18,
+      "url": "https://x.com/hosseeb/status/2017188140549808627"
+    },
+    {
+      "author": "moonpay",
+      "text": "gm!",
+      "likes": 121,
+      "retweets": 15,
+      "url": "https://x.com/moonpay/status/2017203815762538952"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Is it cause you gave the dems millions and they didn’t bail you out?",
+      "likes": 105,
+      "retweets": 4,
+      "url": "https://x.com/Tradermayne/status/2017180796923359345"
+    }
+  ]
+}

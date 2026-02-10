@@ -1,0 +1,296 @@
+{
+  "timestamp": "2026-02-08T07:54:37.047Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 5,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$BLOWFISH",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$DXY",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$KLAUS",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$PATRIOTS",
+      1
+    ],
+    [
+      "$COLOSSEUM",
+      1
+    ],
+    [
+      "$SHT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$KLAUS",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      },
+      {
+        "ticker": "$PATRIOTS",
+        "count": 1
+      },
+      {
+        "ticker": "$COLOSSEUM",
+        "count": 1
+      },
+      {
+        "ticker": "$SHT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$DXY",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "silver": 1,
+      "oil": 2
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "dxy": 1
+    }
+  },
+  "tickerDetails": {
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @degnsol just bought $3.51K of $BLOWFISH at $1.3M MC 🐳\n\nhttps://t.co/5rMrTPyTpE",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "This Selling Pressure Isn’t Random....Here’s What’s Actually Happening \n\nAlright guys, let’s break this down properly. This isn’t just a dip. Confidence has clearly taken a hit. \n\n• We saw open intere",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$DXY": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "This Selling Pressure Isn’t Random....Here’s What’s Actually Happening \n\nAlright guys, let’s break this down properly. This isn’t just a dip. Confidence has clearly taken a hit. \n\n• We saw open intere",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.21K of $PENGUIN at $28.57M MC 🐳\n\nhttps://t.co/bMkDQKi2Jc",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.21K of $PENGUIN at $28.57M MC 🐳\n\nhttps://t.co/bMkDQKi2Jc",
+        "likes": 4,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.35K of $PENGUIN at $26.98M MC 🐳\n\nhttps://t.co/lhWJwt5SDH",
+        "likes": 11,
+        "retweets": 2
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $12.15K of $PENGUIN at $25.82M MC 🐳\n\nhttps://t.co/V2z61ZK5Od",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$KLAUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $KLAUS with a PnL of +248.56%.\n\n$KLAUS has been trending on Moby since $98.91K MC. Currently sitting at $307.21K MC. https://t.co/dSyBAW",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "Let's have a little competition to see who can design the next $GSD banner for Dex and X. Here is the plain logo.\n\nDrop 'em in the comments below. https://t.co/Z1EEHFVJJb",
+        "likes": 14,
+        "retweets": 3
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "0x_dyan",
+        "text": "RT @tontheneko: Today, a big brand that matches with the $TOILET's brand gave an ad for $7.5k. Dude Wipes.\n\nPeople outside of US doesn't kn…",
+        "likes": 0,
+        "retweets": 20
+      }
+    ],
+    "$PATRIOTS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $PATRIOTS on MobyScreener 🖼️ https://t.co/M3SsxXsZNG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.35K of $PENGUIN at $26.98M MC 🐳\n\nhttps://t.co/lhWJwt5SDH",
+        "likes": 11,
+        "retweets": 2
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $12.15K of $PENGUIN at $25.82M MC 🐳\n\nhttps://t.co/V2z61ZK5Od",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$COLOSSEUM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @crabylions verified earnings for $COLOSSEUM on @BagsApp 💰\n\nhttps://t.co/bV28SL9h8C",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $9.7K of $SHT at $1.15M MC 🐳\n\nhttps://t.co/AIPmdaEmBo",
+        "likes": 6,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, taking some time off today https://t.co/hZU29fcv8d",
+      "likes": 445,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2020380982587847011"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Why does nobody question how computers or iPhones were made in the first place?\n\nHow the fuck did they put together random metals pieces and suddenly you could touch the screen to open apps?\n\nHow do you just \"discover\" the technology in the first place to make something touch scr",
+      "likes": 202,
+      "retweets": 4,
+      "url": "https://x.com/trading_axe/status/2020388725516104184"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Words can't describe how nice it is to finally be tapped into the Twitter firehose. Previous versions of this stuff were heavily limited by being glorified web scrapers.\n\nNow... everyone has access to efficiently query all of Twitter. Insane. Thanks @XDevelopers",
+      "likes": 198,
+      "retweets": 6,
+      "url": "https://x.com/frankdegods/status/2020366023162225137"
+    },
+    {
+      "author": "gainzy222",
+      "text": "kalshi is actually such a piece of shit company that zooko has just retweeted a post about how evil they are\n\nbro i have never seen zooko go after anything ever lmao",
+      "likes": 196,
+      "retweets": 13,
+      "url": "https://x.com/gainzy222/status/2020352838803812784"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 191,
+      "retweets": 12,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "The 4 year cycle is repeating, Bitcoin is cooked. \n\nBut there is a silver lining. \n\nhttps://t.co/pH2cL94wFm",
+      "likes": 121,
+      "retweets": 5,
+      "url": "https://x.com/Tradermayne/status/2020378816473100420"
+    }
+  ]
+}

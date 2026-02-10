@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-02-06T06:09:48.747Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 16,
+    "bearish": 1,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$NOBODY",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$ZAUTH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$NOBODY",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$ZAUTH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dxy": 1,
+      "cpi": 1
+    }
+  },
+  "tickerDetails": {
+    "$NOBODY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $NOBODY whale just bought $4.06K of $Bert at $7.89M MC 🐳\n\nhttps://t.co/fzu2Rh9zEJ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "_imagyn",
+        "text": "The $SOL marketcap is currently sitting at 10x $wif ’s ATH\n\nlet that sink in\nbuy solana",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.25K of $ZAUTH at $5.04M MC 🐳\n\nhttps://t.co/bi5Nv0tOf2",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$ZAUTH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.25K of $ZAUTH at $5.04M MC 🐳\n\nhttps://t.co/bi5Nv0tOf2",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "a1lon9",
+      "text": "excited to talk all things onchain &amp; dive into what makes building on pump fun one of the best ways for founders &amp; startups to bootstrap their projects for success \n\nif you’re a builder, tune in on Tuesday!",
+      "likes": 800,
+      "retweets": 61,
+      "url": "https://x.com/a1lon9/status/2019517602976985494"
+    },
+    {
+      "author": "garrytan",
+      "text": "California’s Union Machine: $921 Million and Counting\n\nPublic sector unions collect nearly $1 billion a year to control Sacramento. Normal citizens? A trickle against a torrent.\n\nBut there's a legal pathway to break their grip and get back to sanity.\n\nhttps://t.co/ZLcruuwQ6P",
+      "likes": 309,
+      "retweets": 28,
+      "url": "https://x.com/garrytan/status/2019571159503868400"
+    },
+    {
+      "author": "Icebergy",
+      "text": "they really pumped zcash 20x in a month and i didnt sell everything",
+      "likes": 254,
+      "retweets": 14,
+      "url": "https://x.com/Icebergy/status/2019549485333115294"
+    },
+    {
+      "author": "frankdegods",
+      "text": "🫠 https://t.co/QaoZ96bVYn",
+      "likes": 241,
+      "retweets": 9,
+      "url": "https://x.com/frankdegods/status/2019567885077676492"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, buy the dip https://t.co/n5l3kB8U9Z",
+      "likes": 167,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2019652297283026961"
+    },
+    {
+      "author": "frankdegods",
+      "text": "i think the final marginal buyers of the ai trade will be the government, specifically the military\n\nMag7 are ramping up capex because they know they can. they’re calling bluff. \n\nthe worst case scenario they will be bailed out by money printer for reasons of national defense\n\ni ",
+      "likes": 114,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2019625656737239275"
+    }
+  ]
+}

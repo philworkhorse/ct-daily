@@ -1,0 +1,246 @@
+{
+  "timestamp": "2026-02-06T21:10:14.746Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 6,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$MSTR",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ],
+    [
+      "$BLOXX",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$UMBRA",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOXX",
+        "count": 1
+      },
+      {
+        "ticker": "$UMBRA",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 2
+      },
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @jaymesrogers: New day, different $REKT 🟣 https://t.co/LFxa0ZqsuE",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "saylor",
+        "text": "What skeptics of @Strategy miss:\n\nDigital Capital ($BTC) outperforms physical capital.\nDigital Credit ($STRC) outperforms conventional credit.\nAmplified Bitcoin ($MSTR) outperforms wrapped Bitcoin.",
+        "likes": 567,
+        "retweets": 67
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "saylor",
+        "text": "What skeptics of @Strategy miss:\n\nDigital Capital ($BTC) outperforms physical capital.\nDigital Credit ($STRC) outperforms conventional credit.\nAmplified Bitcoin ($MSTR) outperforms wrapped Bitcoin.",
+        "likes": 567,
+        "retweets": 67
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "saylor",
+        "text": "What skeptics of @Strategy miss:\n\nDigital Capital ($BTC) outperforms physical capital.\nDigital Credit ($STRC) outperforms conventional credit.\nAmplified Bitcoin ($MSTR) outperforms wrapped Bitcoin.",
+        "likes": 567,
+        "retweets": 67
+      },
+      {
+        "author": "Bluntz_Capital",
+        "text": "believe is something, anybody who's not a tourist and has actually witnessed multiple cycles knows this is an amazing long term $sol entry.\n\n for the record the reason im bullposting sol more than any",
+        "likes": 134,
+        "retweets": 15
+      }
+    ],
+    "$BLOXX": [
+      {
+        "author": "BloxApi",
+        "text": "$BLOXX | BloxAPI Revenue Model @Pumpfun #BuildInPublic Hackathon https://t.co/ZBkq7LD0xc",
+        "likes": 15,
+        "retweets": 4
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $4.73K of $UMBRA at $22.75M MC 🐳\n\nhttps://t.co/GbWMBKNfhZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$UMBRA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $4.73K of $UMBRA at $22.75M MC 🐳\n\nhttps://t.co/GbWMBKNfhZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "How “smart” is your AI per joule spent? This new paper sets the gold standard for measuring physical intelligence, introducing two bits-per-joule metrics:\n\n— Thermodynamic Epiplexity per Joule: how ef",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "What skeptics of @Strategy miss:\n\nDigital Capital ($BTC) outperforms physical capital.\nDigital Credit ($STRC) outperforms conventional credit.\nAmplified Bitcoin ($MSTR) outperforms wrapped Bitcoin.",
+      "likes": 567,
+      "retweets": 67,
+      "url": "https://x.com/saylor/status/2019880399426711866"
+    },
+    {
+      "author": "traderpow",
+      "text": "I am pleased to announce that I am now partnered up with @TradingTerminal! They recently got acquired by @Pumpfun and I believe their mission aligns with mine in which their mission is to be the top of all categories via on-chain and more down the line.\n\nTrading terminals have be",
+      "likes": 265,
+      "retweets": 9,
+      "url": "https://x.com/traderpow/status/2019872757014790503"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "The Dallas Mavericks plan to retire Anthony Davis jersey number. 🔥\n\n(Via @ChrisBHayne) https://t.co/vJY9Y0U6fj",
+      "likes": 218,
+      "retweets": 7,
+      "url": "https://x.com/TheNBACentel/status/2019879717327778255"
+    },
+    {
+      "author": "rektmando",
+      "text": "closed half here - think we going to $72k https://t.co/KTN0bJTJO6",
+      "likes": 194,
+      "retweets": 2,
+      "url": "https://x.com/rektmando/status/2019810597794435567"
+    },
+    {
+      "author": "a1lon9",
+      "text": "@traderpow @TradingTerminal @Pumpfun welcome to the winner’s terminal!",
+      "likes": 141,
+      "retweets": 2,
+      "url": "https://x.com/a1lon9/status/2019875924003680716"
+    },
+    {
+      "author": "heart_",
+      "text": "feel like i’m falling more and more down the rabbit hole \n\nupgraded cable and rubber tips\nthey feel so good now https://t.co/Ywl1hKrnDS",
+      "likes": 136,
+      "retweets": 0,
+      "url": "https://x.com/heart_/status/2019749973563199816"
+    },
+    {
+      "author": "Bluntz_Capital",
+      "text": "believe is something, anybody who's not a tourist and has actually witnessed multiple cycles knows this is an amazing long term $sol entry.\n\n for the record the reason im bullposting sol more than anything else is, in my opinion it is the absolute clearest picture of every coin.\n",
+      "likes": 134,
+      "retweets": 15,
+      "url": "https://x.com/Bluntz_Capital/status/2019878566079656218"
+    },
+    {
+      "author": "GwartyGwart",
+      "text": "Today I met a guy who just left his firm without transitioning to an advisor first. I’m dead serious. He just straight up left, no transition, no advisorship. Just right back to rawdogging society. He was living under a bridge in a cardboard box. Cautionary tale.",
+      "likes": 120,
+      "retweets": 1,
+      "url": "https://x.com/GwartyGwart/status/2019866117456703821"
+    },
+    {
+      "author": "inversebrah",
+      "text": "who haz more aura?\n\n#poll pls rt :3",
+      "likes": 116,
+      "retweets": 21,
+      "url": "https://x.com/inversebrah/status/2019646051121263108"
+    },
+    {
+      "author": "cwantcg",
+      "text": ".@a1lon9 get rid of creator fees https://t.co/mORDD7qNZj",
+      "likes": 103,
+      "retweets": 3,
+      "url": "https://x.com/cwantcg/status/2019814898646348245"
+    }
+  ]
+}

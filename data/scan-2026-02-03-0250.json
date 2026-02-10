@@ -1,0 +1,242 @@
+{
+  "timestamp": "2026-02-03T02:50:53.566Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 4,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$GP",
+      2
+    ],
+    [
+      "$VIRTUALS",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$TRIA",
+      1
+    ],
+    [
+      "$TRIPOD",
+      1
+    ],
+    [
+      "$TOKABU",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$CLAWCITY",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GP",
+        "count": 2
+      },
+      {
+        "ticker": "$VIRTUALS",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TRIA",
+        "count": 1
+      },
+      {
+        "ticker": "$TRIPOD",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWCITY",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 3,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$VIRTUALS": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "I really just CANT WAIT for my $VIRTUALS to unlock in May of 2027! \n\nHopefully the bull is back by then!",
+        "likes": 21,
+        "retweets": 0
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @TBC_on_X: JUST IN: $BUTTCOIN soars to new ATH as the community aims to flip $BTC. https://t.co/vUhqdiCoNw",
+        "likes": 0,
+        "retweets": 45
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "miragemunny",
+        "text": "RT @TBC_on_X: JUST IN: $BUTTCOIN soars to new ATH as the community aims to flip $BTC. https://t.co/vUhqdiCoNw",
+        "likes": 0,
+        "retweets": 45
+      },
+      {
+        "author": "Crypto_Chase",
+        "text": "$HYPE update\n\nTP'd 75% of my long position from 28.5~ here at 36~. HYPE up 31.5% while $BTC up only 6%. I discussed the vast outperformance we would see many times. Enjoy the gains.\n\nBefore and after ",
+        "likes": 68,
+        "retweets": 0
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $4.98K of $GP at $22.12M MC 🐳\n\nhttps://t.co/NKvrS7PNDU",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $4.99K of $GP at $21.15M MC 🐳\n\nhttps://t.co/tWDpBuWLNB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TRIA": [
+      {
+        "author": "Irenezhao_",
+        "text": "Tria @useTria 今天TGE 并上线币安 Alpha\n\nOKX Boost、Bybit 也同步开启交易，此前 Coinbase 已正式将其加入上币路线图—这波算集齐主流 CEX 大满贯了～\n\n$TRIA 总供应量 100 亿枚，初始流通占比约 21.89%，社区分配高达 41.04%\n\n今天开盘祝好运！",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$TRIPOD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @overseer011 verified earnings for $TRIPOD on @BagsApp 💰\n\nhttps://t.co/jMCWPdLX7X",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $4.69K of $GIGA at $25.05M MC 🐳\n\nhttps://t.co/nn1aQU38kx",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $4.69K of $GIGA at $25.05M MC 🐳\n\nhttps://t.co/nn1aQU38kx",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWCITY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @artemmurzinn verified earnings for $CLAWCITY on @BagsApp 💰\n\nhttps://t.co/MDmuXuYAYl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$HYPE update\n\nTP'd 75% of my long position from 28.5~ here at 36~. HYPE up 31.5% while $BTC up only 6%. I discussed the vast outperformance we would see many times. Enjoy the gains.\n\nBefore and after ",
+        "likes": 68,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/VMbM5XFxne",
+      "likes": 453,
+      "retweets": 5,
+      "url": "https://x.com/blknoiz06/status/2018457237145145385"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "https://t.co/ehm3sI90vE",
+      "likes": 347,
+      "retweets": 12,
+      "url": "https://x.com/notthreadguy/status/2018375812488061405"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "https://t.co/mvmIE7vATR",
+      "likes": 138,
+      "retweets": 5,
+      "url": "https://x.com/Tradermayne/status/2018489583114109208"
+    },
+    {
+      "author": "based16z",
+      "text": "What’s more impressive than selling a company for $250 billion? Selling it to yourself.",
+      "likes": 122,
+      "retweets": 5,
+      "url": "https://x.com/based16z/status/2018495575813992641"
+    }
+  ]
+}

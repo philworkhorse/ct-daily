@@ -1,0 +1,281 @@
+{
+  "timestamp": "2026-02-06T19:34:43.483Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 19,
+    "bearish": 5,
+    "neutral": 76,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$NFLX",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$HBAR",
+      1
+    ],
+    [
+      "$WET",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$MOLTECO",
+      1
+    ],
+    [
+      "$AAPL",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$GRONK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$HBAR",
+        "count": 1
+      },
+      {
+        "ticker": "$WET",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTECO",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$GRONK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$NFLX",
+        "count": 2
+      },
+      {
+        "ticker": "$AAPL",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 2,
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @jaymesrogers: Time to get $REKT https://t.co/li2z9Bgnmf",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$NFLX": [
+      {
+        "author": "DeItaone",
+        "text": "$NFLX - DOJ PROBES NETFLIX FOR ANTICOMPETITIVE CONDUCT\n\nThe Justice Department is investigating Netflix’s business practices as part of its review of the company’s $72 billion bid for Warner Discovery",
+        "likes": 21,
+        "retweets": 6
+      },
+      {
+        "author": "DeItaone",
+        "text": "$NFLX - DOJ Asking if Netflix Engaged in 'Exclusionary Conduct' That May Lead to Monopoly, According to Subpoena\n\nJustice Department Asking Industry How Netflix or Paramount Deal for Warner Bros. Migh",
+        "likes": 24,
+        "retweets": 7
+      }
+    ],
+    "$HBAR": [
+      {
+        "author": "chooserich",
+        "text": "Why is nobody talking about this?\n\nHedera is governed by Google, IBM, Dell, Chainlink, and 35 other global giants. They all run nodes. They all build on it.\n\n$HBAR was the third crypto to get a spot E",
+        "likes": 29,
+        "retweets": 0
+      }
+    ],
+    "$WET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $40.34K of $PUMP at $2.11B MC 🐳\n\nhttps://t.co/70b6C0hJRP",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $40.34K of $PUMP at $2.11B MC 🐳\n\nhttps://t.co/70b6C0hJRP",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MOLTECO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @TheRoyalSerf verified earnings for $MOLTECO on @BagsApp 💰\n\nhttps://t.co/ZfYAn33jUU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AAPL": [
+      {
+        "author": "DeItaone",
+        "text": "$AAPL - *APPLE TO ALLOW OUTSIDE VOICE-CONTROLLED CHATBOTS IN CARPLAYAI \n\n*SERVICES TO BE ABLE TO OFFER CARPLAY APPS WITH VOICE CONTROL",
+        "likes": 57,
+        "retweets": 6
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $37.15K of $EURC at $94.42M MC 🐳\n\nhttps://t.co/DK8MKrOsy2",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $37.15K of $EURC at $94.42M MC 🐳\n\nhttps://t.co/DK8MKrOsy2",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "brentradess",
+        "text": "$BTC with the biggest 1 day bounce since 2023\n\nWe want to see a low like this hold for weeks if it’s to be a longer term bottom\n\nBut with the 200 Weekly MA right below\n\nI’ve begun adding $BTC, $ETH an",
+        "likes": 15,
+        "retweets": 3
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "brentradess",
+        "text": "$BTC with the biggest 1 day bounce since 2023\n\nWe want to see a low like this hold for weeks if it’s to be a longer term bottom\n\nBut with the 200 Weekly MA right below\n\nI’ve begun adding $BTC, $ETH an",
+        "likes": 15,
+        "retweets": 3
+      }
+    ],
+    "$GRONK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @techAU verified earnings for $GRONK on @BagsApp 💰\n\nhttps://t.co/0BBQfxmL0U",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "tayvano_",
+      "text": "Well I just learned the MetaMask offboarding process is the most MetaMask thing in the entire world 😅\n\nI’m so sorry to everyone I was mid-convo with\n\nAlso, I’m not going anywhere\n\nFrom now, I will just scream FUCKIN’ METAMASK with you. Instead of defending the indefensible. 💖",
+      "likes": 709,
+      "retweets": 19,
+      "url": "https://x.com/tayvano_/status/2019693670526775341"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Longing some btc and eth",
+      "likes": 396,
+      "retweets": 8,
+      "url": "https://x.com/lBattleRhino/status/2019566087751496151"
+    },
+    {
+      "author": "gainzy222",
+      "text": "ok now i need to know \n\nwho roundtripped 20M https://t.co/UpBXg2ZSZe",
+      "likes": 355,
+      "retweets": 8,
+      "url": "https://x.com/gainzy222/status/2019704054671360054"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Im gonna make a paid group to put every other paid group out of business these ppl don’t deserve any money",
+      "likes": 260,
+      "retweets": 0,
+      "url": "https://x.com/lBattleRhino/status/2019845263431758167"
+    },
+    {
+      "author": "ByzGeneral",
+      "text": "Saylor's mind has got to be studied for decades. \n\nHe's just different.",
+      "likes": 121,
+      "retweets": 2,
+      "url": "https://x.com/ByzGeneral/status/2019843551904035159"
+    },
+    {
+      "author": "WogTheArtist",
+      "text": "I’m the artist behind $Fwog. For a long time I’ve had one idea I kept coming back to — $Bwog.\n\nNow that we have entered the bear market it only makes sense to launch it…\n\nIt’s part of the same universe as Fwog. Same care for the art, the IP, and the community. Nothing forced, not",
+      "likes": 101,
+      "retweets": 12,
+      "url": "https://x.com/WogTheArtist/status/2019855444324565300"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "timestamp": "2026-02-07T06:41:56.769Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$WHITEWHALE",
+      3
+    ],
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$AVAX",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$XAUUSD",
+      1
+    ],
+    [
+      "$APT",
+      1
+    ],
+    [
+      "$EGG",
+      1
+    ],
+    [
+      "$AMZN",
+      1
+    ],
+    [
+      "$NVDA",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$PETAH",
+      1
+    ],
+    [
+      "$FLY",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 3
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$APT",
+        "count": 1
+      },
+      {
+        "ticker": "$EGG",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$PETAH",
+        "count": 1
+      },
+      {
+        "ticker": "$FLY",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$AVAX",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      },
+      {
+        "ticker": "$AMZN",
+        "count": 1
+      },
+      {
+        "ticker": "$NVDA",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$XAUUSD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$AVAX": [
+      {
+        "author": "inversebrah",
+        "text": "RT @thetopsignal: @avery_bartlett @gerhardvonbier @0xSmitty @vohvohh Are you having fun on $AVAX?",
+        "likes": 0,
+        "retweets": 7
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "Tradermayne",
+        "text": "$MSTR\n\nSigh looking back the signs were everywhere. \n\nBig zone here for Strategy could find a decent temp bottom but ultimately I'd love to buy this thing around $40-$50. https://t.co/hmfvnOvj3q",
+        "likes": 94,
+        "retweets": 3
+      }
+    ],
+    "$XAUUSD": [
+      {
+        "author": "Tradermayne",
+        "text": "$XAUUSD\n\nGot to be one of the craziest charts out there right now. https://t.co/Y83VO9VBQX",
+        "likes": 73,
+        "retweets": 1
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "au_xbt",
+        "text": "Successfully called another $BUTTCOIN bottom\n\nOver the past few days, BTC dropped 10% while $BUTTCOIN did a 4x — exactly what you want from a BTC hedge\nOn top of that, a company CEO bought and locked ",
+        "likes": 28,
+        "retweets": 4
+      },
+      {
+        "author": "au_xbt",
+        "text": "$BTC to zero. $BUTTCOIN is the new BTC https://t.co/lxEeNVdncZ",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "au_xbt",
+        "text": "$BTC to zero. $BUTTCOIN is the new BTC https://t.co/lxEeNVdncZ",
+        "likes": 5,
+        "retweets": 1
+      },
+      {
+        "author": "kshitizkapoor_",
+        "text": "Everyone panicked at $60K but within 24 hours, $BTC bounced nearly $10K and is now trading around $70K.\n\nThis is why I focus on buying fear and managing risk more than calling bottoms. What we need as",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$APT": [
+      {
+        "author": "BuzzlamicJihad",
+        "text": "I was max long $APT, hedged with Afghan poppy futures, all collateralized with my liquid staked Celestia. \n\nThe correlation held up since April until the Pashtun agriculture minister got internet and ",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$EGG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Egg637987986486 verified earnings for $EGG on @BagsApp 💰\n\nhttps://t.co/NNEOeZ2lCp",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $6.77K of $Buttcoin at $40.8M MC 🐳\n\nhttps://t.co/gfIJSvwmiX",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $5.22K of $Buttcoin at $40.79M MC 🐳\n\nhttps://t.co/gfIJSvwmiX",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $8.6K of $Buttcoin at $38.81M MC 🐳\n\nhttps://t.co/6ctUxQUhQz",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AMZN": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Everyone panicked at $60K but within 24 hours, $BTC bounced nearly $10K and is now trading around $70K.\n\nThis is why I focus on buying fear and managing risk more than calling bottoms. What we need as",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$NVDA": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Everyone panicked at $60K but within 24 hours, $BTC bounced nearly $10K and is now trading around $70K.\n\nThis is why I focus on buying fear and managing risk more than calling bottoms. What we need as",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $4.02K of $xORCA at $5.8M MC 🐳\n\nhttps://t.co/VF8mApgKSB",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PETAH": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PETAH with a PnL of +309.64%.\n\n$PETAH has been trending on Moby since $153.83K MC. Currently sitting at $842.03K MC. https://t.co/TNFKh",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$FLY": [
+      {
+        "author": "au_xbt",
+        "text": "$FLY 200k might be massively undervalued\n\n0x9a61797c7be9de5366869843c02d6ad581874b07\n\nThis game went viral on X and pulled 70k+ players in its first 24 hours\n\nThe dev even mentioned traffic was so ins",
+        "likes": 11,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet https://t.co/4EwU9TAHRz",
+      "likes": 288,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2020014724096905481"
+    },
+    {
+      "author": "Icebergy",
+      "text": "that’s it?",
+      "likes": 112,
+      "retweets": 3,
+      "url": "https://x.com/Icebergy/status/2019641346244636776"
+    },
+    {
+      "author": "lazyvillager1",
+      "text": "sharing my first ever pnl screenshot hope you guys dont mind. plan the trade, trade the plan. was initially -1R but volatility is a gift to the faithful https://t.co/n5dU48orJq",
+      "likes": 107,
+      "retweets": 1,
+      "url": "https://x.com/lazyvillager1/status/2019832895808966863"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "how my car looks after 19 ice cold domestics. https://t.co/192I65wFHU",
+      "likes": 104,
+      "retweets": 2,
+      "url": "https://x.com/DipWheeler/status/2019999722895995092"
+    },
+    {
+      "author": "inversebrah",
+      "text": "https://t.co/VHygYLpidn",
+      "likes": 104,
+      "retweets": 4,
+      "url": "https://x.com/inversebrah/status/2019988364733345993"
+    }
+  ]
+}

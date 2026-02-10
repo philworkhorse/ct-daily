@@ -1,0 +1,186 @@
+{
+  "timestamp": "2026-02-07T14:13:29.842Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 4,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$JITOSOL",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$FIGHTDEX",
+      1
+    ],
+    [
+      "$BEALL",
+      1
+    ],
+    [
+      "$BLOWFISH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JITOSOL",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$FIGHTDEX",
+        "count": 1
+      },
+      {
+        "ticker": "$BEALL",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 2,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/3IDBLPAYyI",
+        "likes": 53,
+        "retweets": 0
+      }
+    ],
+    "$FIGHTDEX": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Wifgogg verified earnings for $FIGHTDEX on @BagsApp 💰\n\nhttps://t.co/xP8sJ8BGu4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $995.5K of $JitoSOL at $1.17B MC 🐳\n\nhttps://t.co/ktaUmAUM9S",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $957.37K of $JitoSOL at $1.17B MC 🐳\n\nhttps://t.co/fWOsYvnwjZ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BEALL": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @bandeez just bought $1.7K of $BEALL at $422.94K MC 🐳\n\nhttps://t.co/92Xv4Qhd6v",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @real_y22 just bought $5.27K of $BLOWFISH at $1.42M MC 🐳\n\nhttps://t.co/aYDm3Og8uv",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 326,
+      "retweets": 12,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "How will you explain to your kids and grandkids that you had one final chance to buy BTC under $65k USD before it runs to $250k USD.\n\nBut you chose to doompost on CT instead?\n\nYou're an embarrassment to your bloodline",
+      "likes": 318,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2020112230176477255"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "snow, japan https://t.co/i0yfKPoOI1",
+      "likes": 261,
+      "retweets": 1,
+      "url": "https://x.com/izebel_eth/status/2020045284907090219"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Our negotiating team delivered a report following meetings with the U.S. and Russian sides. They provided detailed updates on how the discussions unfolded and which particular points were most sensitive and which were constructive.\n\nUkraine needs results, and one of the most impo",
+      "likes": 219,
+      "retweets": 58,
+      "url": "https://x.com/ZelenskyyUa/status/2020135839196471485"
+    },
+    {
+      "author": "inversebrah",
+      "text": "HOWS SHE SO FAST WTF",
+      "likes": 136,
+      "retweets": 2,
+      "url": "https://x.com/inversebrah/status/2020106163946180745"
+    },
+    {
+      "author": "CL207",
+      "text": "ski'd with my nmeow jez today 😎 https://t.co/CqM0SEmPSH",
+      "likes": 122,
+      "retweets": 1,
+      "url": "https://x.com/CL207/status/2020120489209868515"
+    },
+    {
+      "author": "solana",
+      "text": "gm Solana, the beautiful machine https://t.co/trupnefedF",
+      "likes": 120,
+      "retweets": 10,
+      "url": "https://x.com/solana/status/2020134641047376024"
+    },
+    {
+      "author": "icobeast",
+      "text": "I find it kinda funny that CT is wrong about basically everything but is also convinced they’ve uncovered some hidden subplot about a HK tradfi fund that blew up sparking the global BTC selloff",
+      "likes": 101,
+      "retweets": 4,
+      "url": "https://x.com/icobeast/status/2020114228565184910"
+    }
+  ]
+}

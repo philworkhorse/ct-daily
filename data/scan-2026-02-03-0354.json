@@ -1,0 +1,215 @@
+{
+  "timestamp": "2026-02-03T03:54:05.522Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 2,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HYPE",
+      3
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$MSTR",
+      2
+    ],
+    [
+      "$PUMP",
+      2
+    ],
+    [
+      "$MET",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$ORE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 3
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 2
+      },
+      {
+        "ticker": "$MET",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 2
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2
+    },
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "inversebrah",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 220
+      },
+      {
+        "author": "penguin_curator",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 220
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "inversebrah",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 220
+      },
+      {
+        "author": "penguin_curator",
+        "text": "RT @kamikazecash: Me showing Michael Saylor that he can buy $BTC for $75,000 on Coinbase instead of $87,000 at a grocery store ATM $MSTR ht…",
+        "likes": 0,
+        "retweets": 220
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "watchingmarkets",
+        "text": "While everyone is rightfully focused on $HYPE\n\nNote that $PUMP (1D) technically offers a second entry here. https://t.co/0uPfy75HP2",
+        "likes": 22,
+        "retweets": 1
+      },
+      {
+        "author": "Credib1eGuy",
+        "text": "If you are feeling FOMO on $HYPE don't worry, I don't think we go parabolic until after $80\n\nAnd you probably get to bid ~32 once more https://t.co/D8W1fulckK",
+        "likes": 14,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $9.07K of $HYPE at $7.64M MC 🐳\n\nhttps://t.co/0mRWE0UNMi",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "watchingmarkets",
+        "text": "While everyone is rightfully focused on $HYPE\n\nNote that $PUMP (1D) technically offers a second entry here. https://t.co/0uPfy75HP2",
+        "likes": 22,
+        "retweets": 1
+      },
+      {
+        "author": "watchingmarkets",
+        "text": "$PUMP (4h) https://t.co/PhVJEnYgxN",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$MET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $68.64K of $jlJUPUSD at $45.67M MC 🐳\n\nhttps://t.co/Py9FCamPDD",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @moltdotid_ verified earnings for $MOLT on @BagsApp 💰\n\nhttps://t.co/KT0lWFYab1",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $9.07K of $HYPE at $7.64M MC 🐳\n\nhttps://t.co/0mRWE0UNMi",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/VMbM5XFxne",
+      "likes": 496,
+      "retweets": 6,
+      "url": "https://x.com/blknoiz06/status/2018457237145145385"
+    },
+    {
+      "author": "icobeast",
+      "text": "What happens if hyperliquid gets short squeezed on HYPE?",
+      "likes": 122,
+      "retweets": 1,
+      "url": "https://x.com/icobeast/status/2018382471377613178"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/Id16ZH8sxc",
+      "likes": 112,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2018527432391922016"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Ant TRASH TALKED Ja after hitting a 3:\n\n“You can’t do that, Ja.” 👀👀https://t.co/5iXnBTueK5",
+      "likes": 111,
+      "retweets": 2,
+      "url": "https://x.com/TheNBACentel/status/2018532061162930334"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "If you still hold ETH in 2026 you're just a fundamentally unserious investor",
+      "likes": 110,
+      "retweets": 5,
+      "url": "https://x.com/ThinkingUSD/status/2018521168622325854"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "timestamp": "2026-01-30T00:46:06.393Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 9,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ELON",
+      5
+    ],
+    [
+      "$TRIA",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$MOBY",
+      1
+    ],
+    [
+      "$BLOXFLOW",
+      1
+    ],
+    [
+      "$LABUBU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ELON",
+        "count": 5
+      },
+      {
+        "ticker": "$TRIA",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$MOBY",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOXFLOW",
+        "count": 1
+      },
+      {
+        "ticker": "$LABUBU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "inflation": 1,
+      "fed": 2,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$TRIA": [
+      {
+        "author": "iamkadense",
+        "text": "$TRIA has grown to a top NeoBANK in less than 6 months with real people using the product daily\n\nGrowing revenues and PMF before TGE makes this one interesting\n\nPengu continues to be bullish on the ca",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @eyeamfin just bought $5.33K of $ELON at $4.6M MC 🐳\n\nhttps://t.co/zhrxZyKYkA",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $2.03K of $ELON at $4.44M MC 🐳\n\nhttps://t.co/OhiBsc4Ljv",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $1.17K of $ELON at $4.21M MC 🐳\n\nhttps://t.co/FxWoIzMWJf",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @MarcellxMarcell just bought $1.18K of $ELON at $4.85M MC 🐳\n\nhttps://t.co/myrUuVOXkr",
+        "likes": 4,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @MarcellxMarcell just bought $1.17K of $ELON at $4.85M MC 🐳\n\nhttps://t.co/4HWu6Erun9",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PENGUIN with a PnL of +130.32%.\n\n$PENGUIN has been trending on Moby since $91.9K MC. Currently sitting at $79.5M MC. https://t.co/cNjBU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MOBY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MOBY whale just bought $2.03K of $ELON at $4.44M MC 🐳\n\nhttps://t.co/OhiBsc4Ljv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BLOXFLOW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @chunkiesgaming verified earnings for $BLOXFLOW on @BagsApp 💰\n\nhttps://t.co/LnF0bnKQzB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LABUBU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $1.17K of $ELON at $4.21M MC 🐳\n\nhttps://t.co/FxWoIzMWJf",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Wayfair",
+      "text": "Best selling Wayfair rugs that add warmth, comfort, and value",
+      "likes": 456,
+      "retweets": 25,
+      "url": "https://x.com/Wayfair/status/1989413775254933799"
+    }
+  ]
+}

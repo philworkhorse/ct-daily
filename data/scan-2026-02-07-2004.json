@@ -1,0 +1,184 @@
+{
+  "timestamp": "2026-02-07T20:04:11.427Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 3,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CBBTC",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$SHITCOIN",
+      1
+    ],
+    [
+      "$BOOB",
+      1
+    ],
+    [
+      "$WOG",
+      1
+    ],
+    [
+      "$SOLANA",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$LUKE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CBBTC",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SHITCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$BOOB",
+        "count": 1
+      },
+      {
+        "ticker": "$WOG",
+        "count": 1
+      },
+      {
+        "ticker": "$SOLANA",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$LUKE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 3
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @realdogen: normies hitting me up about $BUTTCOIN \n\nthis is great for the space \n\ngot a just-in-case we go to buttlions bag",
+        "likes": 0,
+        "retweets": 32
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $1.02K of $SHITCOIN at $103.17K MC 🐳\n\nhttps://t.co/QuykdrmLTB",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $2.4K of $SOLANA at $192.79K MC 🐳\n\nhttps://t.co/NqSqyP4skO",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SHITCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $1.02K of $SHITCOIN at $103.17K MC 🐳\n\nhttps://t.co/QuykdrmLTB",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BOOB": [
+      {
+        "author": "Fitzybrypto",
+        "text": "RT @KingOnEth: I have a confession to make. I love the left and right $BOOB.",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$WOG": [
+      {
+        "author": "WogTheArtist",
+        "text": "$WOG\n\n45 mins.\n\n@Pumpfun. \n\nBe ready. https://t.co/LK21TLbd21",
+        "likes": 13,
+        "retweets": 2
+      }
+    ],
+    "$SOLANA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $2.4K of $SOLANA at $192.79K MC 🐳\n\nhttps://t.co/NqSqyP4skO",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $3.53K of $Buttcoin at $46.4M MC 🐳\n\nhttps://t.co/v92zyL22sR",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$LUKE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @GroxForMayor verified earnings for $LUKE on @BagsApp 💰\n\nhttps://t.co/ymCzYbOhcq",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Pumpfun",
+      "text": "trenches bought the bottom yet nobody holds bitcoin\n\nlesson in there https://t.co/75HpZwLd7k",
+      "likes": 601,
+      "retweets": 97,
+      "url": "https://x.com/Pumpfun/status/2020218757268869384"
+    },
+    {
+      "author": "inversebrah",
+      "text": ". https://t.co/feAQKKmYRU",
+      "likes": 127,
+      "retweets": 8,
+      "url": "https://x.com/inversebrah/status/2020147286328918258"
+    }
+  ]
+}

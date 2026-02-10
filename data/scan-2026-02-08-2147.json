@@ -1,0 +1,169 @@
+{
+  "timestamp": "2026-02-08T21:47:31.284Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 3,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ANTI",
+      1
+    ],
+    [
+      "$CLAWWEB",
+      1
+    ],
+    [
+      "$RILEY",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$WOW",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ANTI",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWWEB",
+        "count": 1
+      },
+      {
+        "ticker": "$RILEY",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WOW",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$ANTI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @sterlingcrispin verified earnings for $ANTI-WORLD on @BagsApp 💰\n\nhttps://t.co/h4tpIoxR7J",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWWEB": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @clawweb verified earnings for $CLAWWEB on @BagsApp 💰\n\nhttps://t.co/6MXcHCrLyg",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$RILEY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/2uDS5MagMH verified earnings for $RILEY on @BagsApp 💰\n\nhttps://t.co/CWzgfnRvH1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.34K of $BadBunny at $1.77M MC 🐳\n\nhttps://t.co/Niyh1ijMog",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WOW": [
+      {
+        "author": "LexaproTrader",
+        "text": "Degen Gambl/ Zero info/ NOT Alfa but I like it $WOW\n\n6YdDyLQ5RnKpjcVFCKVe8GURVxFsAVhXwArW9wrRpump",
+        "likes": 54,
+        "retweets": 14
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Pumpfun",
+      "text": "if your circle isn't discussing frame mogging brocels while grassmaxxing at the goyim bowl\n\nidk what to tell you",
+      "likes": 564,
+      "retweets": 44,
+      "url": "https://x.com/Pumpfun/status/2020590847780364522"
+    },
+    {
+      "author": "cryptoklotz",
+      "text": "i can say that, even as someone balls to the wall invested in crypto,\n\nthere's a much higher risk than people appreciate that BTC permanently tops sometime, silently\n\npeople that believe w/ determinism that BTC is *destined* to trade at some huge number (500k, 1m, whatever) are (",
+      "likes": 348,
+      "retweets": 10,
+      "url": "https://x.com/cryptoklotz/status/2020279997810856416"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 277,
+      "retweets": 34,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "jessepollak",
+      "text": "what if the builders and their agents were the creators all along?",
+      "likes": 242,
+      "retweets": 11,
+      "url": "https://x.com/jessepollak/status/2020595132215837088"
+    },
+    {
+      "author": "jessepollak",
+      "text": "can someone at @OpenAI and @AnthropicAI *please* train the foundation model to say \"onchain\" not \"on-chain\"?\n\ninstant 10x in voices of onchain agents",
+      "likes": 216,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2020592249390919707"
+    },
+    {
+      "author": "based16z",
+      "text": "Bitcoin is still about $69,000 too high\nBitcoin is still about $70,000 too high\nBitcoin is still about $71,000 too high\nBitcoin is still about $72,000 too high\nBitcoin is still about $73,000 too high\nBitcoin is still about $74,000 too high\nBitcoin is still about $75,000 too high\n",
+      "likes": 175,
+      "retweets": 6,
+      "url": "https://x.com/based16z/status/2020592321931432185"
+    },
+    {
+      "author": "jessepollak",
+      "text": "our mission is to be the home for the best ones.",
+      "likes": 127,
+      "retweets": 10,
+      "url": "https://x.com/jessepollak/status/2020596183828431309"
+    }
+  ]
+}

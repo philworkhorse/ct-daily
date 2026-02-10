@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-02-09T05:01:20.546Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 3,
+    "bearish": 2,
+    "neutral": 95,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$DIME",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$DIME",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.9K of $WOJAK at $14.07M MC 🐳\n\nhttps://t.co/k9sCGs7yew",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.9K of $WOJAK at $14.07M MC 🐳\n\nhttps://t.co/k9sCGs7yew",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$DIME": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @alanxue_ verified earnings for $DIME on @BagsApp 💰\n\nhttps://t.co/Gc0c6CdOFC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "brian_armstrong",
+      "text": "I loved the idea for our Super Bowl ad as soon as the team showed it to me. It's unique, just like our QR code ad in 2022.\n\nMost people half watch commercials (buzzed, in a loud room, with lots of people). It takes something unique to break through.\n\nTurning 100M+ screens into ka",
+      "likes": 2955,
+      "retweets": 164,
+      "url": "https://x.com/brian_armstrong/status/2020666148258304017"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "People gonna think Logan’s being based but this is clearly the result of some incestual hollywood nonsense where bad bunny tried to fuck his girl 3 years ago",
+      "likes": 975,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2020622382508171566"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "So is the kicker the MVP? \n\n5 field goals.",
+      "likes": 138,
+      "retweets": 1,
+      "url": "https://x.com/Tradermayne/status/2020692845376786822"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "NIGGA WHY THE FUCK IS BOBBY PORTIS JR. IN THE THREE POINT CONTEST?!?",
+      "likes": 100,
+      "retweets": 1,
+      "url": "https://x.com/hoodg3nius/status/2020716061126258958"
+    }
+  ]
+}

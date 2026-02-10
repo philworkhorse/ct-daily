@@ -1,0 +1,398 @@
+{
+  "timestamp": "2026-01-30T10:05:04.747Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 4,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ELON",
+      6
+    ],
+    [
+      "$OPENCLAW",
+      3
+    ],
+    [
+      "$LABUBU",
+      2
+    ],
+    [
+      "$TOKABU",
+      2
+    ],
+    [
+      "$CRUST",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$INX",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$DEFITYCOON",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ELON",
+        "count": 6
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 3
+      },
+      {
+        "ticker": "$LABUBU",
+        "count": 2
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 2
+      },
+      {
+        "ticker": "$CRUST",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$INX",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$DEFITYCOON",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "silver": 3
+    },
+    "metals": {
+      "gold": 3,
+      "silver": 3
+    },
+    "macro": {
+      "fed": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/FtXu2AiiS1",
+        "likes": 64,
+        "retweets": 2
+      }
+    ],
+    "$INX": [
+      {
+        "author": "waleswoosh",
+        "text": "Looks like a fake @bandosei screenshot, but it’s real.\n\nInfinex Patrons are down to 0.08 ETH after the $INX distribution snapshot.\n\nA few people had bids open that got filled, paying 0.6+ ETH for what",
+        "likes": 214,
+        "retweets": 3
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +161.55%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $8.68M MC. https://t.co/llPRLMzH3m",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +181.28%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $8.68M MC. https://t.co/xNnkAsVVm8",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $2.32K of $ELON at $8.68M MC 🐳\n\nhttps://t.co/NsOGhC2XLm",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $11.94K of $ELON at $7.52M MC 🐳\n\nhttps://t.co/4CNRrND2TV",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @f4vel just bought $16.46K of $ELON at $7.52M MC 🐳\n\nhttps://t.co/q3AIzCxHl2",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $6.22K of $ELON at $7.52M MC 🐳\n\nhttps://t.co/Z54FJb0oLv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $2.32K of $ELON at $8.68M MC 🐳\n\nhttps://t.co/NsOGhC2XLm",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +265.64%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $2.58M MC. https://t.co/3",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +301.20%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $3.13M MC. https://t.co/p",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $1.27K of $OPENCLAW at $2.81M MC 🐳\n\nhttps://t.co/TOS2lQtYWS",
+        "likes": 2,
+        "retweets": 2
+      }
+    ],
+    "$LABUBU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $11.94K of $ELON at $7.52M MC 🐳\n\nhttps://t.co/4CNRrND2TV",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $1.15K of $CRUST at $887.92K MC 🐳\n\nhttps://t.co/r5mF6pOJXW",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $6.22K of $ELON at $7.52M MC 🐳\n\nhttps://t.co/Z54FJb0oLv",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $1.27K of $OPENCLAW at $2.81M MC 🐳\n\nhttps://t.co/TOS2lQtYWS",
+        "likes": 2,
+        "retweets": 2
+      }
+    ],
+    "$CRUST": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $1.15K of $CRUST at $887.92K MC 🐳\n\nhttps://t.co/r5mF6pOJXW",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @atone verified earnings for $CRUST on @BagsApp 💰\n\nhttps://t.co/XUht8GIEEs",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "heart_",
+        "text": "guy with 4.67 $SOL on Fomo and 2 silver coins is warning you about the permanent underclass https://t.co/ArCe0d5pSW",
+        "likes": 10,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $20.66K of $PENGUIN at $61.45M MC 🐳\n\nhttps://t.co/yppKcgKYJv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $20.66K of $PENGUIN at $61.45M MC 🐳\n\nhttps://t.co/yppKcgKYJv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "frontrunnersx",
+        "text": "Massive trade opportunity:\n\nWe're 99% certain Kevin Warsh is going to be announced as FED chair today. It will be him. \n\nBUT\n\nWarsh supports a strong dollar, which clashes with Trump's domestic and fo",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$DEFITYCOON": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @DeFi_Tycoon verified earnings for $DEFITYCOON on @BagsApp 💰\n\nhttps://t.co/DERhNSANoq",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $9.89K of $FWOG at $7.96M MC 🐳\n\nhttps://t.co/wEftSkdVVN",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Dexerto",
+      "text": "Lore-accurate Chewbacca player goes wild after Luke Skywalker dies in front of him\n\n🎥: u/Jls-BeenCheezin https://t.co/nFN274t4js",
+      "likes": 8325,
+      "retweets": 352,
+      "url": "https://x.com/Dexerto/status/2016753176876126575"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1245,
+      "retweets": 207,
+      "url": "https://x.com/Neuravision_A/status/2010102620502011981"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "fellas you can only save one which you saving https://t.co/LKG93Yo3he",
+      "likes": 499,
+      "retweets": 20,
+      "url": "https://x.com/blknoiz06/status/2016991301758042572"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "fellas you can only save one which you saving https://t.co/LKG93Yo3he",
+      "likes": 499,
+      "retweets": 20,
+      "url": "https://x.com/blknoiz06/status/2016991301758042572"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "buying sub 80 bitcoin in april didn’t feel as scary as sub 80 right now",
+      "likes": 353,
+      "retweets": 8,
+      "url": "https://x.com/notthreadguy/status/2017062687121776657"
+    },
+    {
+      "author": "DegenPing",
+      "text": "feels like something will happen in japan in the coming days\n\nstay safe",
+      "likes": 238,
+      "retweets": 11,
+      "url": "https://x.com/DegenPing/status/2017138953934245978"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Japan maxing. https://t.co/84gLWUAv00",
+      "likes": 227,
+      "retweets": 1,
+      "url": "https://x.com/Tradermayne/status/2017148223794925913"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Looks like a fake @bandosei screenshot, but it’s real.\n\nInfinex Patrons are down to 0.08 ETH after the $INX distribution snapshot.\n\nA few people had bids open that got filled, paying 0.6+ ETH for what is now a worthless Patron.\n\nThanks for playing https://t.co/na4Iz1RtQQ",
+      "likes": 214,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2017142569373966682"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "All good things must end",
+      "likes": 149,
+      "retweets": 2,
+      "url": "https://x.com/ThinkingUSD/status/2017139983346291086"
+    },
+    {
+      "author": "himgajria",
+      "text": "https://t.co/NQm37D6BrC",
+      "likes": 109,
+      "retweets": 13,
+      "url": "https://x.com/himgajria/status/2017136739467612610"
+    }
+  ]
+}

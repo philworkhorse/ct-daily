@@ -1,0 +1,164 @@
+{
+  "timestamp": "2026-02-01T21:20:42.350Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 6,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$TRIVIA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$TRIVIA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @Wassieweb3: $BUTTCOIN is the main play\n\nbought 10k at 10m\nalready trading higher\nstill massively underpriced\n\nthis feels like the memec…",
+        "likes": 0,
+        "retweets": 12
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @Wassieweb3: $BUTTCOIN is the main play\n\nbought 10k at 10m\nalready trading higher\nstill massively underpriced\n\nthis feels like the memec…",
+        "likes": 0,
+        "retweets": 12
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "i am adamant about making 2026 a breakout year for @rektdrinks and market conditions do not bother me. \n\n$REKT",
+        "likes": 55,
+        "retweets": 2
+      }
+    ],
+    "$TRIVIA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @KunaiSol verified earnings for $TRIVIA on @BagsApp 💰\n\nhttps://t.co/lewxzQBrT7",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "frankdegods",
+      "text": "roundtripped a mil, how was ur morning? https://t.co/Jdll752CGE",
+      "likes": 620,
+      "retweets": 14,
+      "url": "https://x.com/frankdegods/status/2017984590556639434"
+    },
+    {
+      "author": "LarkDavis",
+      "text": "How many times have you heard 'it’s over'? That Bitcoin is dead and going to zero? I’ve heard it countless times. But guess what? It’s still here. Yeah, those dips are not for the faint of heart, but diamond-handing it through thick and thin has been well worth it. I am still her",
+      "likes": 505,
+      "retweets": 27,
+      "url": "https://x.com/LarkDavis/status/2017953615864848421"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Bear case: Assets look really bad and AI might be a scam\n\nBull case: Saylor wasn't in the Epstein files",
+      "likes": 237,
+      "retweets": 7,
+      "url": "https://x.com/ThinkingUSD/status/2018055146253566157"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "New YouTube Video 🚨🚨🚨\n\n\"Why all current Trends help SPX6900\"\n\nSPX always finds its way.\nif this is today, tomorrow, in a month, a year.\nI will be there.\nPersist forever.\nspx6900\n\nVideo Link in the comment below 👇 https://t.co/mZw2BZyY7j",
+      "likes": 203,
+      "retweets": 65,
+      "url": "https://x.com/MustStopMurad/status/2018069094537548018"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "New YouTube Video 🚨🚨🚨\n\n\"Why all current Trends help SPX6900\"\n\nSPX always finds its way.\nif this is today, tomorrow, in a month, a year.\nI will be there.\nPersist forever.\nspx6900\n\nVideo Link in the comment below 👇 https://t.co/mZw2BZyY7j",
+      "likes": 203,
+      "retweets": 65,
+      "url": "https://x.com/MustStopMurad/status/2018069094537548018"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "pretty surprised with how much motion base currently has during this ai x crypto season",
+      "likes": 183,
+      "retweets": 7,
+      "url": "https://x.com/blknoiz06/status/2018064150899888616"
+    },
+    {
+      "author": "retardmode",
+      "text": "300k+ nodes added to the map, ~1m now\n\nnew names include tynisha, rasheed, rashida, myesha, sharita, jaylen + 77 others\n\nadded backup desktop UI for those who don’t have webGL installed (openmap API)\n\nbefore you move to a new area, make sure there’s https://t.co/vuQIXDYsB8 https:",
+      "likes": 173,
+      "retweets": 8,
+      "url": "https://x.com/retardmode/status/2018045835452223688"
+    },
+    {
+      "author": "solana",
+      "text": "What should we name our @openclaw bot?",
+      "likes": 167,
+      "retweets": 50,
+      "url": "https://x.com/solana/status/2018070005628162351"
+    },
+    {
+      "author": "himgajria",
+      "text": "Yesterday’s ceilings are tomorrow’s floors.",
+      "likes": 133,
+      "retweets": 12,
+      "url": "https://x.com/himgajria/status/2018051236948488580"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "We're a few weeks from an industry wide Binance crashout",
+      "likes": 119,
+      "retweets": 4,
+      "url": "https://x.com/ThinkingUSD/status/2018067906009899416"
+    }
+  ]
+}

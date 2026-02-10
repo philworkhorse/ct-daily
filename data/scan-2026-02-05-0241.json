@@ -1,0 +1,200 @@
+{
+  "timestamp": "2026-02-05T02:41:43.961Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 5,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIGA",
+      2
+    ],
+    [
+      "$JITOSOL",
+      1
+    ],
+    [
+      "$OOB",
+      1
+    ],
+    [
+      "$SIMPLECLAW",
+      1
+    ],
+    [
+      "$BLOWFISH",
+      1
+    ],
+    [
+      "$MOLTX",
+      1
+    ],
+    [
+      "$SHOOT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIGA",
+        "count": 2
+      },
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$OOB",
+        "count": 1
+      },
+      {
+        "ticker": "$SIMPLECLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTX",
+        "count": 1
+      },
+      {
+        "ticker": "$SHOOT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "$GIGA has highest % of normies and its verifiable on chain.\n\nWe’ve never seen what happens when normies get in early.\n\nWe saw a taste of it with $GIGA in 2024, which led to $GIGA being the best perfor",
+        "likes": 5,
+        "retweets": 3
+      },
+      {
+        "author": "gigagriff",
+        "text": "Of these, $GIGA is the only one that still has a community and is building.\n\nI wonder which coin will return when market picks back up?",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $312.1K of $mSOL at $308.17M MC 🐳\n\nhttps://t.co/TWyxfqcPNx",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OOB": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $OOB whale just bought $1.1K of $SIMPLECLAW at $117.58K MC 🐳\n\nhttps://t.co/woh9qNKNRO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SIMPLECLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $OOB whale just bought $1.1K of $SIMPLECLAW at $117.58K MC 🐳\n\nhttps://t.co/woh9qNKNRO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @onchainrobber just bought $3.14K of $BLOWFISH at $512.29K MC 🐳\n\nhttps://t.co/MXq13D9CfY",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTX": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @unc_bend verified earnings for $MOLTX on @BagsApp 💰\n\nhttps://t.co/JuXOsqUjwv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SHOOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @playshootfun verified earnings for $SHOOT on @BagsApp 💰\n\nhttps://t.co/Qpup2vlrwL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "zachxbt",
+      "text": "Shoutout to Circle co-founder @jerallaire for the exit liquidity. https://t.co/UqjO92kekR",
+      "likes": 650,
+      "retweets": 44,
+      "url": "https://x.com/zachxbt/status/2019225664549998889"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Calling the generational bottom for Bitcoin here.\n\n.\n\nNot going lower tomorrow.",
+      "likes": 365,
+      "retweets": 10,
+      "url": "https://x.com/CryptoKaleo/status/2019207002963300429"
+    },
+    {
+      "author": "remusofmars",
+      "text": "The @pumpfun CTO process needs to change and it’s extremely clear that it should change to a council of top holders (or all holders) that can vote a new few receiver wallet in (and the old on out) at any time. Obviously serial deployers will not like this as it makes serial deplo",
+      "likes": 200,
+      "retweets": 14,
+      "url": "https://x.com/remusofmars/status/2019098728670347717"
+    },
+    {
+      "author": "jessepollak",
+      "text": "still true",
+      "likes": 144,
+      "retweets": 7,
+      "url": "https://x.com/jessepollak/status/2019226293242589507"
+    },
+    {
+      "author": "notanicecat69",
+      "text": "telling people that a meme or ai coin can go to billions in these market conditions is like telling your white son that he can play in the nba if he works hard enough",
+      "likes": 128,
+      "retweets": 11,
+      "url": "https://x.com/notanicecat69/status/2019060895628832872"
+    },
+    {
+      "author": "_Shadow36",
+      "text": "We are at the  part of the cycle where we send a memecoin to billions.\n\nDon’t miss out, this could be one of the last chances you got.",
+      "likes": 114,
+      "retweets": 16,
+      "url": "https://x.com/_Shadow36/status/2019232147266216319"
+    }
+  ]
+}

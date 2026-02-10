@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-02-08T14:19:52.572Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 16,
+    "bearish": 1,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$USELESS",
+      2
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 2
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "corn": 1,
+      "oil": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "fed": 2,
+      "inflation": 1,
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$USELESS": [
+      {
+        "author": "theunipcs",
+        "text": "RT @skmakeit: A lot of people are extremely quick to write-off $USELESS coin as “just another SOL meme that trends to zero” and here’s why…",
+        "likes": 0,
+        "retweets": 17
+      },
+      {
+        "author": "theunipcs",
+        "text": "RT @skmakeit: A lot of people are extremely quick to write-off $USELESS coin as “just another SOL meme that trends to zero” and here’s why…",
+        "likes": 0,
+        "retweets": 17
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.96K of $PENGUIN at $26.63M MC 🐳\n\nhttps://t.co/8GlyM7GFte",
+        "likes": 5,
+        "retweets": 0
+      },
+      {
+        "author": "crypto_bitlord7",
+        "text": "RT @Kenzo13RO: Time to run the $PENGUIN back ? https://t.co/MI4ZDK4TBP",
+        "likes": 0,
+        "retweets": 11
+      },
+      {
+        "author": "crypto_bitlord7",
+        "text": "RT @MoneyLord: Do not get surprised once $PENGUIN god candles to 500m\n\nI never saw a meme with this much mindshare \n\nFrom T1 kols doomposti…",
+        "likes": 0,
+        "retweets": 31
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ZelenskyyUa",
+      "text": "Today, we are opening exports. Ten export centers across Europe will be operating as early as 2026 – in the Baltic and Nordic states. Ten representative offices will be active in 2026. By mid-February, we will already see the production of our drones in Germany. I will receive th",
+      "likes": 443,
+      "retweets": 90,
+      "url": "https://x.com/ZelenskyyUa/status/2020500198531686579"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Aviation is one of the promising areas for investment in Ukraine. We are highly technological. Today, we have 450 companies that manufacture drones, 40–50 of them are top-tier. Everyone wants to invest. Next year – 2026 – will be the year of investment in our technologies, above ",
+      "likes": 383,
+      "retweets": 81,
+      "url": "https://x.com/ZelenskyyUa/status/2020498942551564563"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all due respect to Chris, I completely disagree with this take.\n\nChris argues that \"web3,\" particularly crypto-powered gaming and media, failed due to scams and regulation, and that better regulation will unlock these non-financial cases.\n\nOK, think about this for a second. ",
+      "likes": 180,
+      "retweets": 9,
+      "url": "https://x.com/hosseeb/status/2020451853633511696"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "We do not have to choose – whether we strike a military target or energy. He sells this energy. He sells oil. So is it energy, or is it a military target? Honestly, it’s the same thing. He sells oil, takes the money, invests it in weapons. And with those weapons, he kills Ukraini",
+      "likes": 154,
+      "retweets": 42,
+      "url": "https://x.com/ZelenskyyUa/status/2020501744367612269"
+    },
+    {
+      "author": "solana",
+      "text": "TradFi and AI agents just found common ground. It's Solana.\n\nA white-glove trading program for institutions went live. Agents started managing DAOs, funding their own keys, and deploying tokens via X.\n\nHere’s what happened over the week:\n\n📰 Headline News\n\n- @SolanaFndn unveiled ",
+      "likes": 153,
+      "retweets": 26,
+      "url": "https://x.com/solana/status/2020497853676978223"
+    },
+    {
+      "author": "himgajria",
+      "text": "As everyone keeps chasing the new shiny thing, I’d rather bet on the perpetual shiny thing.",
+      "likes": 110,
+      "retweets": 9,
+      "url": "https://x.com/himgajria/status/2020485313571795100"
+    },
+    {
+      "author": "based16z",
+      "text": "Kyle realized he missed the one good project and became washed eth maxi equivalent and said fuck it I’m leavin",
+      "likes": 102,
+      "retweets": 0,
+      "url": "https://x.com/based16z/status/2020494296693268969"
+    }
+  ]
+}

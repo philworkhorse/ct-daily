@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-02-06T12:00:46.163Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 0,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 2,
+    "bearish": 3,
+    "neutral": 45,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      2
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @TukasNFT: Started dca'ing some $REKT.\n\nBet on the communities and founders who are here through the bear and bull.\n\nAnd one of them @re…",
+        "likes": 0,
+        "retweets": 4
+      },
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/BgNHZAcR7t",
+        "likes": 70,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "X banned InfoFi and the market has been down only since.\n\nThink about that.\n\nKaito farmers please come back, we are sorry",
+      "likes": 329,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2019709448189862332"
+    },
+    {
+      "author": "gainzy222",
+      "text": "binance trying to liquidate every last person who hates them lmao\n\ncz like “maybe the next wave of retail will be nicer”",
+      "likes": 297,
+      "retweets": 7,
+      "url": "https://x.com/gainzy222/status/2019717946298585319"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "timestamp": "2026-01-31T08:17:40.770Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 2,
+    "neutral": 94,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$TOWN",
+      2
+    ],
+    [
+      "$RAPEMAS",
+      1
+    ],
+    [
+      "$LABUBU",
+      1
+    ],
+    [
+      "$CLAWNCH",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$OPENCLAW",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$TOWN",
+        "count": 2
+      },
+      {
+        "ticker": "$RAPEMAS",
+        "count": 1
+      },
+      {
+        "ticker": "$LABUBU",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWNCH",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 2,
+      "gold": 4,
+      "silver": 3
+    },
+    "metals": {
+      "gold": 4,
+      "silver": 3
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$RAPEMAS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @SelfMadeBez verified earnings for $RAPEMAS on @BagsApp 💰\n\nhttps://t.co/eHxvenQFXS",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LABUBU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $2.39K of $TOWN at $706.51K MC 🐳\n\nhttps://t.co/I74gQaNclK",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$TOWN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $LABUBU whale just bought $2.39K of $TOWN at $706.51K MC 🐳\n\nhttps://t.co/I74gQaNclK",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Loopierr just bought $2.5K of $TOWN at $647.15K MC 🐳\n\nhttps://t.co/4cpSccPJQL",
+        "likes": 3,
+        "retweets": 2
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.99K of $PENGUIN at $47.96M MC 🐳\n\nhttps://t.co/Bqn0WWMoXd",
+        "likes": 4,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.39K of $PENGUIN at $48.22M MC 🐳\n\nhttps://t.co/D17v8LOGJ5",
+        "likes": 4,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $9.97K of $PENGUIN at $49.17M MC 🐳\n\nhttps://t.co/RtJSc6xTJt",
+        "likes": 10,
+        "retweets": 2
+      }
+    ],
+    "$CLAWNCH": [
+      {
+        "author": "100xDarren",
+        "text": "$CLAWNCH @Clawnch_Bot \n\nPotentially the next big runner on Base!\n\n- Token launchpad built by AI agents \n- No humans involved\n- Launched 3 hrs ago and already has 51 tokens launched\n- $170k agent fees ",
+        "likes": 33,
+        "retweets": 3
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $5.05K of $OPENCLAW at $2.7M MC 🐳\n\nhttps://t.co/lbcazcPbL1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $5.05K of $OPENCLAW at $2.7M MC 🐳\n\nhttps://t.co/lbcazcPbL1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $9.97K of $PENGUIN at $49.17M MC 🐳\n\nhttps://t.co/RtJSc6xTJt",
+        "likes": 10,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Ravens",
+      "text": "\"I do plan on calling the defense. I think that's a strength of mine. I think that's one of the reason's I'm sitting here.\" https://t.co/R4Q4mzCIDU",
+      "likes": 8061,
+      "retweets": 557,
+      "url": "https://x.com/Ravens/status/2016915660543029446"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1302,
+      "retweets": 214,
+      "url": "https://x.com/Neuravision_A/status/2010102620502011981"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm happy weekend https://t.co/okT88CwOxQ",
+      "likes": 516,
+      "retweets": 7,
+      "url": "https://x.com/waleswoosh/status/2017477980092821526"
+    },
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 499,
+      "retweets": 44,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "https://t.co/lhT3kctgE0",
+      "likes": 482,
+      "retweets": 26,
+      "url": "https://x.com/boldleonidas/status/2017478286356746292"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 433,
+      "retweets": 5,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    },
+    {
+      "author": "jessepollak",
+      "text": "this weekend is a prime building opportunity",
+      "likes": 383,
+      "retweets": 20,
+      "url": "https://x.com/jessepollak/status/2017473205062275291"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "looking back you can't even explain the silly shit that was going on in 2024, there was a crypto conference iggy azalea party with strippers &amp; a mechanical bull in the middle of a random venue in singapore, sounds like the most ridiculous ai slop scripted combination of thing",
+      "likes": 316,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017465926090678351"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Hot take but InfoFi was much better than all this AI engagement farming.\n\nBraindead takes on the timeline by people with zero technical knowledge",
+      "likes": 297,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2017484194784608440"
+    },
+    {
+      "author": "Elder_DT",
+      "text": "this fucking faggot has been pretending to be me for 3 years",
+      "likes": 136,
+      "retweets": 0,
+      "url": "https://x.com/Elder_DT/status/2017325164879319414"
+    }
+  ]
+}

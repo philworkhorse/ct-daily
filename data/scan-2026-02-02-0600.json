@@ -1,0 +1,192 @@
+{
+  "timestamp": "2026-02-02T06:00:45.779Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 5,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$JITOSOL",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$PAINTBRUSH",
+      1
+    ],
+    [
+      "$RA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$PAINTBRUSH",
+        "count": 1
+      },
+      {
+        "ticker": "$RA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1
+    },
+    "metals": {},
+    "macro": {
+      "inflation": 1,
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "CryptoKaleo",
+        "text": "#Bitcoin / $BTC\n\nEveryone is saying May of 2022.\n\nBut what if we’re actually running back September of 2023? https://t.co/QsPHWi60YV",
+        "likes": 391,
+        "retweets": 28
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $23.78K of $JitoSOL at $1.38B MC 🐳\n\nhttps://t.co/2rAnEJLAXb",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $64.19K of $cbBTC at $271.59M MC 🐳\n\nhttps://t.co/gvIA1WhbVR",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $49.88K of $PUMP at $2.41B MC 🐳\n\nhttps://t.co/wYvoN41cxo",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PAINTBRUSH": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @nearcyan verified earnings for $PAINTBRUSH on @BagsApp 💰\n\nhttps://t.co/HowBmxSn0j",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$RA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ChrisUniverseB verified earnings for $RA1 on @BagsApp 💰\n\nhttps://t.co/5Cx9USfP8Q",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "nigga tom lee bouta break the record for largest investment loss in the history of mankind for topblasting eth at 4k https://t.co/zfu9jgNEn9",
+      "likes": 1351,
+      "retweets": 73,
+      "url": "https://x.com/blknoiz06/status/2018164491876216930"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Illiquid dump on a weekend into massive liquidations?\n\nYeah i'll buy that",
+      "likes": 591,
+      "retweets": 22,
+      "url": "https://x.com/ThinkingUSD/status/2017739782336479278"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "coins down so much started reading the bible",
+      "likes": 515,
+      "retweets": 40,
+      "url": "https://x.com/blknoiz06/status/2018186584105902571"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "no cap https://t.co/h1bvxlR7i4",
+      "likes": 440,
+      "retweets": 16,
+      "url": "https://x.com/blknoiz06/status/2018187391555543134"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "#Bitcoin / $BTC\n\nEveryone is saying May of 2022.\n\nBut what if we’re actually running back September of 2023? https://t.co/QsPHWi60YV",
+      "likes": 391,
+      "retweets": 28,
+      "url": "https://x.com/CryptoKaleo/status/2018184597310259386"
+    },
+    {
+      "author": "Rewkang",
+      "text": "The last crypto bubbles were an extreme misallocation of capital especially in the backdrop of the 4th Industrial Revolution enabled by AI\n\nThe bubbles were driven by excess liquidity seeking world changing technology. This technology has arrived in the form of AI and Robotics wh",
+      "likes": 323,
+      "retweets": 23,
+      "url": "https://x.com/Rewkang/status/2018171645765075095"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "https://t.co/YZRBWiW2NV",
+      "likes": 169,
+      "retweets": 10,
+      "url": "https://x.com/boldleonidas/status/2018196226190229530"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "pretty funny how commonplace polymarket mentions are across traditional media channels now",
+      "likes": 109,
+      "retweets": 1,
+      "url": "https://x.com/blknoiz06/status/2018180942532170125"
+    }
+  ]
+}

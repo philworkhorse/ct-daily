@@ -1,0 +1,236 @@
+{
+  "timestamp": "2026-02-02T23:40:27.578Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 1,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$NVDA",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$AXION",
+      1
+    ],
+    [
+      "$WHATSMOLT",
+      1
+    ],
+    [
+      "$MOLTSCAN",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$GOOGL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$AXION",
+        "count": 1
+      },
+      {
+        "ticker": "$WHATSMOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTSCAN",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$NVDA",
+        "count": 1
+      },
+      {
+        "ticker": "$GOOGL",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "bond": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$NVDA": [
+      {
+        "author": "based16z",
+        "text": "RT @tradfi: *ALTMAN: NVIDIA MAKES THE BEST AI CHIPS IN THE WORLD\n\n$NVDA",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "CookerFlips",
+        "text": "The last time $HYPE was around these levels BTC was 100k\n\nCan you imagine once BTC recovers 100k again? Just saying",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "watchingmarkets",
+        "text": "$BUTTCOIN\n- Expansion leg from 5m to 30m, clean flagging structure \n- Also on LTF, price is consolidating in a bull flag/tight range, probably continuation rather than distribution.\n- As long as it ho",
+        "likes": 149,
+        "retweets": 16
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "watchingmarkets",
+        "text": "$BUTTCOIN\n- Expansion leg from 5m to 30m, clean flagging structure \n- Also on LTF, price is consolidating in a bull flag/tight range, probably continuation rather than distribution.\n- As long as it ho",
+        "likes": 149,
+        "retweets": 16
+      }
+    ],
+    "$AXION": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @axion_network verified earnings for $AXION on @BagsApp 💰\n\nhttps://t.co/AZefRAsKx4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHATSMOLT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/PfqvLm4Sch verified earnings for $WHATSMOLT on @BagsApp 💰\n\nhttps://t.co/KhmSyKZRqq",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTSCAN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @MoltScanFUN verified earnings for $MOLTSCAN on @BagsApp 💰\n\nhttps://t.co/8Ftzm9EWTB",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @resellcalendar just bought $1.54K of $TOILET at $105.67K MC 🐳\n\nhttps://t.co/fsHeGLS4pQ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GOOGL": [
+      {
+        "author": "javieraliaga_",
+        "text": "Jeffrey Epstein was bullish on $GOOGL way before the AI revolution. man was brilliant with  understanding the future https://t.co/ta70nKGZ4l",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/VMbM5XFxne",
+      "likes": 245,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2018457237145145385"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "It’s amazing how much better $79K Bitcoin looks today than it did two days ago.",
+      "likes": 243,
+      "retweets": 5,
+      "url": "https://x.com/CryptoKaleo/status/2018453238736212132"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "Study: Lessons from PnL & Tuition",
+      "likes": 188,
+      "retweets": 19,
+      "url": "https://x.com/Evan_ss6/status/2018362394209054886"
+    },
+    {
+      "author": "DeItaone",
+      "text": "CLINTONS AGREE TO TESTIFY IN HOUSE EPSTEIN INVESTIGATION -NYT",
+      "likes": 167,
+      "retweets": 24,
+      "url": "https://x.com/DeItaone/status/2018466215753367716"
+    },
+    {
+      "author": "watchingmarkets",
+      "text": "$BUTTCOIN\n- Expansion leg from 5m to 30m, clean flagging structure \n- Also on LTF, price is consolidating in a bull flag/tight range, probably continuation rather than distribution.\n- As long as it holds above the flag base, path of least resistance, butt it higher.\n\n$WOJAK\n-  St",
+      "likes": 149,
+      "retweets": 16,
+      "url": "https://x.com/watchingmarkets/status/2018264118189240519"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Imagine bull posting about metals for 6 years and people get mad when the chart looks like this.\n\nI even posted 2 days before the top that we were near a local top, and yet the pitchforks still come out.\n\nIt's insane the amount of outrage some of these guys have. \n\nAnd to make it",
+      "likes": 116,
+      "retweets": 3,
+      "url": "https://x.com/intocryptoverse/status/2018468020750868778"
+    },
+    {
+      "author": "CryptoParadyme",
+      "text": "friend's dad https://t.co/TcD0szM7zu",
+      "likes": 100,
+      "retweets": 2,
+      "url": "https://x.com/CryptoParadyme/status/2018445091552338210"
+    }
+  ]
+}

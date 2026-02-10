@@ -1,0 +1,274 @@
+{
+  "timestamp": "2026-02-01T17:00:50.012Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 6,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$COPPERINU",
+      4
+    ],
+    [
+      "$PURCH",
+      2
+    ],
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$MOLTAUR",
+      1
+    ],
+    [
+      "$SCF",
+      1
+    ],
+    [
+      "$ABHIJIT",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$ORGO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$COPPERINU",
+        "count": 4
+      },
+      {
+        "ticker": "$PURCH",
+        "count": 2
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$MOLTAUR",
+        "count": 1
+      },
+      {
+        "ticker": "$SCF",
+        "count": 1
+      },
+      {
+        "ticker": "$ABHIJIT",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$ORGO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 9,
+      "gold": 2,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "inflation": 1,
+      "fed": 1,
+      "treasury": 1
+    }
+  },
+  "tickerDetails": {
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @HopiumPapi: $COPPERINU proves that major market performance is irrelevant to memecoins. This is purely psychological.\nThe reality is: w…",
+        "likes": 0,
+        "retweets": 11
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $COPPERINU with a PnL of +83.66%.\n\n$COPPERINU has been trending on Moby since $294.49K MC. Currently sitting at $14.59M MC. https://t.co",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "himgajria",
+        "text": "RT @HopiumPapi: $COPPERINU proves that major market performance is irrelevant to memecoins. This is purely psychological.\nThe reality is: w…",
+        "likes": 0,
+        "retweets": 11
+      },
+      {
+        "author": "puddles42069",
+        "text": "RT @PumpfunEco: $COPPERINU has pumped 157% today! 🔥 https://t.co/rnpTfoE9cm",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$PURCH": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PURCH with a PnL of +113.78%.\n\n$PURCH has been trending on Moby since $504K MC. Currently sitting at $7.02M MC. https://t.co/kwETVWJNqs",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.92K of $PURCH at $7.77M MC 🐳\n\nhttps://t.co/IAZmxNuaGI",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$MOLTAUR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @xaitoshi_ verified earnings for $MOLTAUR on @BagsApp 💰\n\nhttps://t.co/eooL9sXMiT",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $5.82K of $Buttcoin at $11.42M MC 🐳\n\nhttps://t.co/o7aRBXqlKG",
+        "likes": 3,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.92K of $PURCH at $7.77M MC 🐳\n\nhttps://t.co/IAZmxNuaGI",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$SCF": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SCF with a PnL of +184.52%.\n\n$SCF has been trending on Moby since $62.45K MC. Currently sitting at $845.9K MC. https://t.co/PUTtiSZrPU",
+        "likes": 1,
+        "retweets": 2
+      }
+    ],
+    "$ABHIJIT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @abhjitwt verified earnings for $ABHIJIT on @BagsApp 💰\n\nhttps://t.co/EEMDxzTP5H",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "The difference between crypto in 2018 and 2022 was that people legitimately thought it was over.\n\nNow, people sell, to buy back lower.\n\nLesson in that.\n\n$GIGA https://t.co/ocrnvnhlhn",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$ORGO": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @scalpsxbt just bought $3.87K of $ORGO at $13.24M MC 🐳\n\nhttps://t.co/728q64GpbL",
+        "likes": 0,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "docXBT",
+      "text": "Education Megathread\n\n> all high value write ups and videos that I've put out publicly over the years; in one place\n> new pieces will be added as they release",
+      "likes": 472,
+      "retweets": 61,
+      "url": "https://x.com/docXBT/status/1941165926721744969"
+    },
+    {
+      "author": "frankdegods",
+      "text": "roundtripped a mil, how was ur morning? https://t.co/Jdll752CGE",
+      "likes": 258,
+      "retweets": 7,
+      "url": "https://x.com/frankdegods/status/2017984590556639434"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "https://t.co/ugmHVcGM7h",
+      "likes": 251,
+      "retweets": 3,
+      "url": "https://x.com/izebel_eth/status/2017889405810495922"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "https://t.co/ugmHVcGM7h",
+      "likes": 251,
+      "retweets": 3,
+      "url": "https://x.com/izebel_eth/status/2017889405810495922"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 239,
+      "retweets": 25,
+      "url": "https://x.com/Ledger/status/2010719907978371136"
+    },
+    {
+      "author": "jessepollak",
+      "text": "time for your agent to build on @base",
+      "likes": 233,
+      "retweets": 21,
+      "url": "https://x.com/jessepollak/status/2017989829641032044"
+    },
+    {
+      "author": "jessepollak",
+      "text": "remember: this all started with @bankrbot",
+      "likes": 204,
+      "retweets": 44,
+      "url": "https://x.com/jessepollak/status/2018002298023391406"
+    },
+    {
+      "author": "jessepollak",
+      "text": "remember: this all started with @bankrbot",
+      "likes": 204,
+      "retweets": 44,
+      "url": "https://x.com/jessepollak/status/2018002298023391406"
+    },
+    {
+      "author": "himgajria",
+      "text": "We’re going to change the dynamic from the fear of holding to the fear of selling,\n\nin the worst market conditions possible, \n\nso that when we transition back into good times (as we always have [cycles]), it’s strength that will be bought.",
+      "likes": 125,
+      "retweets": 18,
+      "url": "https://x.com/himgajria/status/2018000490932674986"
+    },
+    {
+      "author": "himgajria",
+      "text": "https://t.co/bvTKJDMHkW",
+      "likes": 104,
+      "retweets": 19,
+      "url": "https://x.com/himgajria/status/2017997777326969096"
+    }
+  ]
+}

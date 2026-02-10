@@ -1,0 +1,326 @@
+{
+  "timestamp": "2026-02-06T22:44:26.731Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 1,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$SETTLE",
+      1
+    ],
+    [
+      "$COMMERCE",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$XRP",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$MOLTTRACK",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SETTLE",
+        "count": 1
+      },
+      {
+        "ticker": "$COMMERCE",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTTRACK",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$XRP",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "unemployment": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$HYPE": [
+      {
+        "author": "DeeZe",
+        "text": "RT @rediamondjr: Real economics in a rapidly growing marketplace, not simply a store of value. That’s why  $HYPE continues to outperform BT…",
+        "likes": 0,
+        "retweets": 102
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "inversebrah",
+        "text": "RT @lookonchain: Feb 6 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: -6,201 $BTC(-$422.85M)🔴\n7D NetFlow: -17,435 $BTC(-$1.19B)🔴\n\n#Ethereum ETFs:\n1D N…",
+        "likes": 0,
+        "retweets": 20
+      },
+      {
+        "author": "CredibleCrypto",
+        "text": "So far this rally off the lows has all the makings of a healthy/sustainable one.\n\nShorts covering which is sending OI down a we rise but the rise is also backed by a strong spot bid, which seems to ha",
+        "likes": 211,
+        "retweets": 6
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @alexxxx: Wow $BUTTCOIN strength in this current market is remarkable. \n\nThis is THE one. https://t.co/Dk30MfiDuR",
+        "likes": 0,
+        "retweets": 26
+      }
+    ],
+    "$SETTLE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @brizzysapi verified earnings for $SETTLE on @BagsApp 💰\n\nhttps://t.co/GwwpsPNEB3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$COMMERCE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @madoonatgzx verified earnings for $COMMERCE on @BagsApp 💰\n\nhttps://t.co/0euGEEBGaj",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "More proof that\n\nethereum is the future of finance\n\n$ETH",
+        "likes": 58,
+        "retweets": 5
+      }
+    ],
+    "$XRP": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "$XRP holders are mentally ill",
+        "likes": 21,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $24.53K of $EURC at $94.4M MC 🐳\n\nhttps://t.co/32nghVD9as",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $24.53K of $EURC at $94.4M MC 🐳\n\nhttps://t.co/32nghVD9as",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @thebtcgoose just bought $5.02K of $TOILET at $1.73M MC 🐳\n\nhttps://t.co/XHhyeevolx",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$MOLTTRACK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @LensMolt verified earnings for $MOLTTRACK on @BagsApp 💰\n\nhttps://t.co/QUmgKp7gj6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "saylor",
+        "text": "RT @phongle: Just joined @CNBC to talk #Bitcoin, $MSTR, and $STRC. Conviction in our @Strategy is strong. More to come. https://t.co/9eUvEU…",
+        "likes": 0,
+        "retweets": 72
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "saylor",
+        "text": "RT @phongle: Just joined @CNBC to talk #Bitcoin, $MSTR, and $STRC. Conviction in our @Strategy is strong. More to come. https://t.co/9eUvEU…",
+        "likes": 0,
+        "retweets": 72
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "crypto_bitlord7",
+      "text": "75% of bitcoins code comes directly from Jeoffrey Epsteins investments.\n\n-We’ve basically funded an elite global pedophile ring since 2015.\n\nI feel sick.",
+      "likes": 22615,
+      "retweets": 4649,
+      "url": "https://x.com/crypto_bitlord7/status/2018175650398630201"
+    },
+    {
+      "author": "GwartyGwart",
+      "text": "I mean I wouldn’t call it all a “failed experiment” we did create an exchange that makes a cow moo sound when you make a swap which, to my knowledge, did not exist before crypto",
+      "likes": 2292,
+      "retweets": 157,
+      "url": "https://x.com/GwartyGwart/status/2019484675203383366"
+    },
+    {
+      "author": "crypto_bitlord7",
+      "text": "Today’s version of “bitcoin” is literally Epsteins vision",
+      "likes": 734,
+      "retweets": 85,
+      "url": "https://x.com/crypto_bitlord7/status/2018421824695267618"
+    },
+    {
+      "author": "headquarters68_",
+      "text": "They censored everyone booing JD lol https://t.co/i2bxe8ej3J",
+      "likes": 570,
+      "retweets": 94,
+      "url": "https://x.com/headquarters68_/status/2019902649118662739"
+    },
+    {
+      "author": "solana",
+      "text": "Actually insane.",
+      "likes": 453,
+      "retweets": 59,
+      "url": "https://x.com/solana/status/2019885810061836545"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "the longterm pmf successes during crypto's history have been: btc, exchanges, and stablecoins\n\nthese are the areas that have and will continue to see investment even while other thesis fail\n\ndespite sentiment, i think investing in good crypto projects will outperform traditional ",
+      "likes": 295,
+      "retweets": 19,
+      "url": "https://x.com/izebel_eth/status/2019800663027511645"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "the longterm pmf successes during crypto's history have been: btc, exchanges, and stablecoins\n\nthese are the areas that have and will continue to see investment even while other thesis fail\n\ndespite sentiment, i think investing in good crypto projects will outperform traditional ",
+      "likes": 295,
+      "retweets": 19,
+      "url": "https://x.com/izebel_eth/status/2019800663027511645"
+    },
+    {
+      "author": "mert",
+      "text": "I have seen people on crack throw more money on the 1h fartcoin chart than france is throwing at science",
+      "likes": 262,
+      "retweets": 14,
+      "url": "https://x.com/mert/status/2019883774889402384"
+    },
+    {
+      "author": "CredibleCrypto",
+      "text": "So far this rally off the lows has all the makings of a healthy/sustainable one.\n\nShorts covering which is sending OI down a we rise but the rise is also backed by a strong spot bid, which seems to have caused spot premium to rise and funding to become increasingly negative off t",
+      "likes": 211,
+      "retweets": 6,
+      "url": "https://x.com/CredibleCrypto/status/2019901480086491550"
+    },
+    {
+      "author": "TradingTerminal",
+      "text": "Welcome, pow! https://t.co/8nFyyd8YWr",
+      "likes": 195,
+      "retweets": 7,
+      "url": "https://x.com/TradingTerminal/status/2019873748657270892"
+    }
+  ]
+}

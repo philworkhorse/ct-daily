@@ -1,0 +1,293 @@
+{
+  "timestamp": "2026-02-05T14:19:46.277Z",
+  "stats": {
+    "listTweets": 0,
+    "followingTweets": 50,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 5,
+    "neutral": 39,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$NVDA",
+      3
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$IBIT",
+      1
+    ],
+    [
+      "$ONDS",
+      1
+    ],
+    [
+      "$ORCL",
+      1
+    ],
+    [
+      "$JUPSOL",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$USDC",
+      1
+    ],
+    [
+      "$EPSTEINBTC",
+      1
+    ],
+    [
+      "$OPX",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$IBIT",
+        "count": 1
+      },
+      {
+        "ticker": "$ONDS",
+        "count": 1
+      },
+      {
+        "ticker": "$ORCL",
+        "count": 1
+      },
+      {
+        "ticker": "$JUPSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$USDC",
+        "count": 1
+      },
+      {
+        "ticker": "$EPSTEINBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$OPX",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$NVDA",
+        "count": 3
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "vallosx",
+        "text": "👌✈️ $BTC",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$IBIT": [
+      {
+        "author": "dampedspring",
+        "text": "Bought my $IBIT.  Not bidding for $ONDS or $ORCL",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$ONDS": [
+      {
+        "author": "dampedspring",
+        "text": "Bought my $IBIT.  Not bidding for $ONDS or $ORCL",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$ORCL": [
+      {
+        "author": "dampedspring",
+        "text": "Bought my $IBIT.  Not bidding for $ONDS or $ORCL",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$JUPSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $134.24K of $JupSOL at $430.67M MC 🐳\n\nhttps://t.co/j45jCxbQ8M",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$NVDA": [
+      {
+        "author": "DeItaone",
+        "text": "$NVDA - NVIDIA WARNS CHINA CHIP RULES COULD KILL EXPORT PLAN\n\nNvidia has warned the Trump administration that new chip export rules for China are too strict and could destroy demand for its H200 AI ch",
+        "likes": 90,
+        "retweets": 19
+      },
+      {
+        "author": "DeItaone",
+        "text": "$NVDA *NVIDIA GAME CHIP DELAY DUE TO MEMORY CHIP SHORTAGE: INFORMATION",
+        "likes": 117,
+        "retweets": 19
+      },
+      {
+        "author": "DeItaone",
+        "text": "$NVDA - NVIDIA IS ALSO SLASHING PRODUCTION OF ITS CURRENT LINE OF GAMING CHIPS  GEFORCE RTX 50 GPUS BECAUSE OF THE MEMORY SHORTAGE- THE INFORMATION",
+        "likes": 141,
+        "retweets": 22
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $9.98K of $ZEC at $12.6M MC 🐳\n\nhttps://t.co/Ti21bRXeOL",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $9.98K of $ZEC at $12.6M MC 🐳\n\nhttps://t.co/Ti21bRXeOL",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $4.77K of $BigTrout at $4.17M MC 🐳\n\nhttps://t.co/NGfHLDZWXc",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "RT @mobyagent: Reminder - you can trade in $SOL *or* $USDC on Moby. \n\nMany users are choosing $USDC as a trading currency in times of volat…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$USDC": [
+      {
+        "author": "whalewatchalert",
+        "text": "RT @mobyagent: Reminder - you can trade in $SOL *or* $USDC on Moby. \n\nMany users are choosing $USDC as a trading currency in times of volat…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$EPSTEINBTC": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @colemush127408 verified earnings for $EPSTEINBTC on @BagsApp 💰\n\nhttps://t.co/c2xqXCUgFF",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$OPX": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @OpSecCloud verified earnings for $OPX on @BagsApp 💰\n\nhttps://t.co/CBiCZTsL11",
+        "likes": 2,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "headquarters_67",
+      "text": "Donald Trump when he sees a teenage Miss Universe contestant 👇",
+      "likes": 186,
+      "retweets": 17,
+      "url": "https://x.com/headquarters_67/status/2019414683015344458"
+    },
+    {
+      "author": "DeItaone",
+      "text": "$NVDA - NVIDIA IS ALSO SLASHING PRODUCTION OF ITS CURRENT LINE OF GAMING CHIPS  GEFORCE RTX 50 GPUS BECAUSE OF THE MEMORY SHORTAGE- THE INFORMATION",
+      "likes": 141,
+      "retweets": 22,
+      "url": "https://x.com/DeItaone/status/2019411553288937762"
+    },
+    {
+      "author": "cryptomanran",
+      "text": "Crypto sentiment is back at 2023 bear-market levels.\n\nEpstein headlines are just ONE of several narratives suddenly everywhere, right as price hits critical areas.\n\nDon't be fooled into selling the bottom!\nLIVE in 1 HOUR.\n[link in comments soon]",
+      "likes": 133,
+      "retweets": 14,
+      "url": "https://x.com/cryptomanran/status/2019400278835896791"
+    },
+    {
+      "author": "CredibleCrypto",
+      "text": "Part 1, which focuses specifically on Bitcoin should be live on my Youtube channel within the next 12 hours or so. \n\nPart 2, which focuses exclusively on alts, should be live within the next 24 hours or so. \n\nThank you for your patience!",
+      "likes": 132,
+      "retweets": 6,
+      "url": "https://x.com/CredibleCrypto/status/2019413996785528853"
+    },
+    {
+      "author": "DeItaone",
+      "text": "$NVDA *NVIDIA GAME CHIP DELAY DUE TO MEMORY CHIP SHORTAGE: INFORMATION",
+      "likes": 117,
+      "retweets": 19,
+      "url": "https://x.com/DeItaone/status/2019412090667303158"
+    }
+  ]
+}

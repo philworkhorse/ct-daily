@@ -1,0 +1,255 @@
+{
+  "timestamp": "2026-02-07T10:27:57.695Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 4,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$AVAX",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$CLAWROUTER",
+      1
+    ],
+    [
+      "$BOLD",
+      1
+    ],
+    [
+      "$HORIZON",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$SHIRO",
+      1
+    ],
+    [
+      "$CLAWPHONE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CLAWROUTER",
+        "count": 1
+      },
+      {
+        "ticker": "$BOLD",
+        "count": 1
+      },
+      {
+        "ticker": "$HORIZON",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SHIRO",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWPHONE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$AVAX",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$AVAX": [
+      {
+        "author": "inversebrah",
+        "text": "RT @thetopsignal: @avery_bartlett @gerhardvonbier @0xSmitty @vohvohh Are you having fun on $AVAX?",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Smart money shows up at major supports\n\nStani Kulechov (founder of $Aave) has rotated capital from $ETH into Aave as the token trades near a major long-term support zone.\n\nThis move stands out given c",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Smart money shows up at major supports\n\nStani Kulechov (founder of $Aave) has rotated capital from $ETH into Aave as the token trades near a major long-term support zone.\n\nThis move stands out given c",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "0xFinish",
+        "text": "Something happened on 10.10\n\nSince then, $BTC completely lost the correlation with M2 money supply\n\nSomething dark will come up in the future; someone destroyed crypto\n\n$BTC is looking good to bid, we",
+        "likes": 8,
+        "retweets": 2
+      }
+    ],
+    "$CLAWROUTER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @bc1beet verified earnings for $CLAWROUTER on @BagsApp 💰\n\nhttps://t.co/j9LTaGbgNL",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BOLD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @boldleonidas verified earnings for $BOLD on @BagsApp 💰\n\nhttps://t.co/gLtl8DPDiZ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$HORIZON": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @usehorizon_ai verified earnings for $HORIZON on @BagsApp 💰\n\nhttps://t.co/zp7EKNaPQk",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $11.54K of $PENGUIN at $17.87M MC 🐳\n\nhttps://t.co/6Ck5KoR1J8",
+        "likes": 15,
+        "retweets": 3
+      }
+    ],
+    "$SHIRO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @himari__dayo verified earnings for $SHIRO on @BagsApp 💰\n\nhttps://t.co/XMXXcSWYYm",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$CLAWPHONE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @marshalrichrds verified earnings for $CLAWPHONE on @BagsApp 💰\n\nhttps://t.co/4XfNGT2OJ2",
+        "likes": 4,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet https://t.co/4EwU9TAHRz",
+      "likes": 686,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2020014724096905481"
+    },
+    {
+      "author": "LarkDavis",
+      "text": "They liquidated EVERY SINGLE LONG.\nNow there's about $30B in shorts stacked up between $73k-$97k. You know what happens next when everyone's positioned the same way.",
+      "likes": 564,
+      "retweets": 40,
+      "url": "https://x.com/LarkDavis/status/2020014733231820920"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 311,
+      "retweets": 12,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 311,
+      "retweets": 12,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "Palgrani2",
+      "text": "a coin is doing this right now but ct will give a blind eye till 300m",
+      "likes": 254,
+      "retweets": 16,
+      "url": "https://x.com/Palgrani2/status/2019872510301659145"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Polymarket with more visits than the top crypto websites combined.\n\nAnd about to flip Robinhood.\n\nPolymarket supercycle",
+      "likes": 218,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020033571449348426"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "snow, japan https://t.co/i0yfKPoOI1",
+      "likes": 164,
+      "retweets": 0,
+      "url": "https://x.com/izebel_eth/status/2020045284907090219"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "snow, japan https://t.co/i0yfKPoOI1",
+      "likes": 164,
+      "retweets": 0,
+      "url": "https://x.com/izebel_eth/status/2020045284907090219"
+    },
+    {
+      "author": "gainzy222",
+      "text": "vitalik finally using his influence for good, supporting zec\n\ninstead of fudding assets down 90%\n\ngood guy vitalik \n https://t.co/8rHo7lfcKp",
+      "likes": 145,
+      "retweets": 3,
+      "url": "https://x.com/gainzy222/status/2020023786146566502"
+    },
+    {
+      "author": "Icebergy",
+      "text": "that’s it?",
+      "likes": 115,
+      "retweets": 3,
+      "url": "https://x.com/Icebergy/status/2019641346244636776"
+    }
+  ]
+}

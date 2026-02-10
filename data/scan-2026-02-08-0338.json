@@ -1,0 +1,185 @@
+{
+  "timestamp": "2026-02-08T03:38:40.970Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 0,
+    "neutral": 95,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ZOHAR",
+      2
+    ],
+    [
+      "$MR",
+      1
+    ],
+    [
+      "$ARC",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$SHT",
+      1
+    ],
+    [
+      "$CLAWDMONKE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ZOHAR",
+        "count": 2
+      },
+      {
+        "ticker": "$MR",
+        "count": 1
+      },
+      {
+        "ticker": "$ARC",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$SHT",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWDMONKE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$MR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @M0ltR4t verified earnings for $MR4T on @BagsApp 💰\n\nhttps://t.co/UXFkdqaJf6",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ARC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ARC whale just bought $3.12K of $Pigeon at $1.82M MC 🐳\n\nhttps://t.co/m7WXPx0mVT",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.96K of $SHT at $475.05K MC 🐳\n\nhttps://t.co/tpvpPOuLkx",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.96K of $SHT at $475.05K MC 🐳\n\nhttps://t.co/tpvpPOuLkx",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$CLAWDMONKE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ApeElteClub verified earnings for $CLAWDMONKE on @BagsApp 💰\n\nhttps://t.co/ob9uD7kctl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZOHAR": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @XScharo just bought $1.27K of $ZOHAR at $119.46K MC 🐳\n\nhttps://t.co/Tpa27KUV8I",
+        "likes": 0,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @XScharo just bought $3.2K of $ZOHAR at $115.53K MC 🐳\n\nhttps://t.co/hLTLfh01kS",
+        "likes": 1,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "naval",
+      "text": "Nothing worse than a slow failure.",
+      "likes": 1021,
+      "retweets": 77,
+      "url": "https://x.com/naval/status/2020335576508252177"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Draymond KISSED LEBRON after hitting a 3 😭😭 https://t.co/YP0kShkhGj",
+      "likes": 302,
+      "retweets": 12,
+      "url": "https://x.com/TheNBACentel/status/2020335783492702614"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "OP postulates that humans will be rendered near useless post-AGI in less than a decade\n\nwhat will be the industries least impacted by AI? what will be the professions where human involvement matters the most? \n\narts? \n\nsports? \n\n????",
+      "likes": 178,
+      "retweets": 8,
+      "url": "https://x.com/blknoiz06/status/2020228104367783946"
+    },
+    {
+      "author": "MoonOverlord",
+      "text": "nothing says america like looking at someone's boobs then paying interest on it for 9 months",
+      "likes": 171,
+      "retweets": 10,
+      "url": "https://x.com/MoonOverlord/status/2020268981228314845"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "https://t.co/zHAlVm2jxr",
+      "likes": 147,
+      "retweets": 6,
+      "url": "https://x.com/DipWheeler/status/2020306247648714962"
+    },
+    {
+      "author": "Ga__ke",
+      "text": "https://t.co/z8Oe35vxgU",
+      "likes": 110,
+      "retweets": 1,
+      "url": "https://x.com/Ga__ke/status/2020316731726786690"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "nobody is frame mogged on stolen land.",
+      "likes": 101,
+      "retweets": 12,
+      "url": "https://x.com/DipWheeler/status/2020318362136621342"
+    }
+  ]
+}

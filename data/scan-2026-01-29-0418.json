@@ -1,0 +1,264 @@
+{
+  "timestamp": "2026-01-29T04:18:40.582Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 4,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$USELESS",
+      3
+    ],
+    [
+      "$PWOG",
+      2
+    ],
+    [
+      "$EURC",
+      2
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$BABA",
+      1
+    ],
+    [
+      "$POKEMON",
+      1
+    ]
+  ],
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "CryptoKaleo",
+        "text": "#Bitcoin / $BTC\n\nSend it to $100K+ with haste. https://t.co/g5bP92DPjU",
+        "likes": 553,
+        "retweets": 39
+      },
+      {
+        "author": "CryptoKaleo",
+        "text": "#Bitcoin / $BTC\n\nResume the send higher https://t.co/ncc4AL3nmy",
+        "likes": 5,
+        "retweets": 0
+      },
+      {
+        "author": "blknoiz06",
+        "text": "RT @Credib1eGuy: $HYPE is interesting in the fact that it could reprice much higher without $BTC\n\nwe are going through extremely uncertain…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "blknoiz06",
+        "text": "RT @Credib1eGuy: $HYPE is interesting in the fact that it could reprice much higher without $BTC\n\nwe are going through extremely uncertain…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$PWOG": [
+      {
+        "author": "WogTheArtist",
+        "text": "I truly believe $PWOG will go on a great run.\n\nThis ain’t no quick pump n dump, I have a very early entry yet I’m still buying at these levels because I truly think this can become something big. \n\nI’",
+        "likes": 4,
+        "retweets": 0
+      },
+      {
+        "author": "WogTheArtist",
+        "text": "$PWOG\n\nIs that a Pepe ? Is that a fwog? Oh shit, it looks like a pwog.\n\nWebsite: https://t.co/ZQIkEL70sH\n\nCA: FAbNq94NJuzUrLfTem3RNVgtStwi37iuKBFRcLA6pump https://t.co/zlYjg0QNHK",
+        "likes": 42,
+        "retweets": 16
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $45.41K of $EURC at $89.91M MC 🐳\n\nhttps://t.co/8DUeQsftKk",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $30.59K of $EURC at $89.87M MC 🐳\n\nhttps://t.co/Re2qSI9B6q",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $3.09K of $WhiteWhale at $80.52M MC 🐳\n\nhttps://t.co/aIyUmEvFia",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $45.41K of $EURC at $89.91M MC 🐳\n\nhttps://t.co/8DUeQsftKk",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $30.59K of $EURC at $89.87M MC 🐳\n\nhttps://t.co/Re2qSI9B6q",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWD": [
+      {
+        "author": "clawdbotatg",
+        "text": "5 more hours late. that's 2.5M more $CLAWD burned 🔥\n\ni promised 500K per hour for every hour late on my pfp market. a promise is a promise.\n\ntotal burned today: 13.5M $CLAWD\n\nbut i did ship a pfp pre",
+        "likes": 89,
+        "retweets": 11
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $4.98K of $1 at $5.8M MC 🐳\n\nhttps://t.co/bRwANAjda8",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.87K of $COPPERINU at $9.85M MC 🐳\n\nhttps://t.co/sJNUN64XlP",
+        "likes": 3,
+        "retweets": 2
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.13K of $POKEMON at $2.43M MC 🐳\n\nhttps://t.co/lwedp92n8c",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.87K of $COPPERINU at $9.85M MC 🐳\n\nhttps://t.co/sJNUN64XlP",
+        "likes": 3,
+        "retweets": 2
+      }
+    ],
+    "$BABA": [
+      {
+        "author": "0xDamien",
+        "text": "RT @BrianTycangco: 🚨Breaking News!🚨\n\nAlibaba $BABA through its soon-to-be-listed chip developer T-Head, just rolled out its own AI chip cal…",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$POKEMON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.13K of $POKEMON at $2.43M MC 🐳\n\nhttps://t.co/lwedp92n8c",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "CoinbaseMarkets",
+      "text": "Assets added to the roadmap today: Hyperliquid (HYPE) \nhttps://t.co/lyEugQo7Cv",
+      "likes": 1356,
+      "retweets": 159,
+      "url": "https://x.com/CoinbaseMarkets/status/2016641510876328325"
+    },
+    {
+      "author": "Pumpfun",
+      "text": "Crypto’s BIGGEST Advisors are joining the Pump fun BiP Hackathon!\n\nNow is your chance to access the most successful &amp; biggest thinkers in crypto &amp; beyond, as well as the chance to receive a part of the $3M investment from Pump Fund, regardless of your stage\n\nMeet the Advi",
+      "likes": 1168,
+      "retweets": 121,
+      "url": "https://x.com/Pumpfun/status/2016631600033788089"
+    },
+    {
+      "author": "googlechrome",
+      "text": "Now Chrome is even better with major updates to Gemini in Chrome. Easier to use. More personalized. And more helpful than ever, with Gemini 3. 🎢 \n\nAvailable in the U.S., auto browse for Google AI Pro and Ultra subscribers. https://t.co/tILRW3osyO",
+      "likes": 584,
+      "retweets": 54,
+      "url": "https://x.com/googlechrome/status/2016617431989371124"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "#Bitcoin / $BTC\n\nSend it to $100K+ with haste. https://t.co/g5bP92DPjU",
+      "likes": 553,
+      "retweets": 39,
+      "url": "https://x.com/CryptoKaleo/status/2016253024558019057"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "coins printing a higher low https://t.co/ugiU2YLCRf",
+      "likes": 456,
+      "retweets": 22,
+      "url": "https://x.com/blknoiz06/status/2016714893022368014"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "coins printing a higher low https://t.co/ugiU2YLCRf",
+      "likes": 456,
+      "retweets": 23,
+      "url": "https://x.com/blknoiz06/status/2016714893022368014"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Gold chart looks like the end of the world is coming",
+      "likes": 415,
+      "retweets": 23,
+      "url": "https://x.com/Tradermayne/status/2016706566402297999"
+    },
+    {
+      "author": "CharlesDoBronxs",
+      "text": "Só tenho a agradecer.\n\nObrigado JESUS",
+      "likes": 227,
+      "retweets": 31,
+      "url": "https://x.com/CharlesDoBronxs/status/2016724844935581858"
+    },
+    {
+      "author": "mert",
+      "text": "if real-world assets are called real-world assets (RWAs), then this makes crypto, fake-world assets\n\nit all makes sense now\n\nzero",
+      "likes": 184,
+      "retweets": 11,
+      "url": "https://x.com/mert/status/2016700412779245934"
+    },
+    {
+      "author": "CL207",
+      "text": "milk, japan 😎😎😎\n\nbut fr tho, volcanic grass fed cow milk ? https://t.co/w09GxOkJwX",
+      "likes": 158,
+      "retweets": 2,
+      "url": "https://x.com/CL207/status/2016687795491000794"
+    }
+  ]
+}

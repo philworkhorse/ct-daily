@@ -1,0 +1,223 @@
+{
+  "timestamp": "2026-02-01T02:15:46.314Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 9,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HYPE",
+      2
+    ],
+    [
+      "$DARKHORSE",
+      2
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$POLYCLAWD",
+      1
+    ],
+    [
+      "$MOLTPAD",
+      1
+    ],
+    [
+      "$BITCOIN",
+      1
+    ],
+    [
+      "$BLCAW",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 2
+      },
+      {
+        "ticker": "$DARKHORSE",
+        "count": 2
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$POLYCLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTPAD",
+        "count": 1
+      },
+      {
+        "ticker": "$BITCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$BLCAW",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 5
+    },
+    "metals": {},
+    "macro": {
+      "fed": 1,
+      "rate cut": 1
+    }
+  },
+  "tickerDetails": {
+    "$HYPE": [
+      {
+        "author": "ThinkingUSD",
+        "text": "RT @WClementeIII: Finally bought some $HYPE on this pullback",
+        "likes": 0,
+        "retweets": 8
+      },
+      {
+        "author": "ThinkingUSD",
+        "text": "RT @WClementeIII: Finally bought some $HYPE on this pullback",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @PumpfunEco: $COPPERINU has pumped 124% today! 🔥 https://t.co/eFGzpfq0PP",
+        "likes": 0,
+        "retweets": 18
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "based16z",
+        "text": "RT @saylor: Stretch Dividend Rate increased by 25 bps to 11.25% for February 2026. $STRC https://t.co/IwVI2Xg1qO",
+        "likes": 0,
+        "retweets": 306
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $4.13K of $CHILLHOUSE at $2.54M MC 🐳\n\nhttps://t.co/VfGaFaFQiD",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$DARKHORSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @staticctrades just bought $15.84K of $DARKHORSE at $4.09M MC 🐳\n\nhttps://t.co/JHo2M8lAdH",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @staticctrades just bought $15.05K of $DARKHORSE at $3.75M MC 🐳\n\nhttps://t.co/6oaEtjZYHw",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$POLYCLAWD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @PolyclawdSOL verified earnings for $POLYCLAWD on @BagsApp 💰\n\nhttps://t.co/KLUsH4lAoa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTPAD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Moltpadfun verified earnings for $MOLTPAD on @BagsApp 💰\n\nhttps://t.co/5yemYBFQoA",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BITCOIN": [
+      {
+        "author": "Xaltcoins",
+        "text": "RT @0x_Noticer: The ticker $BITCOIN community has the highest number of unvaccinated holders per capita.\nFew understand the financial and g…",
+        "likes": 0,
+        "retweets": 5
+      }
+    ],
+    "$BLCAW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @BakedClaw17583 verified earnings for $BLCAW on @BagsApp 💰\n\nhttps://t.co/aZM3F7WtVi",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "getdelve",
+      "text": "AI agents just closed a SOC 2 audit in 19 days that should have taken months.",
+      "likes": 6327,
+      "retweets": 903,
+      "url": "https://x.com/getdelve/status/1927236340699033687"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Solana is $3.50 if pumpfun never gets created btw https://t.co/1NvKX7fl5Y",
+      "likes": 644,
+      "retweets": 17,
+      "url": "https://x.com/rasmr_eth/status/2017709888429035834"
+    },
+    {
+      "author": "mert",
+      "text": "gut says bull starts early summer",
+      "likes": 247,
+      "retweets": 3,
+      "url": "https://x.com/mert/status/2017720487560847556"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "HYPE/SOL ratio ALL TIME HIGH.\n\nCongrats, to all those who celebrate.\n\nHyperliquid https://t.co/ZfzRpm8trW",
+      "likes": 166,
+      "retweets": 9,
+      "url": "https://x.com/ThinkingUSD/status/2017772718070849784"
+    }
+  ]
+}

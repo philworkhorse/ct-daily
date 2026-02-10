@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-01-30T01:00:34.065Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 0,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 3,
+    "bearish": 4,
+    "neutral": 43,
+    "total": 50
+  },
+  "topTickers": [],
+  "byCategory": {
+    "crypto": [],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "inflation": 1,
+      "fed": 2,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {},
+  "highEngagement": [
+    {
+      "author": "DipWheeler",
+      "text": "this would be hilarious. https://t.co/YeTpqwbHhp",
+      "likes": 139,
+      "retweets": 10,
+      "url": "https://x.com/DipWheeler/status/2017022279704858891"
+    },
+    {
+      "author": "jessepollak",
+      "text": "NEW: trending appcoins on the @baseapp https://t.co/EPzg9NMTXu",
+      "likes": 100,
+      "retweets": 7,
+      "url": "https://x.com/jessepollak/status/2017033464693060043"
+    }
+  ]
+}

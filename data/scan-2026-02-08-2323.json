@@ -1,0 +1,201 @@
+{
+  "timestamp": "2026-02-08T23:23:44.848Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 1,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ],
+    [
+      "$RELICRYPT",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$USDT",
+      1
+    ],
+    [
+      "$PP",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      },
+      {
+        "ticker": "$RELICRYPT",
+        "count": 1
+      },
+      {
+        "ticker": "$USDT",
+        "count": 1
+      },
+      {
+        "ticker": "$PP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +332.19%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.2M MC. https://t.co/mCDYVhJq",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $3.54K of $URANUS at $1.66M MC 🐳\n\nhttps://t.co/107kBEEREK",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$RELICRYPT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Shoalst0ne verified earnings for $RELICRYPT on @BagsApp 💰\n\nhttps://t.co/KAYtpL24nG",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "saylor",
+        "text": "$MSTR = Most Interesting. https://t.co/D0pp79ZKAK",
+        "likes": 638,
+        "retweets": 59
+      }
+    ],
+    "$USDT": [
+      {
+        "author": "1914ad",
+        "text": "RT @ParrotCapital: Howard Lutnick's whole life is a crime scene, not the least of which is his facilitating the $185B Tether $USDT crypto m…",
+        "likes": 0,
+        "retweets": 168
+      }
+    ],
+    "$PP": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @insidecalls just bought $0.88K of $PP+ at $197.99K MC 🐳\n\nhttps://t.co/gfZqFOzHCt",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC\n\n72k reached ✅️, I started a short again\n\nAlright! We reached 72k area and range high as pointed out Yesterday.\n\nNot fully reached 72.2k yet, but long are streaming in as if it's the easiest trad",
+        "likes": 43,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "naval",
+      "text": "Nothing worse than a slow failure.",
+      "likes": 16387,
+      "retweets": 1398,
+      "url": "https://x.com/naval/status/2020335576508252177"
+    },
+    {
+      "author": "kmoney",
+      "text": "THE GOYIM BOWL IS ABOUT TO START! GO ORDER YOUR FAVORITE GOYSLOP &amp; PAY +15% ON DOORDASH THEN FINANCE IT ON KLARNA SO YOU HAVE MORE GOY BUCKS TO BUY SOME GOYNIP &amp; SMOKE IT IN TIME TO BE JUDGED BY COMPANIES THAT PAID $8M A COMMERCIAL TO HYPNOTIZE YOU INTO FURTHER GOY DEGENE",
+      "likes": 3564,
+      "retweets": 334,
+      "url": "https://x.com/kmoney/status/2020611279560589583"
+    },
+    {
+      "author": "kmoney",
+      "text": "THE GOYIM BOWL IS ABOUT TO START! GO ORDER YOUR FAVORITE GOYSLOP &amp; PAY +15% ON DOORDASH THEN FINANCE IT ON KLARNA SO YOU HAVE MORE GOY BUCKS TO BUY SOME GOYNIP &amp; SMOKE IT IN TIME TO BE JUDGED BY COMPANIES THAT PAID $8M A COMMERCIAL TO HYPNOTIZE YOU INTO FURTHER GOY DEGENE",
+      "likes": 3561,
+      "retweets": 333,
+      "url": "https://x.com/kmoney/status/2020611279560589583"
+    },
+    {
+      "author": "saylor",
+      "text": "$MSTR = Most Interesting. https://t.co/D0pp79ZKAK",
+      "likes": 638,
+      "retweets": 59,
+      "url": "https://x.com/saylor/status/2020638352589103342"
+    },
+    {
+      "author": "based16z",
+      "text": "Bad Bunny estaba a mitad de jestergooning cuando un grupo de Foids llegó y le disparó los niveles de cortisol.\n\n¿Ignorar a los Foids mientras munting y mogging Moids es más útil que SMV chadfishing en el club? https://t.co/qOPJU6i4YJ",
+      "likes": 131,
+      "retweets": 5,
+      "url": "https://x.com/based16z/status/2020622342259634268"
+    },
+    {
+      "author": "inversebrah",
+      "text": "WOW https://t.co/WF8det8zCq",
+      "likes": 110,
+      "retweets": 3,
+      "url": "https://x.com/inversebrah/status/2020619779695108586"
+    },
+    {
+      "author": "CredibleCrypto",
+      "text": "I walk this empty street on the boulevard of broken dreams 🎵",
+      "likes": 108,
+      "retweets": 0,
+      "url": "https://x.com/CredibleCrypto/status/2020636772963872969"
+    }
+  ]
+}

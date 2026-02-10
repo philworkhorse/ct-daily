@@ -1,0 +1,163 @@
+{
+  "timestamp": "2026-02-07T01:56:05.430Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 5,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$BONK",
+      1
+    ],
+    [
+      "$CASH",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$CASH",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BONK",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 4,
+      "bond": 2,
+      "gdp": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $1.62K of $Pigeon at $696.27K MC 🐳\n\nhttps://t.co/2qHYP4dzXD",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "Bluntz_Capital",
+        "text": "believe is something, anybody who's not a tourist and has actually witnessed multiple cycles knows this is an amazing long term $sol entry.\n\n for the record the reason im bullposting sol more than any",
+        "likes": 653,
+        "retweets": 55
+      }
+    ],
+    "$BONK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BONK whale just bought $1.11M of $CASH at $100.87M MC 🐳\n\nhttps://t.co/HMVwsKMCpB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CASH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BONK whale just bought $1.11M of $CASH at $100.87M MC 🐳\n\nhttps://t.co/HMVwsKMCpB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "RT @mra4a: BREAKING: $GIGA just erased the entire worst day in crypto dump!!! \n\nUp 22% one of the highest gainers of the day 🗿 https://t.co…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Bluntz_Capital",
+      "text": "believe is something, anybody who's not a tourist and has actually witnessed multiple cycles knows this is an amazing long term $sol entry.\n\n for the record the reason im bullposting sol more than anything else is, in my opinion it is the absolute clearest picture of every coin.\n",
+      "likes": 653,
+      "retweets": 55,
+      "url": "https://x.com/Bluntz_Capital/status/2019878566079656218"
+    },
+    {
+      "author": "Bitcoin",
+      "text": "$70,016.77\n\n#Bitcoin https://t.co/8D7aLYsm2l",
+      "likes": 130,
+      "retweets": 18,
+      "url": "https://x.com/Bitcoin/status/2019950187829960889"
+    },
+    {
+      "author": "udiWertheimer",
+      "text": "excuse me?",
+      "likes": 123,
+      "retweets": 7,
+      "url": "https://x.com/udiWertheimer/status/2019937517919957126"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Obi Toppin’s reaction after Myles Turner airballs 😭 https://t.co/uw3ynW3MMp",
+      "likes": 123,
+      "retweets": 4,
+      "url": "https://x.com/TheNBACentel/status/2019948793874030791"
+    },
+    {
+      "author": "heart_",
+      "text": "so it's confirmed now that the \"uponlytv nft\" was bought  as a joke, and the whole $400M went for echo\n\nthe show may or may not come back in the future but it's not in the picture as of today. https://t.co/Dkn74PpPT3",
+      "likes": 121,
+      "retweets": 1,
+      "url": "https://x.com/heart_/status/2019762102857081340"
+    },
+    {
+      "author": "jessepollak",
+      "text": "there are 26 local stablecoins on @base — growing fast https://t.co/ygdp5WOx5X",
+      "likes": 115,
+      "retweets": 14,
+      "url": "https://x.com/jessepollak/status/2019932016196874634"
+    }
+  ]
+}

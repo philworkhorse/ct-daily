@@ -1,0 +1,219 @@
+{
+  "timestamp": "2026-02-01T01:44:46.272Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 3,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$STRC",
+      1
+    ],
+    [
+      "$SLV",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$USD",
+      1
+    ],
+    [
+      "$SNAPPY",
+      1
+    ],
+    [
+      "$CLAW",
+      1
+    ],
+    [
+      "$CRABWALK",
+      1
+    ],
+    [
+      "$LARRY",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$STRC",
+        "count": 1
+      },
+      {
+        "ticker": "$USD",
+        "count": 1
+      },
+      {
+        "ticker": "$SNAPPY",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$CRABWALK",
+        "count": 1
+      },
+      {
+        "ticker": "$LARRY",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$SLV",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "fed": 1,
+      "rate cut": 1,
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$STRC": [
+      {
+        "author": "based16z",
+        "text": "RT @saylor: Stretch Dividend Rate increased by 25 bps to 11.25% for February 2026. $STRC https://t.co/IwVI2Xg1qO",
+        "likes": 0,
+        "retweets": 206
+      }
+    ],
+    "$SLV": [
+      {
+        "author": "dampedspring",
+        "text": "While corrected in comments this is now being reposted by huge accounts.  This guy should know better given his \"expert in ETF's\" role.  $SLV Nav is calced on the London Futures close and the \"discoun",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in United States #Dollars\n\n$BTC / $USD:     💵  $78,421.01 https://t.co/YLDNGE7HpS",
+        "likes": 8,
+        "retweets": 1
+      }
+    ],
+    "$USD": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in United States #Dollars\n\n$BTC / $USD:     💵  $78,421.01 https://t.co/YLDNGE7HpS",
+        "likes": 8,
+        "retweets": 1
+      }
+    ],
+    "$SNAPPY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @SnappyTradePet verified earnings for $SNAPPY on @BagsApp 💰\n\nhttps://t.co/bTzzPGS3Ya",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @SpiderCrypto0x just bought $1.96K of $CLAW at $290.61K MC 🐳\n\nhttps://t.co/VqTXksU8Tt",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CRABWALK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @crabwalkdotapp verified earnings for $CRABWALK on @BagsApp 💰\n\nhttps://t.co/pSzcSOYgwA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LARRY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member @larrymemesol just added a banner image for $LARRY on MobyScreener 🖼️ https://t.co/rKwASutMhI",
+        "likes": 14,
+        "retweets": 5
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "RT @TheMarksMan: DAY FIFTEEN of \n\nAdvising everyone to buy $USDUC before we hit 100M then onwards and upwards to a $1 \n\nYES THIS IS FINANCI…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "getdelve",
+      "text": "AI agents just closed a SOC 2 audit in 19 days that should have taken months.",
+      "likes": 6323,
+      "retweets": 904,
+      "url": "https://x.com/getdelve/status/1927236340699033687"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "i will never use @Fidelity @DigitalAssets again and am in the process of offboarding my assets (to @RobinhoodApp ofc) after they halted my wire and locked my account\n\nmoments like these are always a reminder that we natives take the ease of stablecoin transfers for granted",
+      "likes": 600,
+      "retweets": 8,
+      "url": "https://x.com/izebel_eth/status/2017348373259682059"
+    },
+    {
+      "author": "paramountplus",
+      "text": "TONIGHT: The new UFC on Paramount+ era continues with UFC 325! Catch featherweight champion Alexander Volkanovski in a rematch of his epic title fight against Diego Lopes. Plus, Dan Hooker throws down with Benois Saint-Denis and more. Stream live at 9PM ET on Paramount+.",
+      "likes": 308,
+      "retweets": 15,
+      "url": "https://x.com/paramountplus/status/2017316455436718433"
+    },
+    {
+      "author": "PHYLLISJAGER",
+      "text": "https://t.co/k45Qlgk0AN",
+      "likes": 198,
+      "retweets": 8,
+      "url": "https://x.com/PHYLLISJAGER/status/2017702698120831404"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "Can’t believe this app is free https://t.co/ThkCi9CVKa",
+      "likes": 110,
+      "retweets": 3,
+      "url": "https://x.com/Evan_ss6/status/2017756637407150439"
+    }
+  ]
+}

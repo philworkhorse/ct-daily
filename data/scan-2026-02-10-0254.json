@@ -1,0 +1,174 @@
+{
+  "timestamp": "2026-02-10T02:54:32.892Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 3,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$GROYPER",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GROYPER",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "dollar": 1,
+      "fed": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5K of $META at $86.91M MC 🐳\n\nhttps://t.co/pp3mI0v68b",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "DonAlt",
+        "text": "$BTC https://t.co/bGoy6CbQ4r",
+        "likes": 2951,
+        "retweets": 187
+      },
+      {
+        "author": "DonAlt",
+        "text": "$BTC update:\n\nLucky to have held off on buying\nBulls need to reclaim the old range high ($71k) for the bull case to be rescued\n\nWaiting for that reclaim or at the lower support ($44k) makes loads of s",
+        "likes": 415,
+        "retweets": 34
+      },
+      {
+        "author": "DonAlt",
+        "text": "$BTC update: \n\nClose, bulls tried but ultimately couldn't push it up far enough\nWe're at support but I'm not entirely convinced\nI'm just gonna chill until mega discount or reclaim of the gay range at ",
+        "likes": 27,
+        "retweets": 1
+      }
+    ],
+    "$GROYPER": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @onchainrobber just bought $1.1K of $GROYPER at $268.63K MC 🐳\n\nhttps://t.co/yh1eIsdWn3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "DonAlt",
+      "text": "$BTC https://t.co/bGoy6CbQ4r",
+      "likes": 2951,
+      "retweets": 187,
+      "url": "https://x.com/DonAlt/status/2006981893871591713"
+    },
+    {
+      "author": "DonAlt",
+      "text": "$BTC update:\n\nLucky to have held off on buying\nBulls need to reclaim the old range high ($71k) for the bull case to be rescued\n\nWaiting for that reclaim or at the lower support ($44k) makes loads of sense to me\nAnything in between sucks structurally https://t.co/HsxDH6zOsc",
+      "likes": 415,
+      "retweets": 34,
+      "url": "https://x.com/DonAlt/status/2019547232790614020"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "ISAIAH STEWART SPRINTED FROM THE BENCH 😳https://t.co/fihv9rUNLk",
+      "likes": 277,
+      "retweets": 4,
+      "url": "https://x.com/TheNBACentel/status/2021052667938865170"
+    },
+    {
+      "author": "robotaxi",
+      "text": "The future is closer than you think",
+      "likes": 226,
+      "retweets": 31,
+      "url": "https://x.com/robotaxi/status/2021053546997874966"
+    },
+    {
+      "author": "frankdegods",
+      "text": "state of making internet money feb9, 2026:\n\nsocial media is peak efficiency now\n\nyou have to make something EXCELLENT. if you want to break out you have to make something VIRAL within a niche.\n\npick niches with most upside/money\n\nnot all niches are built equal\nie. you could be th",
+      "likes": 189,
+      "retweets": 13,
+      "url": "https://x.com/frankdegods/status/2021038246197612599"
+    },
+    {
+      "author": "SolportTom",
+      "text": "Seeing some good narratives spawn under bonkers, we're seeing what we can do to help. \n \nOne thing that's for sure is that liquidity is in a lot different spot than it was 7 months ago, i do think more solutions that help liquidity are going to be the way forward it's obvious tha",
+      "likes": 151,
+      "retweets": 16,
+      "url": "https://x.com/SolportTom/status/2021034791890518463"
+    },
+    {
+      "author": "jessepollak",
+      "text": "the @base memes look good on @baseapp https://t.co/YP0SWIZAUb",
+      "likes": 147,
+      "retweets": 14,
+      "url": "https://x.com/jessepollak/status/2021044023360880999"
+    },
+    {
+      "author": "frankdegods",
+      "text": "It's hard to price the value creation explosion that will result from OpenClaw being open source.\n\nIt's the best tech experience I've had in over decade of using internet. It sounds like hyperbole, but it is insane to use a piece of software that tangibly gets better as you use i",
+      "likes": 122,
+      "retweets": 3,
+      "url": "https://x.com/frankdegods/status/2021041786915799116"
+    },
+    {
+      "author": "frankdegods",
+      "text": "What just happened:\n\n1. Clawdbot got popular 2 weeks ago\n2. A bunch of people started using it daily\n3. Clawdbot stores memories and handles them really well\n4. Opus 4.6 just went up to 1M context window\n5. Now Clawdbot is way smarter and can process massive amounts of memory\n6. ",
+      "likes": 120,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2021049459656822933"
+    },
+    {
+      "author": "frankdegods",
+      "text": "What just happened:\n\n1. Clawdbot got popular 2 weeks ago\n2. A bunch of people started using it daily\n3. Clawdbot stores memories and handles them really well\n4. Opus 4.6 just went up to 1M context window\n5. Now Clawdbot is way smarter and can process massive amounts of memory\n6. ",
+      "likes": 119,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2021049459656822933"
+    }
+  ]
+}

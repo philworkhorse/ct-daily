@@ -1,0 +1,160 @@
+{
+  "timestamp": "2026-02-08T07:23:28.068Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 4,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$COLOSSEUM",
+      1
+    ],
+    [
+      "$SHT",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$JTO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$COLOSSEUM",
+        "count": 1
+      },
+      {
+        "ticker": "$SHT",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$JTO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 2,
+      "silver": 1,
+      "oil": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$COLOSSEUM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @crabylions verified earnings for $COLOSSEUM on @BagsApp 💰\n\nhttps://t.co/bV28SL9h8C",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $9.7K of $SHT at $1.15M MC 🐳\n\nhttps://t.co/AIPmdaEmBo",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $1.25K of $Grape at $162.38K MC 🐳\n\nhttps://t.co/nczjXb8PL6",
+        "likes": 8,
+        "retweets": 3
+      }
+    ],
+    "$JTO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JTO whale just bought $49.98K of $cbBTC at $294.02M MC 🐳\n\nhttps://t.co/aQkOE3gJTR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, taking some time off today https://t.co/hZU29fcv8d",
+      "likes": 380,
+      "retweets": 9,
+      "url": "https://x.com/waleswoosh/status/2020380982587847011"
+    },
+    {
+      "author": "zhusu",
+      "text": "Not really that constructive on privacy coins going forward. Exchanges will be under a lot of pressure to cut support. Tornado eth is still the best actually usable privacy coin.\n\nOf the dino coins, the most interesting of these is probably BCH. Bitcoin quantum fud narrative will",
+      "likes": 319,
+      "retweets": 31,
+      "url": "https://x.com/zhusu/status/2019974842616017320"
+    },
+    {
+      "author": "gainzy222",
+      "text": "kalshi is actually such a piece of shit company that zooko has just retweeted a post about how evil they are\n\nbro i have never seen zooko go after anything ever lmao",
+      "likes": 185,
+      "retweets": 13,
+      "url": "https://x.com/gainzy222/status/2020352838803812784"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 167,
+      "retweets": 10,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Words can't describe how nice it is to finally be tapped into the Twitter firehose. Previous versions of this stuff were heavily limited by being glorified web scrapers.\n\nNow... everyone has access to efficiently query all of Twitter. Insane. Thanks @XDevelopers",
+      "likes": 166,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2020366023162225137"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Why does nobody question how computers or iPhones were made in the first place?\n\nHow the fuck did they put together random metals pieces and suddenly you could touch the screen to open apps?\n\nHow do you just \"discover\" the technology in the first place to make something touch scr",
+      "likes": 125,
+      "retweets": 3,
+      "url": "https://x.com/trading_axe/status/2020388725516104184"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Why does nobody question how computers or iPhones were made in the first place?\n\nHow the fuck did they put together random metals pieces and suddenly you could touch the screen to open apps?\n\nHow do you just \"discover\" the technology in the first place to make something touch scr",
+      "likes": 124,
+      "retweets": 3,
+      "url": "https://x.com/trading_axe/status/2020388725516104184"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "The 4 year cycle is repeating, Bitcoin is cooked. \n\nBut there is a silver lining. \n\nhttps://t.co/pH2cL94wFm",
+      "likes": 109,
+      "retweets": 5,
+      "url": "https://x.com/Tradermayne/status/2020378816473100420"
+    }
+  ]
+}

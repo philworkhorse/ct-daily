@@ -1,0 +1,191 @@
+{
+  "timestamp": "2026-02-06T19:02:46.270Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 8,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$STABLE",
+      1
+    ],
+    [
+      "$VIBEKODER",
+      1
+    ],
+    [
+      "$WET",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$STABLE",
+        "count": 1
+      },
+      {
+        "ticker": "$VIBEKODER",
+        "count": 1
+      },
+      {
+        "ticker": "$WET",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "fed": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @jaymesrogers: Time to get $REKT https://t.co/li2z9Bgnmf",
+        "likes": 0,
+        "retweets": 5
+      }
+    ],
+    "$STABLE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $5.67K of $STABLE at $366.11K MC 🐳\n\nhttps://t.co/fwQVsOJ0G2",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$VIBEKODER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @clintonthegeek verified earnings for $VIBEKODER on @BagsApp 💰\n\nhttps://t.co/j881CFTG1L",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "skyiszen",
+        "text": "RT @AorakiTrading: $BTC short @ $71k\n\nI believe this was mostly a Saylor driven rally given the Coinbase premium flip and usual execution s…",
+        "likes": 0,
+        "retweets": 1
+      },
+      {
+        "author": "alphawifhat",
+        "text": "I became bearish and reluctant to trade crypto after the 10.10 event. I've lost trust in all the trading platforms and crypto, and moved a lot of capital out.\n\nBut I'm back again. Bid $BTC 60-70k at t",
+        "likes": 85,
+        "retweets": 3
+      }
+    ],
+    "$WET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $8.59K of $WET at $76.72M MC 🐳\n\nhttps://t.co/vDG7RJQjzo",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "if it can go down this fast then it can also go up this fast",
+      "likes": 2074,
+      "retweets": 126,
+      "url": "https://x.com/mert/status/2019591471490560344"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "\"okay now buy a rittle bit back\" https://t.co/8wdi95BbXw",
+      "likes": 785,
+      "retweets": 41,
+      "url": "https://x.com/DipWheeler/status/2019821499340009949"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "The market will bend to the will of those who persist forever.",
+      "likes": 632,
+      "retweets": 101,
+      "url": "https://x.com/MustStopMurad/status/2019837108790390845"
+    },
+    {
+      "author": "LarkDavis",
+      "text": "You know what’s funny? People aren't touching Bitcoin or crypto right now because they say it’s 'too risky.' But guess what? The same people who swore they’d never touch this 'crap' will get FOMO the second we hit $100k. They’ll be the ones borrowing money just to get in at $120k",
+      "likes": 500,
+      "retweets": 39,
+      "url": "https://x.com/LarkDavis/status/2019688277234573550"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Longing some btc and eth",
+      "likes": 391,
+      "retweets": 8,
+      "url": "https://x.com/lBattleRhino/status/2019566087751496151"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Longing some btc and eth",
+      "likes": 391,
+      "retweets": 8,
+      "url": "https://x.com/lBattleRhino/status/2019566087751496151"
+    },
+    {
+      "author": "inversebrah",
+      "text": "5 days ago\n\nbits Coin was $83k\n\nnow its $63k https://t.co/GeKVTpYtUH",
+      "likes": 332,
+      "retweets": 17,
+      "url": "https://x.com/inversebrah/status/2019526695884406793"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Im gonna make a paid group to put every other paid group out of business these ppl don’t deserve any money",
+      "likes": 178,
+      "retweets": 0,
+      "url": "https://x.com/lBattleRhino/status/2019845263431758167"
+    },
+    {
+      "author": "MattPRD",
+      "text": "The agentic web is here.",
+      "likes": 175,
+      "retweets": 16,
+      "url": "https://x.com/MattPRD/status/2019828908867346802"
+    }
+  ]
+}

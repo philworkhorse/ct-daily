@@ -1,0 +1,173 @@
+{
+  "timestamp": "2026-02-06T00:25:17.694Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 5,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$CASH",
+      1
+    ],
+    [
+      "$LMAO",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$CASH",
+        "count": 1
+      },
+      {
+        "ticker": "$LMAO",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $28.2K of $CASH at $104.42M MC 🐳\n\nhttps://t.co/0adbkRyhE7",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CASH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $28.2K of $CASH at $104.42M MC 🐳\n\nhttps://t.co/0adbkRyhE7",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "ok so like, yeah. sold mostly all things and put all the $ in the $LMAO LP.\n\nps - put CZ back in jail.",
+        "likes": 8,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $33.35K of $PUMP at $1.75B MC 🐳\n\nhttps://t.co/2CBPoXeh7M",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "rekt_tekashi",
+        "text": "RT @HyperRektBot: liquidated long on Bitcoin\n\n0xb5485243e6c04e4dcbbe7f2718f9c33f0139b540 - just got rekt!\n\n$1,000,907 in $BTC lost! ~ thank…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "frankdegods",
+      "text": "that was a brutal bear market",
+      "likes": 260,
+      "retweets": 7,
+      "url": "https://x.com/frankdegods/status/2019549930931777574"
+    },
+    {
+      "author": "frankdegods",
+      "text": "that was a brutal bear market",
+      "likes": 259,
+      "retweets": 7,
+      "url": "https://x.com/frankdegods/status/2019549930931777574"
+    },
+    {
+      "author": "MarcellxMarcell",
+      "text": "6 7 https://t.co/pLDdglCT5Q",
+      "likes": 236,
+      "retweets": 11,
+      "url": "https://x.com/MarcellxMarcell/status/2019566890155397302"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "six days ago bitcoin was $84k &amp; hype was $33\n\nbitcoin is now $60k &amp; hype is still $33",
+      "likes": 225,
+      "retweets": 11,
+      "url": "https://x.com/blknoiz06/status/2019564603697688599"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "six days ago bitcoin was $84k &amp; hype was $33\n\nbitcoin is now $60k &amp; hype is still $33",
+      "likes": 225,
+      "retweets": 11,
+      "url": "https://x.com/blknoiz06/status/2019564603697688599"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "This is absolutely diabolical",
+      "likes": 224,
+      "retweets": 24,
+      "url": "https://x.com/ThinkingUSD/status/2019565163117256705"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "crypto's last hope https://t.co/WD7QQASQdD",
+      "likes": 125,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2019565095467233365"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Longing some btc and eth",
+      "likes": 120,
+      "retweets": 3,
+      "url": "https://x.com/lBattleRhino/status/2019566087751496151"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "timestamp": "2026-02-07T17:00:43.057Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 2,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$FBTC",
+      1
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$JIM",
+      1
+    ],
+    [
+      "$MET",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$PIGEON",
+      1
+    ],
+    [
+      "$SAIRI",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$ARC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$FBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$JIM",
+        "count": 1
+      },
+      {
+        "ticker": "$MET",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$PIGEON",
+        "count": 1
+      },
+      {
+        "ticker": "$SAIRI",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$ARC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "gdp": 2,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "Icebergy",
+        "text": "RT @ColonelCoochi3: Claude, make me a profitable $ETH MM algo, make no mistakes, ULTRATHINK",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @CarpeNoctom: Weekly $BTC ETF net flows = -$358m*\n\ndont blame the ETFs for last week's move\n\n* $FBTC still unreported for Fri https://t.…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$FBTC": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @CarpeNoctom: Weekly $BTC ETF net flows = -$358m*\n\ndont blame the ETFs for last week's move\n\n* $FBTC still unreported for Fri https://t.…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @bellx_crypto: reminder there are still some hats available on the website - https://t.co/6gJqQRVQyK\n\n$REKT WORLD DOMINATION https://t.c…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $36.88K of $JUP at $1.12B MC 🐳\n\nhttps://t.co/JfC8NHzyhz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JIM": [
+      {
+        "author": "IamNakedJim",
+        "text": "VIDEO MEME CONTEST (2/7/26)  \n\nPRIZES:\n1st Place: $100 in $JIM\n2nd Place: $50 in $JIM \n\nTHEME: Golden \n\nHOW TO ENTER:\n-Must FOLLOW, LIKE, & REPOST this post\n-Submit up to 3 videos around the theme of ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $7.05K of $ZEC at $13.26M MC 🐳\n\nhttps://t.co/7bYbufk1kf",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $7.05K of $ZEC at $13.26M MC 🐳\n\nhttps://t.co/7bYbufk1kf",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PIGEON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @nosanityxbt just bought $3.23K of $PIGEON at $634.1K MC 🐳\n\nhttps://t.co/60AmMW7TBH",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$SAIRI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @samtisiri verified earnings for $SAIRI on @BagsApp 💰\n\nhttps://t.co/BS4jWj4Tw6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "GSD (the AI coding framework) users are often not the same people who hold the $GSD token.\n\nThe real question I'd like to answer is how to make it so both parties win without needing to forcefully mer",
+        "likes": 30,
+        "retweets": 5
+      }
+    ],
+    "$ARC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ARC whale just bought $5.18K of $arc at $59.21M MC 🐳\n\nhttps://t.co/UvYWsEEwy1",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "docXBT",
+      "text": "Now that over a year has passed it’s wild to think I really closed my giga delusional conviction trades, took cash to the bank, moved across the country, got a house and changed my life at the top. Also had enough experience or foresight by then to stay in trader mode waiting to ",
+      "likes": 444,
+      "retweets": 16,
+      "url": "https://x.com/docXBT/status/2019962192305525155"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Last night, the Russians struck facilities critical to the operation of Ukraine’s nuclear power plants. Today, units at Ukraine’s NPPs reduced power generation, and one unit was automatically shut down. This is a level of attack that no terrorist in the world has ever dared, and ",
+      "likes": 403,
+      "retweets": 120,
+      "url": "https://x.com/ZelenskyyUa/status/2020178576448913881"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "hi i’m equinox and i cost $400 a month to be a shockingly mid gym  and im always so crowded you’ll never do the workout you planned oh and also i close at 7pm because i fucking hate you fuck you. bitch",
+      "likes": 285,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2019950976040317203"
+    },
+    {
+      "author": "mert",
+      "text": "dev talking about price",
+      "likes": 236,
+      "retweets": 6,
+      "url": "https://x.com/mert/status/2020149312852774962"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "gm to everyone still here",
+      "likes": 171,
+      "retweets": 1,
+      "url": "https://x.com/CryptoKaleo/status/2020140863301484854"
+    },
+    {
+      "author": "mert",
+      "text": "if ai agents are trained on past data, then the way they'll use crypto is not via 402 but via creating their own chain and dumping on you",
+      "likes": 158,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2020143831123918953"
+    },
+    {
+      "author": "DeeZe",
+      "text": "People who use metamask in 2026 are the equivalent of people using AOL in 2007",
+      "likes": 146,
+      "retweets": 4,
+      "url": "https://x.com/DeeZe/status/2020156697306706364"
+    }
+  ]
+}

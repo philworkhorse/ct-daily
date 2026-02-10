@@ -1,0 +1,165 @@
+{
+  "timestamp": "2026-02-05T16:27:46.963Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 17,
+    "bearish": 8,
+    "neutral": 75,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "slurptoshi",
+        "text": "Slurp Syndicate has also acquired more $Wojak (8J69). \n\nOur thesis is that Wojak is the most recognised &amp; used meme in finance. Eventually, the market will price it as such (billions). \n\nThe syndi",
+        "likes": 1,
+        "retweets": 1
+      },
+      {
+        "author": "brentradess",
+        "text": "RT @brentradess: This is The Bloodiest Period We’ve seen in $BTC since 2022 (5 Straight Monthly Red Candles)\n\nWhich ended up being the best…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "slurptoshi",
+        "text": "Slurp Syndicate has also acquired more $Wojak (8J69). \n\nOur thesis is that Wojak is the most recognised &amp; used meme in finance. Eventually, the market will price it as such (billions). \n\nThe syndi",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.62K of $Buttcoin at $15.78M MC 🐳\n\nhttps://t.co/DFsmWPuukb",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TheDemocrats",
+      "text": "Looking great 👍 https://t.co/fwQyNXWrTB",
+      "likes": 1736,
+      "retweets": 93,
+      "url": "https://x.com/TheDemocrats/status/2019421798157443191"
+    },
+    {
+      "author": "RichardPtardio",
+      "text": "A personal update from Richard E. Ptardio\n\n=\n\nChaps, after much soul-searching, I have decided that the time is right to make a decisive move regarding my future in crypto-currency.\n\nI intend, as you young fellows are so fond of saying, to lock in.\n\nI appreciate that some founder",
+      "likes": 1038,
+      "retweets": 46,
+      "url": "https://x.com/RichardPtardio/status/2019332169802371557"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "Well. It’s not March yet. But think this 70-75k area is attractive for $btc \n\nGot some first small bids hit \n\nMight become active in this market again for the first time in awhile",
+      "likes": 1021,
+      "retweets": 29,
+      "url": "https://x.com/Pentosh1/status/2018176581110288497"
+    },
+    {
+      "author": "trading_axe",
+      "text": "If you get 57-58K on BTC, you buy it and ignore any retard calling for 20-30K.\n\nThings may look absolute horseshit,\n\nBut as fast as we’ve gone down,\n\nWe can go just as fast back up.\n\nPlus, the year is young.\n\nSo it’s a million times better to “get it over with” with straight down",
+      "likes": 587,
+      "retweets": 31,
+      "url": "https://x.com/trading_axe/status/2019437466936136142"
+    },
+    {
+      "author": "MrBeast",
+      "text": "Went on Hot Ones, I never eat spicy food so it was pretty rough not gonna lie lol\n\nhttps://t.co/YazfG35dis",
+      "likes": 469,
+      "retweets": 20,
+      "url": "https://x.com/MrBeast/status/2019445989493383400"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "Almost fully filled. \n\nWant to reiterate I’m not calling a bottom. I think that's going to take time to form. It's just a trade. My last trade was 84k-93k way back in Nov. I just would hate myself for not trying here which is a level that is a key HTF inflection point.  \n\nI think",
+      "likes": 162,
+      "retweets": 9,
+      "url": "https://x.com/Pentosh1/status/2019114856054661330"
+    },
+    {
+      "author": "mert",
+      "text": "guy who thinks all of crypto is a scam but made $0 shorting a 2.3T drawdown",
+      "likes": 157,
+      "retweets": 1,
+      "url": "https://x.com/mert/status/2019438653282672778"
+    },
+    {
+      "author": "mert",
+      "text": "smh\n\nas founder of solana, rest assured I'd never sell during a time like this\n\nas I have no money left",
+      "likes": 151,
+      "retweets": 1,
+      "url": "https://x.com/mert/status/2019440610978017428"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Glasses are the greatest “undisclosed” modern day Jewish scam.\n\nThey PRETEND to give you better vision, but you’re simply borrowing vision from your FUTURE self.\n\nThen you pay it back with interest on top.\n\nHow?\n\nBy worsening your eyesight.\n\nYou go to the opticians,\n\nYou get your",
+      "likes": 124,
+      "retweets": 4,
+      "url": "https://x.com/trading_axe/status/2019441702658838994"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Last cycle we had FTX etc. \n\nSo what is the capitulation event going to be this time?",
+      "likes": 114,
+      "retweets": 2,
+      "url": "https://x.com/Tradermayne/status/2019444051284472264"
+    }
+  ]
+}

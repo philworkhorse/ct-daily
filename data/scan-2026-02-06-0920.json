@@ -1,0 +1,194 @@
+{
+  "timestamp": "2026-02-06T09:20:52.825Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 4,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$AI",
+      1
+    ],
+    [
+      "$CRYPTOBRO",
+      1
+    ],
+    [
+      "$DOG",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$AI",
+        "count": 1
+      },
+      {
+        "ticker": "$CRYPTOBRO",
+        "count": 1
+      },
+      {
+        "ticker": "$DOG",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "unemployment": 1,
+      "dollar": 1,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$AI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AI16Z whale just bought $3.02K of $Clash at $41.68M MC 🐳\n\nhttps://t.co/AXLhkiT6HX",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CRYPTOBRO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @btc_chharlie verified earnings for $CRYPTOBRO on @BagsApp 💰\n\nhttps://t.co/DZd2KUbjz8",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.03K of $DOG at $942.73K MC 🐳\n\nhttps://t.co/55fvqDxkSC",
+        "likes": 1,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $9.48K of $BigTrout at $7.71M MC 🐳\n\nhttps://t.co/enCVDCRG4z",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$DOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.03K of $DOG at $942.73K MC 🐳\n\nhttps://t.co/55fvqDxkSC",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "A new experiment drops 10 never-before-seen, research-level math problems—each with a private human proof—to test whether state-of-the-art AI (GPT-5.2 Pro, Gemini 3 DeepThink) can actually prove thing",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "heart_",
+        "text": "so $HYPE did 3 drives above $35 and it’s back under again https://t.co/tz0nX8P6qd",
+        "likes": 12,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "plur_daddy",
+      "text": "There's Not Enough Money In The World",
+      "likes": 1200,
+      "retweets": 164,
+      "url": "https://x.com/plur_daddy/status/2019522793751347604"
+    },
+    {
+      "author": "rektmando",
+      "text": "A lot of rumours yday that the BTC move was caused by someone blowing up\n\nThis might have been it",
+      "likes": 278,
+      "retweets": 10,
+      "url": "https://x.com/rektmando/status/2019667486636229025"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "A lot of doom and gloom on the timeline.\n\nTake a breath, I don't think the thesis has changed.\n\nIf you still believe, this might be the time to double down",
+      "likes": 263,
+      "retweets": 9,
+      "url": "https://x.com/waleswoosh/status/2019672495587225765"
+    },
+    {
+      "author": "rektmando",
+      "text": "woke up - buying Bitcoin",
+      "likes": 138,
+      "retweets": 1,
+      "url": "https://x.com/rektmando/status/2019678311715336687"
+    },
+    {
+      "author": "sibeleth",
+      "text": "Just got a message from a friend who made $21M last year.\n\nHe’s asking for a $10K loan. \n\nFuck leverage.",
+      "likes": 131,
+      "retweets": 19,
+      "url": "https://x.com/sibeleth/status/2019698598758457437"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "With increasing adoption of AI agents, I'm pretty sure we will see them come to messaging apps as well soon.\n\nEspecially for crypto-native use cases (perps, prediction markets etc) that's interesting, with agents helping with (or directly executing) on-chain tasks.\n\nMy partners a",
+      "likes": 127,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2019687563792171406"
+    },
+    {
+      "author": "goodalexander",
+      "text": "just to be clear ppl are shorting 'the economy of bits' just as software EBITDA margins are about to run to 70% and rotating into the economy of atoms into mass unemployment",
+      "likes": 112,
+      "retweets": 2,
+      "url": "https://x.com/goodalexander/status/2019683739199218157"
+    }
+  ]
+}

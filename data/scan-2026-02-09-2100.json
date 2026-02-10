@@ -1,0 +1,237 @@
+{
+  "timestamp": "2026-02-09T21:00:32.839Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 16,
+    "bearish": 2,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GROYPER",
+      2
+    ],
+    [
+      "$MOLTEN",
+      1
+    ],
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$ROCK",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$JMAIL",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$FREECLAW",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GROYPER",
+        "count": 2
+      },
+      {
+        "ticker": "$MOLTEN",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$ROCK",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$JMAIL",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$FREECLAW",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1,
+      "fed": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$MOLTEN": [
+      {
+        "author": "iruletrenches",
+        "text": "I’ve been following @moltenagentic and @0xvsr closely since launch and wanted to share it because it's  criminally undervalued here at 1m. \n\nbefore diving deeper on $molten, let’s lay out what’s broke",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWD": [
+      {
+        "author": "iruletrenches",
+        "text": "I’ve been following @moltenagentic and @0xvsr closely since launch and wanted to share it because it's  criminally undervalued here at 1m. \n\nbefore diving deeper on $molten, let’s lay out what’s broke",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "iruletrenches",
+        "text": "I’ve been following @moltenagentic and @0xvsr closely since launch and wanted to share it because it's  criminally undervalued here at 1m. \n\nbefore diving deeper on $molten, let’s lay out what’s broke",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ROCK": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ROCK with a PnL of +98.08%.\n\n$ROCK has been trending on Moby since $281.01K MC. Currently sitting at $854.21K MC. https://t.co/XpUmPTWw",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GROYPER": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @printgod_ just bought $2K of $GROYPER at $2.42M MC 🐳\n\nhttps://t.co/3poWG6rfJA",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $1.64K of $GROYPER at $2.87M MC 🐳\n\nhttps://t.co/HluSBJCs0x",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "Many people get shaked out of their conviction positions along the way.\n\nThis is how you get distribution.\n\nthe top $giga holder fullportgiga.sol capitulated at $100m on 10/10\n\nAlways better at the bo",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$JMAIL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/YxG4bWaqVY verified earnings for $JMAIL on @BagsApp 💰\n\nhttps://t.co/P5gG8XdXk6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $1.64K of $GROYPER at $2.87M MC 🐳\n\nhttps://t.co/HluSBJCs0x",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$FREECLAW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @free_claw verified earnings for $FREECLAW on @BagsApp 💰\n\nhttps://t.co/FfzQokCH1c",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "HQNewsNow",
+      "text": "Rep. Raskin: Epstein's lawyers quoted Trump as saying that Epstein was a guest at Mar-a-Lago and he was never asked to leave, and that was redacted for some indeterminate reason. It seems to be at odds with some things that Trump has been saying recently about how he kicked Epste",
+      "likes": 165,
+      "retweets": 42,
+      "url": "https://x.com/HQNewsNow/status/2020963492568653948"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bros how do we feel about shopify",
+      "likes": 138,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2020956898548183537"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "Roblox looks like a buy @ $74 https://t.co/SGUafK84MU",
+      "likes": 119,
+      "retweets": 8,
+      "url": "https://x.com/blknoiz06/status/2020957169290768397"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "Roblox looks like a buy @ $74 https://t.co/SGUafK84MU",
+      "likes": 119,
+      "retweets": 8,
+      "url": "https://x.com/blknoiz06/status/2020957169290768397"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "rapidly approaching a future where the only human job left is acting in mr beast youtube videos",
+      "likes": 116,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2020949521744966136"
+    },
+    {
+      "author": "jessepollak",
+      "text": "we’re making the @baseapp feed tradable assets only — which means turning off the farcaster-powered “Talk” feed.\n\nhere's why: the app needs to have one primary focus, and that thing is trading. when you open @baseapp, you should know exactly what you're getting, and we’re focused",
+      "likes": 112,
+      "retweets": 11,
+      "url": "https://x.com/jessepollak/status/2020962065100538091"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "CZ deserves prison for refusing to list fartcoin.",
+      "likes": 109,
+      "retweets": 3,
+      "url": "https://x.com/DipWheeler/status/2020954034061049903"
+    }
+  ]
+}

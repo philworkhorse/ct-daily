@@ -1,0 +1,164 @@
+{
+  "timestamp": "2026-02-06T02:29:55.044Z",
+  "stats": {
+    "listTweets": 0,
+    "followingTweets": 50,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 3,
+    "bearish": 1,
+    "neutral": 46,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$CBBTC",
+      2
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$USDG",
+      1
+    ],
+    [
+      "$PETAH",
+      1
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$BITLORD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CBBTC",
+        "count": 2
+      },
+      {
+        "ticker": "$USDG",
+        "count": 1
+      },
+      {
+        "ticker": "$PETAH",
+        "count": 1
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$BITLORD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "fed": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $33.2K of $USDG at $813.81M MC 🐳\n\nhttps://t.co/eK66a0etDs",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $24.05K of $xSOL at $8.31M MC 🐳\n\nhttps://t.co/0xIo4PlXgN",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $33.2K of $USDG at $813.81M MC 🐳\n\nhttps://t.co/eK66a0etDs",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "Currently dungeon grinding but here's update on $BTC iceberg. 61K avg. https://t.co/e1D1N9vyxy",
+        "likes": 132,
+        "retweets": 0
+      },
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC htf POI\n\nStrongest bounce we have seen this entire downtrend\n\nAlright. Nice to see our Silver Pocket as well as htf POI zone work out.\n\nAs so far, this is the highest bounce (10%) we have seen si",
+        "likes": 37,
+        "retweets": 0
+      }
+    ],
+    "$PETAH": [
+      {
+        "author": "traderpow",
+        "text": "$PETAH mode https://t.co/YSuMDySXCO",
+        "likes": 23,
+        "retweets": 6
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $3.85K of $ORE at $26.15M MC 🐳\n\nhttps://t.co/e4jJ9pgsG6",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BITLORD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @crypto_bitlord7 verified earnings for $BITLORD on @BagsApp 💰\n\nhttps://t.co/r2i7IHEKbo",
+        "likes": 2,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "RaoulGMI",
+      "text": "Presented without comment https://t.co/Jdzo3uy6Pw",
+      "likes": 135,
+      "retweets": 16,
+      "url": "https://x.com/RaoulGMI/status/2019598568353591335"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "Currently dungeon grinding but here's update on $BTC iceberg. 61K avg. https://t.co/e1D1N9vyxy",
+      "likes": 132,
+      "retweets": 0,
+      "url": "https://x.com/Crypto_Chase/status/2019575948719661287"
+    }
+  ]
+}

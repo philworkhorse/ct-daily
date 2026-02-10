@@ -1,0 +1,366 @@
+{
+  "timestamp": "2026-02-06T15:50:05.952Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 2,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$BONK",
+      1
+    ],
+    [
+      "$DOGE",
+      1
+    ],
+    [
+      "$SHIB",
+      1
+    ],
+    [
+      "$FLOKI",
+      1
+    ],
+    [
+      "$HARU",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$PEPE",
+      1
+    ],
+    [
+      "$SO",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$NVDA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$FLOKI",
+        "count": 1
+      },
+      {
+        "ticker": "$HARU",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$SO",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      },
+      {
+        "ticker": "$BONK",
+        "count": 1
+      },
+      {
+        "ticker": "$DOGE",
+        "count": 1
+      },
+      {
+        "ticker": "$SHIB",
+        "count": 1
+      },
+      {
+        "ticker": "$PEPE",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$NVDA",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 3,
+      "treasury": 1,
+      "fed": 2,
+      "fomc": 2,
+      "powell": 2,
+      "inflation": 2,
+      "jobs report": 1,
+      "dxy": 1,
+      "rate cut": 1,
+      "yields": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @thesolanapost: 🚨 $BUTTCOIN (@ButtCoin) shows the strongest 24H recovery among the top 30 Solana memecoins by market cap. https://t.co/8…",
+        "likes": 0,
+        "retweets": 9
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @thesolanapost: 🚨 $BUTTCOIN (@ButtCoin) shows the strongest 24H recovery among the top 30 Solana memecoins by market cap. https://t.co/8…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 253,
+        "retweets": 40
+      }
+    ],
+    "$BONK": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 253,
+        "retweets": 40
+      }
+    ],
+    "$DOGE": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 253,
+        "retweets": 40
+      }
+    ],
+    "$SHIB": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 253,
+        "retweets": 40
+      }
+    ],
+    "$FLOKI": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 253,
+        "retweets": 40
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "theunipcs",
+        "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $D",
+        "likes": 253,
+        "retweets": 40
+      },
+      {
+        "author": "milesdeutscher",
+        "text": "Quantum has become a huge $BTC narrative.\n\nAnd is one of the reasons for the recent sell-off.\n\nBut what is ACTUALLY going on? And how bad is it? \n\nHere is everything you need to know..\n\nWatch now👇\nht",
+        "likes": 6,
+        "retweets": 0
+      },
+      {
+        "author": "Crypto_Chase",
+        "text": "$BTC update\n\nTP hit, 50% closed. https://t.co/hp5jsKhuYT",
+        "likes": 48,
+        "retweets": 0
+      }
+    ],
+    "$HARU": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @haruko_colorful verified earnings for $HARU on @BagsApp 💰\n\nhttps://t.co/oAKm30lXKF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "slurptoshi",
+        "text": "RT @modern_s0crates: $WOJAK | @WojakOnX \n\nfrom meme to billions: the rise of $PEPE and why $WOJAK will be the next multi-year runner on $SO…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$PEPE": [
+      {
+        "author": "slurptoshi",
+        "text": "RT @modern_s0crates: $WOJAK | @WojakOnX \n\nfrom meme to billions: the rise of $PEPE and why $WOJAK will be the next multi-year runner on $SO…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$SO": [
+      {
+        "author": "slurptoshi",
+        "text": "RT @modern_s0crates: $WOJAK | @WojakOnX \n\nfrom meme to billions: the rise of $PEPE and why $WOJAK will be the next multi-year runner on $SO…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $17.11K of $xSOL at $9.22M MC 🐳\n\nhttps://t.co/LyTeqfRbzF",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SOL with a PnL of +80.19%.\n\n$SOL has been trending on Moby since $52.13K MC. Currently sitting at $2.48M MC. https://t.co/BMpfGfY8fg",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$NVDA": [
+      {
+        "author": "DeItaone",
+        "text": "$NVDA - NVIDIA SHARES EXTEND GAINS, LAST UP 6.4%",
+        "likes": 92,
+        "retweets": 7
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "X banned InfoFi and the market has been down only since.\n\nThink about that.\n\nKaito farmers please come back, we are sorry",
+      "likes": 466,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2019709448189862332"
+    },
+    {
+      "author": "theunipcs",
+      "text": "$USELESS price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect it to go as low, but this isn't uncharted territory for memecoins\n\n$BONK, $DOGE, $SHIB, $FLOKI, etc all had several 90 - 95% plus pullbacks before they firs",
+      "likes": 253,
+      "retweets": 40,
+      "url": "https://x.com/theunipcs/status/2019785568792526961"
+    },
+    {
+      "author": "TheDemocrats",
+      "text": "The face of the MAGA Halftime Show",
+      "likes": 172,
+      "retweets": 39,
+      "url": "https://x.com/TheDemocrats/status/2019798618371248434"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "Our precious green candles https://t.co/UNclMkijVx",
+      "likes": 169,
+      "retweets": 5,
+      "url": "https://x.com/Pentosh1/status/2019796631848124530"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "$68,000 united states dollars for one quantum resistant bitcoin",
+      "likes": 166,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2019788020434481357"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Back in profit here after I DCA'ed yesterday.\n\nAverage entry now $120.25 USD.\n\nHaters in shambles https://t.co/Tj8LWFegyA",
+      "likes": 164,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2019785000422625337"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "GOOD MORNING SURVIVORS https://t.co/C9CRA6TGGi",
+      "likes": 147,
+      "retweets": 7,
+      "url": "https://x.com/CryptoKaleo/status/2019790069750497625"
+    },
+    {
+      "author": "frankdegods",
+      "text": "as all markets drift into 24/7 low latency speculation everything becomes attention trading\n\nreflexivity never priced in enough\n\nthings that go down because of human-created narratives \n\ncan also go up from new narratives, driven by the humans who’s bids get filled\n\npc: @0xIT4I h",
+      "likes": 142,
+      "retweets": 8,
+      "url": "https://x.com/frankdegods/status/2019161654705992057"
+    },
+    {
+      "author": "headquarters68_",
+      "text": "Same guy that bought a front page ad against the Central Park 5 https://t.co/s0rphqq7gl",
+      "likes": 126,
+      "retweets": 20,
+      "url": "https://x.com/headquarters68_/status/2019799859620905199"
+    },
+    {
+      "author": "theunipcs",
+      "text": "for all those who reached out to ask if i was okay:\n\nTHANK YOU!\n\ni'm doing fine, and i appreciate you looking out for me! ❤️‍🔥\n\nof course, the market has been brutal... but we'll live through it and come out much stronger eventually\n\nGOD WILLING",
+      "likes": 105,
+      "retweets": 4,
+      "url": "https://x.com/theunipcs/status/2019786656543338753"
+    }
+  ]
+}

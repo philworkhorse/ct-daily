@@ -1,0 +1,272 @@
+{
+  "timestamp": "2026-02-08T13:47:54.490Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 4,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$SKR",
+      2
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$WOW",
+      1
+    ],
+    [
+      "$MILO",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$SAN",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SKR",
+        "count": 2
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$WOW",
+        "count": 1
+      },
+      {
+        "ticker": "$MILO",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$SAN",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "corn": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "gdp": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Gold\n\n$BTC / $XAU:     🥇  14.279 oz https://t.co/ZUJwKoBeHZ",
+        "likes": 48,
+        "retweets": 8
+      },
+      {
+        "author": "rektober",
+        "text": "looks like a few liquidations on $BTC will trigger a small short squeeze to $72-$73k \n\nstill don't fully trust this datapoint, it worked a lot in the past but now market makers also use it to trick \"w",
+        "likes": 50,
+        "retweets": 0
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Gold\n\n$BTC / $XAU:     🥇  14.279 oz https://t.co/ZUJwKoBeHZ",
+        "likes": 48,
+        "retweets": 8
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $1.19K of $LIQUID at $1.04M MC 🐳\n\nhttps://t.co/9bjLwEBc5P",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $10.83K of $SKR at $242.36M MC 🐳\n\nhttps://t.co/evcKqmT9qw",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $1.19K of $LIQUID at $1.04M MC 🐳\n\nhttps://t.co/9bjLwEBc5P",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WOW": [
+      {
+        "author": "LexaproTrader",
+        "text": "Degen Gambl/ Zero info/ NOT Alfa but I like it $WOW\n\n6YdDyLQ5RnKpjcVFCKVe8GURVxFsAVhXwArW9wrRpump",
+        "likes": 21,
+        "retweets": 6
+      }
+    ],
+    "$MILO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @DeeVax08 verified earnings for $MILO on @BagsApp 💰\n\nhttps://t.co/HaweWRpiF2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $9.11K of $PENGUIN at $26.13M MC 🐳\n\nhttps://t.co/oXkhJsdE4q",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $0.69K of $SAN at $1.74M MC 🐳\n\nhttps://t.co/Ynj6UTzrQ7",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$SAN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $0.69K of $SAN at $1.74M MC 🐳\n\nhttps://t.co/Ynj6UTzrQ7",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $71.95K of $cbBTC at $300.77M MC 🐳\n\nhttps://t.co/mfi89FBi2v",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "Orange Dots Matter. https://t.co/QYLQpgoWbQ",
+      "likes": 3701,
+      "retweets": 412,
+      "url": "https://x.com/saylor/status/2020486871394992570"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 475,
+      "retweets": 25,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "watchingmarkets",
+      "text": "I am currently trading on https://t.co/1x3cz40F9v\n\nYou can actually do everything here, direct registration with an e-mail and you have your wallet.\n\nI started trading there because I think that farming points could lead to an airdrop of an Axiom token at some point.\n\nSo far, I h",
+      "likes": 422,
+      "retweets": 70,
+      "url": "https://x.com/watchingmarkets/status/1904849436054085795"
+    },
+    {
+      "author": "mert",
+      "text": "when warcraft gold is more private than digital gold\n\nI will not finish the rest of this tweet for legal purposes",
+      "likes": 169,
+      "retweets": 10,
+      "url": "https://x.com/mert/status/2020464617969856516"
+    },
+    {
+      "author": "DeItaone",
+      "text": "*TAKAICHI'S COALITION SET TO WIN 2/3 SUPERMAJORITY IN JAPAN: NHK",
+      "likes": 156,
+      "retweets": 31,
+      "url": "https://x.com/DeItaone/status/2020490854402589082"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all due respect to Chris, I completely disagree with this take.\n\nChris argues that \"web3,\" particularly crypto-powered gaming and media, failed due to scams and regulation, and that better regulation will unlock these non-financial cases.\n\nOK, think about this for a second. ",
+      "likes": 132,
+      "retweets": 7,
+      "url": "https://x.com/hosseeb/status/2020451853633511696"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "Massive, love to see the retirement of the most insane pricing tiers of all time.",
+      "likes": 126,
+      "retweets": 0,
+      "url": "https://x.com/jackbutcher/status/2019985136625078448"
+    },
+    {
+      "author": "osf_rekt",
+      "text": "#NewProfilePic \n\nchanneling green candles https://t.co/8dkAQrcCBZ",
+      "likes": 109,
+      "retweets": 8,
+      "url": "https://x.com/osf_rekt/status/2020464072119009523"
+    }
+  ]
+}

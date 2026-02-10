@@ -1,0 +1,468 @@
+{
+  "timestamp": "2026-02-09T13:17:29.474Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 5,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      4
+    ],
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$ZAUTH",
+      2
+    ],
+    [
+      "$PUMP",
+      2
+    ],
+    [
+      "$MONTY",
+      1
+    ],
+    [
+      "$CLAWIRU",
+      1
+    ],
+    [
+      "$PNTH",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ],
+    [
+      "$CLWP",
+      1
+    ],
+    [
+      "$GOOG",
+      1
+    ],
+    [
+      "$JTO",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$LORIA",
+      1
+    ],
+    [
+      "$SNKAI",
+      1
+    ],
+    [
+      "$ROCK",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$CLAWRA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$ZAUTH",
+        "count": 2
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 2
+      },
+      {
+        "ticker": "$MONTY",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWIRU",
+        "count": 1
+      },
+      {
+        "ticker": "$PNTH",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      },
+      {
+        "ticker": "$CLWP",
+        "count": 1
+      },
+      {
+        "ticker": "$JTO",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$LORIA",
+        "count": 1
+      },
+      {
+        "ticker": "$SNKAI",
+        "count": 1
+      },
+      {
+        "ticker": "$ROCK",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWRA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 4
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      },
+      {
+        "ticker": "$GOOG",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "inflation": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @saylor: Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~…",
+        "likes": 0,
+        "retweets": 239
+      },
+      {
+        "author": "docXBT",
+        "text": "$BTC - Looking for us to build out value here; starting off by using prev week's vah/val and anchored vwap as a guide. https://t.co/qvjy8k0WZp",
+        "likes": 31,
+        "retweets": 1
+      },
+      {
+        "author": "saylor",
+        "text": "Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~$54.35 billion at ~$76,056 per bitcoin. $MSTR $STRC https://t.co/4X2c81LQ",
+        "likes": 1689,
+        "retweets": 239
+      },
+      {
+        "author": "docXBT",
+        "text": "$BTC - Looking for us to build out value here; starting off by using prev week's vah/val and anchored vwap as a guide. https://t.co/qvjy8k0WZp",
+        "likes": 31,
+        "retweets": 1
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "$REKT Weekly https://t.co/trWDrdfeOZ",
+        "likes": 31,
+        "retweets": 8
+      },
+      {
+        "author": "osf_rekt",
+        "text": "impromptu $REKT weekly in a few mins, while i have a spare moment! https://t.co/pCyKcj4jdN",
+        "likes": 31,
+        "retweets": 6
+      }
+    ],
+    "$ZAUTH": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ZAUTH with a PnL of +127.50%.\n\n$ZAUTH has been trending on Moby since $78.83K MC. Currently sitting at $5M MC. https://t.co/V8KJDB5neS",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ZAUTH with a PnL of +125.94%.\n\n$ZAUTH has been trending on Moby since $78.83K MC. Currently sitting at $4.95M MC. https://t.co/3wI1aDLa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MONTY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @samueIcolvin verified earnings for $MONTY on @BagsApp 💰\n\nhttps://t.co/jvMflyPq2l",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $12.31K of $PENGUIN at $25.94M MC 🐳\n\nhttps://t.co/LgVOxbPdZK",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5K of $Buttcoin at $33.75M MC 🐳\n\nhttps://t.co/7MhpxrqdSl",
+        "likes": 6,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.06K of $LORIA at $4.76M MC 🐳\n\nhttps://t.co/uGMkmFxvpv",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CLAWIRU": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @taku__sid verified earnings for $CLAWIRU on @BagsApp 💰\n\nhttps://t.co/0MtB5hWHXV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PNTH": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @pnth_app verified earnings for $PNTH on @BagsApp 💰\n\nhttps://t.co/duSMjnyTpq",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "saylor",
+        "text": "Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~$54.35 billion at ~$76,056 per bitcoin. $MSTR $STRC https://t.co/4X2c81LQ",
+        "likes": 1689,
+        "retweets": 239
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "saylor",
+        "text": "Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~$54.35 billion at ~$76,056 per bitcoin. $MSTR $STRC https://t.co/4X2c81LQ",
+        "likes": 1689,
+        "retweets": 239
+      }
+    ],
+    "$CLWP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ClawnchPoker verified earnings for $CLWP on @BagsApp 💰\n\nhttps://t.co/qHIANnJ8v2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GOOG": [
+      {
+        "author": "dampedspring",
+        "text": "Indicated Price Talk on. This $GOOG offering looks like a steal vs existing curve.  Duration is building a concession for the calendar and big auctions and fintwit is focused on Bad Bunny 🤦🏻‍♂️and e",
+        "likes": 15,
+        "retweets": 1
+      }
+    ],
+    "$JTO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JTO whale just bought $31.92K of $JitoSOL at $1.14B MC 🐳\n\nhttps://t.co/wqOu8lcfY4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GIGA whale just bought $3.36K of $GIGA at $22.05M MC 🐳\n\nhttps://t.co/ZFJp5h3pDa",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$LORIA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.06K of $LORIA at $4.76M MC 🐳\n\nhttps://t.co/uGMkmFxvpv",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$SNKAI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @snakey_ai verified earnings for $SNKAI on @BagsApp 💰\n\nhttps://t.co/q8StnmKRph",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $10K of $Fartcoin at $186.73M MC 🐳\n\nhttps://t.co/4uSj1UvJ4s",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $5.07K of $PsyopAnime at $3.56M MC 🐳\n\nhttps://t.co/cGLEnD3m7M",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$ROCK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @talyonsol verified earnings for $ROCK on @BagsApp 💰\n\nhttps://t.co/qgJJ7xponU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.52K of $Buttcoin at $33.36M MC 🐳\n\nhttps://t.co/cGHBQXVg7v",
+        "likes": 11,
+        "retweets": 3
+      }
+    ],
+    "$CLAWRA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @davidhoyun verified earnings for $CLAWRA on @BagsApp 💰\n\nhttps://t.co/JQX6XOiGbH",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Rewkang",
+      "text": "The Exponential Horizon",
+      "likes": 3187,
+      "retweets": 388,
+      "url": "https://x.com/Rewkang/status/2020560687722852391"
+    },
+    {
+      "author": "saylor",
+      "text": "Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~$54.35 billion at ~$76,056 per bitcoin. $MSTR $STRC https://t.co/4X2c81LQwm",
+      "likes": 1689,
+      "retweets": 239,
+      "url": "https://x.com/saylor/status/2020846107685695931"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 491,
+      "retweets": 66,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "The more time I spend in this space, the more I just want to hold BTC over everything else.\n\nWhen I first entered crypto, I couldn't understand why anyone would buy Bitcoin over alts.\n\nNow I get it",
+      "likes": 339,
+      "retweets": 20,
+      "url": "https://x.com/waleswoosh/status/2020821348717871479"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Navigating crypto",
+      "likes": 221,
+      "retweets": 14,
+      "url": "https://x.com/intocryptoverse/status/2020843942267482523"
+    },
+    {
+      "author": "mert",
+      "text": "think the coinbase ad was good actually\n\nnot david ogilvy but nothing wrong with it \n\nit should be a big alarm bell that ppl have this negative of a reaction to crypto, not coinbase's fault",
+      "likes": 174,
+      "retweets": 10,
+      "url": "https://x.com/mert/status/2020819946926698660"
+    },
+    {
+      "author": "inversebrah",
+      "text": "inb4 saylor bought $1B at $72k 🥹 https://t.co/xAcs3Z2b3j",
+      "likes": 170,
+      "retweets": 2,
+      "url": "https://x.com/inversebrah/status/2020807392787603474"
+    },
+    {
+      "author": "DeItaone",
+      "text": "CHATGPT EXCEEDING 10% MONTHLY GROWTH: CNBC\n\nOPENAI PREPARING TO LAUNCH UPDATED CHAT MODEL THIS WEEK: CNBC",
+      "likes": 112,
+      "retweets": 12,
+      "url": "https://x.com/DeItaone/status/2020846929819713548"
+    },
+    {
+      "author": "SolidTradesz",
+      "text": "The Coinbase Premium Index is expanding, indicating BTC is trading at a premium on Coinbase relative to offshore venues. That's historically a signal that reflects aggressive U.S. spot demand rather than leverage-driven derivatives activity.\n\nSustained premium expansion on Coinba",
+      "likes": 105,
+      "retweets": 2,
+      "url": "https://x.com/SolidTradesz/status/2020845135911587943"
+    },
+    {
+      "author": "DeItaone",
+      "text": "STRATEGY: BETWEEN FEB 2 TO FEB 8, 1,142 BTC ACQUIRED FOR TOTAL $90 MLN PURCHASE PRICE",
+      "likes": 104,
+      "retweets": 10,
+      "url": "https://x.com/DeItaone/status/2020846820935512106"
+    }
+  ]
+}

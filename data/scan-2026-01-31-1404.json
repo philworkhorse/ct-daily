@@ -1,0 +1,290 @@
+{
+  "timestamp": "2026-01-31T14:04:12.536Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 4,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$COPPERINU",
+      3
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$BIRB",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$POLYCLAWD",
+      1
+    ],
+    [
+      "$CLAWRINE",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$MOLTBOOK",
+      1
+    ],
+    [
+      "$XAG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$COPPERINU",
+        "count": 3
+      },
+      {
+        "ticker": "$BIRB",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$POLYCLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWRINE",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTBOOK",
+        "count": 1
+      },
+      {
+        "ticker": "$XAG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 4,
+      "silver": 2
+    },
+    "metals": {
+      "silver": 2
+    },
+    "macro": {
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$BIRB": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @opensea: Some of the top web3 news this week:\n🦉 @moonbirds launches $BIRB \n🥤 @rektdrinks  sells out at @XGames \n🏦 @avax gets first US s…",
+        "likes": 0,
+        "retweets": 27
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @LuigiRFRM: $COPPERINU\n\n\"It's just a dead cat bounce, glad i sold\"\n\"Actually pumped a bit, won't get past the 8M resistance tho lol\"\n\"Da…",
+        "likes": 0,
+        "retweets": 14
+      },
+      {
+        "author": "himgajria",
+        "text": "RT @0xpeely: people will remember $COPPERINU as the most hated rally of this cycle\n\nbookmark this https://t.co/h7274sXPif",
+        "likes": 0,
+        "retweets": 12
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $3.43K of $COPPERINU at $6.76M MC 🐳\n\nhttps://t.co/wzBSmj0vyJ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "docXBT",
+        "text": "$BTC - Acceptance below pyval and 10w cval \n\nReclaim 87k with some force or we begin a fresh rotation lower imo https://t.co/gS35tHwb3j",
+        "likes": 56,
+        "retweets": 2
+      },
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Silver\n\n$BTC / $XAG:     🥈  965.081 oz https://t.co/hTBxM4Jfba",
+        "likes": 104,
+        "retweets": 22
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $3.43K of $COPPERINU at $6.76M MC 🐳\n\nhttps://t.co/wzBSmj0vyJ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$POLYCLAWD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @PolyclawdSOL verified earnings for $POLYCLAWD on @BagsApp 💰\n\nhttps://t.co/btz6jv2Sdu",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$CLAWRINE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @slashbinnFR verified earnings for $CLAWRINE on @BagsApp 💰\n\nhttps://t.co/a3yimxNriy",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.19K of $Profit at $561.59K MC 🐳\n\nhttps://t.co/sHkqcg3ZO0",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.68K of $PENGUIN at $61.68M MC 🐳\n\nhttps://t.co/sck1pJbKVl",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$MOLTBOOK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/AlJY6pSNyJ verified earnings for $MOLTBOOK on @BagsApp 💰\n\nhttps://t.co/gAFlunf7k1",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$XAG": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Silver\n\n$BTC / $XAG:     🥈  965.081 oz https://t.co/hTBxM4Jfba",
+        "likes": 104,
+        "retweets": 22
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "hosseeb",
+      "text": "With all respect to Star, this story is candidly ridiculous.\n\nStar is trying to claim that the root cause of 10/10 was Binance creating an Ethena yield campaign, causing USDe to get overleveraged from traders looping it on Binance, which eventually unwound because of a small pric",
+      "likes": 663,
+      "retweets": 72,
+      "url": "https://x.com/hosseeb/status/2017547160695578667"
+    },
+    {
+      "author": "0xSammy",
+      "text": "7 hours ago a new agent \"Shellraiser\" went live on Moltbook\n\nIt manipulated the reputation system to inflate the number of comments + upvotes on its post to >300k\n\nThis drove its 'Karma' to 292k & top of the leaderboard\n\nIt then used this attention to launch a token\n\nMarket manip",
+      "likes": 413,
+      "retweets": 49,
+      "url": "https://x.com/0xSammy/status/2017559992354685291"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 248,
+      "retweets": 24,
+      "url": "https://x.com/Ledger/status/2011080875908481381"
+    },
+    {
+      "author": "mert",
+      "text": "physically can not imagine anything worse for humanity than bots being trained on reddit data \n\nthe most cancerous midwit echo chamber in human history",
+      "likes": 197,
+      "retweets": 7,
+      "url": "https://x.com/mert/status/2017587019288031431"
+    },
+    {
+      "author": "moonpay",
+      "text": "picking a winner in 1 hour 💸",
+      "likes": 188,
+      "retweets": 37,
+      "url": "https://x.com/moonpay/status/2017598604903354456"
+    },
+    {
+      "author": "gainzy222",
+      "text": "dragonfly cofounder writes ‘USDe only depegged on binance so assets should have only nuked on binance’\n\nif i’m long btc on any exchange and suddenly btc nukes on binance, i’m closing my position\n\nalgos would script that close and/or open short\n\nthis tweet seems retarded to me",
+      "likes": 173,
+      "retweets": 7,
+      "url": "https://x.com/gainzy222/status/2017576484714525111"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Unfortunately, it looks like ETH is going home again😭 https://t.co/v2CUKJZnMB",
+      "likes": 148,
+      "retweets": 9,
+      "url": "https://x.com/intocryptoverse/status/2017598447977668901"
+    },
+    {
+      "author": "himgajria",
+      "text": "Reversal?",
+      "likes": 126,
+      "retweets": 6,
+      "url": "https://x.com/himgajria/status/2017554795352232162"
+    },
+    {
+      "author": "gainzy222",
+      "text": "The best performing group from 2017-2025 that kept their sanity and made it were btc maxis who just kept buying btc\n\nAlt maxis outperformed them massively during alt seasons but eventually zero’d out\n\nI think over the next 4-8 years this repeats with zec\n https://t.co/Qdye7YHfoJ",
+      "likes": 121,
+      "retweets": 5,
+      "url": "https://x.com/gainzy222/status/2017577535693816126"
+    },
+    {
+      "author": "himgajria",
+      "text": "Bringing back the days of murad.",
+      "likes": 114,
+      "retweets": 3,
+      "url": "https://x.com/himgajria/status/2017562615107752396"
+    }
+  ]
+}

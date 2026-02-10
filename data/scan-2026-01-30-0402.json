@@ -1,0 +1,183 @@
+{
+  "timestamp": "2026-01-30T04:02:31.266Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 2,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ELON",
+      6
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$PWENGO",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ELON",
+        "count": 6
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$PWENGO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +223.12%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $11.31M MC. https://t.co/7Xkm59Mn5d",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +124.55%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $10.81M MC. https://t.co/3LYT99X6G1",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +232.33%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $12.06M MC. https://t.co/3r1y7i9xcG",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.76K of $ELON at $12.47M MC 🐳\n\nhttps://t.co/LWTToj2Zpl",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Loopierr just bought $1.12K of $ELON at $10.55M MC 🐳\n\nhttps://t.co/ox2DdBg2xz",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $ELON with a PnL of +117.25%.\n\n$ELON has been trending on Moby since $2.57M MC. Currently sitting at $11.04M MC. https://t.co/ETj3MJqNl1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PWENGO": [
+      {
+        "author": "WogTheArtist",
+        "text": "$PWENGO\n\n30 mins. \n\n@Pumpfun https://t.co/5zHERygwUc",
+        "likes": 7,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.76K of $ELON at $12.47M MC 🐳\n\nhttps://t.co/LWTToj2Zpl",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.24K of $PENGUIN at $72.33M MC 🐳\n\nhttps://t.co/f627Zhn0Lk",
+        "likes": 0,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1212,
+      "retweets": 203,
+      "url": "https://x.com/Neuravision_A/status/2010102620502011981"
+    },
+    {
+      "author": "wearehims",
+      "text": "🔥Sex Rx + Testosterone Support\n\nDaily 2-in-1 pill to optimize your sex life and testosterone, plus supplements to support overall health.\n\nBoost your sex life and achieve stronger erections thanks to tadalafil  \nOptimize testosterone thanks to zinc",
+      "likes": 547,
+      "retweets": 54,
+      "url": "https://x.com/wearehims/status/1993453636127686702"
+    },
+    {
+      "author": "traderpow",
+      "text": "Whoever needs to this today, I got u https://t.co/v2HDbEjTMh",
+      "likes": 373,
+      "retweets": 35,
+      "url": "https://x.com/traderpow/status/2016900934652350905"
+    },
+    {
+      "author": "moonpay",
+      "text": "✅ 300,000 followers by Feb 1\n\n🤑 $30,000 crypto giveaway for 𝕏 followers all year\n\n💜 spread the word, hit the goal, unlock the prize",
+      "likes": 367,
+      "retweets": 132,
+      "url": "https://x.com/moonpay/status/2017070392234397913"
+    },
+    {
+      "author": "CL207",
+      "text": "its getting depressing here, but truly kinda crazy we got one of the most insane commodity run of all time, literally all time\n\nmonetary scare, nasdaq ath, or whatever these metal prices and asset prices even mean\n\nand bitcoin has been bleeding, truly darkest days for crypto",
+      "likes": 337,
+      "retweets": 11,
+      "url": "https://x.com/CL207/status/2017069765488160932"
+    },
+    {
+      "author": "gainzy222",
+      "text": "&gt; retail hates cz\n&gt; funds hate cz\n&gt; vc’s hate cz\n&gt; competitors hate cz\n\nCz is truly universally hated\n\n“It’s coordinated fud” - cz\n\nLmao brother who exactly is coordinating, the literal entire world?",
+      "likes": 229,
+      "retweets": 12,
+      "url": "https://x.com/gainzy222/status/2017070094103245069"
+    },
+    {
+      "author": "mert",
+      "text": "all DATs are underwater by billions btw\n\nI'm sure they'll all hold through this",
+      "likes": 140,
+      "retweets": 1,
+      "url": "https://x.com/mert/status/2017067238109356198"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bro said yall brokies better lockin fn",
+      "likes": 139,
+      "retweets": 8,
+      "url": "https://x.com/blknoiz06/status/2017072130303684682"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Anthony Edwards SMACKED Lu Dort in the FACE 😭😭 https://t.co/hrueWqYrw9",
+      "likes": 115,
+      "retweets": 4,
+      "url": "https://x.com/TheNBACentel/status/2017084443509330316"
+    }
+  ]
+}

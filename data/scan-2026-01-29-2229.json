@@ -1,0 +1,183 @@
+{
+  "timestamp": "2026-01-29T22:29:02.974Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CHARLIE",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$GENTOO",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CHARLIE",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$GENTOO",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 8,
+      "silver": 2,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 8,
+      "silver": 2
+    },
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "made this on claude overnight\n\n1. searches for global news trends\n2. creates a prompt to send to a model trained on my artwork\n3. mints it from the rektguy.eth account and lists it for 0.01ETH\n4. proc",
+        "likes": 173,
+        "retweets": 28
+      }
+    ],
+    "$CHARLIE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @AndrewKolvet verified earnings for $CHARLIE on @BagsApp 💰\n\nhttps://t.co/5BHOMv5oal",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @AndrevKolvet verified earnings for $CHARLIE on @BagsApp 💰\n\nhttps://t.co/GTBVjbMmhV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GENTOO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @morganlimtonn verified earnings for $GENTOO on @BagsApp 💰\n\nhttps://t.co/6m4HuMMbCM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $5K of $testicle❄️ at $6.85M MC 🐳\n\nhttps://t.co/XNg3LMYb8U",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "WClementeIII",
+      "text": "Just saw someone say this and had to verify myself — Gold has added about $1.75 trillion in market cap just today alone. The market cap of Bitcoin right now is $1.78 trillion.",
+      "likes": 6513,
+      "retweets": 418,
+      "url": "https://x.com/WClementeIII/status/2016633904057217349"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Ladies and gentlemen,\n\nI can, in actual fact, confirm...\n\nThat מייקל Saylor... has... kissed the wall.\n\nFasten your seatbelts for what comes next.\n\n[THIS IS NOT A SHITPOST!]\n\n~ Dr. Axius.",
+      "likes": 1693,
+      "retweets": 46,
+      "url": "https://x.com/trading_axe/status/2016288126839271465"
+    },
+    {
+      "author": "intern",
+      "text": "Some personal news: I’ll be stepping down as Director of Growth at the Monad Foundation.\n\nI've been working on Monad over the last 3 years.\n\nI’ve spent the last 9 years in crypto and been full time in the industry since joining the VC team at CMS in 2020.\n\nAfter fielding 1,000+ s",
+      "likes": 760,
+      "retweets": 14,
+      "url": "https://x.com/intern/status/2016965624807788958"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Gold and Silver going parabolic is a precursor to a Massive Crypto Bull Run.",
+      "likes": 752,
+      "retweets": 117,
+      "url": "https://x.com/MustStopMurad/status/2016987646183297323"
+    },
+    {
+      "author": "cobie",
+      "text": "@blknoiz06 @buyerofponzi @WClementeIII Wanna race ?",
+      "likes": 453,
+      "retweets": 2,
+      "url": "https://x.com/cobie/status/2016818109940699481"
+    },
+    {
+      "author": "mdudas",
+      "text": "meanwhile cz gloating and investing in every token project out of his $10 billion family office, which then cycles the tokens back into the cz-controlled and majority owned binance eco where binance gets the largest unlocked token allos which are max dumped while cz / binance als",
+      "likes": 216,
+      "retweets": 11,
+      "url": "https://x.com/mdudas/status/2016942357170794706"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Ridge Wallet 2.0, Power Banks &amp; more in impossible-to-miss yellow.",
+      "likes": 216,
+      "retweets": 14,
+      "url": "https://x.com/ridgewallet/status/2011151263539298511"
+    },
+    {
+      "author": "_Shadow36",
+      "text": "The perfect hedge against bitcoin doesnt exi……\n\n$buttcoin https://t.co/JQIYjP9kpX",
+      "likes": 197,
+      "retweets": 41,
+      "url": "https://x.com/_Shadow36/status/2016963838936018964"
+    },
+    {
+      "author": "Wayfair",
+      "text": "Best selling Wayfair rugs that add warmth, comfort, and value",
+      "likes": 186,
+      "retweets": 8,
+      "url": "https://x.com/Wayfair/status/1990858797351354807"
+    },
+    {
+      "author": "osf_rekt",
+      "text": "made this on claude overnight\n\n1. searches for global news trends\n2. creates a prompt to send to a model trained on my artwork\n3. mints it from the rektguy.eth account and lists it for 0.01ETH\n4. proceeds are used to purchase $REKT and then burn it\n\nit should hopefully run every ",
+      "likes": 173,
+      "retweets": 28,
+      "url": "https://x.com/osf_rekt/status/2016943137189515276"
+    }
+  ]
+}

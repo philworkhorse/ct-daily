@@ -1,0 +1,341 @@
+{
+  "timestamp": "2026-02-05T09:00:39.295Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 7,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$PUMP",
+      2
+    ],
+    [
+      "$XAG",
+      2
+    ],
+    [
+      "$BNB",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$CARDS",
+      1
+    ],
+    [
+      "$SATOSHI",
+      1
+    ],
+    [
+      "$ELIZAOK",
+      1
+    ],
+    [
+      "$STABLE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$WETH",
+      1
+    ],
+    [
+      "$ZEROLEAKS",
+      1
+    ],
+    [
+      "$OJ",
+      1
+    ],
+    [
+      "$PIGEON",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 2
+      },
+      {
+        "ticker": "$XAG",
+        "count": 2
+      },
+      {
+        "ticker": "$BNB",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$CARDS",
+        "count": 1
+      },
+      {
+        "ticker": "$SATOSHI",
+        "count": 1
+      },
+      {
+        "ticker": "$ELIZAOK",
+        "count": 1
+      },
+      {
+        "ticker": "$STABLE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WETH",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEROLEAKS",
+        "count": 1
+      },
+      {
+        "ticker": "$OJ",
+        "count": 1
+      },
+      {
+        "ticker": "$PIGEON",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "corn": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys \n\nwe’ve been here before, survived multiple times, we’ll do it again. https://t.co/BMIx3xTjNU",
+        "likes": 58,
+        "retweets": 6
+      },
+      {
+        "author": "osf_rekt",
+        "text": "RT @jaymesrogers: $REKT gm https://t.co/KCo2Fqg4H6",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "cz_binance",
+        "text": "RT @esatoshiclub: Both $BTC and $BNB are currently fighting to hold their 2021 ATH levels (~$69,000 and ~$690). While the rest of the marke…",
+        "likes": 0,
+        "retweets": 17
+      },
+      {
+        "author": "astronomer_zero",
+        "text": "What's also interesting: $XAG and $BTC so far have experienced a drawdown of equal amount and both are (within reason) up equally much since cyclical lows (both lows printed late 2022).\n\nYet the senti",
+        "likes": 33,
+        "retweets": 4
+      }
+    ],
+    "$BNB": [
+      {
+        "author": "cz_binance",
+        "text": "RT @esatoshiclub: Both $BTC and $BNB are currently fighting to hold their 2021 ATH levels (~$69,000 and ~$690). While the rest of the marke…",
+        "likes": 0,
+        "retweets": 17
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $15.13K of $CARDS at $87.12M MC 🐳\n\nhttps://t.co/sz6PBBfTc2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CARDS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $15.13K of $CARDS at $87.12M MC 🐳\n\nhttps://t.co/sz6PBBfTc2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SATOSHI": [
+      {
+        "author": "LexaproTrader",
+        "text": "I’m not saying $SATOSHI saved Bitcoin and the entire cryptocurrency industry….but I’m also not NOT saying $SATOSHI saved Bitcoin and the entire cryptocurrency industry….. https://t.co/tMF30TQMvN",
+        "likes": 11,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $3.22K of $BigTrout at $4.26M MC 🐳\n\nhttps://t.co/DMthDtb2V4",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $9.19K of $BigTrout at $4M MC 🐳\n\nhttps://t.co/vpKGdgJMpy",
+        "likes": 9,
+        "retweets": 2
+      }
+    ],
+    "$XAG": [
+      {
+        "author": "astronomer_zero",
+        "text": "What's also interesting: $XAG and $BTC so far have experienced a drawdown of equal amount and both are (within reason) up equally much since cyclical lows (both lows printed late 2022).\n\nYet the senti",
+        "likes": 33,
+        "retweets": 4
+      },
+      {
+        "author": "astronomer_zero",
+        "text": "And speaking of transparency, $XAG is indeed doing what it's supposed to do (Just like $OJ) after I insinuated to sell in live time.\n\nWhich is to punish all the followers who got suckered in by their ",
+        "likes": 27,
+        "retweets": 3
+      }
+    ],
+    "$ELIZAOK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ElizaOK_ verified earnings for $ELIZAOK on @BagsApp 💰\n\nhttps://t.co/oAj5s8gzsa",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$STABLE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @wenmoonsolana_ just bought $1.48K of $STABLE at $436.17K MC 🐳\n\nhttps://t.co/Z95Cq6enqs",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $36.83K of $WETH at $137.61M MC 🐳\n\nhttps://t.co/GEGilWmR6a",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WETH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $36.83K of $WETH at $137.61M MC 🐳\n\nhttps://t.co/GEGilWmR6a",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZEROLEAKS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @NotLucknite verified earnings for $ZEROLEAKS on @BagsApp 💰\n\nhttps://t.co/rPfGZNVlKE",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$OJ": [
+      {
+        "author": "astronomer_zero",
+        "text": "And speaking of transparency, $XAG is indeed doing what it's supposed to do (Just like $OJ) after I insinuated to sell in live time.\n\nWhich is to punish all the followers who got suckered in by their ",
+        "likes": 27,
+        "retweets": 3
+      }
+    ],
+    "$PIGEON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @wenmoonsolana_ just bought $3.2K of $PIGEON at $1.19M MC 🐳\n\nhttps://t.co/NViLkdN8Wl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "gainzy222",
+      "text": "imagine giving tom lee money and he loses 7B and the founder of the coin he invested in is actually selling his own stack lmao\n\nvitalik a legend, wear unicorn shirts like an autistic retard, get photographed wearing socks with holes in them on stage, fud L2s and sell ur own eth",
+      "likes": 365,
+      "retweets": 11,
+      "url": "https://x.com/gainzy222/status/2019309920995405958"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Just revealed by Moneybadger NFT by my partners at Paradex, dope animation.\n\nGmoney https://t.co/i0UiUPMu93",
+      "likes": 264,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2019309125197517296"
+    },
+    {
+      "author": "gainzy222",
+      "text": "tom lee getting paid like 15M+ to run a -7B pnl lmao king",
+      "likes": 264,
+      "retweets": 9,
+      "url": "https://x.com/gainzy222/status/2019301129511952716"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "My birthday is next week and all I wish for is BTC to go back to my entry",
+      "likes": 185,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2019324064511516766"
+    },
+    {
+      "author": "elliotrades",
+      "text": "The risk of an exchange going under in these conditions is very real \n\nHappens every time",
+      "likes": 141,
+      "retweets": 5,
+      "url": "https://x.com/elliotrades/status/2019304749414379675"
+    }
+  ]
+}

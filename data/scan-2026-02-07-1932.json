@@ -1,0 +1,158 @@
+{
+  "timestamp": "2026-02-07T19:32:51.916Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 0,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$BP",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$BP",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @realdogen: normies hitting me up about $BUTTCOIN \n\nthis is great for the space \n\ngot a just-in-case we go to buttlions bag",
+        "likes": 0,
+        "retweets": 28
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $10.64K of $Buttcoin at $42.5M MC 🐳\n\nhttps://t.co/c5AmsCW1iy",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.35K of $BP at $3.73M MC 🐳\n\nhttps://t.co/ihQZqUdeb6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.35K of $BP at $3.73M MC 🐳\n\nhttps://t.co/ihQZqUdeb6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $4.52K of $BigTrout at $3.45M MC 🐳\n\nhttps://t.co/SXsL8D5pd8",
+        "likes": 9,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Pumpfun",
+      "text": "trenches bought the bottom yet nobody holds bitcoin\n\nlesson in there https://t.co/75HpZwLd7k",
+      "likes": 131,
+      "retweets": 16,
+      "url": "https://x.com/Pumpfun/status/2020218757268869384"
+    },
+    {
+      "author": "inversebrah",
+      "text": ". https://t.co/feAQKKmYRU",
+      "likes": 119,
+      "retweets": 8,
+      "url": "https://x.com/inversebrah/status/2020147286328918258"
+    },
+    {
+      "author": "inversebrah",
+      "text": ". https://t.co/feAQKKmYRU",
+      "likes": 119,
+      "retweets": 8,
+      "url": "https://x.com/inversebrah/status/2020147286328918258"
+    },
+    {
+      "author": "based16z",
+      "text": "I'm working on dying",
+      "likes": 111,
+      "retweets": 2,
+      "url": "https://x.com/based16z/status/2020190882121806218"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "sack tf up. https://t.co/taszCYKdqB",
+      "likes": 110,
+      "retweets": 20,
+      "url": "https://x.com/DipWheeler/status/2020205040858963975"
+    },
+    {
+      "author": "Austen",
+      "text": "My @KellyClaudeAI experiment for today:\n\n1. GPT for idea generation + analysis\n\n2. GPT &lt;&gt; Opus back and forth for idea -&gt; PRD\n\n3. Gemini for PRD -&gt; wireframe -&gt; designs\n\n4. Codex builds infra (stack pre-selected)\n\n4. Bastardized BMAD/Wiggum to build app\n\n6. Codex s",
+      "likes": 106,
+      "retweets": 5,
+      "url": "https://x.com/Austen/status/2020178449407611227"
+    }
+  ]
+}

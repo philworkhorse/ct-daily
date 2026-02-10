@@ -1,0 +1,224 @@
+{
+  "timestamp": "2026-02-05T23:23:02.173Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 4,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$WIPED",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$GOYIM",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$LMAO",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$PEACE",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WIPED",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$GOYIM",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$LMAO",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$PEACE",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$WIPED": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @AlphaTrencher verified earnings for $WIPED on @BagsApp 💰\n\nhttps://t.co/v5FWx2qxrx",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "Palgrani2",
+        "text": "RT @alexxxx: Wow $BUTTCOIN strength in this current market is remarkable. \n\nThis is THE one. https://t.co/Dk30MfiDuR",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$GOYIM": [
+      {
+        "author": "LexaproTrader",
+        "text": "Bottom on $GOYIM.\n\nDipped further than it should have due to macro panic and the overall bad vibes in the space over the last 24 hours. \n\nBut it’s the strongest new play to emerge in recent memory- th",
+        "likes": 22,
+        "retweets": 7
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $23.39K of $hyUSD at $20.72M MC 🐳\n\nhttps://t.co/q4qUyxkWfZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $24.94K of $PENGUIN at $19.21M MC 🐳\n\nhttps://t.co/7FQKq2mBoG",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "i told you the most reliable assets to buy during this dip.\n\n$LMAO!\n\n$testicle \n\n$WOJAK\n\nand maybe $PEACE bc @retardmode is undervalued tech, not priced in at all for how viral his app has gone.\n\nand ",
+        "likes": 17,
+        "retweets": 1
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "slingoorio",
+        "text": "i told you the most reliable assets to buy during this dip.\n\n$LMAO!\n\n$testicle \n\n$WOJAK\n\nand maybe $PEACE bc @retardmode is undervalued tech, not priced in at all for how viral his app has gone.\n\nand ",
+        "likes": 17,
+        "retweets": 1
+      }
+    ],
+    "$PEACE": [
+      {
+        "author": "slingoorio",
+        "text": "i told you the most reliable assets to buy during this dip.\n\n$LMAO!\n\n$testicle \n\n$WOJAK\n\nand maybe $PEACE bc @retardmode is undervalued tech, not priced in at all for how viral his app has gone.\n\nand ",
+        "likes": 17,
+        "retweets": 1
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "CookerFlips",
+        "text": "One of the biggest issues with being early to something is you get this sort of recency bias. You were there for $HYPE dip to $20 but don’t wanna swap to it here cuz now you feel like you’re buying so",
+        "likes": 39,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "crypto: -80%\nstocks: -15%\ncommodities: -10%\ncurrencies: -0.1%\nhermes bags: +5%\n\ncongrats gentlemen, you got out-traded by your girl",
+      "likes": 496,
+      "retweets": 25,
+      "url": "https://x.com/mert/status/2019533161344999650"
+    },
+    {
+      "author": "KookCapitalLLC",
+      "text": "bitcoin trading like we found out epstein is satoshi https://t.co/qMIaOvj5BF",
+      "likes": 441,
+      "retweets": 35,
+      "url": "https://x.com/KookCapitalLLC/status/2019507732299280436"
+    },
+    {
+      "author": "based16z",
+      "text": "Dave Portnoy and Grant Cardone bids filling while you're panic selling...",
+      "likes": 238,
+      "retweets": 14,
+      "url": "https://x.com/based16z/status/2019536125703122989"
+    },
+    {
+      "author": "mert",
+      "text": "cant believe the asset class that's went down 80% 40 times before just went down 80% here",
+      "likes": 209,
+      "retweets": 9,
+      "url": "https://x.com/mert/status/2019541874802086369"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "SAYLOR SAID IT THEY ARE FUNDING QUANTUM RESEARCH HE SAID THE THING HE SAID THE THING",
+      "likes": 126,
+      "retweets": 8,
+      "url": "https://x.com/notthreadguy/status/2019544761309466856"
+    },
+    {
+      "author": "frankdegods",
+      "text": "good enough for me, send it back to 100k https://t.co/mWkaSwmaFE",
+      "likes": 125,
+      "retweets": 8,
+      "url": "https://x.com/frankdegods/status/2019544408371392887"
+    }
+  ]
+}

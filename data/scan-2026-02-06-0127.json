@@ -1,0 +1,186 @@
+{
+  "timestamp": "2026-02-06T01:27:35.634Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 5,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$NAKA",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$NAKA",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 2,
+      "gold": 1
+    },
+    "metals": {
+      "silver": 2,
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "Tradermayne",
+        "text": "So this time wasn't different, the 4 year cycle remains king and $BTC topped in Q4, 4 years after the prior top. \n\nI can only assume then that this bear market will play out similar to the prior ones ",
+        "likes": 330,
+        "retweets": 25
+      },
+      {
+        "author": "astronomer_zero",
+        "text": "RT @astronomer_zero: $BTC\n\n63k, midpoint htf POI and silver pocket hit.\n\nDo we get our bounce and form a range?\n\nI don't believe in hope th…",
+        "likes": 0,
+        "retweets": 15
+      }
+    ],
+    "$NAKA": [
+      {
+        "author": "1914ad",
+        "text": "At what price does the $NAKA margin call trigger?​​​​​​​​​​​​​​​​\n\nWho has the numbers?\n\nWould be nice for any remaining shareholders to be aware.",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $16.75K of $cbBTC at $284.82M MC 🐳\n\nhttps://t.co/0dP0GXdrXV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "CookerFlips",
+        "text": "Dumbass traders will try to bottom tick $SOL instead of buying $HYPE just cuz one is down so surely it goes up \n\nThe ROI is better fallacy \n\nHeadass",
+        "likes": 16,
+        "retweets": 1
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "CookerFlips",
+        "text": "Dumbass traders will try to bottom tick $SOL instead of buying $HYPE just cuz one is down so surely it goes up \n\nThe ROI is better fallacy \n\nHeadass",
+        "likes": 16,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "By far the most vicious selling I’ve seen in Crypto, feels forced, indiscriminate.\n\nFew theories:\n\n- Secret Sovereign dumping $10B+ (Saudi/UAE/Russia/China)\n \n- Exchange blowup, or Exchange that had tens of billions of dollars of Bitcoin on the balance sheet forced to sell for wh",
+      "likes": 677,
+      "retweets": 42,
+      "url": "https://x.com/ThinkingUSD/status/2019572664302510274"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "So this time wasn't different, the 4 year cycle remains king and $BTC topped in Q4, 4 years after the prior top. \n\nI can only assume then that this bear market will play out similar to the prior ones and BTC will eventually make it's way towards the 79% fib. \n\nLast cycle I though",
+      "likes": 330,
+      "retweets": 25,
+      "url": "https://x.com/Tradermayne/status/2019574527559364858"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Longing some btc and eth",
+      "likes": 219,
+      "retweets": 6,
+      "url": "https://x.com/lBattleRhino/status/2019566087751496151"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "\"good, now do quintirrion\" https://t.co/MCCng7sHLh",
+      "likes": 153,
+      "retweets": 5,
+      "url": "https://x.com/DipWheeler/status/2019571803107258869"
+    },
+    {
+      "author": "icobeast",
+      "text": "Have just entered my largest DeFi position in 18 months. \n\nI believe this one is likely to be my most profitable ever. Don't want to reveal it just yet for dilution reasons, but will update as we go :)",
+      "likes": 143,
+      "retweets": 0,
+      "url": "https://x.com/icobeast/status/2019459049889149238"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "You can be right and still fuck it up though. \n\nI expected the 4 year cycle to remain.\n\nI sold some on the way up but I didn't cash out all my spot. \n\nMissed the actual top and then was too bullish on where the lower high would form. \n\nExecution is all that really matters, not wh",
+      "likes": 132,
+      "retweets": 6,
+      "url": "https://x.com/Tradermayne/status/2019576101170024670"
+    },
+    {
+      "author": "Pentosh1",
+      "text": "$btc has rallied 4-5k today in the first two hours since the daily open. Just as we planned. If it continues at this pace it could rally 40-50k by the close. \n\n🚀 🌙",
+      "likes": 129,
+      "retweets": 4,
+      "url": "https://x.com/Pentosh1/status/2019582336011235726"
+    },
+    {
+      "author": "mert",
+      "text": "see this is why circuit breakers exist in non imaginary markets",
+      "likes": 122,
+      "retweets": 1,
+      "url": "https://x.com/mert/status/2019572396202815806"
+    }
+  ]
+}

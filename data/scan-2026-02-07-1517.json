@@ -1,0 +1,226 @@
+{
+  "timestamp": "2026-02-07T15:17:48.827Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 5,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$AINA",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$SPLAT",
+      1
+    ],
+    [
+      "$LORIA",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$AINA",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$SPLAT",
+        "count": 1
+      },
+      {
+        "ticker": "$LORIA",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "copper": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1,
+      "fed": 3,
+      "rate cut": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/3IDBLPAYyI",
+        "likes": 79,
+        "retweets": 1
+      }
+    ],
+    "$AINA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @dai_ph_investor verified earnings for $AINA on @BagsApp 💰\n\nhttps://t.co/ntLqH5GqO6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$HYPE update\n\nSL moved below Daily demand into 29's~ where the profit we just took would offset potential loss. The goal isn't to be breakeven, but if the levels allow for it, then I'll take it. Loss ",
+        "likes": 9,
+        "retweets": 0
+      }
+    ],
+    "$SPLAT": [
+      {
+        "author": "leftcurvemaxing",
+        "text": "For anyone interested in the progress of @splatworldvr, I've got a development update for you. I appreciate everybody's patience, it's been a pretty large overhaul that's taken a lot of time and thoug",
+        "likes": 70,
+        "retweets": 17
+      }
+    ],
+    "$LORIA": [
+      {
+        "author": "iruletrenches",
+        "text": "RT @Wisemenmentors: 175 days ago, we published our first Audio content on  $LORIA. August 15, 2025.\n\nTruth Terminal. @AndyAyrey . The entir…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $8.84K of $TOILET at $2.05M MC 🐳\n\nhttps://t.co/R7Cl4X9i2w",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $8.84K of $TOILET at $2.05M MC 🐳\n\nhttps://t.co/R7Cl4X9i2w",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "0xFinish",
+        "text": "No one is buying $BTC, I repeat, there is 0 fucking volume\n\nSomething changed, and we will discover soon enough\n\nThis is a deliberate attack on crypto, can't share more for now https://t.co/e0bDbeZJkB",
+        "likes": 7,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "How will you explain to your kids and grandkids that you had one final chance to buy BTC under $65k USD before it runs to $250k USD.\n\nBut you chose to doompost on CT instead?\n\nYou're an embarrassment to your bloodline",
+      "likes": 371,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2020112230176477255"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "hi i’m equinox and i cost $400 a month to be a shockingly mid gym  and im always so crowded you’ll never do the workout you planned oh and also i close at 7pm because i fucking hate you fuck you. bitch",
+      "likes": 248,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2019950976040317203"
+    },
+    {
+      "author": "inversebrah",
+      "text": "HOWS SHE SO FAST WTF",
+      "likes": 193,
+      "retweets": 4,
+      "url": "https://x.com/inversebrah/status/2020106163946180745"
+    },
+    {
+      "author": "inversebrah",
+      "text": "HOWS SHE SO FAST WTF",
+      "likes": 193,
+      "retweets": 4,
+      "url": "https://x.com/inversebrah/status/2020106163946180745"
+    },
+    {
+      "author": "CL207",
+      "text": "ski'd with my nmeow jez today 😎 https://t.co/CqM0SEmPSH",
+      "likes": 153,
+      "retweets": 1,
+      "url": "https://x.com/CL207/status/2020120489209868515"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "gm to everyone still here",
+      "likes": 122,
+      "retweets": 1,
+      "url": "https://x.com/CryptoKaleo/status/2020140863301484854"
+    },
+    {
+      "author": "icobeast",
+      "text": "I find it kinda funny that CT is wrong about basically everything but is also convinced they’ve uncovered some hidden subplot about a HK tradfi fund that blew up sparking the global BTC selloff",
+      "likes": 116,
+      "retweets": 4,
+      "url": "https://x.com/icobeast/status/2020114228565184910"
+    },
+    {
+      "author": "inversebrah",
+      "text": "weekend https://t.co/EaneWJkGf8",
+      "likes": 100,
+      "retweets": 1,
+      "url": "https://x.com/inversebrah/status/2020118094103081386"
+    }
+  ]
+}

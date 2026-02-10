@@ -1,0 +1,200 @@
+{
+  "timestamp": "2026-02-09T04:07:22.643Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 3,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$FITCOIN",
+      1
+    ],
+    [
+      "$FITTED",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$FITCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$FITTED",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "gold": 1,
+      "oil": 2
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 1
+    },
+    "macro": {
+      "bond": 1,
+      "gdp": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.1K of $Buttcoin at $30.61M MC 🐳\n\nhttps://t.co/M3sm0FVz4L",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $20.61K of $PENGUIN at $30.98M MC 🐳\n\nhttps://t.co/kPR54q6Mx4",
+        "likes": 5,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $14.76K of $PENGUIN at $30.13M MC 🐳\n\nhttps://t.co/GJCkoKbluu",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $20.61K of $PENGUIN at $30.98M MC 🐳\n\nhttps://t.co/kPR54q6Mx4",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$FITCOIN": [
+      {
+        "author": "0xDamien",
+        "text": "RT @0xDamien: down -99% on $FITCOIN / $FITTED but still holding and dont plan on selling\n\n@fittedcloset @BagsApp https://t.co/gR0o4PB2QQ",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$FITTED": [
+      {
+        "author": "0xDamien",
+        "text": "RT @0xDamien: down -99% on $FITCOIN / $FITTED but still holding and dont plan on selling\n\n@fittedcloset @BagsApp https://t.co/gR0o4PB2QQ",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $14.76K of $PENGUIN at $30.13M MC 🐳\n\nhttps://t.co/GJCkoKbluu",
+        "likes": 2,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "rasmr_eth",
+      "text": "People gonna think Logan’s being based but this is clearly the result of some incestual hollywood nonsense where bad bunny tried to fuck his girl 3 years ago",
+      "likes": 652,
+      "retweets": 0,
+      "url": "https://x.com/rasmr_eth/status/2020622382508171566"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Base is for everybooooody.",
+      "likes": 258,
+      "retweets": 26,
+      "url": "https://x.com/jessepollak/status/2020678183084048474"
+    },
+    {
+      "author": "inversebrah",
+      "text": "🫠🫠🫠 https://t.co/K52BLfMrSj",
+      "likes": 140,
+      "retweets": 1,
+      "url": "https://x.com/inversebrah/status/2020679556747936230"
+    },
+    {
+      "author": "wrld_sol",
+      "text": "9/10 times I open this app the first thing I see is people fudding other peoples bags \n\nYesterday I had people coming at me for publicly buying and HOLDING a coin lmao (real)\n\nIt’s pretty crazy to see how backwards this space has gone. Do yall want retail to come back or?",
+      "likes": 134,
+      "retweets": 7,
+      "url": "https://x.com/wrld_sol/status/2020693694752674295"
+    },
+    {
+      "author": "Grummz",
+      "text": "I love 80s tech look so much.\n\nBring this back.",
+      "likes": 131,
+      "retweets": 3,
+      "url": "https://x.com/Grummz/status/2020704125189808331"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "So is the kicker the MVP? \n\n5 field goals.",
+      "likes": 125,
+      "retweets": 0,
+      "url": "https://x.com/Tradermayne/status/2020692845376786822"
+    },
+    {
+      "author": "Grummz",
+      "text": "This will happen to AI games too. https://t.co/MnT6BGQHOD",
+      "likes": 118,
+      "retweets": 10,
+      "url": "https://x.com/Grummz/status/2020708352209420715"
+    },
+    {
+      "author": "toly",
+      "text": "Every cycle we need to get back to basics.  Self custody and trustless and verified immutable software.",
+      "likes": 110,
+      "retweets": 9,
+      "url": "https://x.com/toly/status/2020703492177088852"
+    },
+    {
+      "author": "based16z",
+      "text": "No sure I can do enough blow to make this game interesting",
+      "likes": 105,
+      "retweets": 0,
+      "url": "https://x.com/based16z/status/2020678824284086750"
+    }
+  ]
+}

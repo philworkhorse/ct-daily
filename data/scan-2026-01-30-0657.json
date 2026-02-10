@@ -1,0 +1,186 @@
+{
+  "timestamp": "2026-01-30T06:57:00.560Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 2,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ELON",
+      6
+    ],
+    [
+      "$INX",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ELON",
+        "count": 6
+      },
+      {
+        "ticker": "$INX",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$INX": [
+      {
+        "author": "waleswoosh",
+        "text": "Infinex TGE today and barely anyone on my timeline is talking about it.\n\nPolymarket now puts the odds of $INX trading above $300M USD at just 25%.\n\nA few weeks ago, people were calling everyone stupid",
+        "likes": 115,
+        "retweets": 2
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Saint_pablo123 just bought $1.7K of $ELON at $6.75M MC 🐳\n\nhttps://t.co/awdMFcBaw1",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Saint_pablo123 just bought $1.67K of $ELON at $6.75M MC 🐳\n\nhttps://t.co/awdMFcBaw1",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ElonFromWish_ verified earnings for $ELON on @BagsApp 💰\n\nhttps://t.co/Ha726jAuob",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Loopierr just bought $1.1K of $ELON at $6.54M MC 🐳\n\nhttps://t.co/THHYz6O5oK",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.49K of $ELON at $6.43M MC 🐳\n\nhttps://t.co/kiwmrrzWYG",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $2.28K of $ELON at $6.49M MC 🐳\n\nhttps://t.co/NYb3zChszl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.49K of $ELON at $6.43M MC 🐳\n\nhttps://t.co/kiwmrrzWYG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $2.28K of $ELON at $6.49M MC 🐳\n\nhttps://t.co/NYb3zChszl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Dexerto",
+      "text": "Lore-accurate Chewbacca player goes wild after Luke Skywalker dies in front of him\n\n🎥: u/Jls-BeenCheezin https://t.co/nFN274t4js",
+      "likes": 7709,
+      "retweets": 327,
+      "url": "https://x.com/Dexerto/status/2016753176876126575"
+    },
+    {
+      "author": "NFL",
+      "text": "Jessie Bates III played center field perfectly on the pick-6 https://t.co/jxEVwSPtp1",
+      "likes": 1086,
+      "retweets": 98,
+      "url": "https://x.com/NFL/status/2005823596296294526"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 487,
+      "retweets": 59,
+      "url": "https://x.com/Neuravision_A/status/2012979139880566854"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Builders will win.",
+      "likes": 396,
+      "retweets": 27,
+      "url": "https://x.com/jessepollak/status/2017104161398300838"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, back to the gutter https://t.co/0ViXG9ExF9",
+      "likes": 358,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2017115591002427575"
+    },
+    {
+      "author": "traderpow",
+      "text": "If we win here, amazing performance from the holders during a volatile day. \n\nIf we don't, it was the best showing we've seen in a very long time.\n\nLet's dance, hope to see us all win here. GL",
+      "likes": 189,
+      "retweets": 11,
+      "url": "https://x.com/traderpow/status/2017106553976082861"
+    },
+    {
+      "author": "LomahCrypto",
+      "text": "Tldr;\n\nBinance SAFU Fund will be used to buy $1B in Bitcoin over the next 30 days.\n\nIf that amount ever drops below $800M (a 20% drop on Bitcoin), Binance will top it off to $1B again.",
+      "likes": 183,
+      "retweets": 9,
+      "url": "https://x.com/LomahCrypto/status/2017104610159448220"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Infinex TGE today and barely anyone on my timeline is talking about it.\n\nPolymarket now puts the odds of $INX trading above $300M USD at just 25%.\n\nA few weeks ago, people were calling everyone stupid for not participating in the presale round at a $300M FDV with a 12-month locku",
+      "likes": 115,
+      "retweets": 2,
+      "url": "https://x.com/waleswoosh/status/2017122457782722861"
+    }
+  ]
+}

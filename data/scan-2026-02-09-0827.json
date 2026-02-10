@@ -1,0 +1,201 @@
+{
+  "timestamp": "2026-02-09T08:27:57.555Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 3,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ZSNIPER",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$LIT",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ZSNIPER",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$LIT",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$ZSNIPER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/T9ThhDhoiy verified earnings for $ZSNIPER on @BagsApp 💰\n\nhttps://t.co/2Tm0EbGiXU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "cryptomanran",
+        "text": "I think my suspicions re: things going (badly) sour at Multicoin may be correct.\n\nThere is a clear disconnect between what the firm is doing and @KyleSamani's views. It feels extreme!\n\nAs and example,",
+        "likes": 20,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "crypto_banter",
+        "text": "RT @thelordofentry: $BTC 2hr\n\nSupport: 67500 to 66k  \nResistance : 72k, 75100\n\nSimple.\n\nTough out there but we're still here. Let's have a…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $9.5K of $PENGUIN at $29.81M MC 🐳\n\nhttps://t.co/fJu2xJdwKv",
+        "likes": 10,
+        "retweets": 1
+      }
+    ],
+    "$LIT": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Lighter ( $LIT) just printed a strong impulsive move, but is still trading inside a large multi-week range.\n\nWhat I am watching:\n- Price holding above the trendline and EMA ribbon\n- Consolidation at t",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $70.35K of $jlEURC at $16.61M MC 🐳\n\nhttps://t.co/fVistQLddA",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "brian_armstrong",
+      "text": "I loved the idea for our Super Bowl ad as soon as the team showed it to me. It's unique, just like our QR code ad in 2022.\n\nMost people half watch commercials (buzzed, in a loud room, with lots of people). It takes something unique to break through.\n\nTurning 100M+ screens into ka",
+      "likes": 3636,
+      "retweets": 196,
+      "url": "https://x.com/brian_armstrong/status/2020666148258304017"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, new week let's get it https://t.co/TZqZcCjR8T",
+      "likes": 678,
+      "retweets": 19,
+      "url": "https://x.com/waleswoosh/status/2020739461869670891"
+    },
+    {
+      "author": "wrld_sol",
+      "text": "9/10 times I open this app the first thing I see is people fudding other peoples bags \n\nYesterday I had people coming at me for publicly buying and HOLDING a coin lmao (real)\n\nIt’s pretty crazy to see how backwards this space has gone. Do yall want retail to come back or?",
+      "likes": 228,
+      "retweets": 15,
+      "url": "https://x.com/wrld_sol/status/2020693694752674295"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "MegaETH mainnet today.\n\nWhat apps should I check out day 1?",
+      "likes": 221,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020758685681946978"
+    },
+    {
+      "author": "frankdegods",
+      "text": "agents cant open bank accounts. crypto is literally the only way they can hold and move money autonomously.",
+      "likes": 215,
+      "retweets": 24,
+      "url": "https://x.com/frankdegods/status/2020757138285510993"
+    },
+    {
+      "author": "jessepollak",
+      "text": "I love @nounsdao and anons is nouns for agents \n\nvery cool build by @ClawdiaBotAI",
+      "likes": 188,
+      "retweets": 18,
+      "url": "https://x.com/jessepollak/status/2020725407293825221"
+    },
+    {
+      "author": "solana",
+      "text": "The Agent Hackathon has 3 days left\n\n→ 1,065 agents building \n→ 497 projects in motion \n→ 7,333 votes cast \n→ 20K+ comments\n\n $100K in prizes to be won",
+      "likes": 183,
+      "retweets": 26,
+      "url": "https://x.com/solana/status/2020763325521666541"
+    },
+    {
+      "author": "frankdegods",
+      "text": "ai is going to be so big, i dont think u get it which is unfortunate because you spend all your time on screens anyway",
+      "likes": 146,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2020759275111346673"
+    },
+    {
+      "author": "frankdegods",
+      "text": "mama said when u run outta luck bet on yourself",
+      "likes": 128,
+      "retweets": 17,
+      "url": "https://x.com/frankdegods/status/2020755864861233588"
+    },
+    {
+      "author": "GwartyGwart",
+      "text": "@brian_armstrong Why didn’t you run one of those bitcoin ads you had during UFC last year? Those were really good. You have a huge platform during the Super Bowl to shill something of value in crypto. Not saying karaoke is of 0 value it just seems like wasted opportunity",
+      "likes": 119,
+      "retweets": 0,
+      "url": "https://x.com/GwartyGwart/status/2020684000625398060"
+    }
+  ]
+}

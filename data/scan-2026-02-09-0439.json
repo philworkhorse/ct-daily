@@ -1,0 +1,137 @@
+{
+  "timestamp": "2026-02-09T04:39:04.393Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 2,
+    "neutral": 93,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$DIME",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$DIME",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$DIME": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @alanxue_ verified earnings for $DIME on @BagsApp 💰\n\nhttps://t.co/Gc0c6CdOFC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.05K of $WOJAK at $13.98M MC 🐳\n\nhttps://t.co/nPh0vAnBvJ",
+        "likes": 5,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.1K of $Buttcoin at $30.61M MC 🐳\n\nhttps://t.co/M3sm0FVz4L",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.05K of $WOJAK at $13.98M MC 🐳\n\nhttps://t.co/nPh0vAnBvJ",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $13.85K of $SOL at $3.84M MC 🐳\n\nhttps://t.co/wDES0o7q7g",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $13.85K of $SOL at $3.84M MC 🐳\n\nhttps://t.co/wDES0o7q7g",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "rasmr_eth",
+      "text": "People gonna think Logan’s being based but this is clearly the result of some incestual hollywood nonsense where bad bunny tried to fuck his girl 3 years ago",
+      "likes": 877,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2020622382508171566"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "So is the kicker the MVP? \n\n5 field goals.",
+      "likes": 133,
+      "retweets": 0,
+      "url": "https://x.com/Tradermayne/status/2020692845376786822"
+    }
+  ]
+}

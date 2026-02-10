@@ -1,0 +1,265 @@
+{
+  "timestamp": "2026-02-07T15:49:22.315Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 7,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$FBTC",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$FISTULA",
+      1
+    ],
+    [
+      "$BLOWFISH",
+      1
+    ],
+    [
+      "$SNOXY",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$FBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$FISTULA",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 1
+      },
+      {
+        "ticker": "$SNOXY",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 2,
+      "gold": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "gdp": 1,
+      "yields": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @CarpeNoctom: Weekly $BTC ETF net flows = -$358m*\n\ndont blame the ETFs for last week's move\n\n* $FBTC still unreported for Fri https://t.…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$FBTC": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @CarpeNoctom: Weekly $BTC ETF net flows = -$358m*\n\ndont blame the ETFs for last week's move\n\n* $FBTC still unreported for Fri https://t.…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @bellx_crypto: reminder there are still some hats available on the website - https://t.co/6gJqQRVQyK\n\n$REKT WORLD DOMINATION https://t.c…",
+        "likes": 0,
+        "retweets": 4
+      },
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/3IDBLPAYyI",
+        "likes": 89,
+        "retweets": 3
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $6.92K of $AVICI at $17.73M MC 🐳\n\nhttps://t.co/6XLw0Z4ooj",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "Unsure what will bring mass volume back to the older sector of @Pumpfun memes, but in the case of $USDUC, it could be anything. A whale taking one of the omnichain pairs, (ETH / @base / @HyperliquidX)",
+        "likes": 6,
+        "retweets": 2
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.63K of $PENGUIN at $21.12M MC 🐳\n\nhttps://t.co/4bejApp4EI",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$FISTULA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Fistula_Fndt verified earnings for $FISTULA on @BagsApp 💰\n\nhttps://t.co/XVc3NOSLWO",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $7.56K of $BLOWFISH at $1.47M MC 🐳\n\nhttps://t.co/NWobEPpBEp",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$SNOXY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @snoxy77 verified earnings for $SNOXY on @BagsApp 💰\n\nhttps://t.co/oY5UTL1NkT",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "docXBT",
+      "text": "Now that over a year has passed it’s wild to think I really closed my giga delusional conviction trades, took cash to the bank, moved across the country, got a house and changed my life at the top. Also had enough experience or foresight by then to stay in trader mode waiting to ",
+      "likes": 421,
+      "retweets": 14,
+      "url": "https://x.com/docXBT/status/2019962192305525155"
+    },
+    {
+      "author": "docXBT",
+      "text": "Now that over a year has passed it’s wild to think I really closed my giga delusional conviction trades, took cash to the bank, moved across the country, got a house and changed my life at the top. Also had enough experience or foresight by then to stay in trader mode waiting to ",
+      "likes": 421,
+      "retweets": 14,
+      "url": "https://x.com/docXBT/status/2019962192305525155"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "How will you explain to your kids and grandkids that you had one final chance to buy BTC under $65k USD before it runs to $250k USD.\n\nBut you chose to doompost on CT instead?\n\nYou're an embarrassment to your bloodline",
+      "likes": 386,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2020112230176477255"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "hi i’m equinox and i cost $400 a month to be a shockingly mid gym  and im always so crowded you’ll never do the workout you planned oh and also i close at 7pm because i fucking hate you fuck you. bitch",
+      "likes": 258,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2019950976040317203"
+    },
+    {
+      "author": "inversebrah",
+      "text": "HOWS SHE SO FAST WTF",
+      "likes": 219,
+      "retweets": 4,
+      "url": "https://x.com/inversebrah/status/2020106163946180745"
+    },
+    {
+      "author": "CL207",
+      "text": "ski'd with my nmeow jez today 😎 https://t.co/CqM0SEmPSH",
+      "likes": 164,
+      "retweets": 1,
+      "url": "https://x.com/CL207/status/2020120489209868515"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "gm to everyone still here",
+      "likes": 156,
+      "retweets": 1,
+      "url": "https://x.com/CryptoKaleo/status/2020140863301484854"
+    },
+    {
+      "author": "mert",
+      "text": "dev talking about price",
+      "likes": 130,
+      "retweets": 4,
+      "url": "https://x.com/mert/status/2020149312852774962"
+    },
+    {
+      "author": "icobeast",
+      "text": "I find it kinda funny that CT is wrong about basically everything but is also convinced they’ve uncovered some hidden subplot about a HK tradfi fund that blew up sparking the global BTC selloff",
+      "likes": 121,
+      "retweets": 5,
+      "url": "https://x.com/icobeast/status/2020114228565184910"
+    },
+    {
+      "author": "inversebrah",
+      "text": "weekend https://t.co/EaneWJkGf8",
+      "likes": 107,
+      "retweets": 1,
+      "url": "https://x.com/inversebrah/status/2020118094103081386"
+    }
+  ]
+}

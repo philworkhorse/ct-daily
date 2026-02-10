@@ -1,0 +1,204 @@
+{
+  "timestamp": "2026-01-31T09:53:06.225Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 3,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$KAITO",
+      1
+    ],
+    [
+      "$AI",
+      1
+    ],
+    [
+      "$MOLTBOOK",
+      1
+    ],
+    [
+      "$AGENC",
+      1
+    ],
+    [
+      "$BLON",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$KAITO",
+        "count": 1
+      },
+      {
+        "ticker": "$AI",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTBOOK",
+        "count": 1
+      },
+      {
+        "ticker": "$AGENC",
+        "count": 1
+      },
+      {
+        "ticker": "$BLON",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/JgbdgvTmXG",
+        "likes": 45,
+        "retweets": 2
+      }
+    ],
+    "$KAITO": [
+      {
+        "author": "waleswoosh",
+        "text": "This is a scheduled post from January 1st, 2026.\n\nBy the end of the month, I predict:\n\nBTC at $115,000 USD.\n\nETH at $4,250 USD.\n\nSOL at $180 USD.\n\n$KAITO at $1.25 USD",
+        "likes": 253,
+        "retweets": 5
+      }
+    ],
+    "$AI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AI16Z whale just bought $1.01K of $MOLTBOOK at $525.84K MC 🐳\n\nhttps://t.co/kH9eK2otXc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTBOOK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AI16Z whale just bought $1.01K of $MOLTBOOK at $525.84K MC 🐳\n\nhttps://t.co/kH9eK2otXc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AGENC": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @testuoai verified earnings for $AGENC on @BagsApp 💰\n\nhttps://t.co/0ovxhX1nQ5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BLON": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @shawmakesmagic verified earnings for $BLON on @BagsApp 💰\n\nhttps://t.co/xpY2FjpOik",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $5.64K of $USELESS at $56.66M MC 🐳\n\nhttps://t.co/dmC5tb3IsM",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.7K of $PENGUIN at $48.12M MC 🐳\n\nhttps://t.co/r9J4xZlefg",
+        "likes": 6,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "StateFarm",
+      "text": "Something even bigger to be unveiled 2.8.26",
+      "likes": 1923,
+      "retweets": 90,
+      "url": "https://x.com/StateFarm/status/2015814352847392934"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "This is a scheduled post from January 1st, 2026.\n\nBy the end of the month, I predict:\n\nBTC at $115,000 USD.\n\nETH at $4,250 USD.\n\nSOL at $180 USD.\n\n$KAITO at $1.25 USD",
+      "likes": 253,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2017514470923505714"
+    },
+    {
+      "author": "based16z",
+      "text": "Redownloaded fomo on new phone and it’s just frank degods raping ppl. Movie",
+      "likes": 163,
+      "retweets": 5,
+      "url": "https://x.com/based16z/status/2017516730453553635"
+    },
+    {
+      "author": "based16z",
+      "text": "Redownloaded fomo on new phone and it’s just frank degods raping ppl. Movie",
+      "likes": 163,
+      "retweets": 5,
+      "url": "https://x.com/based16z/status/2017516730453553635"
+    },
+    {
+      "author": "allihubAI",
+      "text": "A new benchmark for AI video creation.\n\nPowered by advanced reasoning and high-precision visual systems,\nit delivers cinematic 8K video with controlled motion and refined detail.\n\nSimplified workflows. Faster iteration.\nConsistent, professional-grade results — every time.",
+      "likes": 113,
+      "retweets": 34,
+      "url": "https://x.com/allihubAI/status/2016817036631195852"
+    }
+  ]
+}

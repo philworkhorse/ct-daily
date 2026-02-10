@@ -1,0 +1,202 @@
+{
+  "timestamp": "2026-02-05T13:00:32.257Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 10,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$GOOGL",
+      1
+    ],
+    [
+      "$SPLAT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$SPLAT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$GOOGL",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 2,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 2
+    },
+    "macro": {
+      "treasury": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "PARABOLIT",
+        "text": "$2B in shorts stacked on $BTC\n\nThis squeeze will be biblical https://t.co/jYIes2epaq",
+        "likes": 13,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $3.55K of $1 at $3.96M MC 🐳\n\nhttps://t.co/Uo0dpIepsd",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.51K of $BigTrout at $3.97M MC 🐳\n\nhttps://t.co/JIcP9oA7q9",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.62K of $BigTrout at $3.77M MC 🐳\n\nhttps://t.co/7gckUResiy",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GOOGL": [
+      {
+        "author": "DeItaone",
+        "text": "$GOOGL - GOOGLE FALL OVER 4% PRE-MARKET TO $319.35",
+        "likes": 93,
+        "retweets": 13
+      }
+    ],
+    "$SPLAT": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Loopierr just bought $3.9K of $SPLAT at $1.02M MC 🐳\n\nhttps://t.co/eReLtspCym",
+        "likes": 2,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "I have never been more optimistic about crypto's future \n\nlet the tourists bleed out and leave \n\nwe needed to improve signal:noise ratio in this space, this will do that\n\ntrillions",
+      "likes": 527,
+      "retweets": 35,
+      "url": "https://x.com/mert/status/2019367054948856294"
+    },
+    {
+      "author": "NewsyJohnson",
+      "text": "Sentiment worse than FTX and literally nothing happened.\n\nSpot chads unbothered \n\nNewsy Johnson https://t.co/HJb185CgFn",
+      "likes": 471,
+      "retweets": 14,
+      "url": "https://x.com/NewsyJohnson/status/2019184092407800287"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Vitalik is doubling down on his take on Ethereum L2s.\n\nTLDR: Actually bring something new to the table and \"vibes should match substance\".\n\nHe specifically mentions some use cases and also institutional adoption as useful areas.\n\nWe've seen quite a few chains built around that ta",
+      "likes": 243,
+      "retweets": 26,
+      "url": "https://x.com/waleswoosh/status/2019369044793774488"
+    },
+    {
+      "author": "cobie",
+      "text": "@NewsyJohnson &gt;this spot chad is a little bothered",
+      "likes": 223,
+      "retweets": 4,
+      "url": "https://x.com/cobie/status/2019392108977877392"
+    },
+    {
+      "author": "mert",
+      "text": "all enemies of crypto will be extinguished and destroyed\n\ncapitalism is the greatest invention of humanity\n\ncrypto evolves capitalism\n\nthere is no stopping this train",
+      "likes": 208,
+      "retweets": 16,
+      "url": "https://x.com/mert/status/2019377117490999362"
+    },
+    {
+      "author": "mert",
+      "text": "my pet theory is that the markets are basically pricing in a medium-length war in the middle east https://t.co/dV5Z7zbqb4",
+      "likes": 199,
+      "retweets": 5,
+      "url": "https://x.com/mert/status/2019379062582723022"
+    },
+    {
+      "author": "himgajria",
+      "text": "Times like these get rid of the traders. \nTimes like these consolidate supply with the believers. \n\nBetter entries. \nMore supply control. \nLonger rallies when the tides turn.",
+      "likes": 172,
+      "retweets": 26,
+      "url": "https://x.com/himgajria/status/2019376686958297476"
+    },
+    {
+      "author": "mert",
+      "text": "CUT THE FUCKING RATES JPOW",
+      "likes": 167,
+      "retweets": 5,
+      "url": "https://x.com/mert/status/2019387225075773673"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Currently down 1.5 ETH on this investment https://t.co/kpApE3AFXO",
+      "likes": 151,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2019384324840386902"
+    },
+    {
+      "author": "cryptomanran",
+      "text": "Fuck Crypto! https://t.co/CSnhDcdCOM",
+      "likes": 141,
+      "retweets": 7,
+      "url": "https://x.com/cryptomanran/status/2019391708883218887"
+    }
+  ]
+}

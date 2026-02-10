@@ -1,0 +1,225 @@
+{
+  "timestamp": "2026-02-06T01:00:55.139Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 10,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      4
+    ],
+    [
+      "$CBBTC",
+      2
+    ],
+    [
+      "$SOL",
+      2
+    ],
+    [
+      "$POLY",
+      1
+    ],
+    [
+      "$XRP",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CBBTC",
+        "count": 2
+      },
+      {
+        "ticker": "$POLY",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 4
+      },
+      {
+        "ticker": "$SOL",
+        "count": 2
+      },
+      {
+        "ticker": "$XRP",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "Tradermayne",
+        "text": "So this time wasn't different, the 4 year cycle remains king and $BTC topped in Q4, 4 years after the prior top. \n\nI can only assume then that this bear market will play out similar to the prior ones ",
+        "likes": 140,
+        "retweets": 12
+      },
+      {
+        "author": "Crypto_Chase",
+        "text": "Currently dungeon grinding but here's update on $BTC iceberg. 61K avg. https://t.co/e1D1N9vyxy",
+        "likes": 39,
+        "retweets": 0
+      },
+      {
+        "author": "crypto_bitlord7",
+        "text": "Updated crypto support levels:\n\n$BTC $8.2k\n$XRP $0.14c\n$SOL $5\n$ETH $200-300\n\nGood luck everyone 👍",
+        "likes": 24,
+        "retweets": 2
+      },
+      {
+        "author": "iamkadense",
+        "text": "My $BTC bids against this force selling cascade https://t.co/e9ztXKc6cW",
+        "likes": 14,
+        "retweets": 1
+      }
+    ],
+    "$POLY": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @zoomerfied: [ ZOOMER ]\n\nPOLYMARKET FILES TRADEMARK FOR $POLY TOKEN: SYNOPTIC",
+        "likes": 0,
+        "retweets": 21
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $64.99K of $cbBTC at $282.71M MC 🐳\n\nhttps://t.co/RuXeUBGjTX",
+        "likes": 0,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $59.9K of $cbBTC at $281M MC 🐳\n\nhttps://t.co/z2Wzhntk5w",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "Bluntz_Capital",
+        "text": "macro 0.78 fib hit on $SOL, in no world is buying sol at a 78% discount from ath a bad long term decision imo https://t.co/MFmykVLBMj",
+        "likes": 64,
+        "retweets": 1
+      },
+      {
+        "author": "crypto_bitlord7",
+        "text": "Updated crypto support levels:\n\n$BTC $8.2k\n$XRP $0.14c\n$SOL $5\n$ETH $200-300\n\nGood luck everyone 👍",
+        "likes": 24,
+        "retweets": 2
+      }
+    ],
+    "$XRP": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "Updated crypto support levels:\n\n$BTC $8.2k\n$XRP $0.14c\n$SOL $5\n$ETH $200-300\n\nGood luck everyone 👍",
+        "likes": 24,
+        "retweets": 2
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "Updated crypto support levels:\n\n$BTC $8.2k\n$XRP $0.14c\n$SOL $5\n$ETH $200-300\n\nGood luck everyone 👍",
+        "likes": 24,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "gut says we're topped",
+      "likes": 2989,
+      "retweets": 156,
+      "url": "https://x.com/blknoiz06/status/1964307513655927069"
+    },
+    {
+      "author": "frankdegods",
+      "text": "that was a brutal bear market",
+      "likes": 345,
+      "retweets": 11,
+      "url": "https://x.com/frankdegods/status/2019549930931777574"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "By far the most vicious selling I’ve seen in Crypto, feels forced, indiscriminate.\n\nFew theories:\n\n- Secret Sovereign dumping $10B+ (Saudi/UAE/Russia/China)\n \n- Exchange blowup, or Exchange that had tens of billions of dollars of Bitcoin on the balance sheet forced to sell for wh",
+      "likes": 319,
+      "retweets": 21,
+      "url": "https://x.com/ThinkingUSD/status/2019572664302510274"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "We have gone low enough I’ll stop bragging as it just feels rude now, anyone who tailed the macro risk off, ggs we’ll see ya for the risk on phase hopefully later this year",
+      "likes": 252,
+      "retweets": 2,
+      "url": "https://x.com/lBattleRhino/status/2019567788013281665"
+    },
+    {
+      "author": "mert",
+      "text": "me and tom lee have combined for 7B in losses so far",
+      "likes": 143,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2019568555843547177"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "So this time wasn't different, the 4 year cycle remains king and $BTC topped in Q4, 4 years after the prior top. \n\nI can only assume then that this bear market will play out similar to the prior ones and BTC will eventually make it's way towards the 79% fib. \n\nLast cycle I though",
+      "likes": 140,
+      "retweets": 12,
+      "url": "https://x.com/Tradermayne/status/2019574527559364858"
+    },
+    {
+      "author": "frankdegods",
+      "text": "🫠 https://t.co/QaoZ96bVYn",
+      "likes": 129,
+      "retweets": 3,
+      "url": "https://x.com/frankdegods/status/2019567885077676492"
+    },
+    {
+      "author": "chooserich",
+      "text": "CRYPTO CAPITULATES TO $60K FROM WORST SINGLE DAY LIQUIDATION EVER https://t.co/Ep908Rw8J8",
+      "likes": 110,
+      "retweets": 8,
+      "url": "https://x.com/chooserich/status/2019574996621042003"
+    }
+  ]
+}

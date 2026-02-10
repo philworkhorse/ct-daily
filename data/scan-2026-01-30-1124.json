@@ -1,0 +1,333 @@
+{
+  "timestamp": "2026-01-30T11:24:34.921Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 5,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$ELON",
+      2
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ],
+    [
+      "$TROVE",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$AMEGROK",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$BP",
+      1
+    ],
+    [
+      "$CC",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$ELON",
+        "count": 2
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$TROVE",
+        "count": 1
+      },
+      {
+        "ticker": "$AMEGROK",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$BP",
+        "count": 1
+      },
+      {
+        "ticker": "$CC",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "gold": 3,
+      "silver": 3
+    },
+    "metals": {
+      "gold": 3,
+      "silver": 3
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @0xpeely: $COPPERINU is to commodities what $SPX6900 is to equities.\n\nIt’s not built to be cute, funny, or viral.\n\nIt’s the financial ab…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "himgajria",
+        "text": "RT @0xpeely: $COPPERINU is to commodities what $SPX6900 is to equities.\n\nIt’s not built to be cute, funny, or viral.\n\nIt’s the financial ab…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.68K of $PENGUIN at $66.03M MC 🐳\n\nhttps://t.co/Pf9WNrF0C6",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.4K of $ELON at $5.88M MC 🐳\n\nhttps://t.co/Q5Z5jDJPSb",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ELON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.4K of $ELON at $5.88M MC 🐳\n\nhttps://t.co/Q5Z5jDJPSb",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $1.17K of $ELON at $6.68M MC 🐳\n\nhttps://t.co/1FnZkckU6q",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROVE": [
+      {
+        "author": "0x_dyan",
+        "text": "And just like that, $TROVE is forgotten from CT\n\nNice heist @TroveMarkets @unwisecap",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "crypto_banter",
+        "text": "What's next for $BTC? 👇",
+        "likes": 4,
+        "retweets": 3
+      }
+    ],
+    "$AMEGROK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Huff4Congress verified earnings for $AMEGROK on @BagsApp 💰\n\nhttps://t.co/CFggVUTNvP",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $1.17K of $ELON at $6.68M MC 🐳\n\nhttps://t.co/1FnZkckU6q",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $4.7K of $BP at $6.67M MC 🐳\n\nhttps://t.co/vA0oB3HakQ",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $4.7K of $BP at $6.67M MC 🐳\n\nhttps://t.co/vA0oB3HakQ",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$CC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$CC is currently testing a major support level, making this a critical area for trend direction.\n\nIf support fails, downside opens toward 0.15, which becomes the next major liquidity and demand zone.\n",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.18K of $WOJAK at $10.28M MC 🐳\n\nhttps://t.co/M2X5Mx93lD",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.18K of $WOJAK at $10.28M MC 🐳\n\nhttps://t.co/M2X5Mx93lD",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "NFL",
+      "text": "THE BEARS WIN https://t.co/42QAxhrKTU",
+      "likes": 12635,
+      "retweets": 1381,
+      "url": "https://x.com/NFL/status/2010208992241549589"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 3533,
+      "retweets": 550,
+      "url": "https://x.com/Neuravision_A/status/2010102623756792032"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Gold and Silver going parabolic is a precursor to a Massive Crypto Bull Run.",
+      "likes": 3119,
+      "retweets": 413,
+      "url": "https://x.com/MustStopMurad/status/2016987646183297323"
+    },
+    {
+      "author": "googlechrome",
+      "text": "Now Chrome is even better with major updates to Gemini in Chrome. Easier to use. More personalized. And more helpful than ever, with Gemini 3. 🎢 \n\nAvailable in the U.S., auto browse for Google AI Pro and Ultra subscribers. https://t.co/tILRW3osyO",
+      "likes": 2255,
+      "retweets": 203,
+      "url": "https://x.com/googlechrome/status/2016617431989371124"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Builders will win.",
+      "likes": 867,
+      "retweets": 59,
+      "url": "https://x.com/jessepollak/status/2017104161398300838"
+    },
+    {
+      "author": "StateFarm",
+      "text": "Something even bigger to be unveiled 2.8.26",
+      "likes": 604,
+      "retweets": 70,
+      "url": "https://x.com/StateFarm/status/2015814352847392934"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "fellas you can only save one which you saving https://t.co/LKG93Yo3he",
+      "likes": 521,
+      "retweets": 19,
+      "url": "https://x.com/blknoiz06/status/2016991301758042572"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "I held a special coordination call on the situation in Ukraine’s regions and on recovery efforts. There were no strikes on energy facilities last night, but yesterday afternoon our energy infrastructure in several regions was hit. We are now observing a shift by the Russian army ",
+      "likes": 334,
+      "retweets": 80,
+      "url": "https://x.com/ZelenskyyUa/status/2017193283810709722"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Sometimes you see talent or potential, and you gotta to support it.\n\nNot just for their sake, but for your own.\n\nThe fastest way to become irrelevant is losing touch with the next generation",
+      "likes": 263,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2017180797409919461"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "So that was a fucking lie",
+      "likes": 190,
+      "retweets": 3,
+      "url": "https://x.com/Tradermayne/status/2017171338742698078"
+    }
+  ]
+}

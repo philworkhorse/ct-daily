@@ -1,0 +1,217 @@
+{
+  "timestamp": "2026-02-05T05:59:18.959Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 6,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$SOL",
+      2
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$SUNI",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SUNI",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$SOL",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "treasury": 1
+    }
+  },
+  "tickerDetails": {
+    "$FARTCOIN": [
+      {
+        "author": "DipWheeler",
+        "text": "A $FARTCOIN whale just bought $3.99 of rope at Home Depot 🐳",
+        "likes": 53,
+        "retweets": 2
+      }
+    ],
+    "$SUNI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @eveoart verified earnings for $SUNI on @BagsApp 💰\n\nhttps://t.co/imtkg2nWaz",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.6B of $BlackTrout at $31348.24B MC 🐳\n\nhttps://t.co/GH5GNjEKwL",
+        "likes": 9,
+        "retweets": 3
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PENGUIN with a PnL of +119.34%.\n\n$PENGUIN has been trending on Moby since $91.9K MC. Currently sitting at $22.09M MC. https://t.co/yAVO",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.55K of $BigTrout at $3.8M MC 🐳\n\nhttps://t.co/2REyszvu96",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "On flipping bearish at 81k, and doing so transparently.\n\nI abandoned my bullish bias and flipped mainly short at 81k.\n\nAnd you all knew when it happened.\nClarity is one of my core values. You always k",
+        "likes": 66,
+        "retweets": 2
+      },
+      {
+        "author": "milesdeutscher",
+        "text": "This is some of the most genuinely awful price action on $BTC I've seen in a long time\n\nFocus on preserving capital.\n\nThis isn't the time to take big amounts of risk.",
+        "likes": 42,
+        "retweets": 1
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SPX whale just bought $3.97K of $ZEC at $13.72M MC 🐳\n\nhttps://t.co/axpc5rTf3d",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SPX whale just bought $3.97K of $ZEC at $13.72M MC 🐳\n\nhttps://t.co/axpc5rTf3d",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "DonAlt",
+        "text": "$SOL update:\n\nAt least it's obvious what to do now\nBearish till either $40 or a reclaim of $120 happens\n\nI hated that range, this is much nicer https://t.co/ClslZqMC7Q",
+        "likes": 53,
+        "retweets": 7
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @real_y22 just bought $10.31K of $SOL at $2.46M MC 🐳\n\nhttps://t.co/0sLt7r42Fs",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "lBattleRhino",
+      "text": "When your friend says “but idk tho DYOR” after shilling you a shitcoin for the last 1.5 hours https://t.co/31tpK9bm7A",
+      "likes": 725,
+      "retweets": 66,
+      "url": "https://x.com/lBattleRhino/status/1717273993169002528"
+    },
+    {
+      "author": "inversebrah",
+      "text": "$80k+ saylor buy announcement imminent",
+      "likes": 238,
+      "retweets": 2,
+      "url": "https://x.com/inversebrah/status/2019262154042667411"
+    },
+    {
+      "author": "thiccyth0t",
+      "text": "let me out of my longs i dont even want a profit ill do anything",
+      "likes": 152,
+      "retweets": 2,
+      "url": "https://x.com/thiccyth0t/status/2019279215691198560"
+    },
+    {
+      "author": "inversebrah",
+      "text": "a week ago btc was $90k\n\nnow $70k\n\nby march itll be very peaceful on ct https://t.co/V7PjpYtuLR",
+      "likes": 120,
+      "retweets": 2,
+      "url": "https://x.com/inversebrah/status/2019266193400688898"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "can’t say i missed this feeling but i definitely forgot what it felt like",
+      "likes": 106,
+      "retweets": 1,
+      "url": "https://x.com/notthreadguy/status/2019267595195806115"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "timestamp": "2026-01-30T17:45:17.266Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 4,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$FARTCOIN",
+      2
+    ],
+    [
+      "$SILVER",
+      2
+    ],
+    [
+      "$GOLD",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$KISS",
+      1
+    ],
+    [
+      "$AIONUI",
+      1
+    ],
+    [
+      "$SCF",
+      1
+    ],
+    [
+      "$RSC",
+      1
+    ],
+    [
+      "$WAR",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$ONDS",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$SAFE",
+      1
+    ],
+    [
+      "$SLV",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$FARTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$KISS",
+        "count": 1
+      },
+      {
+        "ticker": "$AIONUI",
+        "count": 1
+      },
+      {
+        "ticker": "$SCF",
+        "count": 1
+      },
+      {
+        "ticker": "$RSC",
+        "count": 1
+      },
+      {
+        "ticker": "$WAR",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$ONDS",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$SAFE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$SILVER",
+        "count": 2
+      },
+      {
+        "ticker": "$GOLD",
+        "count": 2
+      },
+      {
+        "ticker": "$SLV",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 6,
+      "copper": 2,
+      "gold": 7
+    },
+    "metals": {
+      "silver": 6,
+      "gold": 7
+    },
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "if you’re in [losing money buying the “new, shiny thing” daily], simply pivot to buying &amp; holding $BUTTCOIN (by @ButtCoin) and ignoring everything else\n\nit has been a refreshing experience",
+        "likes": 45,
+        "retweets": 13
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $6.2K of $testicle❄️ at $4.84M MC 🐳\n\nhttps://t.co/NNN8FUcpvo",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $3.21K of $testicle❄️ at $4.25M MC 🐳\n\nhttps://t.co/iPkEIgHxH2",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$KISS": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @PainCrypt0 just bought $1.39K of $KISS at $193.21K MC 🐳\n\nhttps://t.co/rmwEGXA6Do",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AIONUI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/2DgtdmzKne verified earnings for $AIONUI on @BagsApp 💰\n\nhttps://t.co/Ku6mk5byky",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SCF": [
+      {
+        "author": "ChurchoftheSCF",
+        "text": "To think we ran $SCF to 200M last year is mad 😂\n\nI have been wanting to run something up hard and might have found the perfect meme.\n\nOne of the biggest memes from a while ago was the Roomba Shark Ca",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$RSC": [
+      {
+        "author": "ChurchoftheSCF",
+        "text": "To think we ran $SCF to 200M last year is mad 😂\n\nI have been wanting to run something up hard and might have found the perfect meme.\n\nOne of the biggest memes from a while ago was the Roomba Shark Ca",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$WAR": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @zinceth just bought $4.44K of $WAR at $21.38M MC 🐳\n\nhttps://t.co/KnYzHeGAUW",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @AvgJoesCrypto just bought $3.5K of $YNE at $1.68M MC 🐳\n\nhttps://t.co/RmNNWIV18V",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ONDS": [
+      {
+        "author": "dampedspring",
+        "text": "The buyer of the $ONDS atrocious deal is still up 17.86-16.44=1.42 which on 60MN units is 1.42*60=85.2 million dollars and that's if they haven't sold a thing and it's almost certain that they sold al",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 90,
+        "retweets": 4
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 90,
+        "retweets": 4
+      }
+    ],
+    "$SILVER": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 90,
+        "retweets": 4
+      },
+      {
+        "author": "watchingmarkets",
+        "text": "￼Blow off top? - $GOLD and $SILVER\n\n“A blow off top is a technical chart pattern signaling the end of a rapid, speculative price surge, characterized by a near vertical increase in price and high volu",
+        "likes": 10,
+        "retweets": 0
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 90,
+        "retweets": 4
+      },
+      {
+        "author": "watchingmarkets",
+        "text": "￼Blow off top? - $GOLD and $SILVER\n\n“A blow off top is a technical chart pattern signaling the end of a rapid, speculative price surge, characterized by a near vertical increase in price and high volu",
+        "likes": 10,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 90,
+        "retweets": 4
+      }
+    ],
+    "$SAFE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @hemi_zyx verified earnings for $SAFE on @BagsApp 💰\n\nhttps://t.co/SCdO0HsYQA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SLV": [
+      {
+        "author": "dampedspring",
+        "text": "I'll try this meme.  XAG has crashed 25% back down to where it was.  Checks notes..... 9 days ago $SLV",
+        "likes": 11,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "NFL",
+      "text": "One knee for the INT 😮‍💨 https://t.co/YDZ1Ayp25Z",
+      "likes": 2705,
+      "retweets": 162,
+      "url": "https://x.com/NFL/status/2012989398061875241"
+    },
+    {
+      "author": "ridgewallet",
+      "text": "Ridge Wallet 2.0, Power Banks &amp; more in impossible-to-miss yellow.",
+      "likes": 273,
+      "retweets": 16,
+      "url": "https://x.com/ridgewallet/status/2011151263539298511"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Dev mined more supply https://t.co/HeBQ9CJASW",
+      "likes": 131,
+      "retweets": 1,
+      "url": "https://x.com/ThinkingUSD/status/2017283966210871802"
+    }
+  ]
+}

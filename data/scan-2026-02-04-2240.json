@@ -1,0 +1,186 @@
+{
+  "timestamp": "2026-02-04T22:40:28.920Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 11,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HAMSTER",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$BLOWFISH",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$JITOSOL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HAMSTER",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 2,
+      "inflation": 1
+    }
+  },
+  "tickerDetails": {
+    "$HAMSTER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @almaarts27 verified earnings for $HAMSTER on @BagsApp 💰\n\nhttps://t.co/wpcEJzMPhC",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $13.72K of $HYPE at $12.11M MC 🐳\n\nhttps://t.co/Xra6CLWact",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $13.72K of $HYPE at $12.11M MC 🐳\n\nhttps://t.co/Xra6CLWact",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @nosanityxbt just bought $1.89K of $BLOWFISH at $695.93K MC 🐳\n\nhttps://t.co/6v5OFgZocn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $20.41K of $PENGUIN at $24.65M MC 🐳\n\nhttps://t.co/FLeWrdmYwQ",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $79.72K of $JitoSOL at $1.29B MC 🐳\n\nhttps://t.co/rDYKdIUPq9",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "FidelCacheFlow",
+      "text": "Will die on this hill \n\n$250-500k/yr job\n$750k-1.5m Home \n$&gt;1m, &lt;$5m NW\n6 figure garage \n1-2 vacations per year \n\nIs middle class not ‘rich’\n\n&amp; you can’t convince me otherwise",
+      "likes": 1222,
+      "retweets": 22,
+      "url": "https://x.com/FidelCacheFlow/status/2019102497512779808"
+    },
+    {
+      "author": "0xdoug",
+      "text": "So to recap, AI is expected to create huge amounts of wealth, yet…\n\nWorkers lose because they’ll be replaced by robots…\n\nSoftware corps lose because they’ll be replaced by Claude code… \n\nTech giants lose because all their free cash flow is now capex…\n\nFrontier labs lose because t",
+      "likes": 377,
+      "retweets": 11,
+      "url": "https://x.com/0xdoug/status/2019114408522268681"
+    },
+    {
+      "author": "AlexOnchain",
+      "text": "come and join my team at coinbase\n\nmust haves:\n- spends too much time on twitter\n- deep understanding of crypto/CT\n- top-tier content creator\n- direct communicator\n- proactive + ambitious\n- fast learner\n- can talk to real people\n\nif that sounds like you, link to apply below",
+      "likes": 355,
+      "retweets": 8,
+      "url": "https://x.com/AlexOnchain/status/2019123268561826139"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "BTC $70k spot sellers https://t.co/30BCgxPpQM",
+      "likes": 230,
+      "retweets": 24,
+      "url": "https://x.com/ThinkingUSD/status/2019171702727479481"
+    },
+    {
+      "author": "Citrini7",
+      "text": "Sometimes you just gotta say fk it and spend 200 billion dollars on capex. We’ve all been there.",
+      "likes": 166,
+      "retweets": 2,
+      "url": "https://x.com/Citrini7/status/2019175405358326143"
+    },
+    {
+      "author": "remusofmars",
+      "text": "The @pumpfun CTO process needs to change and it’s extremely clear that it should change to a council of top holders (or all holders) that can vote a new few receiver wallet in (and the old on out) at any time. Obviously serial deployers will not like this as it makes serial deplo",
+      "likes": 142,
+      "retweets": 8,
+      "url": "https://x.com/remusofmars/status/2019098728670347717"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "what is the best vehicle  to long x402",
+      "likes": 103,
+      "retweets": 7,
+      "url": "https://x.com/notthreadguy/status/2019136894999883884"
+    }
+  ]
+}

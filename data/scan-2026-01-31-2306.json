@@ -1,0 +1,238 @@
+{
+  "timestamp": "2026-01-31T23:06:40.883Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 16,
+    "bearish": 5,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$SETUPCLAW",
+      1
+    ],
+    [
+      "$KITTY",
+      1
+    ],
+    [
+      "$COMMUNITY",
+      1
+    ],
+    [
+      "$WET",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$LUZIVERT",
+      1
+    ],
+    [
+      "$EASYFUN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SETUPCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$KITTY",
+        "count": 1
+      },
+      {
+        "ticker": "$COMMUNITY",
+        "count": 1
+      },
+      {
+        "ticker": "$WET",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$LUZIVERT",
+        "count": 1
+      },
+      {
+        "ticker": "$EASYFUN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 2,
+      "copper": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "miragemunny",
+        "text": "RT @0xsnibbler: The world is burning and people are... bidding $buttcoin?\n\nUnironically the best narrative no matter if $BTC goes up or dow…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$SETUPCLAW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @michaeI_chomsky verified earnings for $SETUPCLAW on @BagsApp 💰\n\nhttps://t.co/5auIFpwXeJ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KITTY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @KittyKunt_ verified earnings for $KITTY on @BagsApp 💰\n\nhttps://t.co/ZXrlfSFR1W",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$COMMUNITY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @AndersScrout verified earnings for $COMMUNITY on @BagsApp 💰\n\nhttps://t.co/z40vMHCm2s",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $3.15K of $PENGUIN at $48.75M MC 🐳\n\nhttps://t.co/MwrTZpiEe1",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $3.15K of $PENGUIN at $48.75M MC 🐳\n\nhttps://t.co/MwrTZpiEe1",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$LUZIVERT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @crunch1271 verified earnings for $LUZIVERT on @BagsApp 💰\n\nhttps://t.co/URsbd8iUBE",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EASYFUN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @d_a_t_boiNFT verified earnings for $EASYFUN on @BagsApp 💰\n\nhttps://t.co/3OWV7KppuR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Wendys",
+      "text": "new personality unlocked 🔓 https://t.co/B6uhtAJeMt",
+      "likes": 2744,
+      "retweets": 82,
+      "url": "https://x.com/Wendys/status/2003190804135706743"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1568,
+      "retweets": 229,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "It’s times like this that separate the Winners from everyone else.\n\nIt's times like this where Greatness is earned.",
+      "likes": 624,
+      "retweets": 130,
+      "url": "https://x.com/MustStopMurad/status/2017724781274214516"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Finally home. \n\nSo the TLDR everyone is a Satan worshipping pedo and 10/10 was the reason crypto missed the last leg higher on everything. \n\nDid I miss anything?",
+      "likes": 499,
+      "retweets": 6,
+      "url": "https://x.com/Tradermayne/status/2017702495913664832"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i believe in the industry i log onto every day and have deep conviction that this is the best corner of the internet to spend excessive time in over the next decade+",
+      "likes": 175,
+      "retweets": 10,
+      "url": "https://x.com/notthreadguy/status/2017714904870822072"
+    },
+    {
+      "author": "ByzGeneral",
+      "text": "After this new batch of Epstein files I can only conclude that this was 100% real.\n\nThe guy \"drowned\" the same day by the way.",
+      "likes": 166,
+      "retweets": 10,
+      "url": "https://x.com/ByzGeneral/status/2017721459200675963"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Solana and Ethereum are fundamentally uninvestable. \n\nIt's clear to anyone that if Google or AWS wanted to create the frontier L1 because it became existential to their business they'd be able to win handily.",
+      "likes": 157,
+      "retweets": 5,
+      "url": "https://x.com/ThinkingUSD/status/2017710343242363235"
+    },
+    {
+      "author": "Citrini7",
+      "text": "You know what would be a fun price for bitcoin to bottom at…\n\n(I traded this like trash and covered my short way too early)",
+      "likes": 154,
+      "retweets": 2,
+      "url": "https://x.com/Citrini7/status/2017718898649452651"
+    },
+    {
+      "author": "mert",
+      "text": "gut says bull starts early summer",
+      "likes": 151,
+      "retweets": 1,
+      "url": "https://x.com/mert/status/2017720487560847556"
+    },
+    {
+      "author": "frankdegods",
+      "text": "bitcoin will pump when they cut rates https://t.co/2rkNmUXXpH",
+      "likes": 110,
+      "retweets": 0,
+      "url": "https://x.com/frankdegods/status/2017718270908871066"
+    }
+  ]
+}

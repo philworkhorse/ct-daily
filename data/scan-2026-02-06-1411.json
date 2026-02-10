@@ -1,0 +1,272 @@
+{
+  "timestamp": "2026-02-06T14:11:56.216Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 3,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$POLY",
+      2
+    ],
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$CBBTC",
+      2
+    ],
+    [
+      "$FELIX",
+      1
+    ],
+    [
+      "$SOBAT",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$DOG",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$POLY",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 2
+      },
+      {
+        "ticker": "$FELIX",
+        "count": 1
+      },
+      {
+        "ticker": "$SOBAT",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$DOG",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "corn": 2,
+      "oil": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "gdp": 1,
+      "yields": 1
+    }
+  },
+  "tickerDetails": {
+    "$POLY": [
+      {
+        "author": "Tyler_Did_It",
+        "text": "The Morning Minute (2.6)\n\nPowered by @yeet \n\n⏰Top News:\n-Crypto majors crash on Thursday as BTC hits $60k before rebounding\n-HYPE / BTC hits new ATH as Hyperliquid’s token holds strong\n-JPMorgan says ",
+        "likes": 16,
+        "retweets": 0
+      },
+      {
+        "author": "Tyler_Did_It",
+        "text": "ICYMI: Polymarket's parent company filed trademarks for POLY and $POLY yesterday\n\nIncluding trademark protection for “cryptocurrency services, financial trading platforms, and blockchain-based payment",
+        "likes": 19,
+        "retweets": 2
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @rektguy: $REKT Daily Art\n\nparamount ceo david ellison takes dig at ...\n\nListed for 0.03 ETH. Proceeds used to buy and burn $REKT.\n\nhttp…",
+        "likes": 0,
+        "retweets": 5
+      },
+      {
+        "author": "rektmando",
+        "text": "good time to buy good coins like $REKT",
+        "likes": 75,
+        "retweets": 5
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $66.57K of $zBTC at $14.89M MC 🐳\n\nhttps://t.co/jjGnN6zT6q",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $32.18K of $cbBTC at $291.93M MC 🐳\n\nhttps://t.co/ZiRr3HsMX8",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$FELIX": [
+      {
+        "author": "Tunaswiminsea",
+        "text": "$FELIX & $KellyClaude: The First Autonomous Corporations\n\nTHESIS:\n• Experienced engineers\n• X Celebrity\n• Building in public brings sense of participation\n• Quasi-autonomous operation with high level ",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$SOBAT": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SOBAT with a PnL of +86.65%.\n\n$SOBAT has been trending on Moby since $102.85K MC. Currently sitting at $633K MC. https://t.co/AdD2tHAeI",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "0x_dyan",
+        "text": "RT @tontheneko: Good morning $TOILET lovers.\n\nI know it's becoming tiring to hold, but my thesis really stands still. I know I'm able to se…",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $10.24K of $USELESS at $34.73M MC 🐳\n\nhttps://t.co/FSQBozg9li",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$DOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $DOG with a PnL of +1226.66%.\n\n$DOG has been trending on Moby since $422.79K MC. Currently sitting at $1.41M MC. https://t.co/OkZDKoQ8U9",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "Imagine I bearpost all the way down then nail the bottom in one shot. That’d be some crazy shit lol, we shall see.\n\n$BTC",
+        "likes": 79,
+        "retweets": 1
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "RT @krakenfx: Feeling relaxed on the leaderboard?\n\nIt’s far from over, $USDUC is here for a strong second half finish.\n\nCan they unstabiliz…",
+        "likes": 0,
+        "retweets": 13
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "mert",
+      "text": "LET'S GO https://t.co/kYufZAPui3",
+      "likes": 302,
+      "retweets": 17,
+      "url": "https://x.com/mert/status/2019746784994632160"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Take note of who's fudding crypto at the bottom.\n\nTake note of who's showing up on days like this.\n\nTake note of who's still optimistic about the future of this space.\n\nTake note of who's posting screenshots after a +1% bounce",
+      "likes": 232,
+      "retweets": 9,
+      "url": "https://x.com/waleswoosh/status/2019763692020158666"
+    },
+    {
+      "author": "gainzy222",
+      "text": "ok now i need to know \n\nwho roundtripped 20M https://t.co/UpBXg2ZSZe",
+      "likes": 221,
+      "retweets": 6,
+      "url": "https://x.com/gainzy222/status/2019704054671360054"
+    },
+    {
+      "author": "buyerofponzi",
+      "text": "i guess ill give it a try https://t.co/wTgfjuqOtm",
+      "likes": 147,
+      "retweets": 7,
+      "url": "https://x.com/buyerofponzi/status/2019506513002524875"
+    },
+    {
+      "author": "osf_rekt",
+      "text": "shaved my head at the lows again https://t.co/kZg6ynJJyV",
+      "likes": 120,
+      "retweets": 0,
+      "url": "https://x.com/osf_rekt/status/2019757046686466369"
+    },
+    {
+      "author": "mert",
+      "text": "china bans crypto for the 9th time in 2 years\n\nif a top 2 superpower on earth is this worried about blockchains, it seems that blockchains are worth building\n\nway, way higher",
+      "likes": 104,
+      "retweets": 4,
+      "url": "https://x.com/mert/status/2019764601810792918"
+    },
+    {
+      "author": "inversebrah",
+      "text": "who haz more aura?\n\n#poll pls rt :3",
+      "likes": 102,
+      "retweets": 19,
+      "url": "https://x.com/inversebrah/status/2019646051121263108"
+    }
+  ]
+}

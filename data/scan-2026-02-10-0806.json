@@ -1,0 +1,263 @@
+{
+  "timestamp": "2026-02-10T08:06:22.944Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 6,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIRAFFES",
+      4
+    ],
+    [
+      "$MSTR",
+      2
+    ],
+    [
+      "$TSX",
+      2
+    ],
+    [
+      "$SPX",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIRAFFES",
+        "count": 4
+      },
+      {
+        "ticker": "$TSX",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 2
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 2
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "treasury": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$MSTR": [
+      {
+        "author": "based16z",
+        "text": "RT @saylor: $MSTR = Most Interesting. https://t.co/D0pp79ZKAK",
+        "likes": 0,
+        "retweets": 773
+      },
+      {
+        "author": "based16z",
+        "text": "RT @saylor: $MSTR = Most Interesting. https://t.co/D0pp79ZKAK",
+        "likes": 0,
+        "retweets": 773
+      }
+    ],
+    "$TSX": [
+      {
+        "author": "chang_defi",
+        "text": "RT @Wild_Randomness: $TSX $SPX\n\nDead serious here—\n\nIf the second half of this decade is going to be defined by real things (atoms), and le…",
+        "likes": 0,
+        "retweets": 2
+      },
+      {
+        "author": "chang_defi",
+        "text": "RT @Wild_Randomness: $TSX $SPX\n\nDead serious here—\n\nIf the second half of this decade is going to be defined by real things (atoms), and le…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "chang_defi",
+        "text": "RT @Wild_Randomness: $TSX $SPX\n\nDead serious here—\n\nIf the second half of this decade is going to be defined by real things (atoms), and le…",
+        "likes": 0,
+        "retweets": 2
+      },
+      {
+        "author": "chang_defi",
+        "text": "RT @Wild_Randomness: $TSX $SPX\n\nDead serious here—\n\nIf the second half of this decade is going to be defined by real things (atoms), and le…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @rezzonico: gm. How’s your day going? \n$REKT https://t.co/iKsbbIfYkw",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @CookerFlips just bought $3.36K of $GIRAFFES at $2.78M MC 🐳\n\nhttps://t.co/y7FZ0PesU8",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +211.75%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $2.56M MC. https://t.co/U",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +113.92%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $2.16M MC. https://t.co/2",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +783.30%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $2.66M MC. https://t.co/z",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $1.61K of $Company at $537.31K MC 🐳\n\nhttps://t.co/LpWsn3sMiL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC shorts\n\nDropping further off local high. Congrats if you are holding along so far\n\nAlright, shorts we are holding from 72k are continuing to repell away from entry, now back at 69k.\n\nLooking forw",
+        "likes": 57,
+        "retweets": 4
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "levelsio",
+      "text": "My secret conspiracy theory about AI companies is they nerf models to save on compute\n\nThen they check X to see if anyone notices it\n\nIf yes, give back compute\n\nIf not, continue",
+      "likes": 2115,
+      "retweets": 59,
+      "url": "https://x.com/levelsio/status/2021018069028700517"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm friends https://t.co/jdzN1zNbQh",
+      "likes": 817,
+      "retweets": 20,
+      "url": "https://x.com/waleswoosh/status/2021101865530953759"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "I turned 26 today.\n\nGive me some life advice",
+      "likes": 446,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2021120978877878519"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "😂😂😂",
+      "likes": 128,
+      "retweets": 13,
+      "url": "https://x.com/blknoiz06/status/2021084554878984386"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "One year older. Grateful for an amazing year. Love y'all and excited for the next chapter",
+      "likes": 120,
+      "retweets": 1,
+      "url": "https://x.com/waleswoosh/status/2021102036729856446"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Opus 4.6 is an absolute beast",
+      "likes": 118,
+      "retweets": 13,
+      "url": "https://x.com/frankdegods/status/2021100603032612895"
+    },
+    {
+      "author": "gainzy222",
+      "text": "You can straight up lie about binance right now and rack up 2k likes as long as it’s negative\n\nDoing something like this should have negative consequences https://t.co/EOWkEyD53i",
+      "likes": 116,
+      "retweets": 5,
+      "url": "https://x.com/gainzy222/status/2021096942915174781"
+    },
+    {
+      "author": "inversebrah",
+      "text": "wow https://t.co/wneVwHKvbx",
+      "likes": 110,
+      "retweets": 3,
+      "url": "https://x.com/inversebrah/status/2021091928054575296"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "your aram teammates are on the wrong server on airport wifi @CL207 https://t.co/wjo0SiWsl5",
+      "likes": 100,
+      "retweets": 0,
+      "url": "https://x.com/izebel_eth/status/2021111870170579031"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "your aram teammates are on the wrong server on airport wifi @CL207 https://t.co/wjo0SiWsl5",
+      "likes": 100,
+      "retweets": 0,
+      "url": "https://x.com/izebel_eth/status/2021111870170579031"
+    }
+  ]
+}

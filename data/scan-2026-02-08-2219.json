@@ -1,0 +1,145 @@
+{
+  "timestamp": "2026-02-08T22:19:52.608Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 3,
+    "bearish": 2,
+    "neutral": 95,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ABBOS",
+      1
+    ],
+    [
+      "$ISCOOT",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$NIKITABIER",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ABBOS",
+        "count": 1
+      },
+      {
+        "ticker": "$ISCOOT",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$NIKITABIER",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "oil": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$ABBOS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @abbosch1k__ verified earnings for $ABBOS on @BagsApp 💰\n\nhttps://t.co/3kIA6ICYRO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ISCOOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @scoot_gameplay verified earnings for $ISCOOT on @BagsApp 💰\n\nhttps://t.co/S3tJ6U5GFm",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $5K of $FWOG at $6.08M MC 🐳\n\nhttps://t.co/XjdxlQqJKg",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$NIKITABIER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @whoilyas verified earnings for $NIKITABIER on @BagsApp 💰\n\nhttps://t.co/vl91sMHDLk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "retardmode",
+      "text": "i ordered a pallet of luxury handbags from aliexpress in 2016 for $4/piece, i’ve given one as a valentines day gift every year and no woman has called me out yet\n\nevery year around this time i start getting nervous to try my luck again",
+      "likes": 754,
+      "retweets": 5,
+      "url": "https://x.com/retardmode/status/2020500688015687970"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 302,
+      "retweets": 37,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "kmoney",
+      "text": "THE GOYIM BOWL IS ABOUT TO START! GO ORDER YOUR FAVORITE GOYSLOP &amp; PAY +15% ON DOORDASH THEN FINANCE IT ON KLARNA SO YOU HAVE MORE GOY BUCKS TO BUY SOME GOYNIP &amp; SMOKE IT IN TIME TO BE JUDGED BY COMPANIES THAT PAID $8M A COMMERCIAL TO HYPNOTIZE YOU INTO FURTHER GOY DEGENE",
+      "likes": 252,
+      "retweets": 27,
+      "url": "https://x.com/kmoney/status/2020611279560589583"
+    },
+    {
+      "author": "DeItaone",
+      "text": "KALSHI SUPER BOWL TRADING VOLUME SURPASSES $300M BEFORE KICK OFF - X",
+      "likes": 140,
+      "retweets": 15,
+      "url": "https://x.com/DeItaone/status/2020619061651026233"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "Ngl this #moved me",
+      "likes": 130,
+      "retweets": 2,
+      "url": "https://x.com/hoodg3nius/status/2020620155001434327"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "😂😂😂😂😂😂😂",
+      "likes": 109,
+      "retweets": 2,
+      "url": "https://x.com/blknoiz06/status/2020561306340761787"
+    }
+  ]
+}

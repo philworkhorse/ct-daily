@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-02-02T12:01:09-05:00",
+  "tweets_analyzed": 100,
+  "sentiment": {"bullish": 18, "bearish": 5, "neutral": 77},
+  "notable": ["Kaleo calling precious metals -> BTC rotation"],
+  "crypto_mentions": {"BTC": 3, "REKT": 2, "HYPE": 2},
+  "macro": {"dollar": 2, "fed": 1},
+  "commodities": {"gold": 2, "oil": 2, "platinum": 2}
+}

@@ -1,0 +1,205 @@
+{
+  "timestamp": "2026-02-06T06:42:15.966Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 10,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$APEBAMA",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$OPAL",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$JITOSOL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$APEBAMA",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$OPAL",
+        "count": 1
+      },
+      {
+        "ticker": "$JITOSOL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "sugar": 1,
+      "gold": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.1K of $PENGUIN at $20.08M MC 🐳\n\nhttps://t.co/bhbkBnN4pn",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$APEBAMA": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Ga__ke just bought $4.94K of $APEBAMA at $400.28K MC 🐳\n\nhttps://t.co/RzkHHQXV5X",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $51.46K of $cbBTC at $290.62M MC 🐳\n\nhttps://t.co/QEwboT7ERv",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $5.13K of $OPAL at $1.35M MC 🐳\n\nhttps://t.co/Od84CPyT4y",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$OPAL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $5.13K of $OPAL at $1.35M MC 🐳\n\nhttps://t.co/Od84CPyT4y",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "iamkadense",
+        "text": "Despite this war warning headline, $BTC is still up from lows of the day and grinding higher\n\nWhen bad news comes out and number goes up, it is a positive data point in a bloody day",
+        "likes": 7,
+        "retweets": 0
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $459.82K of $JitoSOL at $1.11B MC 🐳\n\nhttps://t.co/HnsgAMI6du",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, buy the dip https://t.co/n5l3kB8U9Z",
+      "likes": 341,
+      "retweets": 7,
+      "url": "https://x.com/waleswoosh/status/2019652297283026961"
+    },
+    {
+      "author": "Icebergy",
+      "text": "they really pumped zcash 20x in a month and i didnt sell everything",
+      "likes": 262,
+      "retweets": 14,
+      "url": "https://x.com/Icebergy/status/2019549485333115294"
+    },
+    {
+      "author": "frankdegods",
+      "text": "🫠 https://t.co/QaoZ96bVYn",
+      "likes": 243,
+      "retweets": 9,
+      "url": "https://x.com/frankdegods/status/2019567885077676492"
+    },
+    {
+      "author": "cryptomanran",
+      "text": "You have survived this far.\n\nMost didn't.\n\nYou will be highly rewarded.",
+      "likes": 145,
+      "retweets": 6,
+      "url": "https://x.com/cryptomanran/status/2019657275968029154"
+    },
+    {
+      "author": "frankdegods",
+      "text": "i think the final marginal buyers of the ai trade will be the government, specifically the military\n\nMag7 are ramping up capex because they know they can. they’re calling bluff. \n\nthe worst case scenario they will be bailed out by money printer for reasons of national defense\n\ni ",
+      "likes": 123,
+      "retweets": 5,
+      "url": "https://x.com/frankdegods/status/2019625656737239275"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Let’s go https://t.co/632iiesMkH",
+      "likes": 114,
+      "retweets": 1,
+      "url": "https://x.com/lBattleRhino/status/2019654827392061900"
+    },
+    {
+      "author": "gainzy222",
+      "text": "gainzy stream looking for more sponsors\n\nreasons unspecified https://t.co/VTk2aPrTd5",
+      "likes": 102,
+      "retweets": 1,
+      "url": "https://x.com/gainzy222/status/2019644184152666351"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "timestamp": "2026-01-30T02:28:00.857Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 9,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HYPE",
+      2
+    ],
+    [
+      "$SNDK",
+      1
+    ],
+    [
+      "$RIME",
+      1
+    ],
+    [
+      "$UL",
+      1
+    ],
+    [
+      "$MEMES",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ],
+    [
+      "$HODLAI",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$BP",
+      1
+    ],
+    [
+      "$SCNS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 2
+      },
+      {
+        "ticker": "$SNDK",
+        "count": 1
+      },
+      {
+        "ticker": "$RIME",
+        "count": 1
+      },
+      {
+        "ticker": "$UL",
+        "count": 1
+      },
+      {
+        "ticker": "$MEMES",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      },
+      {
+        "ticker": "$HODLAI",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$BP",
+        "count": 1
+      },
+      {
+        "ticker": "$SCNS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 4,
+      "copper": 1,
+      "silver": 2
+    },
+    "metals": {
+      "gold": 4,
+      "silver": 2
+    },
+    "macro": {
+      "fed": 3,
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$SNDK": [
+      {
+        "author": "howdymerry",
+        "text": "RT @aleabitoreddit: $SNDK: \"Sandisk will pay Kioxia USD 1.165 billion for manufacturing services and continued availability of supply\".\n\nKi…",
+        "likes": 0,
+        "retweets": 35
+      }
+    ],
+    "$RIME": [
+      {
+        "author": "VictorRenajlj",
+        "text": "$RIME (NASDAQ) — WON ! 3 major enterprise wins in < 1 year, and the numbers are starting to stack\n\nIn roughly 7 weeks, SemiCab (Algorhythm Holdings, $RIME) logged three major partnership/expansion cat",
+        "likes": 1021,
+        "retweets": 118
+      }
+    ],
+    "$UL": [
+      {
+        "author": "VictorRenajlj",
+        "text": "$RIME (NASDAQ) — WON ! 3 major enterprise wins in < 1 year, and the numbers are starting to stack\n\nIn roughly 7 weeks, SemiCab (Algorhythm Holdings, $RIME) logged three major partnership/expansion cat",
+        "likes": 1021,
+        "retweets": 118
+      }
+    ],
+    "$MEMES": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Latuche95 just bought $1.2K of $MEMES at $292.28K MC 🐳\n\nhttps://t.co/7Gyt2ol8HK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "JahonX",
+        "text": "RT @apugeneral: Gold is ripping bc china/brics have been stacking it for years. They have no interest in supporting $BTC bc it’s seen as an…",
+        "likes": 0,
+        "retweets": 10
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$HYPE should be a decent grab here around 28.5~ otherwise it's back to new lows. https://t.co/p1cuk5GvKb",
+        "likes": 29,
+        "retweets": 1
+      },
+      {
+        "author": "Credib1eGuy",
+        "text": "$24.50 is where I am looking to add more $HYPE\n\ndream bid is anything under $15 but I am not sure we get that",
+        "likes": 8,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $3.73K of $ZEC at $20.2M MC 🐳\n\nhttps://t.co/nDmC8pTuX4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $3.73K of $ZEC at $20.2M MC 🐳\n\nhttps://t.co/nDmC8pTuX4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HODLAI": [
+      {
+        "author": "Ga__ke",
+        "text": "RT @0xMoon6626: 买了一点 $HODLAI 其实前几天看到人家聊就想买的 \n一直想等个好位置 下午看见价格差不多 \n我就直接买了个头仓 后面再继续看情况加磅 \n \n至于我为什么会买这个币 我给你们聊心路历程\n \n首先，作为技术出身的cz，大家有没有发现他很喜欢实在…",
+        "likes": 0,
+        "retweets": 19
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.02K of $BP at $8.18M MC 🐳\n\nhttps://t.co/egfqeZh6dr",
+        "likes": 8,
+        "retweets": 4
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.02K of $BP at $8.18M MC 🐳\n\nhttps://t.co/egfqeZh6dr",
+        "likes": 8,
+        "retweets": 4
+      }
+    ],
+    "$SCNS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @kheno5 verified earnings for $SCNS on @BagsApp 💰\n\nhttps://t.co/6cjWmabTtW",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "VictorRenajlj",
+      "text": "$RIME (NASDAQ) — WON ! 3 major enterprise wins in < 1 year, and the numbers are starting to stack\n\nIn roughly 7 weeks, SemiCab (Algorhythm Holdings, $RIME) logged three major partnership/expansion catalysts:\n\nDec 5, 2025: SemiCab partnered with Provisi Ai to drive U.S. SaaS reven",
+      "likes": 1021,
+      "retweets": 118,
+      "url": "https://x.com/VictorRenajlj/status/2016678988408651814"
+    },
+    {
+      "author": "cz_binance",
+      "text": "Not the first time, won't be the last time. \n\nBeen receiving FUD attacks since day 1. Will address it in the AMA tonight, look below the surface on why and how.\n\nWhile our (self perceived) \"competitors\" focus on us, we continue to build and grow. 💪",
+      "likes": 747,
+      "retweets": 75,
+      "url": "https://x.com/cz_binance/status/2017052558439637338"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Price action moving like a toxic 10/10.\n\nWhat you niggaz know about BARS like that?\n\nFuck it though, flash crash us to zero again CZ.\n\nOne last time for old time’s sake.\n\n~ Dr. Axius.",
+      "likes": 248,
+      "retweets": 11,
+      "url": "https://x.com/trading_axe/status/2017052447303192709"
+    },
+    {
+      "author": "CharlesDoBronxs",
+      "text": "Earn These Shields Boys‼️\n\n#UFC326 This Is ChuteBoxeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee https://t.co/tyTPopubt4",
+      "likes": 225,
+      "retweets": 4,
+      "url": "https://x.com/CharlesDoBronxs/status/2017059187126071588"
+    },
+    {
+      "author": "Citrini7",
+      "text": "This probably won’t be a popular take but I actually like the Polymarket insider trading.\n\nBefore prediction markets, the Warsh stuff would have leaked to like 2-3 global macro funds who would position to make billions in PnL. Now one guy is greedy and destroys the Polymarket ord",
+      "likes": 216,
+      "retweets": 15,
+      "url": "https://x.com/Citrini7/status/2017058591128097270"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "The level of cope theses is insane, just admit you have been wrong for months",
+      "likes": 203,
+      "retweets": 6,
+      "url": "https://x.com/lBattleRhino/status/2017051201905348694"
+    },
+    {
+      "author": "yelotree",
+      "text": "You already know who to hit up for supercars &amp; hypercars.\n\nBiggest fleet in Miami available to rent.",
+      "likes": 125,
+      "retweets": 17,
+      "url": "https://x.com/yelotree/status/2016953164914700526"
+    },
+    {
+      "author": "mert",
+      "text": "if you buy an asset and sell it when it goes down instead of buying more, why did you buy it? are you stupid?",
+      "likes": 118,
+      "retweets": 20,
+      "url": "https://x.com/mert/status/2017055162171355423"
+    },
+    {
+      "author": "himgajria",
+      "text": "The thesis is simple: you have commodities, and you have commodities (inu) = a limited supply, on-chain meme that’s out to vamp its traditional counterpart. \n\nSPX6900 : Stocks \nCopper Inu : Commodities \nBitcoin : Gold (yes, bitcoin is nothing but a meme, “digital gold”)",
+      "likes": 112,
+      "retweets": 14,
+      "url": "https://x.com/himgajria/status/2017044923363807451"
+    }
+  ]
+}

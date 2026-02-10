@@ -1,0 +1,299 @@
+{
+  "timestamp": "2026-02-05T08:34:25.681Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 7,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$BLOWFISH",
+      2
+    ],
+    [
+      "$ZEROLEAKS",
+      1
+    ],
+    [
+      "$XAG",
+      1
+    ],
+    [
+      "$OJ",
+      1
+    ],
+    [
+      "$PIGEON",
+      1
+    ],
+    [
+      "$CLAWNFUN",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$AURA",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$SATOSHI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 2
+      },
+      {
+        "ticker": "$ZEROLEAKS",
+        "count": 1
+      },
+      {
+        "ticker": "$XAG",
+        "count": 1
+      },
+      {
+        "ticker": "$OJ",
+        "count": 1
+      },
+      {
+        "ticker": "$PIGEON",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWNFUN",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$AURA",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SATOSHI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys \n\nwe’ve been here before, survived multiple times, we’ll do it again. https://t.co/BMIx3xTjNU",
+        "likes": 52,
+        "retweets": 5
+      },
+      {
+        "author": "osf_rekt",
+        "text": "RT @jaymesrogers: $REKT gm https://t.co/KCo2Fqg4H6",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$ZEROLEAKS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @NotLucknite verified earnings for $ZEROLEAKS on @BagsApp 💰\n\nhttps://t.co/rPfGZNVlKE",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$XAG": [
+      {
+        "author": "astronomer_zero",
+        "text": "And speaking of transparency, $XAG is indeed doing what it's supposed to do (Just like $OJ) after I insinuated to sell in live time.\n\nWhich is to punish all the followers who got suckered in by their ",
+        "likes": 12,
+        "retweets": 0
+      }
+    ],
+    "$OJ": [
+      {
+        "author": "astronomer_zero",
+        "text": "And speaking of transparency, $XAG is indeed doing what it's supposed to do (Just like $OJ) after I insinuated to sell in live time.\n\nWhich is to punish all the followers who got suckered in by their ",
+        "likes": 12,
+        "retweets": 0
+      }
+    ],
+    "$PIGEON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @wenmoonsolana_ just bought $3.2K of $PIGEON at $1.19M MC 🐳\n\nhttps://t.co/NViLkdN8Wl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWNFUN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ClawnFun verified earnings for $CLAWNFUN on @BagsApp 💰\n\nhttps://t.co/y9Pya9DROa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.82K of $BLOWFISH at $461.56K MC 🐳\n\nhttps://t.co/vK3fXlq6vp",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.82K of $BLOWFISH at $461.56K MC 🐳\n\nhttps://t.co/vK3fXlq6vp",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $AURA whale just bought $1.29K of $BLOWFISH at $419.14K MC 🐳\n\nhttps://t.co/jKjMF0H31u",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AURA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AURA whale just bought $1.29K of $BLOWFISH at $419.14K MC 🐳\n\nhttps://t.co/jKjMF0H31u",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.04K of $BigTrout at $4.49M MC 🐳\n\nhttps://t.co/K91LIKUibU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SATOSHI": [
+      {
+        "author": "LexaproTrader",
+        "text": "⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️\nGUYS WE KNOW WHO $SATOSHI IS NOW. YOU CAN STOP SELLING YOUR BITCOIN. EPSTEIN IS NOT SATOSHI, ADAM BACK IS. TELL YOUR FRIENDS AND FAMILY ITS ALL GOING TO BE OK AND THEY CAN B",
+        "likes": 29,
+        "retweets": 4
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "cz_binance",
+      "text": "Winning is the best response to FUD.\n\n(No need to issue any letters.)\n\nAlso, FUD is the worst response to losing. but dont' tell them🤫🤣",
+      "likes": 809,
+      "retweets": 92,
+      "url": "https://x.com/cz_binance/status/2019320054936936581"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bitcoin just down $30k per coin in a straight line pretty cool",
+      "likes": 692,
+      "retweets": 16,
+      "url": "https://x.com/blknoiz06/status/2019294180539871729"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "You should remove all your assets from centralized exchanges",
+      "likes": 443,
+      "retweets": 26,
+      "url": "https://x.com/ThinkingUSD/status/2019292180565881177"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "In 2019 when BTC dominance dropped, it dropped because BTC was dropping faster than alts.\n\nWhy?\n\nBecause by the time the bear market started, altcoins had already been annihilated.\n\nOnce BTC broke out of the bear market, BTC dominance went back up to the highs.\n\nSo I think it fee",
+      "likes": 364,
+      "retweets": 20,
+      "url": "https://x.com/intocryptoverse/status/2019320337637187640"
+    },
+    {
+      "author": "MiyaHedge",
+      "text": "Crypto as we know it is over.\n\nIt's time to look at the abyss and stop acting like this industry will in any way recover if the leaders continue to act like everything is fine and the 50th perps DEX will solve this.\n\nThe Death of the Crypto VC sector is slowly unfolding during th",
+      "likes": 330,
+      "retweets": 18,
+      "url": "https://x.com/MiyaHedge/status/2019276743551463671"
+    },
+    {
+      "author": "gainzy222",
+      "text": "imagine giving tom lee money and he loses 7B and the founder of the coin he invested in is actually selling his own stack lmao\n\nvitalik a legend, wear unicorn shirts like an autistic retard, get photographed wearing socks with holes in them on stage, fud L2s and sell ur own eth",
+      "likes": 301,
+      "retweets": 10,
+      "url": "https://x.com/gainzy222/status/2019309920995405958"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Just revealed by Moneybadger NFT by my partners at Paradex, dope animation.\n\nGmoney https://t.co/i0UiUPMu93",
+      "likes": 236,
+      "retweets": 8,
+      "url": "https://x.com/waleswoosh/status/2019309125197517296"
+    },
+    {
+      "author": "gainzy222",
+      "text": "tom lee getting paid like 15M+ to run a -7B pnl lmao king",
+      "likes": 224,
+      "retweets": 5,
+      "url": "https://x.com/gainzy222/status/2019301129511952716"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "fit check https://t.co/Uf7UV77sGy",
+      "likes": 153,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2019293533824512179"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "My birthday is next week and all I wish for is BTC to go back to my entry",
+      "likes": 137,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2019324064511516766"
+    }
+  ]
+}

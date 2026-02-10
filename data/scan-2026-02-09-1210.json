@@ -1,0 +1,270 @@
+{
+  "timestamp": "2026-02-09T12:10:43.305Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$WOJAK",
+      2
+    ],
+    [
+      "$XAU",
+      2
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$WBTC",
+      1
+    ],
+    [
+      "$CLAWPTCHA",
+      1
+    ],
+    [
+      "$SEE",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$CLAWSPANK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 2
+      },
+      {
+        "ticker": "$XAU",
+        "count": 2
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$WBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWPTCHA",
+        "count": 1
+      },
+      {
+        "ticker": "$SEE",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWSPANK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 4,
+      "silver": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 4,
+      "silver": 1
+    },
+    "macro": {
+      "treasury": 2,
+      "inflation": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $22.86K of $WBTC at $273.2M MC 🐳\n\nhttps://t.co/49Xo0NQ9vy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $22.86K of $WBTC at $273.2M MC 🐳\n\nhttps://t.co/49Xo0NQ9vy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.44K of $WOJAK at $12.33M MC 🐳\n\nhttps://t.co/vO9N0Ckc7C",
+        "likes": 1,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.51K of $WOJAK at $12.02M MC 🐳\n\nhttps://t.co/RxumsU44YC",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.44K of $WOJAK at $12.33M MC 🐳\n\nhttps://t.co/vO9N0Ckc7C",
+        "likes": 1,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.51K of $WOJAK at $12.02M MC 🐳\n\nhttps://t.co/RxumsU44YC",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "solana",
+        "text": "BREAKING: $XAUm, tokenized gold from @matrixdock, is now live on Solana\n\nReal gold. Tokenized. Redeemable in Asia. https://t.co/XWRklvBwCU",
+        "likes": 79,
+        "retweets": 29
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $9.99K of $XAUt0 at $10.97M MC 🐳\n\nhttps://t.co/y7SvhUKJeG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWPTCHA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @clawptcha verified earnings for $CLAWPTCHA on @BagsApp 💰\n\nhttps://t.co/y3VigeCzzS",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$SEE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @HalibutCrypto just bought $3K of $SEE at $261.21K MC 🐳\n\nhttps://t.co/9r8f1NFjuL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $9.99K of $XAUt0 at $10.97M MC 🐳\n\nhttps://t.co/y7SvhUKJeG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWSPANK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @clawspank verified earnings for $CLAWSPANK on @BagsApp 💰\n\nhttps://t.co/uWjeNZ6QXh",
+        "likes": 3,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "coinbase",
+      "text": "Singing &gt; watching.\n\nSo we got millions of people watching the Big Game to sing along with us.\n\nOh, and we put it on the world's largest LED screen @SphereVegas. https://t.co/dYqBkEy41g",
+      "likes": 2877,
+      "retweets": 386,
+      "url": "https://x.com/coinbase/status/2020664192374645023"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "https://t.co/ZPvVWoNDyM",
+      "likes": 482,
+      "retweets": 66,
+      "url": "https://x.com/jackbutcher/status/2020574484806218159"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 353,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "moonpay",
+      "text": "gm!",
+      "likes": 192,
+      "retweets": 13,
+      "url": "https://x.com/moonpay/status/2020827497915699575"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "The more time I spend in this space, the more I just want to hold BTC over everything else.\n\nWhen I first entered crypto, I couldn't understand why anyone would buy Bitcoin over alts.\n\nNow I get it",
+      "likes": 178,
+      "retweets": 9,
+      "url": "https://x.com/waleswoosh/status/2020821348717871479"
+    },
+    {
+      "author": "RichardPtardio",
+      "text": "A message to those whose entire net worth has been liquidated. https://t.co/YWGgHbziD1",
+      "likes": 164,
+      "retweets": 12,
+      "url": "https://x.com/RichardPtardio/status/2020809375716086152"
+    },
+    {
+      "author": "inversebrah",
+      "text": "inb4 saylor bought $1B at $72k 🥹 https://t.co/xAcs3Z2b3j",
+      "likes": 142,
+      "retweets": 2,
+      "url": "https://x.com/inversebrah/status/2020807392787603474"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "I held a coordination call on the situation in the energy sector and on efforts to eliminate the consequences of Russian strikes. The most challenging conditions remain in the capital: more than 1,400 apartment buildings in Kyiv are still without heating, and it is crucial that p",
+      "likes": 128,
+      "retweets": 29,
+      "url": "https://x.com/ZelenskyyUa/status/2020831085756657797"
+    },
+    {
+      "author": "mert",
+      "text": "think the coinbase ad was good actually\n\nnot david ogilvy but nothing wrong with it \n\nit should be a big alarm bell that ppl have this negative of a reaction to crypto, not coinbase's fault",
+      "likes": 110,
+      "retweets": 5,
+      "url": "https://x.com/mert/status/2020819946926698660"
+    }
+  ]
+}

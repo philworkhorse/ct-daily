@@ -1,0 +1,121 @@
+{
+  "timestamp": "2026-02-09T03:36:01.591Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 2,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CAT",
+      1
+    ],
+    [
+      "$ALEXG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CAT",
+        "count": 1
+      },
+      {
+        "ticker": "$ALEXG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$CAT": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CAT with a PnL of +180.67%.\n\n$CAT has been trending on Moby since $320.01K MC. Currently sitting at $5.24M MC. https://t.co/sA23dVbe0n",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ALEXG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @boogiebuysol verified earnings for $ALEXG on @BagsApp 💰\n\nhttps://t.co/JI7nFj0Rpx",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "rasmr_eth",
+      "text": "People gonna think Logan’s being based but this is clearly the result of some incestual hollywood nonsense where bad bunny tried to fuck his girl 3 years ago",
+      "likes": 497,
+      "retweets": 0,
+      "url": "https://x.com/rasmr_eth/status/2020622382508171566"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "Bad luck charm https://t.co/F86VSS5YwQ",
+      "likes": 380,
+      "retweets": 53,
+      "url": "https://x.com/HQNewsNow/status/2020702135923691839"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "This nigga Flightreacts said if this was a 5 game series the patriots would’ve won 😭😭😭",
+      "likes": 305,
+      "retweets": 12,
+      "url": "https://x.com/hoodg3nius/status/2020701512557822369"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Base is for everybooooody.",
+      "likes": 227,
+      "retweets": 26,
+      "url": "https://x.com/jessepollak/status/2020678183084048474"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Explain Drake Maye in NBA Terms: https://t.co/HUZ9wPUSeR",
+      "likes": 203,
+      "retweets": 0,
+      "url": "https://x.com/TheNBACentel/status/2020700315272794137"
+    },
+    {
+      "author": "inversebrah",
+      "text": "🫠🫠🫠 https://t.co/K52BLfMrSj",
+      "likes": 110,
+      "retweets": 1,
+      "url": "https://x.com/inversebrah/status/2020679556747936230"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "So is the kicker the MVP? \n\n5 field goals.",
+      "likes": 101,
+      "retweets": 0,
+      "url": "https://x.com/Tradermayne/status/2020692845376786822"
+    }
+  ]
+}

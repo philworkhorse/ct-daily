@@ -1,0 +1,197 @@
+{
+  "timestamp": "2026-02-01T21:00:31.905Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 10,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$ZEC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "gdp": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "i am adamant about making 2026 a breakout year for @rektdrinks and market conditions do not bother me. \n\n$REKT",
+        "likes": 26,
+        "retweets": 0
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "@kmoney @DonAlt unironically this will be good for a DeFi run which they are already fighting \n\nunstable coin \n\n$USDUC https://t.co/NWApLx6RRv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.54K of $PENGUIN at $34.73M MC 🐳\n\nhttps://t.co/WAGhODrMci",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $12.32K of $PENGUIN at $35.08M MC 🐳\n\nhttps://t.co/dGBdYo9rFf",
+        "likes": 10,
+        "retweets": 3
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $12.32K of $PENGUIN at $35.08M MC 🐳\n\nhttps://t.co/dGBdYo9rFf",
+        "likes": 10,
+        "retweets": 3
+      }
+    ],
+    "$ZEC": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "Back in 2016 Zcash was using Jefferey Epstein to dump black market $ZEC \n\n-That red candle makes sense now.\n\nDo not trust them with anything. These people are sick. https://t.co/aQzUgNsyE5",
+        "likes": 17,
+        "retweets": 4
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "BurgerKing",
+      "text": "Your cravings called. We answered with flame-grilled steakhouse flavor.",
+      "likes": 830,
+      "retweets": 50,
+      "url": "https://x.com/BurgerKing/status/2001464554291634582"
+    },
+    {
+      "author": "DonAlt",
+      "text": "Mark my words, price action is gonna be infinitely better the moment Trump is gone\nInitial dump maybe but that'll be the bottom or very close to it",
+      "likes": 719,
+      "retweets": 18,
+      "url": "https://x.com/DonAlt/status/2018055703592943724"
+    },
+    {
+      "author": "frankdegods",
+      "text": "roundtripped a mil, how was ur morning? https://t.co/Jdll752CGE",
+      "likes": 595,
+      "retweets": 14,
+      "url": "https://x.com/frankdegods/status/2017984590556639434"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "A lot of people say I'm \"anti-crypto\" just for telling the truth.\n\nThe truth is that crypto became a tool for many to promote \"get rich quick\" schemes and when I challenged them on this, they resorted to low-level insults.\n\nI am anti-\"what crypto has become.\"\n\nI am pro-\"what I th",
+      "likes": 400,
+      "retweets": 11,
+      "url": "https://x.com/intocryptoverse/status/2018063556038553765"
+    },
+    {
+      "author": "satsdats",
+      "text": "As some of you may have heard, I am joining @bonkfun as Head of Product.\n\nI have been quite vocal with my opinions on how launchpads operate in the past, some negative, some positive, but it’s clear this space is not going away any time soon.\n\nI will try my best to give the ‘tren",
+      "likes": 359,
+      "retweets": 29,
+      "url": "https://x.com/satsdats/status/2018031568770478504"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "Imagine if a big CT personally (100K+ followers) came out and said they've been in crypto for 5 years and haven't made any money..",
+      "likes": 242,
+      "retweets": 3,
+      "url": "https://x.com/Crypto_Chase/status/2017972029933211747"
+    },
+    {
+      "author": "icobeast",
+      "text": "Always been an ETH guy but it’s getting increasingly difficult to have that as my largest position when you look at HYPE",
+      "likes": 235,
+      "retweets": 4,
+      "url": "https://x.com/icobeast/status/2017713416605941930"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "@Crypto_Chase Just @ me next time bro.",
+      "likes": 181,
+      "retweets": 0,
+      "url": "https://x.com/boldleonidas/status/2017985977315479885"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Bear case: Assets look really bad and AI might be a scam\n\nBull case: Saylor wasn't in the Epstein files",
+      "likes": 169,
+      "retweets": 5,
+      "url": "https://x.com/ThinkingUSD/status/2018055146253566157"
+    },
+    {
+      "author": "digitalartchick",
+      "text": "Remember when CZ tried to start memecoin mania on BNB by telling traders he got a dog and named him Broccoli.  Just a happy harmless Chinese man figuring it as he goes - traders lost multiple eight figures, nobody uses BNB to trade memes today and his dog's name is actually Fred",
+      "likes": 131,
+      "retweets": 9,
+      "url": "https://x.com/digitalartchick/status/2018048072119423057"
+    }
+  ]
+}

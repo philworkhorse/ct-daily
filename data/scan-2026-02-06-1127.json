@@ -1,0 +1,443 @@
+{
+  "timestamp": "2026-02-06T11:27:43.347Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 8,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$SOL",
+      2
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$PENGU",
+      1
+    ],
+    [
+      "$UMBRA",
+      1
+    ],
+    [
+      "$CRV",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$TRAC",
+      1
+    ],
+    [
+      "$HBAR",
+      1
+    ],
+    [
+      "$XRP",
+      1
+    ],
+    [
+      "$QNT",
+      1
+    ],
+    [
+      "$AAVE",
+      1
+    ],
+    [
+      "$ARC",
+      1
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$AVATAR",
+      1
+    ],
+    [
+      "$OPAL",
+      1
+    ],
+    [
+      "$TETSUOAI",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGU",
+        "count": 1
+      },
+      {
+        "ticker": "$UMBRA",
+        "count": 1
+      },
+      {
+        "ticker": "$CRV",
+        "count": 1
+      },
+      {
+        "ticker": "$TRAC",
+        "count": 1
+      },
+      {
+        "ticker": "$HBAR",
+        "count": 1
+      },
+      {
+        "ticker": "$QNT",
+        "count": 1
+      },
+      {
+        "ticker": "$ARC",
+        "count": 1
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$AVATAR",
+        "count": 1
+      },
+      {
+        "ticker": "$OPAL",
+        "count": 1
+      },
+      {
+        "ticker": "$TETSUOAI",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 2
+      },
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$XRP",
+        "count": 1
+      },
+      {
+        "ticker": "$AAVE",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "dxy": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @TukasNFT: Started dca'ing some $REKT.\n\nBet on the communities and founders who are here through the bear and bull.\n\nAnd one of them @re…",
+        "likes": 0,
+        "retweets": 2
+      },
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/BgNHZAcR7t",
+        "likes": 54,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $3.97K of $META at $73.54M MC 🐳\n\nhttps://t.co/lPqMdTnlYp",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGU whale just bought $4.13K of $UMBRA at $22.67M MC 🐳\n\nhttps://t.co/zYcxdMIrtI",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$UMBRA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGU whale just bought $4.13K of $UMBRA at $22.67M MC 🐳\n\nhttps://t.co/zYcxdMIrtI",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CRV": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Part 2 of my market update is now LIVE! \n\nThis one focuses SPECIFICALLY on altcoins including $CRV, $ETH, $TRAC, $HBAR, $XRP, $SOL, $QNT, and $AAVE but also gives you a general framework with which to",
+        "likes": 75,
+        "retweets": 9
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Part 2 of my market update is now LIVE! \n\nThis one focuses SPECIFICALLY on altcoins including $CRV, $ETH, $TRAC, $HBAR, $XRP, $SOL, $QNT, and $AAVE but also gives you a general framework with which to",
+        "likes": 75,
+        "retweets": 9
+      }
+    ],
+    "$TRAC": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Part 2 of my market update is now LIVE! \n\nThis one focuses SPECIFICALLY on altcoins including $CRV, $ETH, $TRAC, $HBAR, $XRP, $SOL, $QNT, and $AAVE but also gives you a general framework with which to",
+        "likes": 75,
+        "retweets": 9
+      }
+    ],
+    "$HBAR": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Part 2 of my market update is now LIVE! \n\nThis one focuses SPECIFICALLY on altcoins including $CRV, $ETH, $TRAC, $HBAR, $XRP, $SOL, $QNT, and $AAVE but also gives you a general framework with which to",
+        "likes": 75,
+        "retweets": 9
+      }
+    ],
+    "$XRP": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Part 2 of my market update is now LIVE! \n\nThis one focuses SPECIFICALLY on altcoins including $CRV, $ETH, $TRAC, $HBAR, $XRP, $SOL, $QNT, and $AAVE but also gives you a general framework with which to",
+        "likes": 75,
+        "retweets": 9
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Part 2 of my market update is now LIVE! \n\nThis one focuses SPECIFICALLY on altcoins including $CRV, $ETH, $TRAC, $HBAR, $XRP, $SOL, $QNT, and $AAVE but also gives you a general framework with which to",
+        "likes": 75,
+        "retweets": 9
+      },
+      {
+        "author": "cryptosanthoshK",
+        "text": "So far made 450,000$ on my $SOL short.\n\nCall made publicly. \n\nNo clout.",
+        "likes": 134,
+        "retweets": 15
+      }
+    ],
+    "$QNT": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Part 2 of my market update is now LIVE! \n\nThis one focuses SPECIFICALLY on altcoins including $CRV, $ETH, $TRAC, $HBAR, $XRP, $SOL, $QNT, and $AAVE but also gives you a general framework with which to",
+        "likes": 75,
+        "retweets": 9
+      }
+    ],
+    "$AAVE": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Part 2 of my market update is now LIVE! \n\nThis one focuses SPECIFICALLY on altcoins including $CRV, $ETH, $TRAC, $HBAR, $XRP, $SOL, $QNT, and $AAVE but also gives you a general framework with which to",
+        "likes": 75,
+        "retweets": 9
+      }
+    ],
+    "$ARC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ARC whale just bought $5.79K of $arc at $91.42M MC 🐳\n\nhttps://t.co/mH6VdeN2Jc",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "crypto_banter",
+        "text": "🚨 RARE BULLISH $BTC SIGNAL FLASHING!\n\nThis is the 'Mayer Multiple' - Potentially the oldest model.\n\nIt rarely hits 0.6x (where it is now)\n\nHistorically, this has been one of the BEST buying signals f",
+        "likes": 17,
+        "retweets": 2
+      },
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: $BTC is about to enter accumulation on MVRV Z-Score\n\nThis only happened 4 times before and always generated the best returns…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $7.92K of $ORE at $26.01M MC 🐳\n\nhttps://t.co/EhvKOBSKfv",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AVATAR": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @PainCrypt0 just bought $1.28K of $AVATAR at $229.92K MC 🐳\n\nhttps://t.co/C3bWLTr5wT",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OPAL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $3.01K of $OPAL at $828.3K MC 🐳\n\nhttps://t.co/aXkbMvNlZK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TETSUOAI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @tetsuoai verified earnings for $TETSUOAI on @BagsApp 💰\n\nhttps://t.co/XlhKcELTkn",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.95K of $URANUS at $2.25M MC 🐳\n\nhttps://t.co/TK9ahgw7s9",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.95K of $URANUS at $2.25M MC 🐳\n\nhttps://t.co/TK9ahgw7s9",
+        "likes": 5,
+        "retweets": 0
+      }
+    ],
+    "$CLEWDBOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @clewdbot verified earnings for $CLEWDBOT on @BagsApp 💰\n\nhttps://t.co/aRMTUJ051H",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "lBattleRhino",
+      "text": "Similar structure to Jan-Apr of this year but key differences \n\n1) this rally above the previous highs barely went anywhere, not nearly same magnitude as the second wave eclipsing the spring summer 2024 chop \n\n2) first time closing below this line \n\n3) Jan-Apr had tariff fear as ",
+      "likes": 546,
+      "retweets": 24,
+      "url": "https://x.com/lBattleRhino/status/1990167373572424073"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Btc line update https://t.co/LWsp3PvT3q",
+      "likes": 323,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/1989161022184370687"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "X banned InfoFi and the market has been down only since.\n\nThink about that.\n\nKaito farmers please come back, we are sorry",
+      "likes": 298,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2019709448189862332"
+    },
+    {
+      "author": "gainzy222",
+      "text": "binance trying to liquidate every last person who hates them lmao\n\ncz like “maybe the next wave of retail will be nicer”",
+      "likes": 226,
+      "retweets": 6,
+      "url": "https://x.com/gainzy222/status/2019717946298585319"
+    },
+    {
+      "author": "cryptosanthoshK",
+      "text": "So far made 450,000$ on my $SOL short.\n\nCall made publicly. \n\nNo clout.",
+      "likes": 134,
+      "retweets": 15,
+      "url": "https://x.com/cryptosanthoshK/status/2019727206436778411"
+    },
+    {
+      "author": "gainzy222",
+      "text": "ok now i need to know \n\nwho roundtripped 20M https://t.co/UpBXg2ZSZe",
+      "likes": 119,
+      "retweets": 4,
+      "url": "https://x.com/gainzy222/status/2019704054671360054"
+    },
+    {
+      "author": "SilvXBT",
+      "text": "BENJAMIN NETANYAHU IF YOU CAN HEAR ME NOW PLEASE DRONE STRIKE CHANPENG ZHAO AND MY LIFE IS YOURS",
+      "likes": 109,
+      "retweets": 2,
+      "url": "https://x.com/SilvXBT/status/2019724906829926862"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "https://t.co/zBVT3WfwPj",
+      "likes": 105,
+      "retweets": 6,
+      "url": "https://x.com/izebel_eth/status/2019704499699585478"
+    }
+  ]
+}

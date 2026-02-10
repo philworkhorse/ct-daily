@@ -1,0 +1,204 @@
+{
+  "timestamp": "2026-02-10T00:48:47.307Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 1,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$LMAO",
+      1
+    ],
+    [
+      "$RICO",
+      1
+    ],
+    [
+      "$NUMBERS",
+      1
+    ],
+    [
+      "$GROYPER",
+      1
+    ],
+    [
+      "$NVDA",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$LMAO",
+        "count": 1
+      },
+      {
+        "ticker": "$RICO",
+        "count": 1
+      },
+      {
+        "ticker": "$NUMBERS",
+        "count": 1
+      },
+      {
+        "ticker": "$GROYPER",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$NVDA",
+        "count": 1
+      },
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "50,000+ retail normies own $GIGA\n\nunfortunately, they don’t bring trade so there’s no volume.\n\nVolume comes from, these 1k guys on CT.\n\nOnce overall volume returns into the extremely distributed $GIGA",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $38K of $JUP at $1.04B MC 🐳\n\nhttps://t.co/K4H6aGjAN8",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LMAO": [
+      {
+        "author": "slingoorio",
+        "text": "I am reformed.\n\nSpending days away from the trenches.\n\nSpending more time on health and fitness.\n\n100% of my energy on being an actual \"dev.\"\n\nIt's time to send $LMAO! as high as one can during the wo",
+        "likes": 29,
+        "retweets": 5
+      }
+    ],
+    "$RICO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Lololujh verified earnings for $RICO on @BagsApp 💰\n\nhttps://t.co/ERctuTb2Ja",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$NUMBERS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @its_phobia verified earnings for $NUMBERS on @BagsApp 💰\n\nhttps://t.co/G2I3A4jPd4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GROYPER": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @onchainrobber just bought $1.13K of $GROYPER at $577.59K MC 🐳\n\nhttps://t.co/afriavsHi7",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$NVDA": [
+      {
+        "author": "saylor",
+        "text": "The winners are Digital Intelligence $NVDA, Digital Credit $MSTR, and Digital Capital $BTC. https://t.co/BSQeGSJO3x",
+        "likes": 1095,
+        "retweets": 95
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "saylor",
+        "text": "The winners are Digital Intelligence $NVDA, Digital Credit $MSTR, and Digital Capital $BTC. https://t.co/BSQeGSJO3x",
+        "likes": 1095,
+        "retweets": 95
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "saylor",
+        "text": "The winners are Digital Intelligence $NVDA, Digital Credit $MSTR, and Digital Capital $BTC. https://t.co/BSQeGSJO3x",
+        "likes": 1095,
+        "retweets": 95
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "a1lon9",
+      "text": "we’re selecting a few teams to come on stream and pitch their idea/product directly to Tim and me tomorrow\n\nwho should we invite?",
+      "likes": 1397,
+      "retweets": 144,
+      "url": "https://x.com/a1lon9/status/2020931882175824358"
+    },
+    {
+      "author": "saylor",
+      "text": "The winners are Digital Intelligence $NVDA, Digital Credit $MSTR, and Digital Capital $BTC. https://t.co/BSQeGSJO3x",
+      "likes": 1095,
+      "retweets": 95,
+      "url": "https://x.com/saylor/status/2021017074991288716"
+    },
+    {
+      "author": "levelsio",
+      "text": "My secret conspiracy theory about AI companies is they nerf models to save on compute\n\nThen they check X to see if anyone notices it\n\nIf yes, give back compute\n\nIf not, continue",
+      "likes": 101,
+      "retweets": 4,
+      "url": "https://x.com/levelsio/status/2021018069028700517"
+    }
+  ]
+}

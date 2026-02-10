@@ -1,0 +1,156 @@
+{
+  "timestamp": "2026-01-31T19:05:02.869Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 6,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$KABOSU",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$USDG",
+      1
+    ],
+    [
+      "$AURA",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$KABOSU",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$USDG",
+        "count": 1
+      },
+      {
+        "ticker": "$AURA",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 2
+    },
+    "metals": {
+      "silver": 2
+    },
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @rektguy: $REKT Daily Art\n\ngov  tim walz and minnesota ag keith ellison will testify...\n\nListed for 0.01 ETH. Proceeds used to buy and b…",
+        "likes": 0,
+        "retweets": 2
+      },
+      {
+        "author": "osf_rekt",
+        "text": "RT @DegenTy_dev: Well, it seems like a fitting day to touch snow, crack open an @XGames GRXPEFRUIT @rektdrinks, and get $REKT 💀 https://t.c…",
+        "likes": 0,
+        "retweets": 7
+      }
+    ],
+    "$KABOSU": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @himari__dayo verified earnings for $KABOSU on @BagsApp 💰\n\nhttps://t.co/FekjAiRCEb",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $14.65K of $USDG at $860.97M MC 🐳\n\nhttps://t.co/lF0nZzqWjz",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$USDG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $14.65K of $USDG at $860.97M MC 🐳\n\nhttps://t.co/lF0nZzqWjz",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$AURA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AURA whale just bought $3.33K of $aura at $11.28M MC 🐳\n\nhttps://t.co/GKRb7l7DuF",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "Credib1eGuy",
+        "text": "It’s quite clear $HYPE is going to several hundred dollars at this point\n\nMatter of when, not if.\n\nTbh I recommend not trying to catch the bottom, will likely be violent lock out trend at some point.",
+        "likes": 143,
+        "retweets": 6
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 545,
+      "retweets": 52,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "Credib1eGuy",
+      "text": "It’s quite clear $HYPE is going to several hundred dollars at this point\n\nMatter of when, not if.\n\nTbh I recommend not trying to catch the bottom, will likely be violent lock out trend at some point.",
+      "likes": 143,
+      "retweets": 6,
+      "url": "https://x.com/Credib1eGuy/status/2017612985691250949"
+    }
+  ]
+}

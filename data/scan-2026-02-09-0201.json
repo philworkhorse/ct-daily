@@ -1,0 +1,173 @@
+{
+  "timestamp": "2026-02-09T02:01:31.365Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 1,
+    "neutral": 94,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$OPAL",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$MONTANER",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$OPAL",
+        "count": 1
+      },
+      {
+        "ticker": "$MONTANER",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 2
+    },
+    "metals": {
+      "silver": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "@coinbase list unstable coin on global spot \n\n$USDUC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OPAL": [
+      {
+        "author": "PainCrypt0",
+        "text": "RT @tizzzz24: Taking the $OPAL trade (@opalbotgg).\n\nOpal started as an AI that you can queue and play games with. Now, their new feature, \"…",
+        "likes": 0,
+        "retweets": 5
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "onchainheroes",
+        "text": "RT @lorenzo_onx: Just won 0.213 $ETH (~$450) on Maze of Gains from @onchainheroes on my 3rd run \n\nAAAAAAAH 🤯🤯 https://t.co/lAfnnV3AFq",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$MONTANER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @montanertwiter verified earnings for $MONTANER on @BagsApp 💰\n\nhttps://t.co/UFy3IJ34Ml",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "HQNewsNow",
+      "text": "this is what MAGA is triggered by btw",
+      "likes": 1317,
+      "retweets": 121,
+      "url": "https://x.com/HQNewsNow/status/2020678362457366686"
+    },
+    {
+      "author": "coinbase",
+      "text": "Singing &gt; watching.\n\nSo we got millions of people watching the Big Game to sing along with us.\n\nOh, and we put it on the world's largest LED screen @SphereVegas. https://t.co/dYqBkEy41g",
+      "likes": 1144,
+      "retweets": 183,
+      "url": "https://x.com/coinbase/status/2020664192374645023"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "I swear if I see one more field goal I’m turning off my tv",
+      "likes": 445,
+      "retweets": 24,
+      "url": "https://x.com/hoodg3nius/status/2020677269484707896"
+    },
+    {
+      "author": "coinbase",
+      "text": "If you're talking about it, it worked.\n\nCrypto is for everybody.",
+      "likes": 395,
+      "retweets": 26,
+      "url": "https://x.com/coinbase/status/2020668158437171237"
+    },
+    {
+      "author": "Thiss_Youu",
+      "text": "https://t.co/xFaPsDEgmo",
+      "likes": 383,
+      "retweets": 40,
+      "url": "https://x.com/Thiss_Youu/status/2020676777434357893"
+    },
+    {
+      "author": "sama",
+      "text": "Proud of the team for getting Pantheon and The Singularity is Near in the same Super Bowl ad",
+      "likes": 321,
+      "retweets": 8,
+      "url": "https://x.com/sama/status/2020677993673433330"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bad bunny shi was coo",
+      "likes": 248,
+      "retweets": 10,
+      "url": "https://x.com/blknoiz06/status/2020672727351234712"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Half time show was ass?",
+      "likes": 226,
+      "retweets": 1,
+      "url": "https://x.com/Tradermayne/status/2020673007887450558"
+    },
+    {
+      "author": "ashleyhollis_",
+      "text": "Bad bunny was 🔥 he got me feeing Puerto Rican!!!! Heyyyy pappiiiii 💃 #SuperBowl",
+      "likes": 178,
+      "retweets": 6,
+      "url": "https://x.com/ashleyhollis_/status/2020676948020867220"
+    },
+    {
+      "author": "coinbase",
+      "text": "Comment “everybody” and we'll add another O. https://t.co/fEihGvU9VM",
+      "likes": 162,
+      "retweets": 39,
+      "url": "https://x.com/coinbase/status/2020675492144165313"
+    }
+  ]
+}

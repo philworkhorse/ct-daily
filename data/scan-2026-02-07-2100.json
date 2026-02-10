@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-02-07T21:00:36.208Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 5,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$ANTIAIPAC",
+      1
+    ],
+    [
+      "$BLOXX",
+      1
+    ],
+    [
+      "$UI",
+      1
+    ],
+    [
+      "$WOG",
+      1
+    ],
+    [
+      "$COW",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ANTIAIPAC",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOXX",
+        "count": 1
+      },
+      {
+        "ticker": "$UI",
+        "count": 1
+      },
+      {
+        "ticker": "$WOG",
+        "count": 1
+      },
+      {
+        "ticker": "$COW",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "copper": 2,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "bond": 2,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$ANTIAIPAC": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ANTIAIPACfun verified earnings for $ANTIAIPAC on @BagsApp 💰\n\nhttps://t.co/aMqFb6nlM7",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BLOXX": [
+      {
+        "author": "BloxApi",
+        "text": "RT @yRedDogg: $BLOXX | The revenue model explained\n\nBloxx’s valuation framework makes more sense when you separate the base case from the u…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$UI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Enginebroke verified earnings for $UI on @BagsApp 💰\n\nhttps://t.co/JubMEId6UM",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WOG": [
+      {
+        "author": "WogTheArtist",
+        "text": "5 mins till launch \n\n$WOG https://t.co/rArm3bnnM6",
+        "likes": 77,
+        "retweets": 16
+      }
+    ],
+    "$COW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $COW with a PnL of +144.83%.\n\n$COW has been trending on Moby since $64.61K MC. Currently sitting at $208.57K MC. https://t.co/4bFp6ao4ka",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "WogTheArtist",
+      "text": "I’m the artist behind $Fwog. For a long time I’ve had one idea I kept coming back to — $Wog\n\nThis is my favorite character out of the whole fwog franchise.\n\nIt’s part of the same universe as Fwog. Same care for the art, the IP, and the community. Nothing forced, nothing rushed.\n\n",
+      "likes": 127,
+      "retweets": 24,
+      "url": "https://x.com/WogTheArtist/status/2020237363474211031"
+    },
+    {
+      "author": "frankdegods",
+      "text": "to be clear this bull market will rage on\n\nall roads lead to the debasement of the dollar\n\nthank you for the dips along the way though",
+      "likes": 117,
+      "retweets": 10,
+      "url": "https://x.com/frankdegods/status/2020232682697847290"
+    },
+    {
+      "author": "mert",
+      "text": "crypto is the universal api for finance, money, and capitalism and you're bearish",
+      "likes": 102,
+      "retweets": 6,
+      "url": "https://x.com/mert/status/2020233011862634686"
+    }
+  ]
+}

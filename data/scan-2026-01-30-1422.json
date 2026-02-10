@@ -1,0 +1,288 @@
+{
+  "timestamp": "2026-01-30T14:22:56.917Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 3,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      5
+    ],
+    [
+      "$BP",
+      3
+    ],
+    [
+      "$MOLT",
+      2
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$MOLTBOOK",
+      1
+    ],
+    [
+      "$MEGA",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$OPENCLAW",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 5
+      },
+      {
+        "ticker": "$BP",
+        "count": 3
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 2
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTBOOK",
+        "count": 1
+      },
+      {
+        "ticker": "$MEGA",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 3,
+      "gold": 2,
+      "silver": 2,
+      "oil": 1,
+      "corn": 3
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 2
+    },
+    "macro": {
+      "fed": 4,
+      "treasury": 1,
+      "powell": 2,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @scopescan_io: 17 Smart Money Wallets are accumulating a huge amount of $COPPERINU\n\nMoneyflow:\nhttps://t.co/FnlNbowOcZ",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$MOLTBOOK": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Moltbook has the CRYPTO && TECH worlds in SHOCK! \n\nFor those unaware, Moltbook, is basically Reddit, but only for AI Agents. \n\nIt allows Claude (now Molt) Bot, to be able to post and interact with oth",
+        "likes": 30,
+        "retweets": 1
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Moltbook has the CRYPTO && TECH worlds in SHOCK! \n\nFor those unaware, Moltbook, is basically Reddit, but only for AI Agents. \n\nIt allows Claude (now Molt) Bot, to be able to post and interact with oth",
+        "likes": 30,
+        "retweets": 1
+      },
+      {
+        "author": "CookerFlips",
+        "text": "Can someone explain to me $MOLT\n\nBullish and Bearish points\n\nI'm reading a bunch of rabbit hole shit and all I see is AGI",
+        "likes": 97,
+        "retweets": 2
+      }
+    ],
+    "$MEGA": [
+      {
+        "author": "waleswoosh",
+        "text": "The cabal is trying to manipulate the MegaETH pre-market price on Hyperliquid.\n\nWe all know $MEGA gonna trade above $0.4 USD https://t.co/wGW3MSEFH0",
+        "likes": 203,
+        "retweets": 3
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $9.35K of $WhiteWhale at $80.46M MC 🐳\n\nhttps://t.co/iJKiw9zVPp",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +249.04%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $2.67M MC. https://t.co/P",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.44K of $PENGUIN at $66.08M MC 🐳\n\nhttps://t.co/NhJW3DzkSS",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0x_leo_ just bought $9.97K of $PENGUIN at $65.66M MC 🐳\n\nhttps://t.co/v575SuwGFV",
+        "likes": 0,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0x_leo_ just bought $10.01K of $PENGUIN at $65.66M MC 🐳\n\nhttps://t.co/v575SuwGFV",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.41K of $BP at $15.35M MC 🐳\n\nhttps://t.co/LJPbAsw3HW",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.23K of $BP at $15.79M MC 🐳\n\nhttps://t.co/58yj9kLnbj",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $BP with a PnL of +118.29%.\n\n$BP has been trending on Moby since $228.22K MC. Currently sitting at $15.39M MC. https://t.co/uFxJ7og2FK",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.41K of $BP at $15.35M MC 🐳\n\nhttps://t.co/LJPbAsw3HW",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.23K of $BP at $15.79M MC 🐳\n\nhttps://t.co/58yj9kLnbj",
+        "likes": 3,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TMobile",
+      "text": "T-Satellite changes everything. Check for weather updates and stay connected when you're off the beaten path.",
+      "likes": 706,
+      "retweets": 108,
+      "url": "https://x.com/TMobile/status/2008677943128797679"
+    },
+    {
+      "author": "IBKR",
+      "text": "According to Investopedia, Interactive Brokers has more fractional shares available across more markets than anyone else.",
+      "likes": 671,
+      "retweets": 54,
+      "url": "https://x.com/IBKR/status/1921946593038684608"
+    },
+    {
+      "author": "LASIKdotcom",
+      "text": "Another Missed Call? Nominate a Major League Professional Referee for FREE LASIK, and Score $1,000* Off Your Own Procedure!",
+      "likes": 647,
+      "retweets": 180,
+      "url": "https://x.com/LASIKdotcom/status/1922711102577615005"
+    },
+    {
+      "author": "DellTech",
+      "text": "Demand is outpacing supply when it comes to AI. @MichaelDell speaks to @CNBC about how businesses are leveraging data and next-gen models to stay ahead. 🖱️https://t.co/n8ohcB6p6B",
+      "likes": 312,
+      "retweets": 45,
+      "url": "https://x.com/DellTech/status/2016164322649473438"
+    },
+    {
+      "author": "mert",
+      "text": "after getting brutally violated by the market last night, I woke up thinking \"how much worse could it get?\"\n\nso I enter my study, and somehow a bird got in and shit LITERALLY everywhere\n\nas if cz and wintermute weren't enough I am now getting dumped on by mother nature https://t.",
+      "likes": 230,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2017213178367905924"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "The cabal is trying to manipulate the MegaETH pre-market price on Hyperliquid.\n\nWe all know $MEGA gonna trade above $0.4 USD https://t.co/wGW3MSEFH0",
+      "likes": 203,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2017225627133465063"
+    },
+    {
+      "author": "mert",
+      "text": "solana remains the most usable, battle-hardened, and scalable chain in the real world\n\npayments, programmability, spot trading and soon perps and predictions\n\nas AI reduces friction for creating apps, it will emerge as the universal API for world finance",
+      "likes": 201,
+      "retweets": 13,
+      "url": "https://x.com/mert/status/2017230473693458942"
+    },
+    {
+      "author": "himgajria",
+      "text": "All the farmers are out? \nPerfect timing. https://t.co/kzu7mgfwxm",
+      "likes": 147,
+      "retweets": 14,
+      "url": "https://x.com/himgajria/status/2017203307551535169"
+    },
+    {
+      "author": "ColdBloodShill",
+      "text": "feels like a good % of those of us left here don't actually care if BTC trades lower, because we just want SOMETHING to happen",
+      "likes": 127,
+      "retweets": 2,
+      "url": "https://x.com/ColdBloodShill/status/2017225854812663924"
+    },
+    {
+      "author": "moonpay",
+      "text": "https://t.co/TmpVBhtpU6",
+      "likes": 106,
+      "retweets": 21,
+      "url": "https://x.com/moonpay/status/2017240352147562743"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "timestamp": "2026-02-08T10:32:51.273Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 8,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$SHT",
+      3
+    ],
+    [
+      "$AVICI",
+      2
+    ],
+    [
+      "$UMBRA",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$FITCOIN",
+      1
+    ],
+    [
+      "$FITTED",
+      1
+    ],
+    [
+      "$PVTR",
+      1
+    ],
+    [
+      "$OPAL",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$ZEUS",
+      1
+    ],
+    [
+      "$KLAUS",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$SHT",
+        "count": 3
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 2
+      },
+      {
+        "ticker": "$UMBRA",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$FITCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$FITTED",
+        "count": 1
+      },
+      {
+        "ticker": "$PVTR",
+        "count": 1
+      },
+      {
+        "ticker": "$OPAL",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$ZEUS",
+        "count": 1
+      },
+      {
+        "ticker": "$KLAUS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/E24EQ8T8BF",
+        "likes": 51,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "Actionable trading vs just commenting on charts\n\nEvery time someone on X makes a call, ask them:\n\n\"So what are you going to do about it?\"\n\nThat's the question that turns theory into actual success, ev",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.14K of $SHT at $1.95M MC 🐳\n\nhttps://t.co/NvyX0GM2Is",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.32K of $PENGUIN at $29.49M MC 🐳\n\nhttps://t.co/TDv22uWrDq",
+        "likes": 5,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.13K of $SHT at $1.4M MC 🐳\n\nhttps://t.co/BVdLKEJNA5",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.14K of $SHT at $1.95M MC 🐳\n\nhttps://t.co/NvyX0GM2Is",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SHT with a PnL of +310.26%.\n\n$SHT has been trending on Moby since $104.34K MC. Currently sitting at $1.73M MC. https://t.co/X7vwFraVuU",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.13K of $SHT at $1.4M MC 🐳\n\nhttps://t.co/BVdLKEJNA5",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$SOL has already broken down from a major double top. The current recovery is just a move back into resistance, this zone is not for trading.\n\nPlan:\n- Let price push higher into resistance\n- Wait for ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FITCOIN": [
+      {
+        "author": "0xDamien",
+        "text": "I just upgraded my $FITCOIN to $FITTED on @fittedcloset 💰\n\nhttps://t.co/xwDHRCTUPx",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$FITTED": [
+      {
+        "author": "0xDamien",
+        "text": "I just upgraded my $FITCOIN to $FITTED on @fittedcloset 💰\n\nhttps://t.co/xwDHRCTUPx",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PVTR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Jinsparklyn verified earnings for $PVTR on @BagsApp 💰\n\nhttps://t.co/408ledlFE0",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $18.18K of $UMBRA at $23.18M MC 🐳\n\nhttps://t.co/UZIdTHaPZB",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $11.92K of $UMBRA at $22.95M MC 🐳\n\nhttps://t.co/uTknfjkXe9",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$UMBRA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $18.18K of $UMBRA at $23.18M MC 🐳\n\nhttps://t.co/UZIdTHaPZB",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $11.92K of $UMBRA at $22.95M MC 🐳\n\nhttps://t.co/uTknfjkXe9",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OPAL": [
+      {
+        "author": "PainCrypt0",
+        "text": "RT @0xdetweiler: $OPAL is one of the more interesting AI plays on solana atm\n\n- not another AI chatbot wrapper. this thing actually joins y…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.73K of $ZEUS at $11.58M MC 🐳\n\nhttps://t.co/V1pynfWu9n",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZEUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $4.73K of $ZEUS at $11.58M MC 🐳\n\nhttps://t.co/V1pynfWu9n",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KLAUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $KLAUS with a PnL of +148.39%.\n\n$KLAUS has been trending on Moby since $98.91K MC. Currently sitting at $411.98K MC. https://t.co/kfCSy1",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "0xFinish",
+        "text": "smth shady is happening on $ETH as well \n\nMarket Maker code is broken, someone big has blown off \n\nI can't share all the details yet https://t.co/AEA6484ytD",
+        "likes": 16,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, taking some time off today https://t.co/hZU29fcv8d",
+      "likes": 622,
+      "retweets": 13,
+      "url": "https://x.com/waleswoosh/status/2020380982587847011"
+    },
+    {
+      "author": "frankdegods",
+      "text": "Words can't describe how nice it is to finally be tapped into the Twitter firehose. Previous versions of this stuff were heavily limited by being glorified web scrapers.\n\nNow... everyone has access to efficiently query all of Twitter. Insane. Thanks @XDevelopers",
+      "likes": 352,
+      "retweets": 14,
+      "url": "https://x.com/frankdegods/status/2020366023162225137"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 303,
+      "retweets": 17,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "The 4 year cycle is repeating, Bitcoin is cooked. \n\nBut there is a silver lining. \n\nhttps://t.co/pH2cL94wFm",
+      "likes": 178,
+      "retweets": 7,
+      "url": "https://x.com/Tradermayne/status/2020378816473100420"
+    },
+    {
+      "author": "cryptosanthoshK",
+      "text": "Just spoke to my wall street quants,\n\nCHANCES OF BITCOIN HITTING 50,000$ IS VERY LIKELY.\n\n✍️",
+      "likes": 145,
+      "retweets": 17,
+      "url": "https://x.com/cryptosanthoshK/status/2020436568092323914"
+    },
+    {
+      "author": "dricstudio",
+      "text": "🦀❤️ https://t.co/sfvVZ1cA3E",
+      "likes": 136,
+      "retweets": 19,
+      "url": "https://x.com/dricstudio/status/2020434669918130433"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "livy dunne getting brutally boob mogged by sydney thomas.",
+      "likes": 104,
+      "retweets": 2,
+      "url": "https://x.com/DipWheeler/status/2020378959490478592"
+    }
+  ]
+}

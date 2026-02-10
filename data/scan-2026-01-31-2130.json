@@ -1,0 +1,225 @@
+{
+  "timestamp": "2026-01-31T21:30:02.695Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 20,
+    "bearish": 6,
+    "neutral": 74,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$FREEMOLT",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$BMNR",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ],
+    [
+      "$GME",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$FREEMOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$BMNR",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$GME",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 3,
+      "oil": 2,
+      "silver": 1
+    },
+    "metals": {
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$USELESS": [
+      {
+        "author": "theunipcs",
+        "text": "everyone can talk\n\neveryone can throw out insane targets for projects they believe in\n\nvery few can maintain conviction through 20%+ drawdown days or 90% pullbacks from ATH\n\ni’m publicly doubling down",
+        "likes": 275,
+        "retweets": 30
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.07K of $FREEMOLT at $193.45K MC 🐳\n\nhttps://t.co/ZxPcgAT1cl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FREEMOLT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.07K of $FREEMOLT at $193.45K MC 🐳\n\nhttps://t.co/ZxPcgAT1cl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $33.05K of $JupSOL at $500.09M MC 🐳\n\nhttps://t.co/HyviRwTrJz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BMNR": [
+      {
+        "author": "0xSisyphus",
+        "text": "RT @TaikiMaeda2: Despite Tom Lee buying 3.5% of ETH supply in a span of 6 months, ETH has now completely retraced the $BMNR pump. https://t…",
+        "likes": 0,
+        "retweets": 45
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $5K of $GME at $4.98M MC 🐳\n\nhttps://t.co/tddBgJmsGT",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GME": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $5K of $GME at $4.98M MC 🐳\n\nhttps://t.co/tddBgJmsGT",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 1569,
+      "retweets": 230,
+      "url": "https://x.com/Neuravision_A/status/2010282162092986376"
+    },
+    {
+      "author": "gainzy222",
+      "text": "The best performing group from 2017-2025 that kept their sanity and made it were btc maxis who just kept buying btc\n\nAlt maxis outperformed them massively during alt seasons but eventually zero’d out\n\nI think over the next 4-8 years this repeats with zec\n https://t.co/Qdye7YHfoJ",
+      "likes": 391,
+      "retweets": 23,
+      "url": "https://x.com/gainzy222/status/2017577535693816126"
+    },
+    {
+      "author": "garrytan",
+      "text": "Calling the most reasonable center-left people \"right wing pundits\" is what... frankly a lot of people do. They do that to me all the time. \n\nWhen you see it, you should say something. That's not useful, and it will doom the Democratic party to a decade of failure. If you really ",
+      "likes": 308,
+      "retweets": 27,
+      "url": "https://x.com/garrytan/status/2017650291282526645"
+    },
+    {
+      "author": "theunipcs",
+      "text": "everyone can talk\n\neveryone can throw out insane targets for projects they believe in\n\nvery few can maintain conviction through 20%+ drawdown days or 90% pullbacks from ATH\n\ni’m publicly doubling down on $USELESS and stating plainly that it is destined for multi-billions\n\nit’s ha",
+      "likes": 275,
+      "retweets": 30,
+      "url": "https://x.com/theunipcs/status/2017699976986456074"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Finally home. \n\nSo the TLDR everyone is a Satan worshipping pedo and 10/10 was the reason crypto missed the last leg higher on everything. \n\nDid I miss anything?",
+      "likes": 271,
+      "retweets": 3,
+      "url": "https://x.com/Tradermayne/status/2017702495913664832"
+    },
+    {
+      "author": "Bluntz_Capital",
+      "text": "reading through the comments of this QT post is kinda funny looking back, sentiment is a fascinating thing.\n\nthat said, MAJOR $sol bottom is very very close.\n\ndo with this what you will. https://t.co/ekHqMeb7d7",
+      "likes": 193,
+      "retweets": 10,
+      "url": "https://x.com/Bluntz_Capital/status/2017706878877515944"
+    },
+    {
+      "author": "jessepollak",
+      "text": "tracking a transaction delay issue on @base \n\nblocks continue to build and transactions are being processed but there are intermittent delays\n\nteam is working on a fix",
+      "likes": 139,
+      "retweets": 6,
+      "url": "https://x.com/jessepollak/status/2017699985752789199"
+    },
+    {
+      "author": "jessepollak",
+      "text": "this issue is now fully resolved \n\ntrack https://t.co/7WdOCam2gc for more updates",
+      "likes": 123,
+      "retweets": 9,
+      "url": "https://x.com/jessepollak/status/2017702155780870550"
+    },
+    {
+      "author": "mert",
+      "text": "crypto remains the universal rails for money and global finance at planetary scale\n\nthe industry will, at a minimum, 10x from here after the spot:leverage ratio hits an equilibrium \n\njust survive",
+      "likes": 117,
+      "retweets": 8,
+      "url": "https://x.com/mert/status/2017702006186455097"
+    },
+    {
+      "author": "mert",
+      "text": "we're not down because 10/10\n\nthe issue is simple: leverage:spot ratio\n\nthis is the perps meta \n\ni) less marginal spot buys and ii) instead of being down on your positions, you lose it all entirely, which again feeds i)\n\nnow add geopolitical volatility and voila",
+      "likes": 115,
+      "retweets": 1,
+      "url": "https://x.com/mert/status/2017699925652316201"
+    }
+  ]
+}

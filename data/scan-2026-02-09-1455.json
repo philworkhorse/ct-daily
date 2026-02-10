@@ -1,0 +1,238 @@
+{
+  "timestamp": "2026-02-09T14:55:49.265Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 6,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$BMNR",
+      1
+    ],
+    [
+      "$ORE",
+      1
+    ],
+    [
+      "$CHRONOBETS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$BMNR",
+        "count": 1
+      },
+      {
+        "ticker": "$ORE",
+        "count": 1
+      },
+      {
+        "ticker": "$CHRONOBETS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1,
+      "oil": 2,
+      "crude": 1
+    },
+    "metals": {},
+    "macro": {
+      "fed": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @saylor: Strategy has acquired 1,142 BTC for ~$90.0 million at ~$78,815 per bitcoin. As of 2/8/2026, we hodl 714,644 $BTC acquired for ~…",
+        "likes": 0,
+        "retweets": 784
+      },
+      {
+        "author": "docXBT",
+        "text": "$BTC - Looking for us to build out value here; starting off by using prev week's vah/val and anchored vwap as a guide. https://t.co/qvjy8k0WZp",
+        "likes": 65,
+        "retweets": 4
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "$REKT Weekly https://t.co/trWDrdfeOZ",
+        "likes": 58,
+        "retweets": 13
+      },
+      {
+        "author": "osf_rekt",
+        "text": "impromptu $REKT weekly in a few mins, while i have a spare moment! https://t.co/pCyKcj4jdN",
+        "likes": 51,
+        "retweets": 8
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $17.56K of $JUP at $1.06B MC 🐳\n\nhttps://t.co/tNxAk7M5v4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $17.56K of $JUP at $1.06B MC 🐳\n\nhttps://t.co/tNxAk7M5v4",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "Ethereum $ETH suffered a severe decline in the past few weeks but as @BitMNR shows:\n\n- these declines 8 of 8 times\n- saw a v-shaped recovery\n\nThe same set up exists in 2026 https://t.co/4ZG4ZbX2i0",
+        "likes": 119,
+        "retweets": 13
+      }
+    ],
+    "$BMNR": [
+      {
+        "author": "fundstrat",
+        "text": "Latest update from BitMine $BMNR @BitMNR ⚡️\n👇",
+        "likes": 73,
+        "retweets": 7
+      }
+    ],
+    "$ORE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $ORE whale just bought $3.5K of $ORE at $24.56M MC 🐳\n\nhttps://t.co/Ms9wNYXQCM",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CHRONOBETS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ChronoBets verified earnings for $CHRONOBETS on @BagsApp 💰\n\nhttps://t.co/kInFQ7dGRV",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Polymarket",
+      "text": "Logan Paul checking Polymarket at the Big Game 👀 https://t.co/BXoNttmGwu",
+      "likes": 8153,
+      "retweets": 325,
+      "url": "https://x.com/Polymarket/status/2020652417906569474"
+    },
+    {
+      "author": "zachxbt",
+      "text": "@Polymarket Yet another Logan Paul scam\n\nWhy do all of the prediction market teams have to run deceptive marketing? https://t.co/QIW1Z0JBqk",
+      "likes": 4373,
+      "retweets": 218,
+      "url": "https://x.com/zachxbt/status/2020831168627933453"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "Caller reacts to Bad Bunny's Halftime Show:\n\n\"You wouldn't ask an Italian opera singer to convert her songs into English. That's ridiculous. The most important thing he said at the end was God Bless America. It was a great performance, it was all love.\" https://t.co/2GnaSN8NqE",
+      "likes": 376,
+      "retweets": 74,
+      "url": "https://x.com/HQNewsNow/status/2020872107983360341"
+    },
+    {
+      "author": "wrld_sol",
+      "text": "9/10 times I open this app the first thing I see is people fudding other peoples bags \n\nYesterday I had people coming at me for publicly buying and HOLDING a coin lmao (real)\n\nIt’s pretty crazy to see how backwards this space has gone. Do yall want retail to come back or?",
+      "likes": 306,
+      "retweets": 21,
+      "url": "https://x.com/wrld_sol/status/2020693694752674295"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Espresso is doing a Binance Prime sale at $250M USD FDV.\n\nNot long ago they raised at $400M USD on Kaito's Capital Launchpad.\n\nNone of the above groups will break even https://t.co/yXSJpxRDPn",
+      "likes": 262,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020850576775389206"
+    },
+    {
+      "author": "deltaxbt",
+      "text": "78,815$ hahahahahaha bro what the fuck",
+      "likes": 231,
+      "retweets": 7,
+      "url": "https://x.com/deltaxbt/status/2020848661547102564"
+    },
+    {
+      "author": "fundstrat",
+      "text": "Ethereum $ETH suffered a severe decline in the past few weeks but as @BitMNR shows:\n\n- these declines 8 of 8 times\n- saw a v-shaped recovery\n\nThe same set up exists in 2026 https://t.co/4ZG4ZbX2i0",
+      "likes": 119,
+      "retweets": 13,
+      "url": "https://x.com/fundstrat/status/2020872267027083508"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "One simple hypothesis on mediocre superbowl ads, LLMs telling everyone their ideas are brilliant",
+      "likes": 107,
+      "retweets": 1,
+      "url": "https://x.com/jackbutcher/status/2020843155336368627"
+    }
+  ]
+}

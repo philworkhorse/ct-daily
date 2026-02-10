@@ -1,0 +1,191 @@
+{
+  "timestamp": "2026-02-09T23:13:25.000Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 8,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$RISK",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$RISK",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1,
+      "fed": 1,
+      "treasury": 1,
+      "bond": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @rektguy: $REKT Daily Art\n\nlindsey vonns olympic medal hopes\n\nListed for 0.05 ETH. Proceeds used to buy and burn $REKT.\n\nhttps://t.co/Kj…",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "rektmando",
+        "text": "RT @MaxCrypto: This is unbelievable.\n\n$BTC has been literally mimicking the Software ETF for 5+ years now. https://t.co/pURciHbeuk",
+        "likes": 0,
+        "retweets": 87
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @YusufGemz: Lotta whales be buying the $BUTTCOIN dip, what do they know? https://t.co/gVpKp3aQWW",
+        "likes": 0,
+        "retweets": 25
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $1K of $RISK at $185.71K MC 🐳\n\nhttps://t.co/rywpqXrgHn",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$RISK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $1K of $RISK at $185.71K MC 🐳\n\nhttps://t.co/rywpqXrgHn",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @AvgJoesCrypto just bought $1K of $RISK at $122.92K MC 🐳\n\nhttps://t.co/1LyqVVGjDG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @onchainrobber just bought $5K of $WOJAK at $13.52M MC 🐳\n\nhttps://t.co/O3vZdhMkCX",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $TOILET on MobyScreener 🖼️ https://t.co/kUCX3eY9NA",
+        "likes": 11,
+        "retweets": 2
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.32K of $chud at $276.72K MC 🐳\n\nhttps://t.co/IO8nEKfzBO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "frankdegods",
+      "text": "🤦‍♂️ https://t.co/7NW4MsBmcG",
+      "likes": 140,
+      "retweets": 2,
+      "url": "https://x.com/frankdegods/status/2020892069724586175"
+    },
+    {
+      "author": "Austen",
+      "text": "I used to have a team of 25 full-time curriculum developers.\n\nWhat AI can build with the right prompt is at least on par with that, arguably better.\n\nSo here you go, the complete OpenClawd course for someone who wants to understand from first principles:\n\nhttps://t.co/mj5zrqVfsr",
+      "likes": 107,
+      "retweets": 4,
+      "url": "https://x.com/Austen/status/2020976749610459378"
+    }
+  ]
+}

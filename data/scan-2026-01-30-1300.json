@@ -1,0 +1,412 @@
+{
+  "timestamp": "2026-01-30T13:00:45.462Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 4,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$SOL",
+      2
+    ],
+    [
+      "$PUMP",
+      2
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$GLD",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$SILVER",
+      1
+    ],
+    [
+      "$GOLD",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$LORB",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$AZFLIN",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$ASFAF",
+      1
+    ],
+    [
+      "$AIN",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$JLP",
+      1
+    ],
+    [
+      "$OPENCLAW",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 2
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$LORB",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$AZFLIN",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$ASFAF",
+        "count": 1
+      },
+      {
+        "ticker": "$AIN",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$JLP",
+        "count": 1
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 2
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$GLD",
+        "count": 1
+      },
+      {
+        "ticker": "$SILVER",
+        "count": 1
+      },
+      {
+        "ticker": "$GOLD",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "gold": 4,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 4,
+      "silver": 1
+    },
+    "macro": {
+      "fed": 1,
+      "yields": 1
+    }
+  },
+  "tickerDetails": {
+    "$XAU": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$XAU $GLD update\n\nGood TP on Gold at 5500.",
+        "likes": 18,
+        "retweets": 0
+      }
+    ],
+    "$GLD": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$XAU $GLD update\n\nGood TP on Gold at 5500.",
+        "likes": 18,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @0x_leo_ just bought $9.97K of $PENGUIN at $73.26M MC 🐳\n\nhttps://t.co/4KPyqWQO0q",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.41K of $crust at $1.66M MC 🐳\n\nhttps://t.co/bRIifleS9e",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 74,
+        "retweets": 3
+      },
+      {
+        "author": "watchingmarkets",
+        "text": "$SOL still looks heavy. Curious to see how the dynamics develop into the monthly close. https://t.co/3N0qSzlXcu",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 74,
+        "retweets": 3
+      }
+    ],
+    "$SILVER": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 74,
+        "retweets": 3
+      }
+    ],
+    "$GOLD": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 74,
+        "retweets": 3
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nWhile the majors look absolutely terrible going into the weekly close, it appears that the H&S pattern is likely playing out on the HTF chart of $SOL. $BTC has also broken down out of its risin",
+        "likes": 74,
+        "retweets": 3
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "watchingmarkets",
+        "text": "We may not have broken out yet, but that doesn’t change the structure, it remains very solid.\n\n$PUMP (1D) https://t.co/uiAOQ9rT2q",
+        "likes": 7,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $1.24K of $MOLT at $283.74K MC 🐳\n\nhttps://t.co/W9tbdAk0OE",
+        "likes": 3,
+        "retweets": 2
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$HYPE update\n\nPerfect level choice, good bounce so far. Essentially do or die across the entire crypto market here, need to see these levels hold or things get ugly. https://t.co/Pj4L3VxDgo",
+        "likes": 35,
+        "retweets": 1
+      }
+    ],
+    "$LORB": [
+      {
+        "author": "yogchill_",
+        "text": "I see the trenches just gave 15 million in volume to $crust pushing it as the  “fartcoin of Clawd” because ai agents made a “Church of Molt”\n\nThis shit is a rip off beta version of @ChurchOfLorb creat",
+        "likes": 4,
+        "retweets": 2
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $1.24K of $MOLT at $283.74K MC 🐳\n\nhttps://t.co/W9tbdAk0OE",
+        "likes": 3,
+        "retweets": 2
+      }
+    ],
+    "$AZFLIN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @AzFlin verified earnings for $AZFLIN on @BagsApp 💰\n\nhttps://t.co/VXN5D2rdwe",
+        "likes": 7,
+        "retweets": 1
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $10.71K of $EURC at $89.4M MC 🐳\n\nhttps://t.co/4GvmcS8C41",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $10.71K of $EURC at $89.4M MC 🐳\n\nhttps://t.co/4GvmcS8C41",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ASFAF": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Beljafn verified earnings for $ASFAF on @BagsApp 💰\n\nhttps://t.co/lv2km6yPMi",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AIN": [
+      {
+        "author": "100xDarren",
+        "text": "$AIN @AInalyst_ got into ERC-8004 before it was cool",
+        "likes": 9,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $16.54K of $JLP at $1.68B MC 🐳\n\nhttps://t.co/pGnjqye6em",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$JLP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $16.54K of $JLP at $1.68B MC 🐳\n\nhttps://t.co/pGnjqye6em",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @onchainrobber just bought $1.71K of $OPENCLAW at $2.92M MC 🐳\n\nhttps://t.co/d511MV4f4U",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Movies",
+      "text": "SEND HELP. Starring Rachel McAdams &amp; Dylan O'Brien. Directed by Sam Raimi.\n\nNow playing in theaters. Get your tickets! https://t.co/hGCxg8ywo6",
+      "likes": 1608,
+      "retweets": 57,
+      "url": "https://x.com/Movies/status/2016911718555779304"
+    },
+    {
+      "author": "SolidTradesz",
+      "text": "BTC/GOLD will bottom here\n\nJust a couple more months of chop and pain before up only resumes again https://t.co/em1zJdx3qo",
+      "likes": 122,
+      "retweets": 7,
+      "url": "https://x.com/SolidTradesz/status/2017215312932782222"
+    },
+    {
+      "author": "himgajria",
+      "text": "All fees accrued will go towards buying back units of copper (inu) in the open market, which will be burnt. \n\nOn the regular.\n\nI.e. perpetually deflationary.\n\nBetter economics than off-chain commodities.",
+      "likes": 111,
+      "retweets": 18,
+      "url": "https://x.com/himgajria/status/2017200008727245211"
+    },
+    {
+      "author": "mert",
+      "text": "after getting brutally violated by the market last night, I woke up thinking \"how much worse could it get?\"\n\nso I enter my study, and somehow a bird got in and shit LITERALLY everywhere\n\nas if cz and wintermute weren't enough I am now getting dumped on by mother nature https://t.",
+      "likes": 101,
+      "retweets": 1,
+      "url": "https://x.com/mert/status/2017213178367905924"
+    }
+  ]
+}

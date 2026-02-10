@@ -1,0 +1,309 @@
+{
+  "timestamp": "2026-01-30T20:51:36.781Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 3,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$AVA",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$SYNP",
+      1
+    ],
+    [
+      "$MOLTBOOK",
+      1
+    ],
+    [
+      "$DOODLEBOB",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$HST",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$AVA",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$SYNP",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTBOOK",
+        "count": 1
+      },
+      {
+        "ticker": "$DOODLEBOB",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$HST",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "silver": 4,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 3,
+      "silver": 4
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: BUTTCOIN was most compared to FARTCOIN last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $FARTCOIN's current market cap, its p…",
+        "likes": 0,
+        "retweets": 14
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @comparemcap: BUTTCOIN was most compared to FARTCOIN last week!  \n\nIf $BUTTCOIN(@ButtCoin) reaches $FARTCOIN's current market cap, its p…",
+        "likes": 0,
+        "retweets": 14
+      }
+    ],
+    "$AVA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVA whale just bought $6.48K of $YNE at $2.17M MC 🐳\n\nhttps://t.co/SrKKMbyl4N",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVA whale just bought $6.48K of $YNE at $2.17M MC 🐳\n\nhttps://t.co/SrKKMbyl4N",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.29K of $SYNP at $114.07K MC 🐳\n\nhttps://t.co/eMupOHw4G0",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SYNP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.29K of $SYNP at $114.07K MC 🐳\n\nhttps://t.co/eMupOHw4G0",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @collectible just bought $4.02K of $PENGUIN at $53.75M MC 🐳\n\nhttps://t.co/RmbxcR0hRx",
+        "likes": 2,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.71K of $PENGUIN at $52.94M MC 🐳\n\nhttps://t.co/qqJHJQsmfE",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$MOLTBOOK": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @beaverd just bought $1.16K of $MOLTBOOK at $723.11K MC 🐳\n\nhttps://t.co/55a4byRA5d",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$DOODLEBOB": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @bymepuru verified earnings for $DOODLEBOB on @BagsApp 💰\n\nhttps://t.co/b3aTekFGry",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.71K of $PENGUIN at $52.94M MC 🐳\n\nhttps://t.co/qqJHJQsmfE",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $13.4K of $SKR at $186.44M MC 🐳\n\nhttps://t.co/RClaRRd5sc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HST": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @aaronjmars verified earnings for $HST on @BagsApp 💰\n\nhttps://t.co/hPRgSfcQIr",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TheDemocrats",
+      "text": "FREE DON LEMON.\nPROTECT FREE SPEECH.",
+      "likes": 17167,
+      "retweets": 2432,
+      "url": "https://x.com/TheDemocrats/status/2017268331707855281"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "14 year old describes how he makes $100k per month on Roblox\n\n“We made a game in 14 hours start to finish, we put $100 into ads, and once it hit the algorithm we sold the game for $250k”\n https://t.co/Zs7qxr0AZZ",
+      "likes": 9215,
+      "retweets": 201,
+      "url": "https://x.com/rasmr_eth/status/2017277680325169619"
+    },
+    {
+      "author": "StateFarm",
+      "text": "Something even bigger to be unveiled 2.8.26",
+      "likes": 684,
+      "retweets": 85,
+      "url": "https://x.com/StateFarm/status/2015814352847392934"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/4W6GvELTKv",
+      "likes": 459,
+      "retweets": 21,
+      "url": "https://x.com/blknoiz06/status/2017320129722274137"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "https://t.co/DdQ8NbzAil",
+      "likes": 418,
+      "retweets": 9,
+      "url": "https://x.com/blknoiz06/status/2017320891403698352"
+    },
+    {
+      "author": "jessepollak",
+      "text": "You can make it trading on @base. https://t.co/pAC9SwAdq2",
+      "likes": 289,
+      "retweets": 20,
+      "url": "https://x.com/jessepollak/status/2017321360234844624"
+    },
+    {
+      "author": "mert",
+      "text": "gold and silver combined moved 6x crypto's entire mcap in the past 24h\n\nI have literally never been more bullish crypto, ever\n\ngenerational opportunity handed to you on a silver platter (ba dum tss)",
+      "likes": 257,
+      "retweets": 16,
+      "url": "https://x.com/mert/status/2017322874084679979"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "All it takes is one hero to bid a few Billion of BTC and crush the correlation vol sellers",
+      "likes": 242,
+      "retweets": 6,
+      "url": "https://x.com/ThinkingUSD/status/2017329233228407196"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "This is insane.\n\nSilver really is a shitcoin. https://t.co/JOGSfSkbvx",
+      "likes": 227,
+      "retweets": 7,
+      "url": "https://x.com/CryptoKaleo/status/2017326982229381526"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "how come yall shill me 1 gazillion tickers in my mentions every day but never the ones that actually go up",
+      "likes": 202,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017319107289297321"
+    }
+  ]
+}

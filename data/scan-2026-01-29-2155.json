@@ -1,0 +1,205 @@
+{
+  "timestamp": "2026-01-29T21:55:17.394Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 1,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$SEI",
+      1
+    ],
+    [
+      "$CANCER",
+      1
+    ],
+    [
+      "$BP",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$ROHIT",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$SEI",
+        "count": 1
+      },
+      {
+        "ticker": "$CANCER",
+        "count": 1
+      },
+      {
+        "ticker": "$BP",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$ROHIT",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 5,
+      "silver": 3,
+      "oil": 1,
+      "coffee": 1
+    },
+    "metals": {
+      "gold": 5,
+      "silver": 3
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "made this on claude overnight\n\n1. searches for global news trends\n2. creates a prompt to send to a model trained on my artwork\n3. mints it from the rektguy.eth account and lists it for 0.01ETH\n4. proc",
+        "likes": 161,
+        "retweets": 26
+      }
+    ],
+    "$SEI": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "SEI is moving towards a more sustainable development on chain.\n\nThey are taking tokenization seriously and now that @OndoFinance has partnered I can only see how great things are gonna be on @SeiNetwo",
+        "likes": 4,
+        "retweets": 1
+      }
+    ],
+    "$CANCER": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CANCER with a PnL of +120.44%.\n\n$CANCER has been trending on Moby since $118.93K MC. Currently sitting at $1.1M MC. https://t.co/sFKbj8",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $BP with a PnL of +346.68%.\n\n$BP has been trending on Moby since $228.22K MC. Currently sitting at $12.35M MC. https://t.co/1VKbalZiqC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "CookerFlips",
+        "text": "$HYPE last year went from single digits to over $50 and retraced to 20 \n\nThis year I'd expect similar PA for any new coin entering the top 20\n\nMaybe like 150 down to 70 settling somewhere in the middl",
+        "likes": 11,
+        "retweets": 2
+      }
+    ],
+    "$ROHIT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Policia42605898 verified earnings for $ROHIT on @BagsApp 💰\n\nhttps://t.co/6NjBUCIgGk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "RT @gigamaximilist: $GIGA will be trading over $1 this year https://t.co/PDR9sYhKyB",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $18.32K of $Buttcoin at $9.94M MC 🐳\n\nhttps://t.co/2s2EQL2FCl",
+        "likes": 8,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "intern",
+      "text": "Some personal news: I’ll be stepping down as Director of Growth at the Monad Foundation.\n\nI've been working on Monad over the last 3 years.\n\nI’ve spent the last 9 years in crypto and been full time in the industry since joining the VC team at CMS in 2020.\n\nAfter fielding 1,000+ s",
+      "likes": 650,
+      "retweets": 13,
+      "url": "https://x.com/intern/status/2016965624807788958"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Gold and Silver going parabolic is a precursor to a Massive Crypto Bull Run.",
+      "likes": 330,
+      "retweets": 78,
+      "url": "https://x.com/MustStopMurad/status/2016987646183297323"
+    },
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 322,
+      "retweets": 38,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "osf_rekt",
+      "text": "made this on claude overnight\n\n1. searches for global news trends\n2. creates a prompt to send to a model trained on my artwork\n3. mints it from the rektguy.eth account and lists it for 0.01ETH\n4. proceeds are used to purchase $REKT and then burn it\n\nit should hopefully run every ",
+      "likes": 161,
+      "retweets": 26,
+      "url": "https://x.com/osf_rekt/status/2016943137189515276"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Have a nice weekend everyone https://t.co/qrMS8PyhLv",
+      "likes": 110,
+      "retweets": 3,
+      "url": "https://x.com/ThinkingUSD/status/2016982153528066144"
+    }
+  ]
+}

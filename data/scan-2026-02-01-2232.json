@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-02-01T22:32:20.352Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 0,
+    "totalTweets": 50
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 0,
+    "neutral": 45,
+    "total": 50
+  },
+  "topTickers": [
+    [
+      "$PENGU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 4
+    }
+  },
+  "tickerDetails": {
+    "$PENGU": [
+      {
+        "author": "LucaNetz",
+        "text": "RT @pudgypenguins: $PENGU is now live on @Aborean https://t.co/VwzTfONPVA",
+        "likes": 0,
+        "retweets": 26
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "10,000 HYPE retires you this cycle.",
+      "likes": 188,
+      "retweets": 6,
+      "url": "https://x.com/ThinkingUSD/status/2018077214256804132"
+    },
+    {
+      "author": "himgajria",
+      "text": "Let’s make part 2 happen. https://t.co/KYrbjvB2YN",
+      "likes": 125,
+      "retweets": 17,
+      "url": "https://x.com/himgajria/status/2018076087402844311"
+    }
+  ]
+}

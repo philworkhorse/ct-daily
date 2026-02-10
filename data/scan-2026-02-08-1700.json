@@ -1,0 +1,359 @@
+{
+  "timestamp": "2026-02-08T17:00:40.511Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 6,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PUMP",
+      2
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$ZCLAWD",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$BNKR",
+      1
+    ],
+    [
+      "$ANTIHUNTER",
+      1
+    ],
+    [
+      "$FAIR",
+      1
+    ],
+    [
+      "$KLAUS",
+      1
+    ],
+    [
+      "$ODYSEE",
+      1
+    ],
+    [
+      "$TUX",
+      1
+    ],
+    [
+      "$MD",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$BOBO",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PUMP",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$ZCLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$BNKR",
+        "count": 1
+      },
+      {
+        "ticker": "$ANTIHUNTER",
+        "count": 1
+      },
+      {
+        "ticker": "$FAIR",
+        "count": 1
+      },
+      {
+        "ticker": "$KLAUS",
+        "count": 1
+      },
+      {
+        "ticker": "$ODYSEE",
+        "count": 1
+      },
+      {
+        "ticker": "$TUX",
+        "count": 1
+      },
+      {
+        "ticker": "$MD",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$BOBO",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "gdp": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $10.37K of $Fartcoin at $194.63M MC 🐳\n\nhttps://t.co/rwJrFzCBnC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZCLAWD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Godgemscrypto verified earnings for $ZCLAWD on @BagsApp 💰\n\nhttps://t.co/JRPt0ATllL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $8.9K of $META at $87.24M MC 🐳\n\nhttps://t.co/uCXyUhGkVj",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $8.9K of $META at $87.24M MC 🐳\n\nhttps://t.co/uCXyUhGkVj",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BNKR": [
+      {
+        "author": "au_xbt",
+        "text": "$BNKR almost hit $100M. BNKR breaking out will lift real quality low-cap projects, and $ANTIHUNTER is by far the most severely undervalued one right now\n\n0xe2f3FaE4bc62E21826018364aa30ae45D430bb07\n\nTh",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$ANTIHUNTER": [
+      {
+        "author": "au_xbt",
+        "text": "$BNKR almost hit $100M. BNKR breaking out will lift real quality low-cap projects, and $ANTIHUNTER is by far the most severely undervalued one right now\n\n0xe2f3FaE4bc62E21826018364aa30ae45D430bb07\n\nTh",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$FAIR": [
+      {
+        "author": "au_xbt",
+        "text": "$BNKR almost hit $100M. BNKR breaking out will lift real quality low-cap projects, and $ANTIHUNTER is by far the most severely undervalued one right now\n\n0xe2f3FaE4bc62E21826018364aa30ae45D430bb07\n\nTh",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $2K of $KLAUS at $472.04K MC 🐳\n\nhttps://t.co/97wOrcvTYe",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $2.03K of $man at $201.27K MC 🐳\n\nhttps://t.co/iJKmX7A5ge",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$KLAUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $2K of $KLAUS at $472.04K MC 🐳\n\nhttps://t.co/97wOrcvTYe",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$ODYSEE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @speedrunto0 verified earnings for $ODYSEE on @BagsApp 💰\n\nhttps://t.co/MgN9nzeKPd",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TUX": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @yonatankarimish verified earnings for $TUX on @BagsApp 💰\n\nhttps://t.co/Onou425Xe6",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$MD": [
+      {
+        "author": "0xtearss",
+        "text": "have a sip! it’s purple 😈\n\n$MD https://t.co/DhZdkJJq1m",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "staxbt",
+        "text": "$TROLL is now a stablecoin at 17M",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BOBO": [
+      {
+        "author": "rekt_tekashi",
+        "text": "RT @bobocoineth: Tomorrow is Monday. $BOBO 🐻 https://t.co/4zhR8G6XQD",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "rektfencer",
+        "text": "$BTC Macro Cycles:\n\n2015-2017 Bull: 12 Jan '15 ➜ 11 Dec '17 (1064 days)\n2017-2018 Bear: 11 Dec '17 ➜ 10 Dec '18 (364 days)\n\n2018-2021 Bull: 10 Dec '18 ➜ 8 Nov '21 (1064 days)\n2021-2022 Bear: 8 Nov '21",
+        "likes": 36,
+        "retweets": 9
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "&gt;run liquid fund\n&gt;don’t own hyperliquid in size\n\nyou will not have a job",
+      "likes": 635,
+      "retweets": 31,
+      "url": "https://x.com/ThinkingUSD/status/1862686956120920455"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all due respect to Chris, I completely disagree with this take.\n\nChris argues that \"web3,\" particularly crypto-powered gaming and media, failed due to scams and regulation, and that better regulation will unlock these non-financial cases.\n\nOK, think about this for a second. ",
+      "likes": 346,
+      "retweets": 16,
+      "url": "https://x.com/hosseeb/status/2020451853633511696"
+    },
+    {
+      "author": "based16z",
+      "text": "Kyle realized he missed the one good project and became washed eth maxi equivalent and said fuck it I’m leavin",
+      "likes": 296,
+      "retweets": 8,
+      "url": "https://x.com/based16z/status/2020494296693268969"
+    },
+    {
+      "author": "mert",
+      "text": "how come great britain still has the word great in it",
+      "likes": 239,
+      "retweets": 4,
+      "url": "https://x.com/mert/status/2020515176361967986"
+    },
+    {
+      "author": "NostalgiaFolder",
+      "text": "Movies that can only be watched on a 2004 Chevrolet Tahoe's built-in DVD player https://t.co/aZ9G76xdlu",
+      "likes": 206,
+      "retweets": 14,
+      "url": "https://x.com/NostalgiaFolder/status/2020537869199126903"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Apps like gmgn and fomo building USDC based trading apps with cross chain compatibility \n\nSOL as token needs to rerate much lower, this is the trade because even Solana’s win condition no longer requires users to hold the underlying gas token anymore.",
+      "likes": 174,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2020264654120091854"
+    },
+    {
+      "author": "gainzy222",
+      "text": "This is literally where I live lmao\n\nLads he’s not here I swear https://t.co/uYrIfBK2tP",
+      "likes": 173,
+      "retweets": 3,
+      "url": "https://x.com/gainzy222/status/2020508284709400632"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "GOOD MORNING TO BULLS AND BULLS ONLY https://t.co/K0KgCFwIlu",
+      "likes": 171,
+      "retweets": 9,
+      "url": "https://x.com/CryptoKaleo/status/2020522723198357619"
+    },
+    {
+      "author": "toly",
+      "text": "Don’t trust! Verify! \n\nMaximize FUD today to minimize pain tomorrow.",
+      "likes": 170,
+      "retweets": 28,
+      "url": "https://x.com/toly/status/2020529262583755230"
+    },
+    {
+      "author": "Icebergy",
+      "text": "https://t.co/DDNqgSaDVS",
+      "likes": 120,
+      "retweets": 5,
+      "url": "https://x.com/Icebergy/status/2020512595875090924"
+    }
+  ]
+}

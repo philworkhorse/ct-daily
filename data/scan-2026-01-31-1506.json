@@ -1,0 +1,262 @@
+{
+  "timestamp": "2026-01-31T15:06:27.513Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 8,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$BIRB",
+      1
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$MOLTNET",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$BARRON",
+      1
+    ],
+    [
+      "$BAGSBALL",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$CRAWDBOT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$BIRB",
+        "count": 1
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTNET",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$BARRON",
+        "count": 1
+      },
+      {
+        "ticker": "$BAGSBALL",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$CRAWDBOT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 4,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "inflation": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$BIRB": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @opensea: Some of the top web3 news this week:\n🦉 @moonbirds launches $BIRB \n🥤 @rektdrinks  sells out at @XGames \n🏦 @avax gets first US s…",
+        "likes": 0,
+        "retweets": 34
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "himgajria",
+        "text": "RT @LuigiRFRM: $COPPERINU\n\n\"It's just a dead cat bounce, glad i sold\"\n\"Actually pumped a bit, won't get past the 8M resistance tho lol\"\n\"Da…",
+        "likes": 0,
+        "retweets": 14
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.54K of $MOLTNET at $571.12K MC 🐳\n\nhttps://t.co/YY7d7yXyY4",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.01K of $PENGUIN at $49.75M MC 🐳\n\nhttps://t.co/54uukOFZQW",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$MOLTNET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.54K of $MOLTNET at $571.12K MC 🐳\n\nhttps://t.co/YY7d7yXyY4",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $9.97K of $AVICI at $17.47M MC 🐳\n\nhttps://t.co/lDe8Im8NbX",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BARRON": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/hklyJrj8Wq verified earnings for $BARRON on @BagsApp 💰\n\nhttps://t.co/xxGuxTNabr",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BAGSBALL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @BagsballCoin verified earnings for $BAGSBALL on @BagsApp 💰\n\nhttps://t.co/8SiSxSofpM",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "Credib1eGuy",
+        "text": "It’s quite clear $HYPE is going to several hundred dollars at this point\n\nMatter of when, not if.\n\nTbh I recommend not trying to catch the bottom, will likely be violent lock out trend at some point.",
+        "likes": 9,
+        "retweets": 0
+      }
+    ],
+    "$CRAWDBOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @SchizoGodBless verified earnings for $CRAWDBOT on @BagsApp 💰\n\nhttps://t.co/eivg4nhKt8",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "pepsi",
+      "text": "Challenge over, winner decided: The choice is PEPSI https://t.co/RrcOKUTjoc",
+      "likes": 156653,
+      "retweets": 15562,
+      "url": "https://x.com/pepsi/status/2016889076008571307"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all respect to Star, this story is candidly ridiculous.\n\nStar is trying to claim that the root cause of 10/10 was Binance creating an Ethena yield campaign, causing USDe to get overleveraged from traders looping it on Binance, which eventually unwound because of a small pric",
+      "likes": 733,
+      "retweets": 78,
+      "url": "https://x.com/hosseeb/status/2017547160695578667"
+    },
+    {
+      "author": "StateFarm",
+      "text": "See who answers the call on 2.8.26",
+      "likes": 523,
+      "retweets": 48,
+      "url": "https://x.com/StateFarm/status/2015814197070938514"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "rate outta 10 https://t.co/JtcLMDt72U",
+      "likes": 218,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017532278985920746"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "ion truss ppl who don't like the snow.",
+      "likes": 191,
+      "retweets": 9,
+      "url": "https://x.com/blknoiz06/status/2017543769369805167"
+    },
+    {
+      "author": "mert",
+      "text": "crypto's contribution to AI is giving agents a way to dump on each other",
+      "likes": 143,
+      "retweets": 0,
+      "url": "https://x.com/mert/status/2017597732559720487"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Idgaf about moltbots or moltbook or whatever it's called.\n\nLook at my bags. How about we talk about crypto again and then maybe I have time for your AI Reddit pages https://t.co/x3dsVQfQm8",
+      "likes": 131,
+      "retweets": 2,
+      "url": "https://x.com/waleswoosh/status/2017610763901583468"
+    },
+    {
+      "author": "mert",
+      "text": "https://t.co/l4b6j0We5y",
+      "likes": 128,
+      "retweets": 5,
+      "url": "https://x.com/mert/status/2017606387614797904"
+    },
+    {
+      "author": "moonpay",
+      "text": "hey Claude \n\n1️⃣ build a Time Machine and go back to October 2, 2025 \n\n2️⃣ prevent @Chilearmy123 from going to the Dubai airport \n\nmake no mistakes",
+      "likes": 126,
+      "retweets": 21,
+      "url": "https://x.com/moonpay/status/2017612245681701068"
+    },
+    {
+      "author": "himgajria",
+      "text": "Course of events going forward: \n\n&gt; whales, snipers, farmers already sold. \n&gt; those with ptsd will sell as it reaches their entries.\n&gt; fresh wallets will buy seeing the resilience.\n&gt; broader distribution. \n&gt; stronger holding pattern. \n&gt; memetics strengthen. \n&gt",
+      "likes": 115,
+      "retweets": 15,
+      "url": "https://x.com/himgajria/status/2017597491836031077"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "timestamp": "2026-02-06T10:56:23.332Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 3,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$CLEWDBOT",
+      1
+    ],
+    [
+      "$FROG",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$CLEWDBOT",
+        "count": 1
+      },
+      {
+        "ticker": "$FROG",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/BgNHZAcR7t",
+        "likes": 31,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: $BTC is about to enter accumulation on MVRV Z-Score\n\nThis only happened 4 times before and always generated the best returns…",
+        "likes": 0,
+        "retweets": 2
+      },
+      {
+        "author": "100xDarren",
+        "text": "$BTC down 10% today\n\nPortfolio got rekt this week\n\nThousands of messages \n\n5 work meetings today\n\n\"I'm tired boss\" - In fact, we're all tired\n\nWe had it tough\n\nDown, but not out. We'll bounce back \n\nG",
+        "likes": 20,
+        "retweets": 0
+      }
+    ],
+    "$CLEWDBOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @clewdbot verified earnings for $CLEWDBOT on @BagsApp 💰\n\nhttps://t.co/aRMTUJ051H",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$FROG": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @thecryptofrogg verified earnings for $FROG on @BagsApp 💰\n\nhttps://t.co/PZlByLO0q7",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "frontrunnersx",
+        "text": "Really good analysis.\n\nThis is where large $ETH liquidations currently sit. (remember, these change)\n\n$1600 seems to be the level where things get REALLY REALLY dicey.\n\nWe're probably safe for now, bu",
+        "likes": 6,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $18.86K of $USELESS at $32.7M MC 🐳\n\nhttps://t.co/nQv4zC9Blt",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "lBattleRhino",
+      "text": "Similar structure to Jan-Apr of this year but key differences \n\n1) this rally above the previous highs barely went anywhere, not nearly same magnitude as the second wave eclipsing the spring summer 2024 chop \n\n2) first time closing below this line \n\n3) Jan-Apr had tariff fear as ",
+      "likes": 546,
+      "retweets": 24,
+      "url": "https://x.com/lBattleRhino/status/1990167373572424073"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Btc line update https://t.co/LWsp3PvT3q",
+      "likes": 323,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/1989161022184370687"
+    },
+    {
+      "author": "SilvXBT",
+      "text": "Where's the fucking up only episode bastard sold his company at the top and didn't even give us an el",
+      "likes": 284,
+      "retweets": 2,
+      "url": "https://x.com/SilvXBT/status/2019569935106838860"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "X banned InfoFi and the market has been down only since.\n\nThink about that.\n\nKaito farmers please come back, we are sorry",
+      "likes": 262,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2019709448189862332"
+    },
+    {
+      "author": "inversebrah",
+      "text": "ai was \n\na mistake",
+      "likes": 191,
+      "retweets": 2,
+      "url": "https://x.com/inversebrah/status/2019558552348889261"
+    },
+    {
+      "author": "gainzy222",
+      "text": "binance trying to liquidate every last person who hates them lmao\n\ncz like “maybe the next wave of retail will be nicer”",
+      "likes": 141,
+      "retweets": 4,
+      "url": "https://x.com/gainzy222/status/2019717946298585319"
+    },
+    {
+      "author": "hosseeb",
+      "text": "Here is a plausible story about what happened in the markets.\n\nAnd yet, I can't help but feel every time there's a chaotic move in crypto, there's a plausible story that \"someone blew up,\" but we never later learn who the \"someone\" was. We still don't really know who the \"someone",
+      "likes": 131,
+      "retweets": 5,
+      "url": "https://x.com/hosseeb/status/2019702550489161736"
+    },
+    {
+      "author": "gainzy222",
+      "text": "ok now i need to know \n\nwho roundtripped 20M https://t.co/UpBXg2ZSZe",
+      "likes": 109,
+      "retweets": 4,
+      "url": "https://x.com/gainzy222/status/2019704054671360054"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "https://t.co/zBVT3WfwPj",
+      "likes": 101,
+      "retweets": 6,
+      "url": "https://x.com/izebel_eth/status/2019704499699585478"
+    }
+  ]
+}

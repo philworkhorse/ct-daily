@@ -1,0 +1,208 @@
+{
+  "timestamp": "2026-02-03T06:32:51.059Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 1,
+    "neutral": 95,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CRY",
+      2
+    ],
+    [
+      "$BOLD",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$BOB",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$SPLAT",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CRY",
+        "count": 2
+      },
+      {
+        "ticker": "$BOLD",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$BOB",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SPLAT",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$CRY": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @HalibutCrypto just bought $1.02K of $CRY at $198.55K MC 🐳\n\nhttps://t.co/14kjDAX5pq",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CRY with a PnL of +266.74%.\n\n$CRY has been trending on Moby since $54.8K MC. Currently sitting at $213.85K MC. https://t.co/mABx9gqxUs",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BOLD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @boldleonidas verified earnings for $BOLD on @BagsApp 💰\n\nhttps://t.co/clgvXF5e6N",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $10.68K of $1 at $6.27M MC 🐳\n\nhttps://t.co/jm1LVHxMCP",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BOB": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Gippsnews verified earnings for $BOB on @BagsApp 💰\n\nhttps://t.co/eXRmUjfwfz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $3.25K of $Buttcoin at $23.36M MC 🐳\n\nhttps://t.co/tjfiuGCWw9",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$SPLAT": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @frankdegods just bought $3.03K of $SPLAT at $1.98M MC 🐳\n\nhttps://t.co/VMcyCz5fAe",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.67K of $PENGUIN at $39.12M MC 🐳\n\nhttps://t.co/og82wrZhZD",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "asparagoid",
+      "text": "Epstein is 100% alive and reading the timeline right now\n\nThere’s an inside joke in intelligence agencies to deliberately butcher different aspects of black operations as a joke, to illustrate how stupid the general public is\n\nIn this case, using a body with wildly different ears",
+      "likes": 3157,
+      "retweets": 142,
+      "url": "https://x.com/asparagoid/status/2018400198712549672"
+    },
+    {
+      "author": "levelsio",
+      "text": "Germany has a 115 year history of repeated mass psychosis through ideological totalitarianism \n\nGerman culture raises people who pursue ideas with extreme thoroughness and moral intensity\n\nWW2 was nationalism brought to its extreme resulting in millions of people dead\n\nNow we hav",
+      "likes": 2774,
+      "retweets": 208,
+      "url": "https://x.com/levelsio/status/2018416434007638121"
+    },
+    {
+      "author": "DonAlt",
+      "text": "Just picked some oranges, lemons and bananas \nDon't think there is many things in life as satisfying as harvesting your own food from your own trees",
+      "likes": 502,
+      "retweets": 3,
+      "url": "https://x.com/DonAlt/status/2018533352530465194"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Hype so strong it'll bottom the rest of the market.\n\nGoodnight everybody.",
+      "likes": 303,
+      "retweets": 14,
+      "url": "https://x.com/ThinkingUSD/status/2018544998254526668"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, are we back yet? https://t.co/G9lxitZiki",
+      "likes": 288,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2018565186270138474"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "People are about to realize @HyperliquidX is the most important start up in the world not named OpenAI or Anthropic",
+      "likes": 257,
+      "retweets": 22,
+      "url": "https://x.com/ThinkingUSD/status/2018546636121575905"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "hype legit saving crypto",
+      "likes": 202,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2018537516320895094"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "what should i order from empanada mama",
+      "likes": 102,
+      "retweets": 2,
+      "url": "https://x.com/blknoiz06/status/2018538491353895403"
+    }
+  ]
+}

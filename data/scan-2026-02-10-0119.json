@@ -1,0 +1,139 @@
+{
+  "timestamp": "2026-02-10T01:19:57.943Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$AGENCY",
+      2
+    ],
+    [
+      "$RETARDIO",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$CHILLHOUSE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$AGENCY",
+        "count": 2
+      },
+      {
+        "ticker": "$RETARDIO",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$CHILLHOUSE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "treasury": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$RETARDIO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $RETARDIO whale just bought $3.61K of $FWOG at $5.98M MC 🐳\n\nhttps://t.co/Z7g3BrfYuF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $RETARDIO whale just bought $3.61K of $FWOG at $5.98M MC 🐳\n\nhttps://t.co/Z7g3BrfYuF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "@ThinkingUSD started my first marketing company there in 2017\n\nunstable coin will win hard in 2026-2027\n\naccumulate $USDUC https://t.co/pStevn4GiV",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CHILLHOUSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $1.02K of $AGENCY at $588.5K MC 🐳\n\nhttps://t.co/4cRgtPSb07",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AGENCY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CHILLHOUSE whale just bought $1.02K of $AGENCY at $588.5K MC 🐳\n\nhttps://t.co/4cRgtPSb07",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @OinkersRUs just bought $1.11K of $AGENCY at $434.33K MC 🐳\n\nhttps://t.co/Mjp0SKLGxb",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "jessepollak",
+      "text": "PSA: I am making a last minute call to go to @EthereumDenver \n\nwhy? because with prices down, it's more important than ever to be with builders. and because despite what you may have heard on CT, we win together.\n\nsee you there.",
+      "likes": 447,
+      "retweets": 15,
+      "url": "https://x.com/jessepollak/status/2020938767721542005"
+    },
+    {
+      "author": "jessepollak",
+      "text": "a generative art app purpose built for onchain agents",
+      "likes": 103,
+      "retweets": 13,
+      "url": "https://x.com/jessepollak/status/2021017165013582186"
+    }
+  ]
+}

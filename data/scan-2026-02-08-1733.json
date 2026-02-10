@@ -1,0 +1,242 @@
+{
+  "timestamp": "2026-02-08T17:33:24.022Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 5,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GSD",
+      4
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$SUBWAY",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GSD",
+        "count": 4
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$SUBWAY",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $6.37K of $META at $88.13M MC 🐳\n\nhttps://t.co/UhPidUr52F",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "A) the best coins have no ceilings\nB) the worst coins have no floors\n\n$GIGA",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "Come hang with the community and discuss the future of $GSD.\n\nhttps://t.co/CSVud7QydY",
+        "likes": 6,
+        "retweets": 0
+      },
+      {
+        "author": "official_taches",
+        "text": "The Future of $GSD https://t.co/iqeBID6tcN",
+        "likes": 10,
+        "retweets": 1
+      },
+      {
+        "author": "official_taches",
+        "text": "$GSD obvi. https://t.co/XQOEAvAys2",
+        "likes": 4,
+        "retweets": 0
+      },
+      {
+        "author": "official_taches",
+        "text": "Whether you buy or or you sell $GSD...\n\nI'm putting 100% of the fees I earn back into the token.",
+        "likes": 19,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $23.81K of $USELESS at $34.31M MC 🐳\n\nhttps://t.co/4ZNMCGW6xF",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $23.81K of $USELESS at $34.31M MC 🐳\n\nhttps://t.co/4ZNMCGW6xF",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +114.47%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $2.4M MC. https://t.co/U019ijiN",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SUBWAY": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @bandeez just bought $1.9K of $SUBWAY at $191.72K MC 🐳\n\nhttps://t.co/vSlZk1f168",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "&gt;run liquid fund\n&gt;don’t own hyperliquid in size\n\nyou will not have a job",
+      "likes": 681,
+      "retweets": 32,
+      "url": "https://x.com/ThinkingUSD/status/1862686956120920455"
+    },
+    {
+      "author": "based16z",
+      "text": "Kyle realized he missed the one good project and became washed eth maxi equivalent and said fuck it I’m leavin",
+      "likes": 313,
+      "retweets": 10,
+      "url": "https://x.com/based16z/status/2020494296693268969"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "GOOD MORNING TO BULLS AND BULLS ONLY https://t.co/K0KgCFwIlu",
+      "likes": 216,
+      "retweets": 14,
+      "url": "https://x.com/CryptoKaleo/status/2020522723198357619"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Apps like gmgn and fomo building USDC based trading apps with cross chain compatibility \n\nSOL as token needs to rerate much lower, this is the trade because even Solana’s win condition no longer requires users to hold the underlying gas token anymore.",
+      "likes": 176,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2020264654120091854"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "at some point in life you realize many fundamentally mid people, who have not taken risk or achieved, have been elevated to positions where they think their opinion is worth propagating",
+      "likes": 159,
+      "retweets": 6,
+      "url": "https://x.com/izebel_eth/status/2020543220774772841"
+    },
+    {
+      "author": "Tyler_Did_It",
+      "text": "BNKR has been doing $200k-$400k in daily fees since the Open Claw AI agent explosion\n\nSeems like the market starting to notice, with BNKR +64% to $95M on the day https://t.co/gUNRJ072Ev",
+      "likes": 158,
+      "retweets": 9,
+      "url": "https://x.com/Tyler_Did_It/status/2020519775344922628"
+    },
+    {
+      "author": "solana",
+      "text": "🍣 https://t.co/LVItYBTsG4",
+      "likes": 153,
+      "retweets": 16,
+      "url": "https://x.com/solana/status/2020549424494354828"
+    },
+    {
+      "author": "mert",
+      "text": "I'm coming around to the stupid statement that is \"bitcoin, not crypto\"\n\n\"crypto has been around for 2 decades\"\n\nno, that's bitcoin, not crypto\n\nscalable general chains have been around for maybe 2 years\n\nand they will serve as the universal API for planetary finance",
+      "likes": 146,
+      "retweets": 3,
+      "url": "https://x.com/mert/status/2020525729235009862"
+    },
+    {
+      "author": "frankdegods",
+      "text": "-OpenClaw continuing to go vertical\n-Opus 4.6 having massive context window\n-Use TeamCreate\n-New X API \n-Codex 5.3 catching up\n\nall not priced in yet",
+      "likes": 141,
+      "retweets": 10,
+      "url": "https://x.com/frankdegods/status/2020541101937922109"
+    },
+    {
+      "author": "DeItaone",
+      "text": "STOCK SELL-OFF NOT OVER, GOLDMAN TRADERS SAY\n\nGoldman Sachs warns that US stocks could face more selling this week, driven by trend-following funds known as CTAs, which have already hit sell triggers in the S&P 500.\n\nThe bank estimates CTAs could dump up to $33 billion this week ",
+      "likes": 134,
+      "retweets": 28,
+      "url": "https://x.com/DeItaone/status/2020548821873250630"
+    }
+  ]
+}

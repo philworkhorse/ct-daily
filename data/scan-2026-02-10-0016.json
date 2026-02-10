@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-02-10T00:16:34.884Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 4,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$GOYIM",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GOYIM",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "Tokenizedog",
+        "text": "RT @Tokenizedog: @elonmusk Will I be able to buy a bottle of water there? And what form of payment will be accepted? $Token or $BTC? https:…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$GOYIM": [
+      {
+        "author": "memeticpower",
+        "text": "RT @I4NFTS: Bought some $GOYIM today as well. The mindshare is simply too huge to ignore at this price",
+        "likes": 0,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "levelsio",
+      "text": "Firstly I love AI and my sites are AI so I am very pro-AI\n\nSecondly it's becoming so good that I'm starting to feel kind of unaccomplished because AI does all my coding now\n\nSo it feels like my daily accomplishments are more like \"wow great job managing\" than coding like before",
+      "likes": 147,
+      "retweets": 2,
+      "url": "https://x.com/levelsio/status/2021009170993209631"
+    }
+  ]
+}

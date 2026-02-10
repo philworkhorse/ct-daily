@@ -1,0 +1,187 @@
+{
+  "timestamp": "2026-01-31T20:54:06.768Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 18,
+    "bearish": 5,
+    "neutral": 77,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$VALUELESS",
+      2
+    ],
+    [
+      "$MOLT",
+      2
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$BTCUSD",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$VALUELESS",
+        "count": 2
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 2
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$BTCUSD",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "copper": 2
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$USELESS": [
+      {
+        "author": "theunipcs",
+        "text": "everyone can talk\n\neveryone can throw out insane targets for projects they believe in\n\nvery few can maintain conviction through 20%+ drawdown days or 90% pullbacks from ATH\n\ni’m publicly doubling down",
+        "likes": 140,
+        "retweets": 17
+      }
+    ],
+    "$BTCUSD": [
+      {
+        "author": "based16z",
+        "text": "RT @ShortSeller: $BTCUSD Lot of ways this can play out...yes that is still my base case (drawn a little different here) *but* if monthly ca…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$VALUELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $VALUELESS with a PnL of +2347.96%.\n\n$VALUELESS has been trending on Moby since $86.87K MC. Currently sitting at $291.6K MC. https://t.c",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $VALUELESS with a PnL of +2461.90%.\n\n$VALUELESS has been trending on Moby since $86.87K MC. Currently sitting at $291.6K MC. https://t.c",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $244.33K of $mSOL at $346.36M MC 🐳\n\nhttps://t.co/Uj2IKraZf3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "$1.5m liq. First to clip wins\n\n(Average hold time &lt;2 days) \n\n$MOLT https://t.co/Bjb8pn0Gd7",
+        "likes": 114,
+        "retweets": 6
+      },
+      {
+        "author": "crypto_bitlord7",
+        "text": "$MOLT on base is like investing in Facebook but for AI bots",
+        "likes": 38,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 3682,
+      "retweets": 561,
+      "url": "https://x.com/Neuravision_A/status/2010102623756792032"
+    },
+    {
+      "author": "RunnerXBT",
+      "text": "Binance yesterday, we will buy 1b of BTC\nBinance today: Sells 1b of BTC on illiquid Saturday https://t.co/YAqb6kOtgq",
+      "likes": 1394,
+      "retweets": 121,
+      "url": "https://x.com/RunnerXBT/status/2017653535593169345"
+    },
+    {
+      "author": "gainzy222",
+      "text": "The best performing group from 2017-2025 that kept their sanity and made it were btc maxis who just kept buying btc\n\nAlt maxis outperformed them massively during alt seasons but eventually zero’d out\n\nI think over the next 4-8 years this repeats with zec\n https://t.co/Qdye7YHfoJ",
+      "likes": 377,
+      "retweets": 22,
+      "url": "https://x.com/gainzy222/status/2017577535693816126"
+    },
+    {
+      "author": "theunipcs",
+      "text": "everyone can talk\n\neveryone can throw out insane targets for projects they believe in\n\nvery few can maintain conviction through 20%+ drawdown days or 90% pullbacks from ATH\n\ni’m publicly doubling down on $USELESS and stating plainly that it is destined for multi-billions\n\nit’s ha",
+      "likes": 140,
+      "retweets": 17,
+      "url": "https://x.com/theunipcs/status/2017699976986456074"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "let’s please stop talking about 10/10 it’s 1/31 and everything is worse",
+      "likes": 140,
+      "retweets": 7,
+      "url": "https://x.com/notthreadguy/status/2017684515938808140"
+    },
+    {
+      "author": "mert",
+      "text": "perpetual futures more like perpetual no futures",
+      "likes": 135,
+      "retweets": 4,
+      "url": "https://x.com/mert/status/2017688228296286225"
+    },
+    {
+      "author": "crypto_bitlord7",
+      "text": "$1.5m liq. First to clip wins\n\n(Average hold time &lt;2 days) \n\n$MOLT https://t.co/Bjb8pn0Gd7",
+      "likes": 114,
+      "retweets": 6,
+      "url": "https://x.com/crypto_bitlord7/status/2017447608348991708"
+    },
+    {
+      "author": "mert",
+      "text": "don't cry because it's over\n\ncry because it happened",
+      "likes": 100,
+      "retweets": 3,
+      "url": "https://x.com/mert/status/2017696638869840310"
+    }
+  ]
+}

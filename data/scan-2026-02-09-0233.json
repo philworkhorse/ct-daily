@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-02-09T02:33:03.434Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 3,
+    "bearish": 2,
+    "neutral": 95,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$OPAL",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$OPAL",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 1,
+      "gold": 1
+    },
+    "metals": {
+      "silver": 1,
+      "gold": 1
+    },
+    "macro": {
+      "bond": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$OPAL": [
+      {
+        "author": "duckingnator",
+        "text": "RT @tizzzz24: Taking the $OPAL trade (@opalbotgg).\n\nOpal started as an AI that you can queue and play games with. Now, their new feature, \"…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +93.80%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.86M MC. https://t.co/Q7d5ty63",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $49.95K of $Fartcoin at $194.35M MC 🐳\n\nhttps://t.co/QogriCVEKF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "HQNewsNow",
+      "text": "Trump crashes out and claims that Bad Bunny's Halftime show \"doesn't represent our standards of Success, Creativity, or Excellence.\" https://t.co/jHNm2IKteD",
+      "likes": 945,
+      "retweets": 84,
+      "url": "https://x.com/HQNewsNow/status/2020683608055222419"
+    },
+    {
+      "author": "coinbase",
+      "text": "If you're talking about it, it worked.\n\nCrypto is for everybody.",
+      "likes": 684,
+      "retweets": 41,
+      "url": "https://x.com/coinbase/status/2020668158437171237"
+    },
+    {
+      "author": "Thiss_Youu",
+      "text": "https://t.co/mq6g1f1j5P",
+      "likes": 615,
+      "retweets": 77,
+      "url": "https://x.com/Thiss_Youu/status/2020683689735098465"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Half time show was ass?",
+      "likes": 401,
+      "retweets": 1,
+      "url": "https://x.com/Tradermayne/status/2020673007887450558"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bad bunny shi was coo",
+      "likes": 382,
+      "retweets": 14,
+      "url": "https://x.com/blknoiz06/status/2020672727351234712"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "This Pats Oline might be worst than the taliban",
+      "likes": 281,
+      "retweets": 13,
+      "url": "https://x.com/hoodg3nius/status/2020685143288025109"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Don’t you live in Puerto Rico ?",
+      "likes": 240,
+      "retweets": 5,
+      "url": "https://x.com/Tradermayne/status/2020674390472765553"
+    },
+    {
+      "author": "based16z",
+      "text": "I fw Bad Bunny songs but this def some one world government shit https://t.co/5K0sEIk1E0",
+      "likes": 166,
+      "retweets": 1,
+      "url": "https://x.com/based16z/status/2020672180791501047"
+    },
+    {
+      "author": "jessepollak",
+      "text": "Base is for everybooooody.",
+      "likes": 141,
+      "retweets": 15,
+      "url": "https://x.com/jessepollak/status/2020678183084048474"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "timestamp": "2026-01-31T01:43:11.657Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 3,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HOLDER",
+      1
+    ],
+    [
+      "$BASILISK",
+      1
+    ],
+    [
+      "$OBEY",
+      1
+    ],
+    [
+      "$CRABMAN",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$ZAUTH",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$TOKABU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HOLDER",
+        "count": 1
+      },
+      {
+        "ticker": "$BASILISK",
+        "count": 1
+      },
+      {
+        "ticker": "$OBEY",
+        "count": 1
+      },
+      {
+        "ticker": "$CRABMAN",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$ZAUTH",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 2,
+      "silver": 2
+    },
+    "metals": {
+      "silver": 2
+    },
+    "macro": {
+      "bond": 3,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$HOLDER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ShillShady verified earnings for $HOLDER on @BagsApp 💰\n\nhttps://t.co/zPvfQ3hiMo",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BASILISK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @lobsterbasilisk verified earnings for $BASILISK on @BagsApp 💰\n\nhttps://t.co/5jlL7XOH6N",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OBEY": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @CookerFlips just bought $0.59K of $OBEY at $87.31M MC 🐳\n\nhttps://t.co/qXF1NmQEHQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CRABMAN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $CRABMAN on MobyScreener 🖼️ https://t.co/UKXYYkY2T8",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $3.99K of $ZAUTH at $4.13M MC 🐳\n\nhttps://t.co/v8C7v3LXHN",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZAUTH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $3.99K of $ZAUTH at $4.13M MC 🐳\n\nhttps://t.co/v8C7v3LXHN",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "Weekly reminder that $USDUC is on @base / ETH\n\nHi @jessepollak 😏\n\n0xeceDb6F8108b9f7Bbf499dA843DcED6C2Bb6E270",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $3.47K of $Profit at $882.56K MC 🐳\n\nhttps://t.co/68LCjcxxd3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "HeyGen",
+      "text": "Meet Dave.\nDave is terrible at producing videos. \n\nOur new Video Agent fixes that.\n\n→ See the full blueprint before anything renders. \n→ Direct changes through conversation. \n→ Edit every element after.\n\nDave always had the message. \nNow he owns the production.\n\nVideo Agent from ",
+      "likes": 1102,
+      "retweets": 124,
+      "url": "https://x.com/HeyGen/status/2015832103888552108"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "exactly  why you can never leave this place",
+      "likes": 154,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2017396818997281002"
+    },
+    {
+      "author": "0xuberM",
+      "text": "ngl watching base and bankr absolutely cooking and sweeping the throne from under sol fdn and all the launchpads involved is peak cinema. long overdue tbh",
+      "likes": 118,
+      "retweets": 0,
+      "url": "https://x.com/0xuberM/status/2017341098167877773"
+    }
+  ]
+}

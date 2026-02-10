@@ -1,0 +1,242 @@
+{
+  "timestamp": "2026-02-09T22:10:16.637Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 2,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$KOLCLAW",
+      1
+    ],
+    [
+      "$SOLPRISM",
+      1
+    ],
+    [
+      "$FARNSWORTH",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$RISK",
+      1
+    ],
+    [
+      "$ORELHA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$KOLCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$SOLPRISM",
+        "count": 1
+      },
+      {
+        "ticker": "$FARNSWORTH",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$RISK",
+        "count": 1
+      },
+      {
+        "ticker": "$ORELHA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "fed": 1,
+      "treasury": 1,
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @YusufGemz: Lotta whales be buying the $BUTTCOIN dip, what do they know? https://t.co/gVpKp3aQWW",
+        "likes": 0,
+        "retweets": 24
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @YusufGemz: Lotta whales be buying the $BUTTCOIN dip, what do they know? https://t.co/gVpKp3aQWW",
+        "likes": 0,
+        "retweets": 24
+      }
+    ],
+    "$KOLCLAW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @KolClaw verified earnings for $KOLCLAW on @BagsApp 💰\n\nhttps://t.co/nyWacG0SxH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.56K of $SOLPRISM at $352.74K MC 🐳\n\nhttps://t.co/W3Iu6IY4oR",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.52K of $WhiteWhale at $86.71M MC 🐳\n\nhttps://t.co/pKnkUSh130",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOLPRISM": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.56K of $SOLPRISM at $352.74K MC 🐳\n\nhttps://t.co/W3Iu6IY4oR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FARNSWORTH": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Iamscoop verified earnings for $FARNSWORTH on @BagsApp 💰\n\nhttps://t.co/t7kKieWimQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $23.63K of $PENGUIN at $23.5M MC 🐳\n\nhttps://t.co/opQvEAHq96",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$RISK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @AzothZephyr verified earnings for $RISK on @BagsApp 💰\n\nhttps://t.co/JAjjwHQka2",
+        "likes": 5,
+        "retweets": 2
+      }
+    ],
+    "$ORELHA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @DOBERarmy verified earnings for $ORELHA on @BagsApp 💰\n\nhttps://t.co/72gon0D1vY",
+        "likes": 2,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "moonpay",
+      "text": "to celebrate the launch of MoonPay X Games League, we’re giving out $2,000 in free crypto!\n\n🥇$1,250\n🥈$500\n🥉$250 \n\nfor your chance to win: \n\n💜 like + bookmark this post \n💬 reply “MoonPay X Games League” \n✅ follow @moonpay \n\nwinners will be selected on Feb 9, 2026! https://t.c",
+      "likes": 8584,
+      "retweets": 4014,
+      "url": "https://x.com/moonpay/status/2015517640182440024"
+    },
+    {
+      "author": "a1lon9",
+      "text": "we’re selecting a few teams to come on stream and pitch their idea/product directly to Tim and me tomorrow\n\nwho should we invite?",
+      "likes": 1209,
+      "retweets": 118,
+      "url": "https://x.com/a1lon9/status/2020931882175824358"
+    },
+    {
+      "author": "jessepollak",
+      "text": "we’re making the @baseapp feed tradable assets only — which means turning off the farcaster-powered “Talk” feed.\n\nhere's why: the app needs to have one primary focus, and that thing is trading. when you open @baseapp, you should know exactly what you're getting, and we’re focused",
+      "likes": 282,
+      "retweets": 25,
+      "url": "https://x.com/jessepollak/status/2020962065100538091"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bros how do we feel about shopify",
+      "likes": 209,
+      "retweets": 7,
+      "url": "https://x.com/blknoiz06/status/2020956898548183537"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bros how do we feel about shopify",
+      "likes": 209,
+      "retweets": 7,
+      "url": "https://x.com/blknoiz06/status/2020956898548183537"
+    },
+    {
+      "author": "SBF_FTX",
+      "text": "1) Rule No. 1 of Biden's political lawfare:\n\nDon't let them present evidence.\n\nhttps://t.co/OzopfeHTvk",
+      "likes": 202,
+      "retweets": 30,
+      "url": "https://x.com/SBF_FTX/status/2020899590589837316"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "livvy dunne gets brutally chestmogged by alabama sorority foid. https://t.co/gi0vadEqPa",
+      "likes": 149,
+      "retweets": 5,
+      "url": "https://x.com/DipWheeler/status/2020964242174906433"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "if i wanted to cop a camera to start doing photography w/ which one should i cop",
+      "likes": 127,
+      "retweets": 2,
+      "url": "https://x.com/blknoiz06/status/2020963512005317053"
+    },
+    {
+      "author": "moonpay",
+      "text": "winners will be selected today at 5 PM ET! \n\nthis message is not intended for residents of the UK \n\nfull terms: https://t.co/KW046RYij0 https://t.co/6GfYpV8uAn",
+      "likes": 112,
+      "retweets": 24,
+      "url": "https://x.com/moonpay/status/2020916229016326448"
+    }
+  ]
+}

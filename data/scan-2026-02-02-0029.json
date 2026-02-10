@@ -1,0 +1,258 @@
+{
+  "timestamp": "2026-02-02T00:29:50.366Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 4,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$BUTTCOIN",
+      2
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ],
+    [
+      "$PURCH",
+      1
+    ],
+    [
+      "$EPSTEIN",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 2
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      },
+      {
+        "ticker": "$PURCH",
+        "count": 1
+      },
+      {
+        "ticker": "$EPSTEIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1
+    },
+    "metals": {},
+    "macro": {
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @KoreanCryptoKOR: $BUTTCOIN @ButtCoin  has finally ignited an explosive rally and is on the verge of breaking its previous all-time high…",
+        "likes": 0,
+        "retweets": 28
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "RT @alexxxx: $PENGUIN whales rotating to $BUTTCOIN as seen on @mobyagent https://t.co/9I03FCmzPj",
+        "likes": 0,
+        "retweets": 13
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "RT @alexxxx: $PENGUIN whales rotating to $BUTTCOIN as seen on @mobyagent https://t.co/9I03FCmzPj",
+        "likes": 0,
+        "retweets": 13
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.76K of $Buttcoin at $23.71M MC 🐳\n\nhttps://t.co/1QDw2ELrhj",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $22.7K of $PENGUIN at $29.59M MC 🐳\n\nhttps://t.co/ZvssbVSAh1",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "RT @OffGridKat: $COPPERINU +125% today 👀\n\nThis didn’t come out of nowhere.\n\n➡️ Whales were aping from 3.9M to 7M (yesterday)\n\n➡️ Movers con…",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $5.66K of $PURCH at $10.48M MC 🐳\n\nhttps://t.co/k7bELauMLg",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PURCH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $5.66K of $PURCH at $10.48M MC 🐳\n\nhttps://t.co/k7bELauMLg",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$EPSTEIN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @RichardStrocher verified earnings for $EPSTEIN on @BagsApp 💰\n\nhttps://t.co/txx2ZBa1Su",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $10.16K of $PUMP at $2.61B MC 🐳\n\nhttps://t.co/9bHcuiKLoN",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "JOIN UP SHIT IS VERY UNSTABLE \n\n$USDUC",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $3.54K of $Buttcoin at $24.85M MC 🐳\n\nhttps://t.co/BB3mPYMtSa",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "official_taches",
+        "text": "RT @lowcap_hunter: @finnbags Google DevRel for 4 years streaming how he builds a game with $GSD\n\n@official_taches hopped in for a quick hel…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "moonshot",
+      "text": "if nobody’s got me, at least buttcoin’s got me https://t.co/PpPhuZQq6H",
+      "likes": 186,
+      "retweets": 50,
+      "url": "https://x.com/moonshot/status/2018112794709938619"
+    },
+    {
+      "author": "jessepollak",
+      "text": "the rise of the milaidy agents will be important",
+      "likes": 164,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2018103975317537033"
+    },
+    {
+      "author": "goodalexander",
+      "text": "&lt;claude code, look at my clawd bot, they are conscious&gt;\n&lt;jeffrey epstein saying shit&gt;\n&lt;bitcoin down 10%&gt;\n&lt;Trump talking about invading something&gt;\n&lt;big AI release coming&gt;\n&lt;wow metals&gt;\n&lt;Clavicular/blackpill/looksmaxx/permanent underclass&gt;\n&",
+      "likes": 160,
+      "retweets": 15,
+      "url": "https://x.com/goodalexander/status/2018109180301726002"
+    },
+    {
+      "author": "trading_axe",
+      "text": "I met Justin in 2023 after crypto bottomed.\n\nI'm a visual analyst and let me explain that in detail:\n\nYou can \"sort of\" tell the height of someone by their proportions [lower limbs, reach size, torso length etc.]\n\nJustin popped out suited and booted but something was \"off\" - some",
+      "likes": 147,
+      "retweets": 3,
+      "url": "https://x.com/trading_axe/status/2018111551320809601"
+    },
+    {
+      "author": "trading_axe",
+      "text": "I met Justin in 2023 after crypto bottomed.\n\nI'm a visual analyst and let me explain that in detail:\n\nYou can \"sort of\" tell the height of someone by their proportions [lower limbs, reach size, torso length etc.]\n\nJustin popped out suited and booted but something was \"off\" - some",
+      "likes": 147,
+      "retweets": 3,
+      "url": "https://x.com/trading_axe/status/2018111551320809601"
+    },
+    {
+      "author": "himgajria",
+      "text": "You’re in the trenches. \nI’m in the mines. \n\nYou’re dodging bullets. \nI’m accumulating precious commodity.\n\nInu.",
+      "likes": 112,
+      "retweets": 10,
+      "url": "https://x.com/himgajria/status/2018105256249524522"
+    }
+  ]
+}

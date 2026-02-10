@@ -1,0 +1,203 @@
+{
+  "timestamp": "2026-02-02T03:55:42.384Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 6,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$AFK",
+      1
+    ],
+    [
+      "$BOBO",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$AFK",
+        "count": 1
+      },
+      {
+        "ticker": "$BOBO",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "silver": 2,
+      "gold": 3,
+      "corn": 1
+    },
+    "metals": {
+      "silver": 2,
+      "gold": 3
+    },
+    "macro": {
+      "dollar": 1,
+      "inflation": 1,
+      "jobs report": 1,
+      "treasury": 1
+    }
+  },
+  "tickerDetails": {
+    "$HYPE": [
+      {
+        "author": "blknoiz06",
+        "text": "RT @Crypto_Chase: If we get a very bloody Monday, my focus will be on 3 assets. S&amp;P 500, Gold, and $HYPE\n\nThose are the assets that are goi…",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$AFK": [
+      {
+        "author": "LexaproTrader",
+        "text": "Now for $AFK, Chairman has been on an absolute legendary run.\n\nHe has high conviction in this as do many of the best traders I know.\n\nThe content is top tier and I can tell they have a full production",
+        "likes": 15,
+        "retweets": 5
+      }
+    ],
+    "$BOBO": [
+      {
+        "author": "rekt_tekashi",
+        "text": "RT @bobocoineth: BREAKING: Everything. $BOBO 🐻 https://t.co/LhTOKqqVAl",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "0xBossman",
+        "text": "Saylor is at a loss after 6 years of DCAing $BTC\n\nHad he just put it into stocks his port would be worth over 80 billion",
+        "likes": 11,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $0.47K of $BTC2 at $4.14M MC 🐳\n\nhttps://t.co/YbBB0MMpNL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $0.47K of $BTC2 at $4.14M MC 🐳\n\nhttps://t.co/YbBB0MMpNL",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "lBattleRhino",
+      "text": "“Crypto gonna rip so hard when metals top” https://t.co/h3UxRM3YNU",
+      "likes": 745,
+      "retweets": 36,
+      "url": "https://x.com/lBattleRhino/status/2016938692640637149"
+    },
+    {
+      "author": "gainzy222",
+      "text": "This is where you’re supposed to long if you’re liquid imo",
+      "likes": 708,
+      "retweets": 12,
+      "url": "https://x.com/gainzy222/status/2017609824993706200"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Illiquid dump on a weekend into massive liquidations?\n\nYeah i'll buy that",
+      "likes": 566,
+      "retweets": 20,
+      "url": "https://x.com/ThinkingUSD/status/2017739782336479278"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Illiquid dump on a weekend into massive liquidations?\n\nYeah i'll buy that",
+      "likes": 566,
+      "retweets": 20,
+      "url": "https://x.com/ThinkingUSD/status/2017739782336479278"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "“If btc doesnt catch a bid off this narrative it’s over” \n\nThink I’ve heard this near 10 times in the past year from yall",
+      "likes": 337,
+      "retweets": 0,
+      "url": "https://x.com/lBattleRhino/status/2010558799803994419"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "nigga tom lee bouta break the record for largest investment loss in the history of mankind for topblasting eth at 4k https://t.co/zfu9jgNEn9",
+      "likes": 333,
+      "retweets": 16,
+      "url": "https://x.com/blknoiz06/status/2018164491876216930"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "I’m just chillin on the market front bros had an extremely retardedly busy start to the year that should calm down in a week or so, also can’t rlly post alt trades rn, also like I said port is in trad so need catch-up, lowkey this dump is chill the index looks hella freaky",
+      "likes": 215,
+      "retweets": 1,
+      "url": "https://x.com/lBattleRhino/status/2011544697123324088"
+    },
+    {
+      "author": "DeItaone",
+      "text": "*SPOT GOLD FALLS 5%, ADDING TO BIGGEST PLUNGE IN OVER A DECADE",
+      "likes": 172,
+      "retweets": 29,
+      "url": "https://x.com/DeItaone/status/2018168852144701668"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Reasonable amount of liquidations\n\nHype strong against other pairs\n\nNo leverage, saving some incase we sweep the lows into a poor futures open but I'm off to workout\n\nEssential you consider pair trading in this environment. https://t.co/RFZ86ua1Sv",
+      "likes": 135,
+      "retweets": 4,
+      "url": "https://x.com/ThinkingUSD/status/2017742292275036585"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Reasonable amount of liquidations\n\nHype strong against other pairs\n\nNo leverage, saving some incase we sweep the lows into a poor futures open but I'm off to workout\n\nEssential you consider pair trading in this environment. https://t.co/RFZ86ua1Sv",
+      "likes": 135,
+      "retweets": 4,
+      "url": "https://x.com/ThinkingUSD/status/2017742292275036585"
+    }
+  ]
+}

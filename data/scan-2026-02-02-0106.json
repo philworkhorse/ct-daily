@@ -1,0 +1,270 @@
+{
+  "timestamp": "2026-02-02T01:06:50.045Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 4,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$DARKHORSE",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$WET",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$USOR",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ],
+    [
+      "$PURCH",
+      1
+    ],
+    [
+      "$MAWD",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$SLV",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$DARKHORSE",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WET",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$USOR",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      },
+      {
+        "ticker": "$PURCH",
+        "count": 1
+      },
+      {
+        "ticker": "$MAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$SLV",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "gold": 1,
+      "corn": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @KoreanCryptoKOR: $BUTTCOIN @ButtCoin  has finally ignited an explosive rally and is on the verge of breaking its previous all-time high…",
+        "likes": 0,
+        "retweets": 31
+      }
+    ],
+    "$WET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $5.03K of $Goyim at $602.43K MC 🐳\n\nhttps://t.co/eDpjXKmf8w",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.91K of $USOR at $12.34M MC 🐳\n\nhttps://t.co/e8udKb83OZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USOR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.91K of $USOR at $12.34M MC 🐳\n\nhttps://t.co/e8udKb83OZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "What if the 2024 meme coin szn was equivalent to the NBA top shot test run, before NFT mania?\n\n2024 clearly showed there’s an appetite for meme coins.\n\nWhen liquidity returns and things go crazy again",
+        "likes": 3,
+        "retweets": 2
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $4.73K of $PURCH at $10.81M MC 🐳\n\nhttps://t.co/Jgt8E5b1IQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PURCH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $4.73K of $PURCH at $10.81M MC 🐳\n\nhttps://t.co/Jgt8E5b1IQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MAWD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @mawdbot verified earnings for $MAWD on @BagsApp 💰\n\nhttps://t.co/AV7FOyAsd6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$DARKHORSE": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $DARKHORSE with a PnL of +146.35%.\n\n$DARKHORSE has been trending on Moby since $296.57K MC. Currently sitting at $7.93M MC. https://t.co",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $DARKHORSE with a PnL of +148.90%.\n\n$DARKHORSE has been trending on Moby since $296.57K MC. Currently sitting at $7.93M MC. https://t.co",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5.37K of $META at $80.9M MC 🐳\n\nhttps://t.co/7eWhKCYrfZ",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "wizardofsoho",
+        "text": "Polymarket 🤝 Jupiter is straight-up beauty.\n\nJupiter already owns Solana liquidity.\nNow it pipes that into prediction markets =\nTrade narratives, not just tokens.\n\nPolitics. Sports. Macro. War.\nAll r",
+        "likes": 17,
+        "retweets": 1
+      }
+    ],
+    "$SLV": [
+      {
+        "author": "Crypto_Chase",
+        "text": "Trimmed half the Silver position here at 87~ (dropped fast on typing tweet sorry). I understand some of you may be on $SLV and it's not open, but I'm on futures, so just updating. Reference my past co",
+        "likes": 26,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "goodalexander",
+      "text": "&lt;claude code, look at my clawd bot, they are conscious&gt;\n&lt;jeffrey epstein saying shit&gt;\n&lt;bitcoin down 10%&gt;\n&lt;Trump talking about invading something&gt;\n&lt;big AI release coming&gt;\n&lt;wow metals&gt;\n&lt;Clavicular/blackpill/looksmaxx/permanent underclass&gt;\n&",
+      "likes": 219,
+      "retweets": 18,
+      "url": "https://x.com/goodalexander/status/2018109180301726002"
+    },
+    {
+      "author": "trading_axe",
+      "text": "I met Justin in 2023 after crypto bottomed.\n\nI'm a visual analyst and let me explain that in detail:\n\nYou can \"sort of\" tell the height of someone by their proportions [lower limbs, reach size, torso length etc.]\n\nJustin popped out suited and booted but something was \"off\" - some",
+      "likes": 216,
+      "retweets": 8,
+      "url": "https://x.com/trading_axe/status/2018111551320809601"
+    },
+    {
+      "author": "himgajria",
+      "text": "You’re in the trenches. \nI’m in the mines. \n\nYou’re dodging bullets. \nI’m accumulating precious commodity.\n\nInu.",
+      "likes": 141,
+      "retweets": 13,
+      "url": "https://x.com/himgajria/status/2018105256249524522"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "If ETH sees similar price action to what happened in May of 2022 and revisited $1500, how many of you are sticking around for the run back to new highs? https://t.co/Tlg22c4Ykp",
+      "likes": 135,
+      "retweets": 5,
+      "url": "https://x.com/CryptoKaleo/status/2018111961796329491"
+    }
+  ]
+}

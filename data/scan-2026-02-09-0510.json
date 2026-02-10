@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-02-09T05:10:13.526Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 1,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$MOLTGRAM",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTGRAM",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $40.5K of $JUP at $1.1B MC 🐳\n\nhttps://t.co/1zThWlVE7w",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTGRAM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Moltgramapps verified earnings for $MOLTGRAM on @BagsApp 💰\n\nhttps://t.co/CxdLQNT7Hy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.9K of $WOJAK at $14.07M MC 🐳\n\nhttps://t.co/k9sCGs7yew",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.9K of $WOJAK at $14.07M MC 🐳\n\nhttps://t.co/k9sCGs7yew",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "brian_armstrong",
+      "text": "I loved the idea for our Super Bowl ad as soon as the team showed it to me. It's unique, just like our QR code ad in 2022.\n\nMost people half watch commercials (buzzed, in a loud room, with lots of people). It takes something unique to break through.\n\nTurning 100M+ screens into ka",
+      "likes": 2991,
+      "retweets": 166,
+      "url": "https://x.com/brian_armstrong/status/2020666148258304017"
+    }
+  ]
+}

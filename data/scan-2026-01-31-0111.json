@@ -1,0 +1,221 @@
+{
+  "timestamp": "2026-01-31T01:11:41.983Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 3,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SYNP",
+      2
+    ],
+    [
+      "$OPENCLAW",
+      2
+    ],
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$XAGE",
+      1
+    ],
+    [
+      "$CLAWLEY",
+      1
+    ],
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SYNP",
+        "count": 2
+      },
+      {
+        "ticker": "$OPENCLAW",
+        "count": 2
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$XAGE",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWLEY",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "silver": 2
+    },
+    "metals": {
+      "gold": 3,
+      "silver": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$SYNP": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @exitliquid1ty just bought $1.48K of $SYNP at $671.25K MC 🐳\n\nhttps://t.co/2VvcN2bumm",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @exitliquid1ty just bought $1.38K of $SYNP at $667.86K MC 🐳\n\nhttps://t.co/25Di6zSbYz",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XAGE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/mJuQba4iKC verified earnings for $XAGE on @BagsApp 💰\n\nhttps://t.co/CBo4ca6fmy",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +146.71%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $4.35M MC. https://t.co/F",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPENCLAW with a PnL of +261.94%.\n\n$OPENCLAW has been trending on Moby since $733.73K MC. Currently sitting at $4.63M MC. https://t.co/W",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWLEY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @harrold__15 verified earnings for $CLAWLEY on @BagsApp 💰\n\nhttps://t.co/2wP2GzhR07",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWD": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Ga__ke just bought $4.17K of $CLAWD at $195.12K MC 🐳\n\nhttps://t.co/jRVQjzsqtH",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $4.02K of $PENGUIN at $53.33M MC 🐳\n\nhttps://t.co/lX4BM1jZnZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $4.02K of $PENGUIN at $53.33M MC 🐳\n\nhttps://t.co/lX4BM1jZnZ",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.8K of $crust at $2.67M MC 🐳\n\nhttps://t.co/ws3FLVO1oU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.81K of $crust at $2.56M MC 🐳\n\nhttps://t.co/oltt8IdLS3",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "StateFarm",
+      "text": "Something even bigger to be unveiled 2.8.26",
+      "likes": 871,
+      "retweets": 89,
+      "url": "https://x.com/StateFarm/status/2015814352847392934"
+    },
+    {
+      "author": "TimSweeneyEpic",
+      "text": "Steam’s rules do explicitly prohibit games from steering players to competing purchase methods, forcing everyone to pay 30% to Valve.\n\nApple and Google did the same until the court explicitly found this practice to be unlawful. Now they don’t!",
+      "likes": 809,
+      "retweets": 35,
+      "url": "https://x.com/TimSweeneyEpic/status/2017028895875195171"
+    },
+    {
+      "author": "TimSweeneyEpic",
+      "text": "^ Currently there's a misleading community note on this. Yes, you can buy Steam keys off steam. ONCE YOU OWN A GAME, Steam forces developers to use Steam payments for all in-game purchases and pay 30%. This is the practice courts found illegal for Apple and Google.",
+      "likes": 157,
+      "retweets": 9,
+      "url": "https://x.com/TimSweeneyEpic/status/2017242886115357031"
+    },
+    {
+      "author": "Cricketnation",
+      "text": "$35, zero limits. Join Cricket and get a single line of unlimited for just $35/mo.",
+      "likes": 120,
+      "retweets": 1,
+      "url": "https://x.com/Cricketnation/status/2005457506114679112"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "exactly  why you can never leave this place",
+      "likes": 110,
+      "retweets": 4,
+      "url": "https://x.com/notthreadguy/status/2017396818997281002"
+    }
+  ]
+}

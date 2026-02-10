@@ -1,0 +1,181 @@
+{
+  "timestamp": "2026-02-05T21:00:29.485Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 7,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 2,
+      "bond": 1
+    }
+  },
+  "tickerDetails": {
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $9.82K of $META at $69.56M MC 🐳\n\nhttps://t.co/bJ2Pn4Whpj",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "heart_",
+        "text": "miss IamNomad tweet saying “why so upset? $BTC is just down -14% on the day”",
+        "likes": 11,
+        "retweets": 1
+      },
+      {
+        "author": "Crypto_Chase",
+        "text": "Avg now 65K. Even though Saylor has forsaken us, crypto has given me so much.. I will FIGHT during our final hour.\n\nIf we are defeated, we will wait for the forsaken to be expelled from $BTC, then RIS",
+        "likes": 187,
+        "retweets": 5
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $3.91K of $PENGUIN at $16.19M MC 🐳\n\nhttps://t.co/o43ho6tVRW",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $3.91K of $PENGUIN at $16.19M MC 🐳\n\nhttps://t.co/o43ho6tVRW",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "obviously i’m slightly annoyed by the price of $GIGA\n\nbut i’d be shitting my pants if I was in any other coin that has 0% chance of returning.\n\n$GIGA can’t die lol, it’s literally the gigachad meme\n\ni",
+        "likes": 4,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "pulse check",
+      "likes": 650,
+      "retweets": 24,
+      "url": "https://x.com/blknoiz06/status/2019462671372878245"
+    },
+    {
+      "author": "solana",
+      "text": "https://t.co/R6iYwtLmQB",
+      "likes": 513,
+      "retweets": 71,
+      "url": "https://x.com/solana/status/2019510849917063174"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "Avg now 65K. Even though Saylor has forsaken us, crypto has given me so much.. I will FIGHT during our final hour.\n\nIf we are defeated, we will wait for the forsaken to be expelled from $BTC, then RISE from the ashes like a phoenix from prices so deep we dare not yet speak. https",
+      "likes": 187,
+      "retweets": 5,
+      "url": "https://x.com/Crypto_Chase/status/2019511776019378648"
+    },
+    {
+      "author": "RunnerXBT",
+      "text": "I am 99% confident, crypto as an industry is being attacked\n\n this is such a controlled demolition on BTC for no reason",
+      "likes": 186,
+      "retweets": 1,
+      "url": "https://x.com/RunnerXBT/status/2019505983387529481"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Your BTC -&gt; My wallet",
+      "likes": 166,
+      "retweets": 1,
+      "url": "https://x.com/ThinkingUSD/status/2019508461902737640"
+    },
+    {
+      "author": "ColdBloodShill",
+      "text": "One of those days where you play multiple \"surely got to bounce here\" longs before realising every single one of your long entries would have been incredible shorts. https://t.co/t1dp9p9fYm",
+      "likes": 146,
+      "retweets": 4,
+      "url": "https://x.com/ColdBloodShill/status/2019510178417189253"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "can't wait to find out who blew up.",
+      "likes": 121,
+      "retweets": 1,
+      "url": "https://x.com/DipWheeler/status/2019510355698049245"
+    },
+    {
+      "author": "mert",
+      "text": "feeling pretty burdened by what has been",
+      "likes": 105,
+      "retweets": 5,
+      "url": "https://x.com/mert/status/2019511698525417554"
+    }
+  ]
+}

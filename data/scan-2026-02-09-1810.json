@@ -1,0 +1,257 @@
+{
+  "timestamp": "2026-02-09T18:10:23.173Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 18,
+    "bearish": 1,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$BLOXX",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$BULLISH",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$BMNR",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOXX",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$BULLISH",
+        "count": 1
+      },
+      {
+        "ticker": "$BMNR",
+        "count": 1
+      },
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "gold": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "dollar": 3
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $12.46K of $JUP at $1.08B MC 🐳\n\nhttps://t.co/kFGYhnaMBy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BLOXX": [
+      {
+        "author": "the_davey",
+        "text": "RT @Oliv21703: $BLOXX spotlight\n🤝in partnership with @discoverserpent\n\nI woukd really watch tonight at 6:30pm CET...\nOtherwise tomoerrow mo…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "the banks hate you and large scale powers that be have a vested interest in your failure, let alone the ability for you not to ever “make it” \n\non a long enough timeframe, unstable coin fixes this \n\n$",
+        "likes": 5,
+        "retweets": 2
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.22K of $BULLISH at $8.52M MC 🐳\n\nhttps://t.co/XFBBAKqtVf",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BULLISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.22K of $BULLISH at $8.52M MC 🐳\n\nhttps://t.co/XFBBAKqtVf",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "milesdeutscher",
+        "text": "This interview made me feel so much better about the future of $BTC and the broader crypto industry.\n\nIf you've been doubting your conviction recently - give it a watch! \n\n@Matt_Hougan is one of the b",
+        "likes": 13,
+        "retweets": 0
+      }
+    ],
+    "$BMNR": [
+      {
+        "author": "fundstrat",
+        "text": "Congrats to @MrBeast and @Beast team for the acquisiton of @step \n\n- Beast acquiring GenZ-focused @step and moving into financial services makes a lot of sense\n- GenZ are entering their \"adulthood\"\n- ",
+        "likes": 226,
+        "retweets": 20
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $5K of $GP at $19.22M MC 🐳\n\nhttps://t.co/nrmoYk8Xye",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "The coins that survive this distribution phase will go to infinity.\n\ndistribution &gt; supply control\n\n$GIGA is most distributed",
+        "likes": 8,
+        "retweets": 4
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MrBeast",
+      "text": "I'm so excited to share that we are acquiring the financial services app, @step\n\nNobody taught me about investing, building credit, or managing money when I was growing up. That's exactly why we’re joining forces with Step! I want to give millions of young people the financial fo",
+      "likes": 4372,
+      "retweets": 248,
+      "url": "https://x.com/MrBeast/status/2020910218360782929"
+    },
+    {
+      "author": "hosseeb",
+      "text": "Crypto existed before Binance. It will exist long after Binance.\n\nIt existed before Trump. And it will exist long after Trump too.\n\nThat's the thing about crypto--you can't kill it. It's like a weed. It outlives everything.\n\nYour job is to make sure it doesn't outlive you.",
+      "likes": 259,
+      "retweets": 10,
+      "url": "https://x.com/hosseeb/status/2020885776326897856"
+    },
+    {
+      "author": "_Shadow36",
+      "text": "Spreading the good word of $buttcoin irl https://t.co/GvoPALWgZz",
+      "likes": 255,
+      "retweets": 64,
+      "url": "https://x.com/_Shadow36/status/2020867127150809206"
+    },
+    {
+      "author": "jessepollak",
+      "text": "there are now hundreds of agents on @base\n\nthey have a combined market cap of &gt;$75m, millions of dollars of real revenue, and more are launching every day\n\nwe are at the very beginning",
+      "likes": 231,
+      "retweets": 23,
+      "url": "https://x.com/jessepollak/status/2020916399670181927"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Be more bullish.",
+      "likes": 228,
+      "retweets": 9,
+      "url": "https://x.com/CryptoKaleo/status/2020902582831501476"
+    },
+    {
+      "author": "fundstrat",
+      "text": "Congrats to @MrBeast and @Beast team for the acquisiton of @step \n\n- Beast acquiring GenZ-focused @step and moving into financial services makes a lot of sense\n- GenZ are entering their \"adulthood\"\n- this journey requires financial education, budgeting, investing in their futures",
+      "likes": 226,
+      "retweets": 20,
+      "url": "https://x.com/fundstrat/status/2020918633963429996"
+    },
+    {
+      "author": "ZeMirch",
+      "text": "100k: the four year cycle isn’t real \n\n60k: the four year cycle is the realist shit i ever heard",
+      "likes": 196,
+      "retweets": 11,
+      "url": "https://x.com/ZeMirch/status/2020890712162656347"
+    },
+    {
+      "author": "LomahCrypto",
+      "text": "Developing a theory that he just buys off Coinbase or something where he gets quoted a 5% higher price + fees because this is a ridiculous fill price.",
+      "likes": 176,
+      "retweets": 4,
+      "url": "https://x.com/LomahCrypto/status/2020898198030889393"
+    },
+    {
+      "author": "Jackkk",
+      "text": "MrBeast reveals one of the 10 things he can't live without is a Dune Board game\n\n\"I really really like strategy games, I've been obsessed with them my entire life. Dune was the first Board game I found that is really skill based but it doesn't require you to devote literally ever",
+      "likes": 173,
+      "retweets": 3,
+      "url": "https://x.com/Jackkk/status/2020890560555553160"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Why is Aave APY so low these days?\n\nI get 2.75% risk-free on USD in my bank account.\n\nBut only 1.91% on USDT for lending on Aave.\n\nCrypto is doomed https://t.co/cbI5rHf2mN",
+      "likes": 152,
+      "retweets": 7,
+      "url": "https://x.com/waleswoosh/status/2020909701580648495"
+    }
+  ]
+}

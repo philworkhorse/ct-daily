@@ -1,0 +1,190 @@
+{
+  "timestamp": "2026-01-31T20:19:14.116Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 17,
+    "bearish": 4,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BP",
+      3
+    ],
+    [
+      "$BTCUSD",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$SHELLTOWN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BP",
+        "count": 3
+      },
+      {
+        "ticker": "$BTCUSD",
+        "count": 1
+      },
+      {
+        "ticker": "$SHELLTOWN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 2,
+      "copper": 3,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "fed": 2
+    }
+  },
+  "tickerDetails": {
+    "$BTCUSD": [
+      {
+        "author": "based16z",
+        "text": "RT @ShortSeller: $BTCUSD Lot of ways this can play out...yes that is still my base case (drawn a little different here) *but* if monthly ca…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @clukzSOL just bought $3.97K of $BP at $8.56M MC 🐳\n\nhttps://t.co/kdHVZwZR2D",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $BP with a PnL of +82.91%.\n\n$BP has been trending on Moby since $228.22K MC. Currently sitting at $7.26M MC. https://t.co/vf3JGSp6Gz",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Kaiyo912 just bought $4.71K of $BP at $6.84M MC 🐳\n\nhttps://t.co/YwcFAoyZFg",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "DonAlt",
+        "text": "$SOL\n\nWorst range in crypto\nThis thing needs to go\nLike even IF it's bullish (and that's a big IF with a chart like this) I'd prefer a break and reclaim at this point https://t.co/hVgfkOpGg8",
+        "likes": 850,
+        "retweets": 113
+      }
+    ],
+    "$SHELLTOWN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @BizzleCooks verified earnings for $SHELLTOWN on @BagsApp 💰\n\nhttps://t.co/5RPaFTTS8Q",
+        "likes": 6,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "DonAlt",
+      "text": "$SOL\n\nWorst range in crypto\nThis thing needs to go\nLike even IF it's bullish (and that's a big IF with a chart like this) I'd prefer a break and reclaim at this point https://t.co/hVgfkOpGg8",
+      "likes": 850,
+      "retweets": 113,
+      "url": "https://x.com/DonAlt/status/2013786944061555157"
+    },
+    {
+      "author": "based16z",
+      "text": "The gang remembers how to trade perps for a 7 day period (top) https://t.co/MebIitpNIw",
+      "likes": 317,
+      "retweets": 5,
+      "url": "https://x.com/based16z/status/2015906352292343928"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "oh brother do i have something for you",
+      "likes": 231,
+      "retweets": 0,
+      "url": "https://x.com/notthreadguy/status/2017507236159816187"
+    },
+    {
+      "author": "mert",
+      "text": "i am going to bid the living shit out of zec and sol \n\nfuck you suits https://t.co/zyWwrmKvPu",
+      "likes": 207,
+      "retweets": 6,
+      "url": "https://x.com/mert/status/2017682861915041995"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "Liquidated long on ETHPERP [BACKSTOP]: Sell $219,173,229 @ 2,224.2  💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯 🔥🔥☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️\n\n~ Never go full retard",
+      "likes": 196,
+      "retweets": 2,
+      "url": "https://x.com/ThinkingUSD/status/2017677352642220491"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Try to take one of my first Saturdays off since October 10th and y’all decide to nuke the market again.\n\nNo more Saturdays off.",
+      "likes": 138,
+      "retweets": 6,
+      "url": "https://x.com/CryptoKaleo/status/2017685045205483936"
+    },
+    {
+      "author": "CalebSol",
+      "text": "Low market cap.\n\nMassive potential.\n\nWhat’s the ticker?",
+      "likes": 114,
+      "retweets": 6,
+      "url": "https://x.com/CalebSol/status/2017681458362544226"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "worst group",
+      "likes": 111,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017648285763108941"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "let’s please stop talking about 10/10 it’s 1/31 and everything is worse",
+      "likes": 107,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2017684515938808140"
+    },
+    {
+      "author": "ByzGeneral",
+      "text": "The crypto president 🫡",
+      "likes": 103,
+      "retweets": 5,
+      "url": "https://x.com/ByzGeneral/status/2017685770702635337"
+    }
+  ]
+}

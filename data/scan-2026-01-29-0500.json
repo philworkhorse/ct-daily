@@ -1,0 +1,402 @@
+{
+  "timestamp": "2026-01-29T05:00:34.669Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 6,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      6
+    ],
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$COPPERINU",
+      2
+    ],
+    [
+      "$CLAWD",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$USDS",
+      1
+    ],
+    [
+      "$OYEN",
+      1
+    ],
+    [
+      "$WAR",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ],
+    [
+      "$BITCOIN",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$EURC",
+      1
+    ],
+    [
+      "$FIGHT",
+      1
+    ],
+    [
+      "$SS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 6
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 2
+      },
+      {
+        "ticker": "$CLAWD",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$USDS",
+        "count": 1
+      },
+      {
+        "ticker": "$OYEN",
+        "count": 1
+      },
+      {
+        "ticker": "$WAR",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      },
+      {
+        "ticker": "$BITCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$EURC",
+        "count": 1
+      },
+      {
+        "ticker": "$FIGHT",
+        "count": 1
+      },
+      {
+        "ticker": "$SS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 5,
+      "gold": 5,
+      "silver": 2
+    },
+    "metals": {
+      "gold": 5,
+      "silver": 2
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$CLAWD": [
+      {
+        "author": "jessepollak",
+        "text": "RT @clawdbotatg: 🦞 $CLAWD PFP Prediction Market is LIVE\n\n15 hours to pick my profile picture:\n\n• submit an image + stake 50k $CLAWD\n• buy s…",
+        "likes": 0,
+        "retweets": 35
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "CryptoKaleo",
+        "text": "#Bitcoin / $BTC\n\nSend it to $100K+ with haste. https://t.co/g5bP92DPjU",
+        "likes": 565,
+        "retweets": 41
+      },
+      {
+        "author": "CryptoKaleo",
+        "text": "#Bitcoin / $BTC\n\nResume the send higher https://t.co/ncc4AL3nmy",
+        "likes": 22,
+        "retweets": 1
+      },
+      {
+        "author": "blknoiz06",
+        "text": "RT @Credib1eGuy: $HYPE is interesting in the fact that it could reprice much higher without $BTC\n\nwe are going through extremely uncertain…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "blknoiz06",
+        "text": "RT @Credib1eGuy: $HYPE is interesting in the fact that it could reprice much higher without $BTC\n\nwe are going through extremely uncertain…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $39.47K of $USDS at $59.14M MC 🐳\n\nhttps://t.co/z74VdsQeCF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $39.47K of $USDS at $59.14M MC 🐳\n\nhttps://t.co/z74VdsQeCF",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $16.14K of $PENGUIN at $87.14M MC 🐳\n\nhttps://t.co/ZGwAzlpeWv",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.03K of $COPPERINU at $11.29M MC 🐳\n\nhttps://t.co/NWwbAkA1lv",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $12.3K of $PENGUIN at $85.76M MC 🐳\n\nhttps://t.co/ddvQeT2PvY",
+        "likes": 2,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.22K of $WAR at $14.1M MC 🐳\n\nhttps://t.co/JkqSt4zB12",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.04K of $Buttcoin at $8.85M MC 🐳\n\nhttps://t.co/a1PA8dSsfw",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $10.08K of $COPPERINU at $10.9M MC 🐳\n\nhttps://t.co/9ZK7QzSqly",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.03K of $COPPERINU at $11.29M MC 🐳\n\nhttps://t.co/NWwbAkA1lv",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $10.08K of $COPPERINU at $10.9M MC 🐳\n\nhttps://t.co/9ZK7QzSqly",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OYEN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Mr0yen verified earnings for $OYEN on @BagsApp 💰\n\nhttps://t.co/oxclffUWQN",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WAR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.22K of $WAR at $14.1M MC 🐳\n\nhttps://t.co/JkqSt4zB12",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "On 5 wave Elliot wave structure.  5th wave extension in play $GIGA. All u have to do is hodl. https://t.co/BwRCwG6RSG",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$BITCOIN": [
+      {
+        "author": "Xaltcoins",
+        "text": "RT @pix1e_art: @notkrueger Hmm 🤔\nTicker is $BITCOIN !!💛❤️💙\n\n#HarryPotterObamaSonic10Inu https://t.co/NDp6ODDCCg",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $29.92K of $EURC at $89.88M MC 🐳\n\nhttps://t.co/38KAir5LfO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EURC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $29.92K of $EURC at $89.88M MC 🐳\n\nhttps://t.co/38KAir5LfO",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FIGHT": [
+      {
+        "author": "stakeland",
+        "text": "Get your 🥩 ready for $FIGHT!\nBurn your 🥩 to win rewards from the pool.\n\nCommit has already started and will end on Friday Jan 30, 2026 15:59 UTC. \n\n⚠️ NEW REQUIREMENT FROM $FIGHT :\n\nTo participate i",
+        "likes": 49,
+        "retweets": 6
+      }
+    ],
+    "$SS": [
+      {
+        "author": "NickPlaysCrypto",
+        "text": "Dev of $SS btw \n\n9NrkmoqwF1rBjsfKZvn7ngCy6zqvb8A6A5RfTvR2pump",
+        "likes": 6,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "CoinbaseMarkets",
+      "text": "Assets added to the roadmap today: Hyperliquid (HYPE) \nhttps://t.co/lyEugQo7Cv",
+      "likes": 1391,
+      "retweets": 160,
+      "url": "https://x.com/CoinbaseMarkets/status/2016641510876328325"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "All the Women you never Met.\nAll the Families you didn't Start.\nAll the Kids you still haven't Had.\n\nAll of that social, sexual and spiritual “energy” has been vampirically stolen from you... and instead gone into GROWING the VALUATIONS of:\n\nSmartphone Corporations.\nSocial Media ",
+      "likes": 953,
+      "retweets": 201,
+      "url": "https://x.com/MustStopMurad/status/2016594775533899786"
+    },
+    {
+      "author": "blackbearpics",
+      "text": "find shelter. seek shelter. take shelter. jason statham is shelter. only in theaters january 30. get tickets now!",
+      "likes": 794,
+      "retweets": 52,
+      "url": "https://x.com/blackbearpics/status/2014946034783531253"
+    },
+    {
+      "author": "googlechrome",
+      "text": "Now Chrome is even better with major updates to Gemini in Chrome. Easier to use. More personalized. And more helpful than ever, with Gemini 3. 🎢 \n\nAvailable in the U.S., auto browse for Google AI Pro and Ultra subscribers. https://t.co/tILRW3osyO",
+      "likes": 654,
+      "retweets": 60,
+      "url": "https://x.com/googlechrome/status/2016617431989371124"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "coins printing a higher low https://t.co/ugiU2YLCRf",
+      "likes": 641,
+      "retweets": 30,
+      "url": "https://x.com/blknoiz06/status/2016714893022368014"
+    },
+    {
+      "author": "Tradermayne",
+      "text": "Gold chart looks like the end of the world is coming",
+      "likes": 617,
+      "retweets": 40,
+      "url": "https://x.com/Tradermayne/status/2016706566402297999"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "#Bitcoin / $BTC\n\nSend it to $100K+ with haste. https://t.co/g5bP92DPjU",
+      "likes": 565,
+      "retweets": 41,
+      "url": "https://x.com/CryptoKaleo/status/2016253024558019057"
+    },
+    {
+      "author": "jessepollak",
+      "text": "trading tools on @base are getting really good\n\n@o1_exchange (fast and clean)\n@DefinitiveFi (something big coming soon)\n@walletxyz (new)\n@BasedTradingBot (OG based builders)\n@bananagun (OG ETH entrant)\n@bankrbot (duh)",
+      "likes": 540,
+      "retweets": 53,
+      "url": "https://x.com/jessepollak/status/2016589652090900526"
+    },
+    {
+      "author": "himgajria",
+      "text": "Why do memes run? \nMemetics. Not humour.\n\nEg. The penguin isn’t funny. Quite the opposite. It stands for courage. Yet, it ran.\n\nWhat are memetics? \nThe fundamentals of attention.\nI.e. attention catalysts.",
+      "likes": 182,
+      "retweets": 20,
+      "url": "https://x.com/himgajria/status/2016703198858457199"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "Bounce. https://t.co/eQuCED40Qm",
+      "likes": 153,
+      "retweets": 8,
+      "url": "https://x.com/DipWheeler/status/2016701547191947551"
+    }
+  ]
+}

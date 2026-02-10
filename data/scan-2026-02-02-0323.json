@@ -1,0 +1,156 @@
+{
+  "timestamp": "2026-02-02T03:23:42.070Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 10,
+    "neutral": 75,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$PIZZAGATE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PIZZAGATE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 2
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$HYPE": [
+      {
+        "author": "blknoiz06",
+        "text": "RT @Crypto_Chase: Michael Saylor and Tom Lee are such bullish catalysts for $HYPE it's insane. Charts telling the story as well. https://t.…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @thesolanapost: 🚨 $BUTTCOIN (@ButtCoin) tops 24-hour gains across Solana’s top 40 memecoins despite a market-wide dump. https://t.co/uAM…",
+        "likes": 0,
+        "retweets": 15
+      }
+    ],
+    "$PIZZAGATE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @SamFlintstone just bought $1.01K of $PIZZAGATE at $222.01K MC 🐳\n\nhttps://t.co/gmnxfpPj7c",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "lBattleRhino",
+      "text": "“Crypto gonna rip so hard when metals top” https://t.co/h3UxRM3YNU",
+      "likes": 742,
+      "retweets": 36,
+      "url": "https://x.com/lBattleRhino/status/2016938692640637149"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "“Crypto gonna rip so hard when metals top” https://t.co/h3UxRM3YNU",
+      "likes": 741,
+      "retweets": 36,
+      "url": "https://x.com/lBattleRhino/status/2016938692640637149"
+    },
+    {
+      "author": "goodalexander",
+      "text": "&lt;claude code, look at my clawd bot, they are conscious&gt;\n&lt;jeffrey epstein saying shit&gt;\n&lt;bitcoin down 10%&gt;\n&lt;Trump talking about invading something&gt;\n&lt;big AI release coming&gt;\n&lt;wow metals&gt;\n&lt;Clavicular/blackpill/looksmaxx/permanent underclass&gt;\n&",
+      "likes": 348,
+      "retweets": 24,
+      "url": "https://x.com/goodalexander/status/2018109180301726002"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "“If btc doesnt catch a bid off this narrative it’s over” \n\nThink I’ve heard this near 10 times in the past year from yall",
+      "likes": 330,
+      "retweets": 0,
+      "url": "https://x.com/lBattleRhino/status/2010558799803994419"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "“If btc doesnt catch a bid off this narrative it’s over” \n\nThink I’ve heard this near 10 times in the past year from yall",
+      "likes": 330,
+      "retweets": 0,
+      "url": "https://x.com/lBattleRhino/status/2010558799803994419"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "zinc &amp; iceman being up $1M each past month doing lord knows what onchain while the markets in purgatory is pretty crazy",
+      "likes": 261,
+      "retweets": 11,
+      "url": "https://x.com/blknoiz06/status/2018143559447155170"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "I’m just chillin on the market front bros had an extremely retardedly busy start to the year that should calm down in a week or so, also can’t rlly post alt trades rn, also like I said port is in trad so need catch-up, lowkey this dump is chill the index looks hella freaky",
+      "likes": 212,
+      "retweets": 1,
+      "url": "https://x.com/lBattleRhino/status/2011544697123324088"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "I’m just chillin on the market front bros had an extremely retardedly busy start to the year that should calm down in a week or so, also can’t rlly post alt trades rn, also like I said port is in trad so need catch-up, lowkey this dump is chill the index looks hella freaky",
+      "likes": 212,
+      "retweets": 1,
+      "url": "https://x.com/lBattleRhino/status/2011544697123324088"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Over the years in addition to mine and my families lives, I have irl friends, friends I’ve made here, and even dozens of complete strangers who have DMd me saying I completely changed their lives \n\nThat shit is wild and cool as fuck, to actually have influence in an entire life",
+      "likes": 195,
+      "retweets": 0,
+      "url": "https://x.com/lBattleRhino/status/2018134905352511625"
+    },
+    {
+      "author": "based16z",
+      "text": "You had 18 months to accumulate assets. Now everybody sells at the same time.",
+      "likes": 181,
+      "retweets": 10,
+      "url": "https://x.com/based16z/status/2018150434276340020"
+    }
+  ]
+}

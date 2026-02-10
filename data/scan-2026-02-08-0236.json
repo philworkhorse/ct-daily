@@ -1,0 +1,245 @@
+{
+  "timestamp": "2026-02-08T02:36:35.107Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 2,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$SHT",
+      1
+    ],
+    [
+      "$EAGLE",
+      1
+    ],
+    [
+      "$DEER",
+      1
+    ],
+    [
+      "$BIRDY",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$COPPERINU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$SHT",
+        "count": 1
+      },
+      {
+        "ticker": "$EAGLE",
+        "count": 1
+      },
+      {
+        "ticker": "$DEER",
+        "count": 1
+      },
+      {
+        "ticker": "$BIRDY",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "inflation": 2,
+      "dollar": 1,
+      "fed": 1
+    }
+  },
+  "tickerDetails": {
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $2.39K of $SHT at $491.93K MC 🐳\n\nhttps://t.co/ac3GyIPsOv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $2.39K of $SHT at $491.93K MC 🐳\n\nhttps://t.co/ac3GyIPsOv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$EAGLE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @MSocheat48716 verified earnings for $EAGLE on @BagsApp 💰\n\nhttps://t.co/WoPzdDLSxD",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$DEER": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @JDDoesDev verified earnings for $DEER on @BagsApp 💰\n\nhttps://t.co/3SfjkXJpby",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BIRDY": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $2.04K of $BIRDY at $180.97K MC 🐳\n\nhttps://t.co/6qMgPiGPgR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +294.10%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $936.47K MC. https://t.co/9sPTZ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $7.25K of $PENGUIN at $21.75M MC 🐳\n\nhttps://t.co/Xaai9bL8lg",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FARTCOIN whale just bought $7.25K of $PENGUIN at $21.75M MC 🐳\n\nhttps://t.co/Xaai9bL8lg",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.44K of $COPPERINU at $7.72M MC 🐳\n\nhttps://t.co/a8OnmGuavo",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.44K of $COPPERINU at $7.72M MC 🐳\n\nhttps://t.co/a8OnmGuavo",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "EmmanuelMacron",
+      "text": "In France, we believe in science.\n                            \nThat is why, on May 5, I issued a clear and open call to the world: for science, choose France.\n                                                      \nI am very proud to see that this call has resonated so strongly.\n\n",
+      "likes": 7593,
+      "retweets": 1193,
+      "url": "https://x.com/EmmanuelMacron/status/2019137350022955117"
+    },
+    {
+      "author": "mert",
+      "text": "@EmmanuelMacron Meta pays individual AI engineers more than your entire country investment\n\ndelete your account",
+      "likes": 1984,
+      "retweets": 41,
+      "url": "https://x.com/mert/status/2019768989543469421"
+    },
+    {
+      "author": "frankdegods",
+      "text": "if that wasn’t the bottom it sure felt like the bottomiest bottom of all bottoms",
+      "likes": 147,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2020304023006695486"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "https://t.co/zHAlVm2jxr",
+      "likes": 118,
+      "retweets": 6,
+      "url": "https://x.com/DipWheeler/status/2020306247648714962"
+    },
+    {
+      "author": "himgajria",
+      "text": "“I believe in privacy. Zecash is a must”\n“Hey claude, here’s access to all my files”",
+      "likes": 117,
+      "retweets": 7,
+      "url": "https://x.com/himgajria/status/2020302044188536990"
+    },
+    {
+      "author": "frankdegods",
+      "text": "ai hype cycle is cool because there’s periods of hyperprogress when new breakthrough models come out but progress is so exponential that you almost have to spend all day keeping up with the updates\n\nthen when it finally plateaus for a few months, that’s when the really cool stuff",
+      "likes": 112,
+      "retweets": 3,
+      "url": "https://x.com/frankdegods/status/2020309634817364220"
+    }
+  ]
+}

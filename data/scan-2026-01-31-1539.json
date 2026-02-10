@@ -1,0 +1,273 @@
+{
+  "timestamp": "2026-01-31T15:39:38.472Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 5,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$SHIPYARD",
+      1
+    ],
+    [
+      "$RICKROLL",
+      1
+    ],
+    [
+      "$CLAWDX",
+      1
+    ],
+    [
+      "$OSOO",
+      1
+    ],
+    [
+      "$MOLTTIMES",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$TOWN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$SHIPYARD",
+        "count": 1
+      },
+      {
+        "ticker": "$RICKROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWDX",
+        "count": 1
+      },
+      {
+        "ticker": "$OSOO",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTTIMES",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$TOWN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 4,
+      "copper": 2
+    },
+    "metals": {
+      "gold": 4
+    },
+    "macro": {
+      "yields": 1,
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.28K of $SHIPYARD at $172.13K MC 🐳\n\nhttps://t.co/xODQpGy7Fn",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SHIPYARD": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $1.28K of $SHIPYARD at $172.13K MC 🐳\n\nhttps://t.co/xODQpGy7Fn",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$RICKROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $RICKROLL with a PnL of +87.18%.\n\n$RICKROLL has been trending on Moby since $60.64K MC. Currently sitting at $209.66K MC. https://t.co/r",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$CLAWDX": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @LockedInLukas verified earnings for $CLAWDX on @BagsApp 💰\n\nhttps://t.co/bE9hkjqpbb",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OSOO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Scyloq verified earnings for $OSOO on @BagsApp 💰\n\nhttps://t.co/EwOvPXyMDh",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOLTTIMES": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @themolttimes verified earnings for $MOLTTIMES on @BagsApp 💰\n\nhttps://t.co/cQI4YKbRyh",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $80.74K of $zBTC at $17.16M MC 🐳\n\nhttps://t.co/HbvwbrPD5S",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $10.76K of $META at $107.49M MC 🐳\n\nhttps://t.co/q8rwrzT1Nw",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "Those who make it in 2026 and beyond will not be due to their eye for crime, but their vigilance to rail against traditional systems set up to enslave you. Nobody is coming to save you, and the vigila",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$TOWN": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @SamFlintstone just bought $1.6K of $TOWN at $1.83M MC 🐳\n\nhttps://t.co/bkLFEWYOsN",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "saylor",
+      "text": "₿uilt for the Long Run. https://t.co/8lAofMd0xc",
+      "likes": 2985,
+      "retweets": 262,
+      "url": "https://x.com/saylor/status/2017618552480465088"
+    },
+    {
+      "author": "StateFarm",
+      "text": "Something even bigger to be unveiled 2.8.26",
+      "likes": 1964,
+      "retweets": 96,
+      "url": "https://x.com/StateFarm/status/2015814352847392934"
+    },
+    {
+      "author": "moonpay",
+      "text": "picking a winner in 1 hour 💸",
+      "likes": 1291,
+      "retweets": 194,
+      "url": "https://x.com/moonpay/status/2017598604903354456"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all respect to Star, this story is candidly ridiculous.\n\nStar is trying to claim that the root cause of 10/10 was Binance creating an Ethena yield campaign, causing USDe to get overleveraged from traders looping it on Binance, which eventually unwound because of a small pric",
+      "likes": 759,
+      "retweets": 82,
+      "url": "https://x.com/hosseeb/status/2017547160695578667"
+    },
+    {
+      "author": "gainzy222",
+      "text": "dragonfly cofounder writes ‘USDe only depegged on binance so assets should have only nuked on binance’\n\nif i’m long btc on any exchange and suddenly btc nukes on binance, i’m closing my position\n\nalgos would script that close and/or open short\n\nthis tweet seems retarded to me",
+      "likes": 271,
+      "retweets": 10,
+      "url": "https://x.com/gainzy222/status/2017576484714525111"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "When valued in Gold, Bitcoin topped December 2024.\n\nIn some ways, you could argue this past cycle was left-translated. https://t.co/v95zFODtXG",
+      "likes": 243,
+      "retweets": 12,
+      "url": "https://x.com/intocryptoverse/status/2017619379249459513"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "rate outta 10 https://t.co/JtcLMDt72U",
+      "likes": 223,
+      "retweets": 4,
+      "url": "https://x.com/blknoiz06/status/2017532278985920746"
+    },
+    {
+      "author": "Cricketnation",
+      "text": "$35, zero limits. Join Cricket and get a single line of unlimited for just $35/mo.",
+      "likes": 207,
+      "retweets": 7,
+      "url": "https://x.com/Cricketnation/status/2005457506156663217"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Idgaf about moltbots or moltbook or whatever it's called.\n\nLook at my bags. How about we talk about crypto again and then maybe I have time for your AI Reddit pages https://t.co/x3dsVQfQm8",
+      "likes": 182,
+      "retweets": 2,
+      "url": "https://x.com/waleswoosh/status/2017610763901583468"
+    },
+    {
+      "author": "mert",
+      "text": "https://t.co/l4b6j0We5y",
+      "likes": 163,
+      "retweets": 5,
+      "url": "https://x.com/mert/status/2017606387614797904"
+    }
+  ]
+}

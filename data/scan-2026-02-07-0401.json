@@ -1,0 +1,212 @@
+{
+  "timestamp": "2026-02-07T04:01:27.226Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 2,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$WHITEWHALE",
+      2
+    ],
+    [
+      "$GIGA",
+      2
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$FWOG",
+      1
+    ],
+    [
+      "$TOILET",
+      1
+    ],
+    [
+      "$MFERS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 2
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 2
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$FWOG",
+        "count": 1
+      },
+      {
+        "ticker": "$TOILET",
+        "count": 1
+      },
+      {
+        "ticker": "$MFERS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "corn": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "dollar": 1,
+      "inflation": 1,
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "Tradermayne",
+        "text": "$BTC\n\nUnderside retest of the last consolidation would be cool https://t.co/ivDvaNMqau",
+        "likes": 34,
+        "retweets": 2
+      },
+      {
+        "author": "Tradermayne",
+        "text": "$BTC\n\nUnderside retest of the last consolidation would be cool https://t.co/ivDvaNMqau",
+        "likes": 34,
+        "retweets": 2
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $8.62K of $Buttcoin at $38.14M MC 🐳\n\nhttps://t.co/XshPq0PzEi",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $8.78K of $Buttcoin at $37.52M MC 🐳\n\nhttps://t.co/OMUIRJe4PS",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "“as always, it's easier to gravedance instead of buy when things get ridiculously brutal and then come and start crying 'cabal' and 'manipulation' when price reverses aggressively and new highs are ma",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "gigagriff",
+        "text": "RT @TopShotWizard: $GIGA price action has objectively been crazy brutal recently\n\nnew lows and currently 92% down from ATH\n\ni didn't expect…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $5.66K of $TROLL at $17.41M MC 🐳\n\nhttps://t.co/LAUxodLzlM",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $5.66K of $TROLL at $17.41M MC 🐳\n\nhttps://t.co/LAUxodLzlM",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$FWOG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $FWOG whale just bought $3.93K of $FWOG at $5.99M MC 🐳\n\nhttps://t.co/Elh0WhEhwN",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$TOILET": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $TOILET with a PnL of +108.17%.\n\n$TOILET has been trending on Moby since $70.4K MC. Currently sitting at $2.59M MC. https://t.co/5X4fahm",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MFERS": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @AlphaCrew23 just bought $1.44K of $MFERS at $134.2K MC 🐳\n\nhttps://t.co/3L3cVrFVkg",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "docXBT",
+      "text": "Now that over a year has passed it’s wild to think I really closed my giga delusional conviction trades, took cash to the bank, moved across the country, got a house and changed my life at the top. Also had enough experience or foresight by then to stay in trader mode waiting to ",
+      "likes": 165,
+      "retweets": 2,
+      "url": "https://x.com/docXBT/status/2019962192305525155"
+    },
+    {
+      "author": "docXBT",
+      "text": "Now that over a year has passed it’s wild to think I really closed my giga delusional conviction trades, took cash to the bank, moved across the country, got a house and changed my life at the top. Also had enough experience or foresight by then to stay in trader mode waiting to ",
+      "likes": 165,
+      "retweets": 2,
+      "url": "https://x.com/docXBT/status/2019962192305525155"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "hi i’m equinox and i cost $400 a month to be a shockingly mid gym  and im always so crowded you’ll never do the workout you planned oh and also i close at 7pm because i fucking hate you fuck you. bitch",
+      "likes": 119,
+      "retweets": 1,
+      "url": "https://x.com/notthreadguy/status/2019950976040317203"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "timestamp": "2026-02-09T11:05:57.530Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$MOLTBOTAI",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTBOTAI",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 2,
+      "copper": 2
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 2
+    },
+    "macro": {
+      "inflation": 1,
+      "fed": 1
+    },
+    "industry": {
+      "laid off": 1,
+      "slow rug": 1
+    }
+  },
+  "tickerDetails": {
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $3.42K of $1 at $3.41M MC 🐳\n\nhttps://t.co/n8qAyOxAiK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.37K of $PENGUIN at $26.09M MC 🐳\n\nhttps://t.co/Xzoasap7dA",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.23K of $PENGUIN at $25.93M MC 🐳\n\nhttps://t.co/camxZw2QQH",
+        "likes": 5,
+        "retweets": 1
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "crypto_banter",
+        "text": "📈 $HYPE is holding up better than most out there...\n\nHere's TWO trade ideas from @kyledoops with EXACT levels he's watching! 👇\n\n(Stop Loss 1 & 2 included 🤝)",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$MOLTBOTAI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Moltboltai verified earnings for $MOLTBOTAI on @BagsApp 💰\n\nhttps://t.co/i9Cbas9dQv",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Bitcoin whales are accelerating accumulation.\n\nDuring the recent pullback, 66,940 $BTC moved into accumulation wallets on Feb 6\n\n- This marked the largest single-day inflow since 2022\n- Large investor",
+        "likes": 6,
+        "retweets": 1
+      },
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC shorts\n\nMidway to main TP reached ✅️ Trade up 2.5 RR.\n\nThree wins in a row locked.\n\nAlright! Price dropping further with no mercy.\n\nNot many words needed. We called out this range in the middle o",
+        "likes": 76,
+        "retweets": 5
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Many crypto companies have quietly laid off a significant portion of their staff over the past month.\n\nMore to come.\n\nExpect a wave of slow rugs this year.\n\nYou will still see them posting random updates, but make no mistake, they are not building anything anymore.\n\nAnd once all ",
+      "likes": 444,
+      "retweets": 18,
+      "url": "https://x.com/waleswoosh/status/2020774349117305317"
+    },
+    {
+      "author": "mert",
+      "text": "slavic founders: vitalik, anatoly, illia \n\nasian founders: cz, justin, jeff, satoshi (kek)\n\namerican founders: brad garlic and charles hoskinson \n\ninteresting",
+      "likes": 388,
+      "retweets": 5,
+      "url": "https://x.com/mert/status/2020790274243371075"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 350,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "based16z",
+      "text": "I fw Bad Bunny songs but this def some one world government shit https://t.co/5K0sEIk1E0",
+      "likes": 271,
+      "retweets": 3,
+      "url": "https://x.com/based16z/status/2020672180791501047"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "144 ETH ($297,000 USD) CryptoPunk sale.\n\nSeller bought it last week and now flipped it for $32k USD profit in just six days.\n\nIn ETH the trade looks even better.\n\nNice https://t.co/fQ6D8EgaA6",
+      "likes": 262,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2020789830632767907"
+    },
+    {
+      "author": "frankdegods",
+      "text": "OpenClaw is a mindshare vortex and will spawn many business and the fact that it’s open source means monetization happen in a decentralized way.",
+      "likes": 134,
+      "retweets": 7,
+      "url": "https://x.com/frankdegods/status/2020763118360498675"
+    },
+    {
+      "author": "watchingmarkets",
+      "text": "https://t.co/mFkYcSZ4Gz",
+      "likes": 130,
+      "retweets": 1,
+      "url": "https://x.com/watchingmarkets/status/2015485513285726463"
+    },
+    {
+      "author": "himgajria",
+      "text": "Gold, infinite.\nSilver, infinite. \nCopper, infinite.\nBitcoin, finite but inflationary. \nFartcoin, finite.\n\nCopper (inu), deflationary.",
+      "likes": 112,
+      "retweets": 10,
+      "url": "https://x.com/himgajria/status/2020782387257327740"
+    }
+  ]
+}

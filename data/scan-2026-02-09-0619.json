@@ -1,0 +1,188 @@
+{
+  "timestamp": "2026-02-09T06:19:39.315Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 3,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$CBBTC",
+      1
+    ],
+    [
+      "$PENDLE",
+      1
+    ],
+    [
+      "$CLAWPTCHA",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$MOLTGRAM",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$CBBTC",
+        "count": 1
+      },
+      {
+        "ticker": "$PENDLE",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWPTCHA",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTGRAM",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "RT @teeRex247: $PENGUIN TA (4H)\n\nThis chart is transitioning from “bleed” to “base.”\n\n✅ RSI has reclaimed strength (~62) — not what dead co…",
+        "likes": 0,
+        "retweets": 5
+      }
+    ],
+    "$CBBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $CBBTC whale just bought $50K of $cbBTC at $298.71M MC 🐳\n\nhttps://t.co/4AakyU2ijI",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENDLE": [
+      {
+        "author": "0xFinish",
+        "text": "$PENDLE is at the TGE levels of 2023 \n\nIt's massively oversold, and if you don't own any, it might be a good time to enter\n\nStill the biggest yield protocol, Boros Volume is up only, $sPENDLE is live ",
+        "likes": 6,
+        "retweets": 0
+      }
+    ],
+    "$CLAWPTCHA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ClawptchaBOT verified earnings for $CLAWPTCHA on @BagsApp 💰\n\nhttps://t.co/Nr0Gyq91DV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUP whale just bought $40.5K of $JUP at $1.1B MC 🐳\n\nhttps://t.co/1zThWlVE7w",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MOLTGRAM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Moltgramapps verified earnings for $MOLTGRAM on @BagsApp 💰\n\nhttps://t.co/CxdLQNT7Hy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "brian_armstrong",
+      "text": "I loved the idea for our Super Bowl ad as soon as the team showed it to me. It's unique, just like our QR code ad in 2022.\n\nMost people half watch commercials (buzzed, in a loud room, with lots of people). It takes something unique to break through.\n\nTurning 100M+ screens into ka",
+      "likes": 3297,
+      "retweets": 176,
+      "url": "https://x.com/brian_armstrong/status/2020666148258304017"
+    },
+    {
+      "author": "crypto_bitlord7",
+      "text": "Fire the entire coinbase marketing department or we CTO the company \n\nImagine having the chance to show 120m people a crypto add and you come up with this:\n\nhttps://t.co/aF6Z8lRAyE",
+      "likes": 3220,
+      "retweets": 69,
+      "url": "https://x.com/crypto_bitlord7/status/2020677827511894069"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "https://t.co/gCGsRQm2LC",
+      "likes": 399,
+      "retweets": 35,
+      "url": "https://x.com/boldleonidas/status/2020727738878095542"
+    },
+    {
+      "author": "Grummz",
+      "text": "Bullshit.",
+      "likes": 353,
+      "retweets": 18,
+      "url": "https://x.com/Grummz/status/2020732347889664414"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, new week let's get it https://t.co/TZqZcCjR8T",
+      "likes": 220,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2020739461869670891"
+    },
+    {
+      "author": "jessepollak",
+      "text": "I love @nounsdao and anons is nouns for agents \n\nvery cool build by @ClawdiaBotAI",
+      "likes": 136,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2020725407293825221"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "Immaculate aura I can’t lie",
+      "likes": 120,
+      "retweets": 0,
+      "url": "https://x.com/hoodg3nius/status/2020730090326303177"
+    },
+    {
+      "author": "Ga__ke",
+      "text": "Me looking at my replies https://t.co/5k7F1D3ZX8",
+      "likes": 109,
+      "retweets": 8,
+      "url": "https://x.com/Ga__ke/status/2020727720473420166"
+    }
+  ]
+}

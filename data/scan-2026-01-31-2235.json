@@ -1,0 +1,240 @@
+{
+  "timestamp": "2026-01-31T22:35:10.387Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 20,
+    "bearish": 1,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$OPENCLAW",
+      1
+    ],
+    [
+      "$PHETTA",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$CXP",
+      1
+    ],
+    [
+      "$CREPFUND",
+      1
+    ],
+    [
+      "$RUNNIT",
+      1
+    ],
+    [
+      "$CLAW",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$OPENCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$PHETTA",
+        "count": 1
+      },
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$CXP",
+        "count": 1
+      },
+      {
+        "ticker": "$CREPFUND",
+        "count": 1
+      },
+      {
+        "ticker": "$RUNNIT",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAW",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1,
+      "gold": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$OPENCLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @bandeez just bought $3.1K of $OPENCLAW at $1.25M MC 🐳\n\nhttps://t.co/xXyOh9ptHa",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PHETTA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @em0tionull verified earnings for $PHETTA on @BagsApp 💰\n\nhttps://t.co/QhXa64sOtu",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $11.18K of $HYPE at $5.2M MC 🐳\n\nhttps://t.co/MPp1Kwgd6A",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PUMP whale just bought $11.18K of $HYPE at $5.2M MC 🐳\n\nhttps://t.co/MPp1Kwgd6A",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CXP": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @crypto_xpress verified earnings for $CXP on @BagsApp 💰\n\nhttps://t.co/SpWaG6qxSH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CREPFUND": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @CunninghamNCRep verified earnings for $CREPFUND on @BagsApp 💰\n\nhttps://t.co/GAMpMLKRUJ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$RUNNIT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @0xCryptosoll verified earnings for $RUNNIT on @BagsApp 💰\n\nhttps://t.co/QxqyaUpwfE",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CLAW": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @AlphaCrew23 just bought $1.03K of $CLAW at $271.79K MC 🐳\n\nhttps://t.co/T1HZ9zRvpR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Wendys",
+      "text": "new personality unlocked 🔓 https://t.co/B6uhtAJeMt",
+      "likes": 2743,
+      "retweets": 82,
+      "url": "https://x.com/Wendys/status/2003190804135706743"
+    },
+    {
+      "author": "based16z",
+      "text": "a lotta yall still dont get it\n\nape holders can use multiple slurp juices on a single ape\n\nso if you have 1 astro ape and 3 slurp juices you can create 3 new apes",
+      "likes": 467,
+      "retweets": 21,
+      "url": "https://x.com/based16z/status/2017698835191976315"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "It’s times like this that separate the Winners from everyone else.\n\nIt's times like this where Greatness is earned.",
+      "likes": 281,
+      "retweets": 62,
+      "url": "https://x.com/MustStopMurad/status/2017724781274214516"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "It’s times like this that separate the Winners from everyone else.\n\nIt's times like this where Greatness is earned.",
+      "likes": 280,
+      "retweets": 62,
+      "url": "https://x.com/MustStopMurad/status/2017724781274214516"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Part of creating wealth is surviving drawdowns so you can have money to invest later.\n\nControl the drawdowns in your portfolio, then the upside will eventually take care of itself.",
+      "likes": 214,
+      "retweets": 14,
+      "url": "https://x.com/intocryptoverse/status/2017726333980229633"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "Solana is $3.50 if pumpfun never gets created btw https://t.co/1NvKX7fl5Y",
+      "likes": 168,
+      "retweets": 5,
+      "url": "https://x.com/rasmr_eth/status/2017709888429035834"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i believe in the industry i log onto every day and have deep conviction that this is the best corner of the internet to spend excessive time in over the next decade+",
+      "likes": 151,
+      "retweets": 9,
+      "url": "https://x.com/notthreadguy/status/2017714904870822072"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "CZ right now. https://t.co/FVJ4tUH3Iw",
+      "likes": 146,
+      "retweets": 5,
+      "url": "https://x.com/DipWheeler/status/2017712179915481505"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "https://t.co/sHxllCMCvQ",
+      "likes": 145,
+      "retweets": 10,
+      "url": "https://x.com/notthreadguy/status/2017707259485200575"
+    },
+    {
+      "author": "himgajria",
+      "text": "Covid crash: $1.2B liquidated.\nFTX crash: $1.6B liquidated.      \nToday: $1.59B liquidated.\n\nIt isn’t that the events are worse.\nIt’s that crypto has a lot more liquidity each time. \n\nBullish.",
+      "likes": 139,
+      "retweets": 5,
+      "url": "https://x.com/himgajria/status/2017714734498500904"
+    }
+  ]
+}

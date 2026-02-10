@@ -1,0 +1,302 @@
+{
+  "timestamp": "2026-02-08T12:12:12.730Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 7,
+    "neutral": 80,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$HODLHOT",
+      1
+    ],
+    [
+      "$TOKABU",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$LOLA",
+      1
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$IBIT",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$SHT",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$ON",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$HODLHOT",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKABU",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$LOLA",
+        "count": 1
+      },
+      {
+        "ticker": "$IBIT",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$SHT",
+        "count": 1
+      },
+      {
+        "ticker": "$ON",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      },
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "corn": 2,
+      "copper": 2
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "dollar": 2,
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$ETH": [
+      {
+        "author": "rektmando",
+        "text": "RT @lookonchain: Sell-off finished!\n\n#TrendResearch has deposited all 651,757 $ETH($1.34B) into #Binance at an average price of $2,055.\n\nTh…",
+        "likes": 0,
+        "retweets": 84
+      }
+    ],
+    "$HODLHOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @hodlhotx verified earnings for $HODLHOT on @BagsApp 💰\n\nhttps://t.co/RTOlO00wO8",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TOKABU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $4.84K of $AVICI at $15.71M MC 🐳\n\nhttps://t.co/NUExhZKQ8n",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TOKABU whale just bought $4.84K of $AVICI at $15.71M MC 🐳\n\nhttps://t.co/NUExhZKQ8n",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Kevsznx just bought $1.04K of $REKT at $103.98K MC 🐳\n\nhttps://t.co/5oVMGOCL8r",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$LOLA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/iWgN2bNdWO verified earnings for $LOLA on @BagsApp 💰\n\nhttps://t.co/W9ANspQnO6",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$MSTR": [
+      {
+        "author": "dampedspring",
+        "text": "Update.  Seller at 83,999.  Will probably short $MSTR if that BTC price is available AND MNAV expands to 1.25 and hold the arb $IBIT.",
+        "likes": 20,
+        "retweets": 0
+      }
+    ],
+    "$IBIT": [
+      {
+        "author": "dampedspring",
+        "text": "Update.  Seller at 83,999.  Will probably short $MSTR if that BTC price is available AND MNAV expands to 1.25 and hold the arb $IBIT.",
+        "likes": 20,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC\n\nTP'd the low ✅️ Looking to short again into a high above 72.2k\n\nAlright, nice TP on these shorts into the exact low.\n\nNot reached our overall midrange yet but we are seeing some weekend liquidit",
+        "likes": 67,
+        "retweets": 5
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.33K of $SHT at $1.84M MC 🐳\n\nhttps://t.co/t92dn0uPMZ",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$SHT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.33K of $SHT at $1.84M MC 🐳\n\nhttps://t.co/t92dn0uPMZ",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5K of $ONyc at $89.31M MC 🐳\n\nhttps://t.co/1qwV4ZClzt",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ON": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $5K of $ONyc at $89.31M MC 🐳\n\nhttps://t.co/1qwV4ZClzt",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PENGUIN with a PnL of +86.00%.\n\n$PENGUIN has been trending on Moby since $91.9K MC. Currently sitting at $25.88M MC. https://t.co/JIJ3M",
+        "likes": 4,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PENGUIN with a PnL of +86.31%.\n\n$PENGUIN has been trending on Moby since $91.9K MC. Currently sitting at $26.07M MC. https://t.co/JYmWD",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PENGUIN with a PnL of +85.42%.\n\n$PENGUIN has been trending on Moby since $91.9K MC. Currently sitting at $25.7M MC. https://t.co/jvJfuV",
+        "likes": 3,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 405,
+      "retweets": 22,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "frankdegods",
+      "text": "X just revamped their API to finally be useful \n\nSo I made a skill that searches X, modeled exactly like the native Claude Code research agent\n\nI've been asking like \"find best clawdbot skills last 24hrs\" or \"what are people saying about [ticker] today?\"\n\nhttps://t.co/RHtYxF7pZH ",
+      "likes": 405,
+      "retweets": 22,
+      "url": "https://x.com/frankdegods/status/2020363804014493920"
+    },
+    {
+      "author": "CharlesDoBronxs",
+      "text": "With the best\n\n#UFC https://t.co/Yb1OiamYOn",
+      "likes": 109,
+      "retweets": 6,
+      "url": "https://x.com/CharlesDoBronxs/status/2020468919631249489"
+    }
+  ]
+}

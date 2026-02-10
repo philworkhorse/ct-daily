@@ -1,0 +1,214 @@
+{
+  "timestamp": "2026-02-08T02:05:04.497Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 4,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$LIQUID",
+      3
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$DEPORTEE",
+      1
+    ],
+    [
+      "$ECC",
+      1
+    ],
+    [
+      "$OPAL",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$XAG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$LIQUID",
+        "count": 3
+      },
+      {
+        "ticker": "$DEPORTEE",
+        "count": 1
+      },
+      {
+        "ticker": "$ECC",
+        "count": 1
+      },
+      {
+        "ticker": "$OPAL",
+        "count": 1
+      },
+      {
+        "ticker": "$XAG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$SOL": [
+      {
+        "author": "CookerFlips",
+        "text": "I bought the Huracan when $SOL was $175\n\nSo girl math tells me I only paid $125k for it",
+        "likes": 10,
+        "retweets": 0
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +325.17%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.21M MC. https://t.co/CeMOjON",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @notsuavizim just bought $1.33K of $LIQUID at $952.84K MC 🐳\n\nhttps://t.co/H78LmLzXo7",
+        "likes": 2,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @notsuavizim just bought $2.96K of $LIQUID at $929.49K MC 🐳\n\nhttps://t.co/MfMcGBt4cA",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$DEPORTEE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @OrthoEdits verified earnings for $DEPORTEE on @BagsApp 💰\n\nhttps://t.co/PnzFbtHU0V",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$ECC": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ethisluv just bought $3.3K of $ECC at $359.04K MC 🐳\n\nhttps://t.co/9VdRTSHUSJ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OPAL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $4.79K of $OPAL at $633.67K MC 🐳\n\nhttps://t.co/zNleUq3R4T",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Silver\n\n$BTC / $XAG:     🥈  886.100 oz https://t.co/tzBXRpHD4H",
+        "likes": 68,
+        "retweets": 11
+      }
+    ],
+    "$XAG": [
+      {
+        "author": "Bitcoin",
+        "text": "Current price of #Bitcoin, measured in #Silver\n\n$BTC / $XAG:     🥈  886.100 oz https://t.co/tzBXRpHD4H",
+        "likes": 68,
+        "retweets": 11
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "EmmanuelMacron",
+      "text": "In France, we believe in science.\n                            \nThat is why, on May 5, I issued a clear and open call to the world: for science, choose France.\n                                                      \nI am very proud to see that this call has resonated so strongly.\n\n",
+      "likes": 7589,
+      "retweets": 1193,
+      "url": "https://x.com/EmmanuelMacron/status/2019137350022955117"
+    },
+    {
+      "author": "mert",
+      "text": "@EmmanuelMacron Meta pays individual AI engineers more than your entire country investment\n\ndelete your account",
+      "likes": 1975,
+      "retweets": 41,
+      "url": "https://x.com/mert/status/2019768989543469421"
+    },
+    {
+      "author": "SilvXBT",
+      "text": "Shout out to my nigga Garrett for choosing to sell his BTC on a Saturday probably learned it from his cousin CZ Bin Laden",
+      "likes": 609,
+      "retweets": 28,
+      "url": "https://x.com/SilvXBT/status/2020052618815623232"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "The Warriors starting lineup 🔥🔥🔥 https://t.co/sQEFBUKVWc",
+      "likes": 279,
+      "retweets": 4,
+      "url": "https://x.com/TheNBACentel/status/2020313360726896906"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "Built a quick tool for crowdsourcing punks aesthetic premiums:\n\nhttps://t.co/sstPYvkAsK https://t.co/jkfWiFUeUX",
+      "likes": 254,
+      "retweets": 31,
+      "url": "https://x.com/jackbutcher/status/2019825566522978796"
+    },
+    {
+      "author": "SilvXBT",
+      "text": "@vidoteth if u deposit anything to binance it gets auto twap sold without your consent\n\nmany don't know this....",
+      "likes": 156,
+      "retweets": 8,
+      "url": "https://x.com/SilvXBT/status/2020065839433806125"
+    },
+    {
+      "author": "frankdegods",
+      "text": "if that wasn’t the bottom it sure felt like the bottomiest bottom of all bottoms",
+      "likes": 116,
+      "retweets": 3,
+      "url": "https://x.com/frankdegods/status/2020304023006695486"
+    }
+  ]
+}

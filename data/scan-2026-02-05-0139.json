@@ -1,0 +1,129 @@
+{
+  "timestamp": "2026-02-05T01:39:48.331Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 12,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$DJT",
+      1
+    ],
+    [
+      "$GSD",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$DJT",
+        "count": 1
+      },
+      {
+        "ticker": "$GSD",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "oil": 2
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$DJT": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Truth Social Coin finally happening!? \n\nOnly 2 days behind when they initially documented it would be launching...\n\nThe Truth Social, social media page has added the ticker $DJT to its name...\n\nSource",
+        "likes": 25,
+        "retweets": 2
+      }
+    ],
+    "$GSD": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @onchainrobber just bought $3K of $GSD at $2.09M MC 🐳\n\nhttps://t.co/4lxvcK9Tlm",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $22.83K of $WhiteWhale at $107M MC 🐳\n\nhttps://t.co/EfC6n7Na1E",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "BobLoukas",
+      "text": "Every cycle feels different, but it never is.\n\nYou make real money on paper and think it’s permanent. Then you round-trip it and swear you’re done forever.\n\nYou then miss the early part of the next cycle because of PTSD. You buy back some only after it doubles “just to be safe.” ",
+      "likes": 1381,
+      "retweets": 125,
+      "url": "https://x.com/BobLoukas/status/2019121730124443679"
+    },
+    {
+      "author": "sama",
+      "text": "Codex is now over 1 million active users!",
+      "likes": 928,
+      "retweets": 33,
+      "url": "https://x.com/sama/status/2019219967250669741"
+    },
+    {
+      "author": "mellometrics",
+      "text": "life is good in stables",
+      "likes": 258,
+      "retweets": 26,
+      "url": "https://x.com/mellometrics/status/2019111199636606998"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Calling the generational bottom for Bitcoin here.\n\n.\n\nNot going lower tomorrow.",
+      "likes": 231,
+      "retweets": 9,
+      "url": "https://x.com/CryptoKaleo/status/2019207002963300429"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Who’s old enough to remember this meme? https://t.co/vrLNWsoiY7",
+      "likes": 136,
+      "retweets": 3,
+      "url": "https://x.com/CryptoKaleo/status/2019206426015752367"
+    },
+    {
+      "author": "digitalartchick",
+      "text": "With the amount of people leaving crypto soon it will just be you and me",
+      "likes": 133,
+      "retweets": 10,
+      "url": "https://x.com/digitalartchick/status/2019204405334274096"
+    }
+  ]
+}

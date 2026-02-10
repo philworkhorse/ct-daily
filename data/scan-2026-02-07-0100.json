@@ -1,0 +1,163 @@
+{
+  "timestamp": "2026-02-07T01:00:30.506Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 2,
+    "neutral": 90,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BULLSY",
+      1
+    ],
+    [
+      "$ANAKIN",
+      1
+    ],
+    [
+      "$MOLT",
+      1
+    ],
+    [
+      "$PYTHIA",
+      1
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$FARTCOIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BULLSY",
+        "count": 1
+      },
+      {
+        "ticker": "$ANAKIN",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLT",
+        "count": 1
+      },
+      {
+        "ticker": "$PYTHIA",
+        "count": 1
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$FARTCOIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1,
+      "gdp": 1
+    }
+  },
+  "tickerDetails": {
+    "$BULLSY": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just upgraded $BULLSY to Pro on MobyScreener 📈\n\nhttps://t.co/sYpCK131K3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ANAKIN": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @lit_pad verified earnings for $ANAKIN on @BagsApp 💰\n\nhttps://t.co/PbKHXkXBVU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MOLT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @moltdotid_ verified earnings for $MOLT on @BagsApp 💰\n\nhttps://t.co/uce7r5XDIp",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PYTHIA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @DirectorDotEth verified earnings for $PYTHIA on @BagsApp 💰\n\nhttps://t.co/wTilpdkWo0",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "author": "Palgrani2",
+        "text": "RT @DreamInWeb3: $BUTTCOIN is about to repeat the $FARTCOIN run when it went to $3B Market cap without taking much time.\nBoth are similar b…",
+        "likes": 0,
+        "retweets": 8
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "author": "Palgrani2",
+        "text": "RT @DreamInWeb3: $BUTTCOIN is about to repeat the $FARTCOIN run when it went to $3B Market cap without taking much time.\nBoth are similar b…",
+        "likes": 0,
+        "retweets": 8
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "vibe check https://t.co/FgP4UMNAKY",
+      "likes": 277,
+      "retweets": 6,
+      "url": "https://x.com/blknoiz06/status/2019925683657666600"
+    },
+    {
+      "author": "jessepollak",
+      "text": "who's building an agent on @base that I should follow?",
+      "likes": 189,
+      "retweets": 11,
+      "url": "https://x.com/jessepollak/status/2019921504151171101"
+    },
+    {
+      "author": "jessepollak",
+      "text": "who's building an agent on @base that I should follow?",
+      "likes": 189,
+      "retweets": 11,
+      "url": "https://x.com/jessepollak/status/2019921504151171101"
+    },
+    {
+      "author": "moonpay",
+      "text": "2 million views now btw https://t.co/StsBfeIpRT",
+      "likes": 112,
+      "retweets": 18,
+      "url": "https://x.com/moonpay/status/2019933308814082219"
+    }
+  ]
+}

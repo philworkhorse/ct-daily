@@ -1,0 +1,287 @@
+{
+  "timestamp": "2026-02-03T09:14:15.017Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 3,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$ARC",
+      1
+    ],
+    [
+      "$PIPPIN",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$WET",
+      1
+    ],
+    [
+      "$DONT",
+      1
+    ],
+    [
+      "$PLATINUM",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$SOLO",
+      1
+    ],
+    [
+      "$ZCLAW",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$ARC",
+        "count": 1
+      },
+      {
+        "ticker": "$PIPPIN",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$WET",
+        "count": 1
+      },
+      {
+        "ticker": "$DONT",
+        "count": 1
+      },
+      {
+        "ticker": "$PLATINUM",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$SOLO",
+        "count": 1
+      },
+      {
+        "ticker": "$ZCLAW",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "gold": 2,
+      "silver": 1,
+      "platinum": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1,
+      "platinum": 1
+    },
+    "macro": {
+      "fed": 4,
+      "dollar": 3
+    }
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.89K of $Goyim at $6.49M MC 🐳\n\nhttps://t.co/jGVvM5cQJk",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.67K of $PENGUIN at $40.15M MC 🐳\n\nhttps://t.co/z99gzbeiRa",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ARC": [
+      {
+        "author": "au_xbt",
+        "text": "$ARC might be the next $PIPPIN — I’m not certain, so check the on-chain and contract data yourself\nBought in at 0.054 https://t.co/SAsZsaU8XS",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PIPPIN": [
+      {
+        "author": "au_xbt",
+        "text": "$ARC might be the next $PIPPIN — I’m not certain, so check the on-chain and contract data yourself\nBought in at 0.054 https://t.co/SAsZsaU8XS",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "Kimi K2.5 is a trillion-parameter, open-source multimodal model that sets a new bar for agentic AI.\n\nIt jointly trains text, image and video from step 0—not tacked on late. This “early–light vision” a",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "0xSisyphus",
+        "text": "RT @lookonchain: vitalik.eth(@VitalikButerin) continues to sell $ETH, having sold 493 $ETH($1.16M) in the past 8 hours.\n\nhttps://t.co/pMvkZ…",
+        "likes": 0,
+        "retweets": 102
+      }
+    ],
+    "$WET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $5.48K of $DONT at $2.14M MC 🐳\n\nhttps://t.co/UEUyvnj2CF",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$DONT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WET whale just bought $5.48K of $DONT at $2.14M MC 🐳\n\nhttps://t.co/UEUyvnj2CF",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PLATINUM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @PARABOLIT verified earnings for $PLATINUM on @BagsApp 💰\n\nhttps://t.co/EMPJh6Ecvw",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "heart_",
+        "text": "$BTC is like the fake chinese gold that you peel away the store of value narrative and look inside and it’s a risk-on trading instrument https://t.co/vpWxW9tKAb",
+        "likes": 11,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $6.55K of $SOLO at $13.18M MC 🐳\n\nhttps://t.co/GZm36XhHhp",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOLO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $6.55K of $SOLO at $13.18M MC 🐳\n\nhttps://t.co/GZm36XhHhp",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$ZCLAW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @zclawd verified earnings for $ZCLAW on @BagsApp 💰\n\nhttps://t.co/rkvaoAZ0yC",
+        "likes": 2,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "0xSammy",
+      "text": "After going down the @openclaw + @moltbook rabbit hole, I decided that I wanted a more complete picture of the 'Molt' landscape\n\nI've curated a spreadsheet of >70 protocols within the ecosystem, and this is growing at an exponential rate\n\n1) If you're a project building on this, ",
+      "likes": 674,
+      "retweets": 93,
+      "url": "https://x.com/0xSammy/status/2018383892474953814"
+    },
+    {
+      "author": "RichardPtardio",
+      "text": "Bloody brutal week. Unless, of course, you are an investor in the Hyperliquid crypto-currency.",
+      "likes": 363,
+      "retweets": 28,
+      "url": "https://x.com/RichardPtardio/status/2018312185353572769"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Money Badger Boxes currently trading at $230 USD.\n\nPicked one up here.\n\nThey will reveal into Money Badger NFTs at some point which is the cultural layer for Paradex.\n\nPlus there are two airdrops coming up.\n\nObviously some risk to it but NFTs are down bad anyway at the moment so ",
+      "likes": 250,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2018584283657785815"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "bros whats a good new movie to stream",
+      "likes": 211,
+      "retweets": 1,
+      "url": "https://x.com/blknoiz06/status/2018571378820260255"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Perps are fun and all, I get it.\n\nAnd I like trading them too.\n\nBut really the best thing you can do if you think BTC, ETH or SOL is at a good entry, is buy spot.\n\nNo need to buy on 40x leverage and get liquidated before the next leg up.\n\nBuild your portfolio slowly",
+      "likes": 186,
+      "retweets": 6,
+      "url": "https://x.com/waleswoosh/status/2018599450856562810"
+    },
+    {
+      "author": "himgajria",
+      "text": "Another 5,000,000 units of copper (inu) melted permanently. 3.5% of the total supply is now out of circulation. \n\nThis time, purely off fees (just from 1 week)\n\n&gt;$300,000 USD has been burnt.",
+      "likes": 116,
+      "retweets": 29,
+      "url": "https://x.com/himgajria/status/2018574648771015035"
+    }
+  ]
+}

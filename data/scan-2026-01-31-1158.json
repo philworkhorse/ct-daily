@@ -1,0 +1,264 @@
+{
+  "timestamp": "2026-01-31T11:58:29.522Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 1,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$WOJAK",
+      1
+    ],
+    [
+      "$MAID",
+      1
+    ],
+    [
+      "$PNUT",
+      1
+    ],
+    [
+      "$MET",
+      1
+    ],
+    [
+      "$OASIS",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$CLAWSPACE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WOJAK",
+        "count": 1
+      },
+      {
+        "ticker": "$MAID",
+        "count": 1
+      },
+      {
+        "ticker": "$PNUT",
+        "count": 1
+      },
+      {
+        "ticker": "$MET",
+        "count": 1
+      },
+      {
+        "ticker": "$OASIS",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWSPACE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$SOL",
+        "count": 1
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 2
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 2
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 51,
+        "retweets": 2
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 51,
+        "retweets": 2
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 51,
+        "retweets": 2
+      }
+    ],
+    "$WOJAK": [
+      {
+        "author": "watchingmarkets",
+        "text": "Gm ☕️\n\nMonthly close tonight, low volume weekend. \n\nCrypto looks like hanging on a cliff here, sentiment on my TL show that most people think it will go to zero. \n\n#TOTAL2 on life support (higher low ",
+        "likes": 51,
+        "retweets": 2
+      }
+    ],
+    "$MAID": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Fadihadid5 verified earnings for $MAID on @BagsApp 💰\n\nhttps://t.co/LSvcI1Macl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PNUT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PNUT whale just bought $4.27K of $Pnut at $63.15M MC 🐳\n\nhttps://t.co/k07GCs8n4l",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$MET": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $MET whale just bought $1.12K of $Shellraiser at $1.09M MC 🐳\n\nhttps://t.co/GimCwMuAeT",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OASIS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @vanillafunk713 verified earnings for $OASIS on @BagsApp 💰\n\nhttps://t.co/fx3ayuvQPg",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.47K of $Shellraiser at $1.01M MC 🐳\n\nhttps://t.co/mpivTmfdN0",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWSPACE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @qrimeCapitel verified earnings for $CLAWSPACE on @BagsApp 💰\n\nhttps://t.co/jIR2LFD8sy",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "StateFarm",
+      "text": "Something even bigger to be unveiled 2.8.26",
+      "likes": 1925,
+      "retweets": 90,
+      "url": "https://x.com/StateFarm/status/2015814352847392934"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "Read this now.\n\nThis is the most important thing you will read this year.",
+      "likes": 1008,
+      "retweets": 219,
+      "url": "https://x.com/MustStopMurad/status/2017302001441542522"
+    },
+    {
+      "author": "hosseeb",
+      "text": "With all respect to Star, this story is candidly ridiculous.\n\nStar is trying to claim that the root cause of 10/10 was Binance creating an Ethena yield campaign, causing USDe to get overleveraged from traders looping it on Binance, which eventually unwound because of a small pric",
+      "likes": 396,
+      "retweets": 44,
+      "url": "https://x.com/hosseeb/status/2017547160695578667"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "LMAOOOOOOOOOOOO",
+      "likes": 312,
+      "retweets": 12,
+      "url": "https://x.com/blknoiz06/status/2017532767580409897"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "What's one app, protocol or ecosystem that really excites you about crypto right now?\n\nI need some inspiration",
+      "likes": 247,
+      "retweets": 14,
+      "url": "https://x.com/waleswoosh/status/2017542596449673484"
+    },
+    {
+      "author": "Ledger",
+      "text": "Unlock the power of your crypto with the CL Card, compatible with Ledger.",
+      "likes": 216,
+      "retweets": 28,
+      "url": "https://x.com/Ledger/status/2010719908100005940"
+    },
+    {
+      "author": "gainzy222",
+      "text": "i’ve decided\n\ni’m gonna start day drinking\n\nthank u for ur attention to this matter",
+      "likes": 169,
+      "retweets": 3,
+      "url": "https://x.com/gainzy222/status/2017544960635974052"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "rate outta 10 https://t.co/JtcLMDt72U",
+      "likes": 151,
+      "retweets": 3,
+      "url": "https://x.com/blknoiz06/status/2017532278985920746"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "ion truss ppl who don't like the snow.",
+      "likes": 120,
+      "retweets": 6,
+      "url": "https://x.com/blknoiz06/status/2017543769369805167"
+    }
+  ]
+}

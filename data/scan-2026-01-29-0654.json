@@ -1,0 +1,249 @@
+{
+  "timestamp": "2026-01-29T06:54:14.325Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 19,
+    "bearish": 6,
+    "neutral": 75,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CLAWD",
+      2
+    ],
+    [
+      "$BASED",
+      1
+    ],
+    [
+      "$ORCA",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$BP",
+      1
+    ],
+    [
+      "$USER",
+      1
+    ],
+    [
+      "$POKEMON",
+      1
+    ],
+    [
+      "$DM",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CLAWD",
+        "count": 2
+      },
+      {
+        "ticker": "$BASED",
+        "count": 1
+      },
+      {
+        "ticker": "$ORCA",
+        "count": 1
+      },
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$BP",
+        "count": 1
+      },
+      {
+        "ticker": "$USER",
+        "count": 1
+      },
+      {
+        "ticker": "$POKEMON",
+        "count": 1
+      },
+      {
+        "ticker": "$DM",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 12,
+      "copper": 3,
+      "silver": 2
+    },
+    "metals": {
+      "gold": 12,
+      "silver": 2
+    },
+    "macro": {
+      "dollar": 2
+    }
+  },
+  "tickerDetails": {
+    "$CLAWD": [
+      {
+        "author": "jessepollak",
+        "text": "RT @clawdbotatg: 🦞 $CLAWD PFP Prediction Market is LIVE\n\n15 hours to pick my profile picture:\n\n• submit an image + stake 50k $CLAWD\n• buy s…",
+        "likes": 0,
+        "retweets": 39
+      },
+      {
+        "author": "MarcellxMarcell",
+        "text": "RT @TraderAG_: $CLAWD https://t.co/geHyTyHgId",
+        "likes": 0,
+        "retweets": 7
+      }
+    ],
+    "$BASED": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @dionagungs verified earnings for $BASED16Z on @BagsApp 💰\n\nhttps://t.co/lK4gGjuyn3",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ORCA": [
+      {
+        "author": "ItsCryptoNas",
+        "text": "$ORCA is in a really good place for a long here with invalidation below $1 which is the lowest it has ever been par the wick on 10th Oct, RR wise it looks really good, SL below $1\nhttps://t.co/6fcnpF5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $3.7K of $PENGUIN at $80.96M MC 🐳\n\nhttps://t.co/12xmBt4L49",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $3.7K of $PENGUIN at $80.96M MC 🐳\n\nhttps://t.co/12xmBt4L49",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BP": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $BP with a PnL of +145.90%.\n\n$BP has been trending on Moby since $228.22K MC. Currently sitting at $6.81M MC. https://t.co/5yLyg1N0OX",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USER": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $USER with a PnL of +291.80%.\n\n$USER has been trending on Moby since $198.46K MC. Currently sitting at $1.04M MC. https://t.co/KwJJ2HkRS",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$POKEMON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $POKEMON with a PnL of +293.97%.\n\n$POKEMON has been trending on Moby since $199.18K MC. Currently sitting at $1.98M MC. https://t.co/U4u",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$DM": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Chairman_DN just bought $3.21K of $DM at $168.17K MC 🐳\n\nhttps://t.co/JICcME6hqQ",
+        "likes": 8,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "JakeSucky",
+      "text": "This indie dev has spent over 5 years working on his own multiplayer FPS, one of the most unique I've seen\n\n- 360 degree aiming while prone\n- Slow motion mechanics\n- Katanas that can block bullets\n\nCalled Out of Action https://t.co/nMxP3WngXe",
+      "likes": 9552,
+      "retweets": 370,
+      "url": "https://x.com/JakeSucky/status/2016579527489835219"
+    },
+    {
+      "author": "Neuravision_A",
+      "text": "A new era of AI video starts here!\nProduce cinematic 8K videos up to 60 seconds with HDR and advanced hybrid intelligence.\nLess friction. More speed. Hollywood-style results.",
+      "likes": 3384,
+      "retweets": 529,
+      "url": "https://x.com/Neuravision_A/status/2010102623756792032"
+    },
+    {
+      "author": "RunnerXBT",
+      "text": "if you are new to crypto\n\nand just now seeing Metals charts (Gold and Silver)\n\nthis is what crypto used to be in 2020/21, nonstop parabolic up, BTC, ETH, damn even fucking Cardano, any trash altcoin out there\n\nand now the sad part, thats never ever coming back lol",
+      "likes": 469,
+      "retweets": 12,
+      "url": "https://x.com/RunnerXBT/status/2016619896143024466"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, what's the plan today https://t.co/m3pcr4vUSK",
+      "likes": 318,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2016753232153104688"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "this is what happens without wintermute. https://t.co/2WFBiT0YbQ",
+      "likes": 288,
+      "retweets": 9,
+      "url": "https://x.com/DipWheeler/status/2016735472006131736"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Max pain is having most of your money in crypto and getting daily notis like...\n\nJUST IN: Gold hit a new ATH of $5,500 USD.\n\nJust shoot me already",
+      "likes": 171,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2016759263105077473"
+    },
+    {
+      "author": "jessepollak",
+      "text": "and how could I forget @tryfomo \n\nyour favorite CT trader's favorite trading app",
+      "likes": 147,
+      "retweets": 4,
+      "url": "https://x.com/jessepollak/status/2016727967322562922"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "One Bitcoin will eventually be worth one million dollars.",
+      "likes": 125,
+      "retweets": 7,
+      "url": "https://x.com/CryptoKaleo/status/2016743186903814200"
+    }
+  ]
+}

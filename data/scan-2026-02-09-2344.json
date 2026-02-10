@@ -1,0 +1,150 @@
+{
+  "timestamp": "2026-02-09T23:44:51.910Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 4,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$STARCRAFT",
+      1
+    ],
+    [
+      "$WITR",
+      1
+    ],
+    [
+      "$BONK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$STARCRAFT",
+        "count": 1
+      },
+      {
+        "ticker": "$WITR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      },
+      {
+        "ticker": "$BONK",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1
+    },
+    "metals": {},
+    "macro": {
+      "fed": 1,
+      "powell": 1,
+      "inflation": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @rektguy: $REKT Daily Art\n\nlindsey vonns olympic medal hopes\n\nListed for 0.05 ETH. Proceeds used to buy and burn $REKT.\n\nhttps://t.co/Kj…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "rektmando",
+        "text": "RT @MaxCrypto: This is unbelievable.\n\n$BTC has been literally mimicking the Software ETF for 5+ years now. https://t.co/pURciHbeuk",
+        "likes": 0,
+        "retweets": 111
+      }
+    ],
+    "$STARCRAFT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @dom_scholz verified earnings for $STARCRAFT on @BagsApp 💰\n\nhttps://t.co/lUE9eu8tXb",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WITR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/ySuIyWRLBI verified earnings for $WITR on @BagsApp 💰\n\nhttps://t.co/lbpiUvTOpT",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BONK": [
+      {
+        "author": "Linkkzyy",
+        "text": "You're not open to feedback if you only engage with tweets saying 'good boy! you've done great work!'\n\nThis feels like the majority of industry leaders now days, even when you deliberately try to RESP",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "a1lon9",
+      "text": "we’re selecting a few teams to come on stream and pitch their idea/product directly to Tim and me tomorrow\n\nwho should we invite?",
+      "likes": 1318,
+      "retweets": 132,
+      "url": "https://x.com/a1lon9/status/2020931882175824358"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "Developing patience just comes from time in the game like all skills. You have to truly believe the market will continue to provide great opportunities if you wait for them (it always does multiple times per year) and you have to believe in your ability to hit those good times",
+      "likes": 183,
+      "retweets": 8,
+      "url": "https://x.com/lBattleRhino/status/2020997765187469731"
+    },
+    {
+      "author": "SolportTom",
+      "text": "Here an example:\n\nA coin spawns on bonkers and does $5m in volume in 24 hours, that coin will recieve $25,000 in twaps  which is supply removed from the market automatically.\n\nIn addition, the LP would've earned $12,500 which would've bought back into the pool and locked making l",
+      "likes": 141,
+      "retweets": 9,
+      "url": "https://x.com/SolportTom/status/2020986677355798648"
+    },
+    {
+      "author": "IGGYAZALEA",
+      "text": "You’ve worked so hard to be where you are in this exact moment. Be proud and enjoy it 💟",
+      "likes": 115,
+      "retweets": 24,
+      "url": "https://x.com/IGGYAZALEA/status/2021002862856372451"
+    }
+  ]
+}

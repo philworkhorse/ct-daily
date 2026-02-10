@@ -1,0 +1,169 @@
+{
+  "timestamp": "2026-02-05T04:24:09.390Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 5,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$SURVIVE",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$BELIEVE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SURVIVE",
+        "count": 1
+      },
+      {
+        "ticker": "$BELIEVE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "corn": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @ButtCoin: NEW $BUTTCOIN WEBSITE LAUNCHED!\n\nhttps://t.co/cRPXrK4g35\n\nWe've put together a new, simple website that briefly covers our hi…",
+        "likes": 0,
+        "retweets": 53
+      }
+    ],
+    "$SURVIVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $SURVIVE on MobyScreener 🖼️ https://t.co/yPeEpl6O37",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$BTC\n\nCould see capitulation soon. Some bids in the box, want a nasty wick into it, then I'll sell the bounce in mid 80K's.\n\nBTW, I don't even expect this to fill, but it's where I'd be willing to kni",
+        "likes": 32,
+        "retweets": 1
+      }
+    ],
+    "$BELIEVE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $3.98K of $PENGUIN at $22.78M MC 🐳\n\nhttps://t.co/SIwTsaeQjs",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $BELIEVE whale just bought $3.98K of $PENGUIN at $22.78M MC 🐳\n\nhttps://t.co/SIwTsaeQjs",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.62K of $PENGUIN at $22.63M MC 🐳\n\nhttps://t.co/LG4M3e40nf",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "gainzy222",
+      "text": "this is the worst crypto has ever been since i’ve entered in 2017",
+      "likes": 924,
+      "retweets": 26,
+      "url": "https://x.com/gainzy222/status/2019244360811049177"
+    },
+    {
+      "author": "Crypto_Chase",
+      "text": "200,000 followers, thank you.\n\nBefore my grandpa passed, I vividly remember a day we spent together. He asked me, \"did you ever think your life would be like this?\" He meant wildly successful. That's how he saw me and it will always stick with me. I wish I could share this moment",
+      "likes": 826,
+      "retweets": 12,
+      "url": "https://x.com/Crypto_Chase/status/2014028447350239483"
+    },
+    {
+      "author": "ByzGeneral",
+      "text": "This is crazier than the solana trenches.",
+      "likes": 158,
+      "retweets": 9,
+      "url": "https://x.com/ByzGeneral/status/2019251971799003249"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "uh does that say 130 billion?",
+      "likes": 127,
+      "retweets": 4,
+      "url": "https://x.com/notthreadguy/status/2019229594021429488"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "LMAO",
+      "likes": 120,
+      "retweets": 11,
+      "url": "https://x.com/blknoiz06/status/2019247383985746059"
+    },
+    {
+      "author": "traderpow",
+      "text": "Definitely not here to convince you to buy anything, but rather share that I've positioned in myself that could potentially see a higher evaluation.\n\nWill it work all the time? HELL NO, I lose far often than I win, but when I do happen to win, I like to make the multiples count.",
+      "likes": 113,
+      "retweets": 5,
+      "url": "https://x.com/traderpow/status/2019205360444404206"
+    }
+  ]
+}

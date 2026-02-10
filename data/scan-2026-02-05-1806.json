@@ -1,0 +1,191 @@
+{
+  "timestamp": "2026-02-05T18:06:12.011Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 1,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$EL",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$PETAH",
+      1
+    ],
+    [
+      "$AVICI",
+      1
+    ],
+    [
+      "$WBTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$EL",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$PETAH",
+        "count": 1
+      },
+      {
+        "ticker": "$AVICI",
+        "count": 1
+      },
+      {
+        "ticker": "$WBTC",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "rate cut": 1
+    }
+  },
+  "tickerDetails": {
+    "$EL": [
+      {
+        "author": "dampedspring",
+        "text": "You know what was a really bad trade?  Going long $EL for the son in law trade.",
+        "likes": 4,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "Crypto_Chase",
+        "text": "$BTC\n\nI've officially started bidding #Bitcoin here at 66,000. I will add down to 58K~.\n\nBitcoin's last stand. And if we simply go to zero, I'll have a smile on my face watching Saylor lose it all and",
+        "likes": 90,
+        "retweets": 1
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.05K of $PENGUIN at $16.64M MC 🐳\n\nhttps://t.co/PYbt3wG7CK",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $3.91K of $nub at $2.8M MC 🐳\n\nhttps://t.co/gLUkCZ8PCP",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PETAH": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $PETAH with a PnL of +90.54%.\n\n$PETAH has been trending on Moby since $153.83K MC. Currently sitting at $1.19M MC. https://t.co/q3iEOfol",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AVICI": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $48.3K of $WBTC at $261.2M MC 🐳\n\nhttps://t.co/wmDVHWF5wh",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WBTC": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $AVICI whale just bought $48.3K of $WBTC at $261.2M MC 🐳\n\nhttps://t.co/wmDVHWF5wh",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "cz_binance",
+      "text": "Poor again. 😂\n\n(last time I posted this was when bitcoin dropped from $67k to $30k ish. Did alright in the end.)",
+      "likes": 5460,
+      "retweets": 477,
+      "url": "https://x.com/cz_binance/status/2019456853864857605"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will g",
+      "likes": 760,
+      "retweets": 22,
+      "url": "https://x.com/notthreadguy/status/1858669472350949833"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will get @cobie on the stream \n\ni will g",
+      "likes": 760,
+      "retweets": 22,
+      "url": "https://x.com/notthreadguy/status/1858669472350949833"
+    },
+    {
+      "author": "cobie",
+      "text": "@notthreadguy https://t.co/qMskWdt04Q",
+      "likes": 676,
+      "retweets": 0,
+      "url": "https://x.com/cobie/status/1858670294971674874"
+    },
+    {
+      "author": "cobie",
+      "text": "@notthreadguy https://t.co/qMskWdt04Q",
+      "likes": 676,
+      "retweets": 0,
+      "url": "https://x.com/cobie/status/1858670294971674874"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "pulse check",
+      "likes": 277,
+      "retweets": 13,
+      "url": "https://x.com/blknoiz06/status/2019462671372878245"
+    }
+  ]
+}

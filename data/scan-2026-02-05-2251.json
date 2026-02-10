@@ -1,0 +1,254 @@
+{
+  "timestamp": "2026-02-05T22:51:36.259Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 5,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$JITOSOL",
+      2
+    ],
+    [
+      "$MSTR",
+      1
+    ],
+    [
+      "$IBIT",
+      1
+    ],
+    [
+      "$MILHOUSE",
+      1
+    ],
+    [
+      "$BLOXX",
+      1
+    ],
+    [
+      "$YOMO",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JITOSOL",
+        "count": 2
+      },
+      {
+        "ticker": "$IBIT",
+        "count": 1
+      },
+      {
+        "ticker": "$MILHOUSE",
+        "count": 1
+      },
+      {
+        "ticker": "$BLOXX",
+        "count": 1
+      },
+      {
+        "ticker": "$YOMO",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$MSTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 1,
+      "sugar": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {}
+  },
+  "tickerDetails": {
+    "$MSTR": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @tradfi: *STRATEGY'S PHONG: AT WORST CASE, $8,000 BITCOIN PRICE WOULD MAKE IT DIFFICULT TO SERVICE DEBT\n\n$MSTR $IBIT",
+        "likes": 0,
+        "retweets": 10
+      }
+    ],
+    "$IBIT": [
+      {
+        "author": "ZeMirch",
+        "text": "RT @tradfi: *STRATEGY'S PHONG: AT WORST CASE, $8,000 BITCOIN PRICE WOULD MAKE IT DIFFICULT TO SERVICE DEBT\n\n$MSTR $IBIT",
+        "likes": 0,
+        "retweets": 10
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "ByzGeneral",
+        "text": "There's serious volume and liquidations coming in now.\n\nThis is the capitulation candle IMO. 60k makes sense for a higher timeframe bottom (although it could pierce below it for a bit).\n\n$BTC https://",
+        "likes": 108,
+        "retweets": 4
+      },
+      {
+        "author": "ThinkingUSD",
+        "text": "[ ZOOMER ]\n\nJEFFREY EPSTEIN ALIVE, ANNOUNCES HE WILL BE TAKING OVER AS STRATEGY INC CEO EFFECTIVELY IMMEDIATELY $BTC",
+        "likes": 185,
+        "retweets": 3
+      }
+    ],
+    "$MILHOUSE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @LeeLeepenkman verified earnings for $MILHOUSE on @BagsApp 💰\n\nhttps://t.co/yPLjp56h5b",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BLOXX": [
+      {
+        "author": "BloxApi",
+        "text": "Can $BLOXX be a $100M token? I just explored this concept in a live stream for the last few hours, and the answer is unequivocally YES. \n\nThe path from A to B has been plotted. We'll go into this more",
+        "likes": 6,
+        "retweets": 4
+      }
+    ],
+    "$JITOSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $99.93K of $JitoSOL at $1.1B MC 🐳\n\nhttps://t.co/PqwBdNHrm3",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $JITOSOL whale just bought $100.01K of $JitoSOL at $1.1B MC 🐳\n\nhttps://t.co/kzCSoZyUBv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$YOMO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @faceless1146787 verified earnings for $YOMO on @BagsApp 💰\n\nhttps://t.co/ANJ0rD8p6X",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.02K of $BigTrout at $5.48M MC 🐳\n\nhttps://t.co/BpFTR7UFzg",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MartinShkreli",
+      "text": "AI has made everyone so lazy: candidate yesterday couldn't understand why referencing a block scoped variable outside of the block throws",
+      "likes": 2013,
+      "retweets": 27,
+      "url": "https://x.com/MartinShkreli/status/2018716927875497987"
+    },
+    {
+      "author": "mert",
+      "text": "crypto: -80%\nstocks: -15%\ncommodities: -10%\ncurrencies: -0.1%\nhermes bags: +5%\n\ncongrats gentlemen, you got out-traded by your girl",
+      "likes": 355,
+      "retweets": 21,
+      "url": "https://x.com/mert/status/2019533161344999650"
+    },
+    {
+      "author": "insiliconot",
+      "text": "https://t.co/cohcaHuO7X",
+      "likes": 328,
+      "retweets": 28,
+      "url": "https://x.com/insiliconot/status/2017926153873330431"
+    },
+    {
+      "author": "DonAlt",
+      "text": "I'll buy 100% guaranteed\n\n1) Trump steps back/Gets impeached/Removed/Dies\n2) BTC goes to $40k - I think that's hilariously cheap\n3) Epstein perpetrators get revealed/leaked and people associated get charged\n\nUntil then I'll play it day by day and just go off of gut feeling",
+      "likes": 204,
+      "retweets": 11,
+      "url": "https://x.com/DonAlt/status/2019543526464450901"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "holy fuck mstr is on the earnings call saying please dont sell",
+      "likes": 196,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2019535637100331304"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "[ ZOOMER ]\n\nJEFFREY EPSTEIN ALIVE, ANNOUNCES HE WILL BE TAKING OVER AS STRATEGY INC CEO EFFECTIVELY IMMEDIATELY $BTC",
+      "likes": 185,
+      "retweets": 3,
+      "url": "https://x.com/ThinkingUSD/status/2019536872670916972"
+    },
+    {
+      "author": "mert",
+      "text": "we are now at this phase btw\n\nI hope you reserved some powder for this https://t.co/HcAcj9B3Gu",
+      "likes": 184,
+      "retweets": 11,
+      "url": "https://x.com/mert/status/2019462118626488519"
+    },
+    {
+      "author": "based16z",
+      "text": "Dave Portnoy and Grant Cardone bids filling while you're panic selling...",
+      "likes": 177,
+      "retweets": 13,
+      "url": "https://x.com/based16z/status/2019536125703122989"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "mstr just announced at 8k bitcoin they're fully liqudated. uh oh",
+      "likes": 136,
+      "retweets": 0,
+      "url": "https://x.com/notthreadguy/status/2019539159833276637"
+    },
+    {
+      "author": "ByzGeneral",
+      "text": "There's serious volume and liquidations coming in now.\n\nThis is the capitulation candle IMO. 60k makes sense for a higher timeframe bottom (although it could pierce below it for a bit).\n\n$BTC https://t.co/nbNuVxhaup",
+      "likes": 108,
+      "retweets": 4,
+      "url": "https://x.com/ByzGeneral/status/2019539171120148867"
+    }
+  ]
+}

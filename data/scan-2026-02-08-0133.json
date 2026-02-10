@@ -1,0 +1,173 @@
+{
+  "timestamp": "2026-02-08T01:33:13.644Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 3,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$LIQUID",
+      5
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$LIT",
+      1
+    ],
+    [
+      "$DREWBOT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$LIQUID",
+        "count": 5
+      },
+      {
+        "ticker": "$LIT",
+        "count": 1
+      },
+      {
+        "ticker": "$DREWBOT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "fed": 1,
+      "dollar": 1
+    }
+  },
+  "tickerDetails": {
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +884.70%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $902.48K MC. https://t.co/xD3no",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +257.58%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.18M MC. https://t.co/rpDRFIG",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +274.14%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.24M MC. https://t.co/fMhOJg9",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +365.65%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $1.53M MC. https://t.co/9UDsb9W",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @notsuavizim just bought $1.1K of $LIQUID at $1.36M MC 🐳\n\nhttps://t.co/ieBlLivaqn",
+        "likes": 3,
+        "retweets": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC\n\nThe range is slowly forming ✅️\n\nAlright, just a quick update, to remind you that the range is forming slowly but surely and that it's key to remain aware of that.\n\nNot getting too excited at the",
+        "likes": 11,
+        "retweets": 1
+      }
+    ],
+    "$LIT": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ZeMirch just bought $5.69K of $LIT at $383.29K MC 🐳\n\nhttps://t.co/mRCyCJIaAr",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$DREWBOT": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ihateoop just bought $1.31K of $DREWBOT at $119.76K MC 🐳\n\nhttps://t.co/MN1xOsNdlE",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "EmmanuelMacron",
+      "text": "In France, we believe in science.\n                            \nThat is why, on May 5, I issued a clear and open call to the world: for science, choose France.\n                                                      \nI am very proud to see that this call has resonated so strongly.\n\n",
+      "likes": 7585,
+      "retweets": 1193,
+      "url": "https://x.com/EmmanuelMacron/status/2019137350022955117"
+    },
+    {
+      "author": "mert",
+      "text": "@EmmanuelMacron Meta pays individual AI engineers more than your entire country investment\n\ndelete your account",
+      "likes": 1964,
+      "retweets": 41,
+      "url": "https://x.com/mert/status/2019768989543469421"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "Built a quick tool for crowdsourcing punks aesthetic premiums:\n\nhttps://t.co/sstPYvkAsK https://t.co/jkfWiFUeUX",
+      "likes": 251,
+      "retweets": 31,
+      "url": "https://x.com/jackbutcher/status/2019825566522978796"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "You can retire next bullrun if you enter with $100k.\n\n\"If you make the right trades you will be able to retire if you enter the next bull with $100k, you can turn that into $3-$4 millon\"\n https://t.co/txTIi7EuoQ",
+      "likes": 213,
+      "retweets": 3,
+      "url": "https://x.com/rasmr_eth/status/2020275397636812998"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "The English Lexicon just got bukakked",
+      "likes": 154,
+      "retweets": 3,
+      "url": "https://x.com/hoodg3nius/status/2020306017888923669"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "Hornets commentator’s reaction after Dyson Daniels AIRBALLED a 3 😭😭😭 https://t.co/kseYjhmsEj",
+      "likes": 134,
+      "retweets": 15,
+      "url": "https://x.com/TheNBACentel/status/2020306144900665551"
+    }
+  ]
+}
