@@ -1,0 +1,120 @@
+{
+  "timestamp": "2026-02-10T22:44:19.542Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 4,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$USEFUL",
+      3
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$SAFEMOON",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USEFUL",
+        "count": 3
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SAFEMOON",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 3
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.85K of $BigTrout at $1.71M MC 🐳\n\nhttps://t.co/Ep54hVeujB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USEFUL": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $USEFUL with a PnL of +308.32%.\n\n$USEFUL has been trending on Moby since $63.33K MC. Currently sitting at $446.1K MC. https://t.co/ruFRL",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $USEFUL with a PnL of +318.98%.\n\n$USEFUL has been trending on Moby since $63.33K MC. Currently sitting at $458.01K MC. https://t.co/Gqpl",
+        "likes": 1,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $USEFUL with a PnL of +301.56%.\n\n$USEFUL has been trending on Moby since $63.33K MC. Currently sitting at $479.43K MC. https://t.co/PP7M",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SAFEMOON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SAFEMOON with a PnL of +128.30%.\n\n$SAFEMOON has been trending on Moby since $94.13K MC. Currently sitting at $629.55K MC. https://t.co/",
+        "likes": 0,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MustStopMurad",
+      "text": "SPX6900 is much more likely to pull a 1000x than any other coin above $50M market cap.\n\nFew understand this. Many soon will.",
+      "likes": 1242,
+      "retweets": 235,
+      "url": "https://x.com/MustStopMurad/status/2021303860199907489"
+    },
+    {
+      "author": "moonpay",
+      "text": "BREAKING: @Deel and MoonPay partner to help 40,000 businesses pay employees in stablecoins\n\n💰 Your salary, paid in stablecoins\n\n💸 Delivered directly to your non-custodial wallet\n\n🚀 Launching in UK + EU (US next)\n\n⚡️ Powered by @iron\n\nGlobal payroll. Crypto rails. March 2026. h",
+      "likes": 817,
+      "retweets": 159,
+      "url": "https://x.com/moonpay/status/2021222768281354263"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 364,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    }
+  ]
+}
