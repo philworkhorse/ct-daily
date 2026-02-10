@@ -1,0 +1,235 @@
+{
+  "timestamp": "2026-02-10T16:53:38.454Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 3,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$GIRAFFES",
+      2
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$SERIOUS",
+      1
+    ],
+    [
+      "$URANUS",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$LIT",
+      1
+    ],
+    [
+      "$MOON",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIRAFFES",
+        "count": 2
+      },
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SERIOUS",
+        "count": 1
+      },
+      {
+        "ticker": "$URANUS",
+        "count": 1
+      },
+      {
+        "ticker": "$LIT",
+        "count": 1
+      },
+      {
+        "ticker": "$MOON",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "copper": 1
+    },
+    "metals": {},
+    "macro": {},
+    "industry": {
+      "shutdown": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "inversebrah",
+        "text": "RT @lookonchain: Feb 10 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: +417 $BTC(+$28.97M)🟢\n7D NetFlow: -11,607 $BTC(-$805.89M)🔴\n\n#Ethereum ETFs:\n1D N…",
+        "likes": 0,
+        "retweets": 5
+      },
+      {
+        "author": "inversebrah",
+        "text": "RT @lookonchain: Feb 10 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: +417 $BTC(+$28.97M)🟢\n7D NetFlow: -11,607 $BTC(-$805.89M)🔴\n\n#Ethereum ETFs:\n1D N…",
+        "likes": 0,
+        "retweets": 5
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @jaymesrogers: Anyone else getting $REKT for the Super Bowl?? https://t.co/FXvQzoRXnR",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.26K of $SERIOUS at $265.38K MC 🐳\n\nhttps://t.co/L4An6bz9Os",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SERIOUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.26K of $SERIOUS at $265.38K MC 🐳\n\nhttps://t.co/L4An6bz9Os",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$URANUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $1.31K of $GIRAFFES at $2.67M MC 🐳\n\nhttps://t.co/nZdBwFIUH6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $URANUS whale just bought $1.31K of $GIRAFFES at $2.67M MC 🐳\n\nhttps://t.co/nZdBwFIUH6",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +403.13%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $2.61M MC. https://t.co/2",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $10K of $LIT at $344.39K MC 🐳\n\nhttps://t.co/dOCScWs9tr",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LIT": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $10K of $LIT at $344.39K MC 🐳\n\nhttps://t.co/dOCScWs9tr",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MOON": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @PainCrypt0 just bought $3.8K of $MOON at $341.97K MC 🐳\n\nhttps://t.co/ALqekR8SLA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "Lol so many old $GIGA whales text me that they jeeted to try to trade, got rinsed trading and are trying to build their positions back.\n\nOne of the downsides of $GIGA being the best asset in history, ",
+        "likes": 7,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "kkashi_yt",
+      "text": "This person bought the “ai . com” domain for $100 and sold it for $70,000,000\n\nBought it over 30 years ago in 1993 https://t.co/byRuXvIni0",
+      "likes": 8194,
+      "retweets": 505,
+      "url": "https://x.com/kkashi_yt/status/2021176203978142126"
+    },
+    {
+      "author": "LucaNetz",
+      "text": "👀👀",
+      "likes": 459,
+      "retweets": 33,
+      "url": "https://x.com/LucaNetz/status/2021254323083018700"
+    },
+    {
+      "author": "himgajria",
+      "text": "No Elon tweet. \nNo trump manipulation. \nNo short term crime. \n\nJust a community building its memetics.\n\nIntrinsic memes &gt; Extrinsic memes.",
+      "likes": 108,
+      "retweets": 20,
+      "url": "https://x.com/himgajria/status/2021254376145190921"
+    }
+  ]
+}

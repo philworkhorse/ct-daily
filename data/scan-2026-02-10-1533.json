@@ -1,0 +1,290 @@
+{
+  "timestamp": "2026-02-10T15:33:41.732Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 6,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$USELESS",
+      5
+    ],
+    [
+      "$PENGUIN",
+      5
+    ],
+    [
+      "$BUTTCOIN",
+      3
+    ],
+    [
+      "$BTC",
+      3
+    ],
+    [
+      "$MD",
+      1
+    ],
+    [
+      "$AAVE",
+      1
+    ],
+    [
+      "$USDUC",
+      1
+    ],
+    [
+      "$CLAUDE",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USELESS",
+        "count": 5
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 5
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 3
+      },
+      {
+        "ticker": "$MD",
+        "count": 1
+      },
+      {
+        "ticker": "$USDUC",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAUDE",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 3
+      },
+      {
+        "ticker": "$AAVE",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "fed": 1,
+      "cpi": 1,
+      "nonfarm": 1,
+      "dollar": 1
+    },
+    "industry": {
+      "bankruptcy": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @Wassieweb3: generational entry right here.\n$BUTTCOIN 25m support is rock solid.\n\nselling pressure is gone.\n100M mc loading.\ndca every d…",
+        "likes": 0,
+        "retweets": 17
+      },
+      {
+        "author": "_Shadow36",
+        "text": "RT @CryptoCobby: GG \n\nI’ve locked 10,000 🍑\n\nMy Paps has also locked 20,000 🍑\n\n$BUTTCOIN is for everyone! https://t.co/uRbNzbjfh9",
+        "likes": 0,
+        "retweets": 1
+      },
+      {
+        "author": "miragemunny",
+        "text": "RT @Wassieweb3: generational entry right here.\n$BUTTCOIN 25m support is rock solid.\n\nselling pressure is gone.\n100M mc loading.\ndca every d…",
+        "likes": 0,
+        "retweets": 17
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "docXBT",
+        "text": "$BTC - Anchored gave us one nice pre-market squeeze but currently losing respect. Next level below for me if lost is 65.8 https://t.co/X92s4CJxVE",
+        "likes": 27,
+        "retweets": 1
+      },
+      {
+        "author": "theunipcs",
+        "text": "Bithumb is ranked 19th on the list of CEXs according to CoinMarketCap\n\na random employee of its casually minted and distributed 620,000 $BTC (worth over $40 billion) to users out of thin air\n\nthat's ~",
+        "likes": 141,
+        "retweets": 12
+      },
+      {
+        "author": "heart_",
+        "text": "whe my parents ask me what happened to all the money they gave me to invest when $BTC was $125,000: https://t.co/LnRwKc4lWB",
+        "likes": 15,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $7.71K of $PENGUIN at $22.62M MC 🐳\n\nhttps://t.co/Ygz8MBohDh",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $7.74K of $PENGUIN at $22.35M MC 🐳\n\nhttps://t.co/D4RtwaldnI",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $7.77K of $PENGUIN at $22.3M MC 🐳\n\nhttps://t.co/zj4rnmuTvZ",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $7.74K of $PENGUIN at $22.12M MC 🐳\n\nhttps://t.co/17e4D3GS0b",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $7.73K of $PENGUIN at $21.86M MC 🐳\n\nhttps://t.co/rJ79osMe4C",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $7.71K of $PENGUIN at $22.62M MC 🐳\n\nhttps://t.co/Ygz8MBohDh",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $7.74K of $PENGUIN at $22.35M MC 🐳\n\nhttps://t.co/D4RtwaldnI",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $7.77K of $PENGUIN at $22.3M MC 🐳\n\nhttps://t.co/zj4rnmuTvZ",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $7.74K of $PENGUIN at $22.12M MC 🐳\n\nhttps://t.co/17e4D3GS0b",
+        "likes": 3,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $7.73K of $PENGUIN at $21.86M MC 🐳\n\nhttps://t.co/rJ79osMe4C",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$MD": [
+      {
+        "author": "0xtearss",
+        "text": "the next billion dollar meme coin will be something so fucking special\n\n$MD https://t.co/HWxYlzDOLS",
+        "likes": 4,
+        "retweets": 2
+      }
+    ],
+    "$AAVE": [
+      {
+        "author": "gutomartino",
+        "text": "RT @gutomartino: @_prestwich This is Aave. I chose $AAVE and mcap because I believe it is important to show what matters: a bubble-driven m…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$USDUC": [
+      {
+        "author": "yishanyugong",
+        "text": "@ChillHouseSOL @cobie @jessepollak @ledgerstatus sauces say @notproofofwork has it on hold until $USDUC pulls 500x",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$CLAUDE": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $CLAUDE with a PnL of +126.60%.\n\n$CLAUDE has been trending on Moby since $68.78K MC. Currently sitting at $2.04M MC. https://t.co/IKUj6X",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "SBF_FTX",
+      "text": "Agree with almost all of this.\n\nBut FTX was never bankrupt. I never filed for it.\n\nThe lawyers took over the company and 4 hours later they filed a bogus bankruptcy so they could pilfer it for money. https://t.co/L7VWJK4Wny",
+      "likes": 806,
+      "retweets": 112,
+      "url": "https://x.com/SBF_FTX/status/2021165548306907339"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "? https://t.co/EovcUsVa2V",
+      "likes": 308,
+      "retweets": 8,
+      "url": "https://x.com/ThinkingUSD/status/2021228826869592321"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Polymarket is set to expand further into attention markets.\n\nWe already saw an early version of this with the Kaito partnership imo, which allowed users to predict mindshare and sentiment.\n\nThis could be the next step, expanding within crypto and outside, interesting",
+      "likes": 226,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2021216810578637041"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Really cool update from my partners at Ledger.\n\nI generally avoid connecting my hardware wallet to the web, so having the OKX integration directly inside the Ledger Wallet app is a big unlock for me.\n\nOKX DEX is also one of the strongest aggregators out there when it comes to sup",
+      "likes": 149,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2021236031027323241"
+    },
+    {
+      "author": "theunipcs",
+      "text": "Bithumb is ranked 19th on the list of CEXs according to CoinMarketCap\n\na random employee of its casually minted and distributed 620,000 $BTC (worth over $40 billion) to users out of thin air\n\nthat's ~14.5 times more Bitcoin than they had in their reserves at the time\n\nthat's Bitc",
+      "likes": 141,
+      "retweets": 12,
+      "url": "https://x.com/theunipcs/status/2021229265233039543"
+    },
+    {
+      "author": "himgajria",
+      "text": "Welcome brothers.",
+      "likes": 102,
+      "retweets": 16,
+      "url": "https://x.com/himgajria/status/2021207438251393452"
+    }
+  ]
+}

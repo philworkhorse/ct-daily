@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-02-10T16:13:40.815Z",
+  "stats": {
+    "listTweets": 0,
+    "followingTweets": 0,
+    "totalTweets": 0
+  },
+  "sentiment": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 0,
+    "total": 0
+  },
+  "topTickers": [],
+  "byCategory": {
+    "crypto": [],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {},
+  "highEngagement": []
+}

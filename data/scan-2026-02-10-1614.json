@@ -1,0 +1,188 @@
+{
+  "timestamp": "2026-02-10T16:14:41.464Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 17,
+    "bearish": 4,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$ICHR",
+      1
+    ],
+    [
+      "$TSLAX",
+      1
+    ],
+    [
+      "$USDG",
+      1
+    ],
+    [
+      "$GIRAFFES",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$ICHR",
+        "count": 1
+      },
+      {
+        "ticker": "$TSLAX",
+        "count": 1
+      },
+      {
+        "ticker": "$USDG",
+        "count": 1
+      },
+      {
+        "ticker": "$GIRAFFES",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "corn": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "gdp": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @Wassieweb3: generational entry right here.\n$BUTTCOIN 25m support is rock solid.\n\nselling pressure is gone.\n100M mc loading.\ndca every d…",
+        "likes": 0,
+        "retweets": 18
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "docXBT",
+        "text": "$BTC - Anchored gave us one nice pre-market squeeze but currently losing respect. Next level below for me if lost is 65.8 https://t.co/X92s4CJxVE",
+        "likes": 34,
+        "retweets": 1
+      },
+      {
+        "author": "theunipcs",
+        "text": "Bithumb is ranked 19th on the list of CEXs according to CoinMarketCap\n\na random employee of its casually minted and distributed 620,000 $BTC (worth over $40 billion) to users out of thin air\n\nthat's ~",
+        "likes": 183,
+        "retweets": 15
+      }
+    ],
+    "$ICHR": [
+      {
+        "author": "pelositracker",
+        "text": "This is why we follow the Politicians ✍️\n\nBecause Debbie Schultz has a 170% gain\n\nBack on 8/7/25, we flagged her suspicious buy of Ichor Holdings $ICHR\n\nWhy?\n\n1. She was the first politician to buy $I",
+        "likes": 64,
+        "retweets": 9
+      }
+    ],
+    "$TSLAX": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TSLAX whale just bought $490K of $USDG at $839.7M MC 🐳\n\nhttps://t.co/XV3mu3xPGX",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USDG": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TSLAX whale just bought $490K of $USDG at $839.7M MC 🐳\n\nhttps://t.co/XV3mu3xPGX",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +160.23%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $2.99M MC. https://t.co/m",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "? https://t.co/EovcUsVa2V",
+      "likes": 451,
+      "retweets": 11,
+      "url": "https://x.com/ThinkingUSD/status/2021228826869592321"
+    },
+    {
+      "author": "patty_fi",
+      "text": "What’s honestly crazy is the best memecoin bag workers either retire or got greedy and blew their port\n\nThese days I see bags being worked and it lacks soul\n\nJust blind leading the blind\n\nThe trenches need better leaders to bring back that magic we once had",
+      "likes": 221,
+      "retweets": 23,
+      "url": "https://x.com/patty_fi/status/2021061024749846907"
+    },
+    {
+      "author": "theunipcs",
+      "text": "Bithumb is ranked 19th on the list of CEXs according to CoinMarketCap\n\na random employee of its casually minted and distributed 620,000 $BTC (worth over $40 billion) to users out of thin air\n\nthat's ~14.5 times more Bitcoin than they had in their reserves at the time\n\nthat's Bitc",
+      "likes": 183,
+      "retweets": 15,
+      "url": "https://x.com/theunipcs/status/2021229265233039543"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Really cool update from my partners at Ledger.\n\nI generally avoid connecting my hardware wallet to the web, so having the OKX integration directly inside the Ledger Wallet app is a big unlock for me.\n\nOKX DEX is also one of the strongest aggregators out there when it comes to sup",
+      "likes": 165,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2021236031027323241"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "gm to everyone it’s not morning to https://t.co/VMAoedK4xR",
+      "likes": 121,
+      "retweets": 1,
+      "url": "https://x.com/CryptoKaleo/status/2021232226105459184"
+    },
+    {
+      "author": "LucaNetz",
+      "text": "👀👀",
+      "likes": 113,
+      "retweets": 12,
+      "url": "https://x.com/LucaNetz/status/2021254323083018700"
+    }
+  ]
+}

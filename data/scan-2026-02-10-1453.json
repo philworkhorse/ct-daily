@@ -1,0 +1,259 @@
+{
+  "timestamp": "2026-02-10T14:53:39.066Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 2,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      4
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$SPX",
+      1
+    ],
+    [
+      "$UNITED",
+      1
+    ],
+    [
+      "$USD",
+      1
+    ],
+    [
+      "$TOKEN",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$OIL",
+      1
+    ],
+    [
+      "$SEABOOK",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$UNITED",
+        "count": 1
+      },
+      {
+        "ticker": "$USD",
+        "count": 1
+      },
+      {
+        "ticker": "$TOKEN",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$OIL",
+        "count": 1
+      },
+      {
+        "ticker": "$SEABOOK",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 4
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "corn": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "fed": 3,
+      "cpi": 1,
+      "nonfarm": 1,
+      "treasury": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "docXBT",
+        "text": "$BTC - Anchored gave us one nice pre-market squeeze but currently losing respect. Next level below for me if lost is 65.8 https://t.co/X92s4CJxVE",
+        "likes": 16,
+        "retweets": 0
+      },
+      {
+        "author": "theunipcs",
+        "text": "Bithumb is ranked 19th on the list of CEXs according to CoinMarketCap\n\na random employee of its casually minted and distributed 620,000 $BTC (worth over $40 billion) to users out of thin air\n\nthat's ~",
+        "likes": 93,
+        "retweets": 5
+      },
+      {
+        "author": "cryptomanran",
+        "text": "So, where will Bitcoin Bottom?\n\nAcross the 4-year cycle, every major $BTC drawdown follows a familiar path. The current structure still hasn’t reached the historical stress levels where durable bottom",
+        "likes": 4,
+        "retweets": 0
+      },
+      {
+        "author": "docXBT",
+        "text": "$BTC - Anchored gave us one nice pre-market squeeze but currently losing respect. Next level below for me if lost is 65.8 https://t.co/X92s4CJxVE",
+        "likes": 16,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $15.02K of $SPX at $28.01M MC 🐳\n\nhttps://t.co/XDsd1rbVEH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SPX": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $15.02K of $SPX at $28.01M MC 🐳\n\nhttps://t.co/XDsd1rbVEH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$UNITED": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @wagmi_w verified earnings for $UNITED on @BagsApp 💰\n\nhttps://t.co/anaHcpg119",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$USD": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "Times have changed. Now, you can buy PAXG ( gold ) simply by using PAXG/$USD1 on @binance 🤯\n\nReal time crypto adoption, happening at its finest with @worldlibertyfi .\n\n Absolutely crazy, especially w",
+        "likes": 18,
+        "retweets": 1
+      }
+    ],
+    "$TOKEN": [
+      {
+        "author": "Tokenizedog",
+        "text": "You're absolutely right, @toly 👏\n\nEarly adopters who build when the chances of success seem minimal are the ones who really pave the way. Without them, there would be no Solana, nor this whole wave o",
+        "likes": 5,
+        "retweets": 3
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.17K of $OIL at $4.14M MC 🐳\n\nhttps://t.co/B8QEYZn29B",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OIL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.17K of $OIL at $4.14M MC 🐳\n\nhttps://t.co/B8QEYZn29B",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SEABOOK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @SeabookAI verified earnings for $SEABOOK on @BagsApp 💰\n\nhttps://t.co/QjLheGhwCB",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "inversebrah",
+      "text": "helthy ratio observed https://t.co/OgjfmdVtJR",
+      "likes": 302,
+      "retweets": 3,
+      "url": "https://x.com/inversebrah/status/2021185770199888365"
+    },
+    {
+      "author": "patty_fi",
+      "text": "What’s honestly crazy is the best memecoin bag workers either retire or got greedy and blew their port\n\nThese days I see bags being worked and it lacks soul\n\nJust blind leading the blind\n\nThe trenches need better leaders to bring back that magic we once had",
+      "likes": 214,
+      "retweets": 22,
+      "url": "https://x.com/patty_fi/status/2021061024749846907"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Polymarket is set to expand further into attention markets.\n\nWe already saw an early version of this with the Kaito partnership imo, which allowed users to predict mindshare and sentiment.\n\nThis could be the next step, expanding within crypto and outside, interesting",
+      "likes": 151,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2021216810578637041"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "? https://t.co/EovcUsVa2V",
+      "likes": 135,
+      "retweets": 4,
+      "url": "https://x.com/ThinkingUSD/status/2021228826869592321"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "Rep. Khanna: There are six men, some of them with their photographs, that have been redacted, and there is no explanation why those people were redacted. That's really concerning https://t.co/HQysI8CeMf",
+      "likes": 131,
+      "retweets": 34,
+      "url": "https://x.com/HQNewsNow/status/2021233988329722081"
+    },
+    {
+      "author": "0xSammy",
+      "text": "OpenClaw roundup (Feb 10th, 2026)\n\nNo fluff \"lobster Clanker\" roundup to get you up to speed over the past 24 hours:\n\n- @openclaw update goes live including Grok integration and context overflow remediation work\n- @steipete shows OpenClaw flipping N8N in Github Stars\n- @austingri",
+      "likes": 114,
+      "retweets": 11,
+      "url": "https://x.com/0xSammy/status/2021176887465111664"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "I respect the point on access as it absolutely matters.\n\nBut incentives matter too.\n\nA DEX is neutral infrastructure. \n\nA CEX is a branded, custodial platform.\n\nLong-term legitimacy depends on how those incentives are aligned.",
+      "likes": 103,
+      "retweets": 5,
+      "url": "https://x.com/intocryptoverse/status/2021234871289454892"
+    }
+  ]
+}
