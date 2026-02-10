@@ -1,0 +1,192 @@
+{
+  "timestamp": "2026-02-10T18:09:43.321Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 12,
+    "bearish": 3,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$BSC",
+      1
+    ],
+    [
+      "$MARU",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$SEABOOK",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$BLAWD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BSC",
+        "count": 1
+      },
+      {
+        "ticker": "$MARU",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$SEABOOK",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$BLAWD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 2
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1,
+      "fed": 2,
+      "treasury": 1,
+      "bond": 1,
+      "rate cut": 1,
+      "inflation": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "inversebrah",
+        "text": "RT @lookonchain: Feb 10 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: +417 $BTC(+$28.97M)🟢\n7D NetFlow: -11,607 $BTC(-$805.89M)🔴\n\n#Ethereum ETFs:\n1D N…",
+        "likes": 0,
+        "retweets": 13
+      }
+    ],
+    "$BSC": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "CZ has finished his vacation arc skiing in the mountains \n\n(He’s back to shitposting)\n\nThat only means one thing: $BSC season approaches",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$MARU": [
+      {
+        "author": "CookerFlips",
+        "text": "The craziest chart nobody on CT really talked about\n\nLiterally only seen me and maybe a few others mention\n\n$MARU by the @edgeX_exchange team originally launching at 230m wicked to 700m this morning h",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $2.12K of $Elephant at $406.32K MC 🐳\n\nhttps://t.co/7OyxRAmU6e",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SEABOOK": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @SeabookAI verified earnings for $SEABOOK on @BagsApp 💰\n\nhttps://t.co/1yulZNpjtR",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "CookerFlips",
+        "text": "RT @tontheneko: New $PENGUIN just dropped, this time it's 99.9% real.\n\nSharing the raw CA, this is big.\n\nBAfCyAUQhSeYUebeD9kbDSixsSoBmNy78M…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$BLAWD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @blawdfun verified earnings for $BLAWD on @BagsApp 💰\n\nhttps://t.co/5tqUFOIoSv",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "jackbutcher",
+      "text": "Participating in \"We Have Digital Art at Home\" with a piece I minted back in September 2023 called \"Genesis.\"\n\nThe first and only VV token on the SuperRare contract.\n\nStarts tomorrow at Noon EST, with a $0 reserve.\n\nCheers to @im_jonooo for the invitation. https://t.co/wz1nzbMrIG",
+      "likes": 190,
+      "retweets": 17,
+      "url": "https://x.com/jackbutcher/status/2020963111121867114"
+    },
+    {
+      "author": "LucaNetz",
+      "text": "🤖",
+      "likes": 118,
+      "retweets": 7,
+      "url": "https://x.com/LucaNetz/status/2021277813442007308"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Just signed up for the @cashcitydotfun waitlist.\n\nNew game by Longwood Labs, who also built The Heist and DefiDungeons, two very successful games.\n\nJust connect your X account, market is boring atm and this could have some nice upside if you are early.\n\nPartnered with the team to",
+      "likes": 103,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2021279411329171939"
+    },
+    {
+      "author": "himgajria",
+      "text": "Sell your economic liabilities for inunomic assets. \n\nFinunce.",
+      "likes": 103,
+      "retweets": 15,
+      "url": "https://x.com/himgajria/status/2021271097199689825"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "good vid on @bankrbot describing it as a launchpad+infra for ai agents onchain",
+      "likes": 100,
+      "retweets": 10,
+      "url": "https://x.com/blknoiz06/status/2021280089187680486"
+    }
+  ]
+}

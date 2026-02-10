@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-02-10T19:27:07.474Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 2,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$JMAIL",
+      1
+    ],
+    [
+      "$GFOLIO",
+      1
+    ],
+    [
+      "$DOPE",
+      1
+    ],
+    [
+      "$SAFEMOON",
+      1
+    ],
+    [
+      "$CLAWPAY",
+      1
+    ],
+    [
+      "$ZAUTH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$JMAIL",
+        "count": 1
+      },
+      {
+        "ticker": "$GFOLIO",
+        "count": 1
+      },
+      {
+        "ticker": "$DOPE",
+        "count": 1
+      },
+      {
+        "ticker": "$SAFEMOON",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWPAY",
+        "count": 1
+      },
+      {
+        "ticker": "$ZAUTH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1,
+      "coffee": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$JMAIL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @rtvvlz verified earnings for $JMAIL on @BagsApp 💰\n\nhttps://t.co/eg2CrfdbUU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GFOLIO": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @aditiitwt verified earnings for $GFOLIO on @BagsApp 💰\n\nhttps://t.co/WbX0x0rtvE",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$DOPE": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @sm0le__ verified earnings for $DOPE on @BagsApp 💰\n\nhttps://t.co/BeRVDwGFsy",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$SAFEMOON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SAFEMOON with a PnL of +266.31%.\n\n$SAFEMOON has been trending on Moby since $94.13K MC. Currently sitting at $715.88K MC. https://t.co/",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CLAWPAY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Clawpay_ verified earnings for $CLAWPAY on @BagsApp 💰\n\nhttps://t.co/IhOnT8q9TQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ZAUTH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @scalpsxbt just bought $4K of $ZAUTH at $5.88M MC 🐳\n\nhttps://t.co/zaToa9tcnU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "digitalartchick",
+      "text": "This obsoletes Pumpfun\n\nNow you can bet on virality without having to worry about insiders, cabals, creator fees, farmers, vamps buybacks and all the other nonsense that has been normalized in the past year",
+      "likes": 459,
+      "retweets": 20,
+      "url": "https://x.com/digitalartchick/status/2021210101416177850"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "good vid on @bankrbot describing it as a launchpad+infra for ai agents onchain",
+      "likes": 230,
+      "retweets": 24,
+      "url": "https://x.com/blknoiz06/status/2021280089187680486"
+    },
+    {
+      "author": "LucaNetz",
+      "text": "🤖",
+      "likes": 229,
+      "retweets": 22,
+      "url": "https://x.com/LucaNetz/status/2021277813442007308"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "Participating in \"We Have Digital Art at Home\" with a piece I minted back in September 2023 called \"Genesis.\"\n\nThe first and only VV token on the SuperRare contract.\n\nStarts tomorrow at Noon EST, with a $0 reserve.\n\nCheers to @im_jonooo for the invitation. https://t.co/wz1nzbMrIG",
+      "likes": 199,
+      "retweets": 18,
+      "url": "https://x.com/jackbutcher/status/2020963111121867114"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Just signed up for the @cashcitydotfun waitlist.\n\nNew game by Longwood Labs, who also built The Heist and DefiDungeons, two very successful games.\n\nJust connect your X account, market is boring atm and this could have some nice upside if you are early.\n\nPartnered with the team to",
+      "likes": 183,
+      "retweets": 11,
+      "url": "https://x.com/waleswoosh/status/2021279411329171939"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "If you care about the future of Crypto you must move all your trading onchain.",
+      "likes": 164,
+      "retweets": 8,
+      "url": "https://x.com/ThinkingUSD/status/2021288967820206322"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "SPX6900 is much more likely to pull a 1000x than any other coin above $50M market cap.\n\nFew understand this. Many soon will.",
+      "likes": 151,
+      "retweets": 27,
+      "url": "https://x.com/MustStopMurad/status/2021303860199907489"
+    },
+    {
+      "author": "MustStopMurad",
+      "text": "SPX6900 is much more likely to pull a 1000x than any other coin above $50M market cap.\n\nFew understand this. Many soon will.",
+      "likes": 151,
+      "retweets": 27,
+      "url": "https://x.com/MustStopMurad/status/2021303860199907489"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "obviously designed by a 39 year old white male in san francisco",
+      "likes": 127,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2021281609417175186"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "Q: Why is Trump interested in spending taxpayer dollars renaming Dulles Airport and Penn Station after himself?\n\nLeavitt: Why not? https://t.co/3T3SxtsPSE",
+      "likes": 112,
+      "retweets": 27,
+      "url": "https://x.com/HQNewsNow/status/2021302179122892894"
+    }
+  ]
+}

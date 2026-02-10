@@ -1,0 +1,223 @@
+{
+  "timestamp": "2026-02-10T17:32:26.171Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 6,
+    "neutral": 81,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$GHIBLI",
+      1
+    ],
+    [
+      "$PLTR",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$OIL",
+      1
+    ],
+    [
+      "$GIRAFFES",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$GHIBLI",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$OIL",
+        "count": 1
+      },
+      {
+        "ticker": "$GIRAFFES",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$PLTR",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 2,
+      "fed": 2,
+      "treasury": 3
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "inversebrah",
+        "text": "RT @lookonchain: Feb 10 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: +417 $BTC(+$28.97M)🟢\n7D NetFlow: -11,607 $BTC(-$805.89M)🔴\n\n#Ethereum ETFs:\n1D N…",
+        "likes": 0,
+        "retweets": 9
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @jaymesrogers: Anyone else getting $REKT for the Super Bowl?? https://t.co/FXvQzoRXnR",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$GHIBLI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @traschcannot verified earnings for $GHIBLI on @BagsApp 💰\n\nhttps://t.co/xXIiwzeJhq",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PLTR": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "If you watched my YT video from yesterday then congrats cause you got the first TP 🔥\n\n$PLTR short was given with levels + risk management.\n\nThere is one more trade ( $HYPE ) that is not triggered yet",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "If you watched my YT video from yesterday then congrats cause you got the first TP 🔥\n\n$PLTR short was given with levels + risk management.\n\nThere is one more trade ( $HYPE ) that is not triggered yet",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.38K of $OIL at $3.69M MC 🐳\n\nhttps://t.co/eKb4SfrBbv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OIL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $3.38K of $OIL at $3.69M MC 🐳\n\nhttps://t.co/eKb4SfrBbv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +648.00%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $2.32M MC. https://t.co/k",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "LucaNetz",
+      "text": "👀👀",
+      "likes": 682,
+      "retweets": 44,
+      "url": "https://x.com/LucaNetz/status/2021254323083018700"
+    },
+    {
+      "author": "DeItaone",
+      "text": "INTERACTIVE BROKERS EXPANDS CRYPTO FUTURES OFFERING WITH COINBASE DERIVATIVES",
+      "likes": 427,
+      "retweets": 40,
+      "url": "https://x.com/DeItaone/status/2021241620834734355"
+    },
+    {
+      "author": "digitalartchick",
+      "text": "This obsoletes Pumpfun\n\nNow you can bet on virality without having to worry about insiders, cabals, creator fees, farmers, vamps buybacks and all the other nonsense that has been normalized in the past year",
+      "likes": 388,
+      "retweets": 18,
+      "url": "https://x.com/digitalartchick/status/2021210101416177850"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "During the meeting with the Prime Minister of Moldova, Alexandru Munteanu, we discussed bilateral projects between our countries. Energy, railways, infrastructure – all of these need to be realized.\n\nThank you for supporting Ukraine and our people. We share a common vision for ou",
+      "likes": 251,
+      "retweets": 42,
+      "url": "https://x.com/ZelenskyyUa/status/2021273099014934528"
+    },
+    {
+      "author": "Elder_DT",
+      "text": "been doing some hole searching (soul searching within my own hole) and realized that im the epitome of talent losing to hard work, i just havent adapted/got lazy/ used my previous results to justify randomly taking spots without considering if they were actually good or not. i am",
+      "likes": 167,
+      "retweets": 12,
+      "url": "https://x.com/Elder_DT/status/2021009914572030376"
+    },
+    {
+      "author": "0xSammy",
+      "text": "OpenClaw roundup (Feb 10th, 2026)\n\nNo fluff \"lobster Clanker\" roundup to get you up to speed over the past 24 hours:\n\n- @openclaw update goes live including Grok integration and context overflow remediation work\n- @steipete shows OpenClaw flipping N8N in Github Stars\n- @austingri",
+      "likes": 145,
+      "retweets": 16,
+      "url": "https://x.com/0xSammy/status/2021176887465111664"
+    },
+    {
+      "author": "frankdegods",
+      "text": "gm https://t.co/LMyYrRh1F1",
+      "likes": 100,
+      "retweets": 6,
+      "url": "https://x.com/frankdegods/status/2021242897849270300"
+    }
+  ]
+}

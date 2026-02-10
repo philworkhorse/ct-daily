@@ -1,0 +1,220 @@
+{
+  "timestamp": "2026-02-10T18:49:38.747Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 8,
+    "neutral": 77,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$SAFEMOON",
+      2
+    ],
+    [
+      "$NPCT",
+      1
+    ],
+    [
+      "$META",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$STRC",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$SAFEMOON",
+        "count": 2
+      },
+      {
+        "ticker": "$NPCT",
+        "count": 1
+      },
+      {
+        "ticker": "$STRC",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "gold": 2,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "fed": 1,
+      "treasury": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$NPCT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Npctown_ verified earnings for $NPCT on @BagsApp 💰\n\nhttps://t.co/BUpeqyX1I1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $10K of $META at $84.88M MC 🐳\n\nhttps://t.co/jjQx6PT0q1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "LarkDavis",
+        "text": "RT @saylor: Digital Capital $BTC outperforms conventional capital. Digital Credit $STRC outperforms conventional credit. Amplified Bitcoin…",
+        "likes": 0,
+        "retweets": 465
+      }
+    ],
+    "$STRC": [
+      {
+        "author": "LarkDavis",
+        "text": "RT @saylor: Digital Capital $BTC outperforms conventional capital. Digital Credit $STRC outperforms conventional credit. Amplified Bitcoin…",
+        "likes": 0,
+        "retweets": 465
+      }
+    ],
+    "$SAFEMOON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SAFEMOON with a PnL of +118.08%.\n\n$SAFEMOON has been trending on Moby since $94.13K MC. Currently sitting at $676.76K MC. https://t.co/",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SAFEMOON with a PnL of +203.57%.\n\n$SAFEMOON has been trending on Moby since $94.13K MC. Currently sitting at $698.3K MC. https://t.co/P",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "Finally somebody is altruistic enough to make a trading platform where fees go into buying the underlying token instead of extracting.\n\nRemember that graphic that went viral a couple weeks ago about a",
+        "likes": 6,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Pumpfun",
+      "text": "“no more memecoins”\n\n*chain literally turns into an onchain zoo*",
+      "likes": 359,
+      "retweets": 34,
+      "url": "https://x.com/Pumpfun/status/2021292483347714482"
+    },
+    {
+      "author": "mdudas",
+      "text": "i believe the @base team is earnestly positive and deeply wants great things to happen on chain\n\ni also believe they do a great disservice to their ecosystem by aggressively pushing a new narrative as inevitable almost every single quarter before quietly pivoting 3 months later",
+      "likes": 254,
+      "retweets": 10,
+      "url": "https://x.com/mdudas/status/2021238522175271162"
+    },
+    {
+      "author": "patty_fi",
+      "text": "What’s honestly crazy is the best memecoin bag workers either retire or got greedy and blew their port\n\nThese days I see bags being worked and it lacks soul\n\nJust blind leading the blind\n\nThe trenches need better leaders to bring back that magic we once had",
+      "likes": 241,
+      "retweets": 24,
+      "url": "https://x.com/patty_fi/status/2021061024749846907"
+    },
+    {
+      "author": "jackbutcher",
+      "text": "Participating in \"We Have Digital Art at Home\" with a piece I minted back in September 2023 called \"Genesis.\"\n\nThe first and only VV token on the SuperRare contract.\n\nStarts tomorrow at Noon EST, with a $0 reserve.\n\nCheers to @im_jonooo for the invitation. https://t.co/wz1nzbMrIG",
+      "likes": 194,
+      "retweets": 17,
+      "url": "https://x.com/jackbutcher/status/2020963111121867114"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "good vid on @bankrbot describing it as a launchpad+infra for ai agents onchain",
+      "likes": 183,
+      "retweets": 18,
+      "url": "https://x.com/blknoiz06/status/2021280089187680486"
+    },
+    {
+      "author": "LucaNetz",
+      "text": "🤖",
+      "likes": 183,
+      "retweets": 13,
+      "url": "https://x.com/LucaNetz/status/2021277813442007308"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Just signed up for the @cashcitydotfun waitlist.\n\nNew game by Longwood Labs, who also built The Heist and DefiDungeons, two very successful games.\n\nJust connect your X account, market is boring atm and this could have some nice upside if you are early.\n\nPartnered with the team to",
+      "likes": 158,
+      "retweets": 11,
+      "url": "https://x.com/waleswoosh/status/2021279411329171939"
+    },
+    {
+      "author": "chooserich",
+      "text": "Why does this woman look like me?!?!\n\n https://t.co/pyLcZilSLb",
+      "likes": 132,
+      "retweets": 3,
+      "url": "https://x.com/chooserich/status/2021291098828579089"
+    },
+    {
+      "author": "himgajria",
+      "text": "Sell your economic liabilities for inunomic assets. \n\nFinunce.",
+      "likes": 122,
+      "retweets": 21,
+      "url": "https://x.com/himgajria/status/2021271097199689825"
+    },
+    {
+      "author": "ThinkingUSD",
+      "text": "If you care about the future of Crypto you must move all your trading onchain.",
+      "likes": 101,
+      "retweets": 4,
+      "url": "https://x.com/ThinkingUSD/status/2021288967820206322"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "timestamp": "2026-02-10T17:02:25.834Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 5,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$REKT",
+      1
+    ],
+    [
+      "$SURVIVOR",
+      1
+    ],
+    [
+      "$LIT",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$SERIOUS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 1
+      },
+      {
+        "ticker": "$SURVIVOR",
+        "count": 1
+      },
+      {
+        "ticker": "$LIT",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$SERIOUS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1
+    },
+    "metals": {},
+    "macro": {
+      "fed": 1,
+      "inflation": 1,
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "inversebrah",
+        "text": "RT @lookonchain: Feb 10 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: +417 $BTC(+$28.97M)🟢\n7D NetFlow: -11,607 $BTC(-$805.89M)🔴\n\n#Ethereum ETFs:\n1D N…",
+        "likes": 0,
+        "retweets": 7
+      }
+    ],
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @jaymesrogers: Anyone else getting $REKT for the Super Bowl?? https://t.co/FXvQzoRXnR",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$SURVIVOR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member @wuhanbatdev just upgraded $SURVIVOR to Pro on MobyScreener 📈\n\nhttps://t.co/kfjf2LRty0",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$LIT": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @ZeMirch just bought $5K of $LIT at $343.7K MC 🐳\n\nhttps://t.co/tfNSCCAXOf",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.26K of $SERIOUS at $265.38K MC 🐳\n\nhttps://t.co/L4An6bz9Os",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$SERIOUS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.26K of $SERIOUS at $265.38K MC 🐳\n\nhttps://t.co/L4An6bz9Os",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "trading_axe",
+      "text": "Sometimes you don’t even need to know shit about sports,\n\nYou can just gauge how many fakesportcels are willing to be your counterparty based on bullshit reasoning.\n\nWhen I read all the IQLET replies about Patriots winning because of super unrealistic wishy-washy outcomes,\n\nI kne",
+      "likes": 643,
+      "retweets": 3,
+      "url": "https://x.com/trading_axe/status/2020925975446552820"
+    },
+    {
+      "author": "LucaNetz",
+      "text": "👀👀",
+      "likes": 518,
+      "retweets": 35,
+      "url": "https://x.com/LucaNetz/status/2021254323083018700"
+    },
+    {
+      "author": "himgajria",
+      "text": "This community just does things. Rare. \nThis is going to a billion, minimum.",
+      "likes": 125,
+      "retweets": 22,
+      "url": "https://x.com/himgajria/status/2021249411855131131"
+    },
+    {
+      "author": "rasmr_eth",
+      "text": "They’re gonna try to time rug you https://t.co/qULRmuZQ4R",
+      "likes": 120,
+      "retweets": 2,
+      "url": "https://x.com/rasmr_eth/status/2021005447474639101"
+    }
+  ]
+}
