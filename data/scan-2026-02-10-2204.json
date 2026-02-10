@@ -1,0 +1,244 @@
+{
+  "timestamp": "2026-02-10T22:04:39.824Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 2,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$AFK",
+      2
+    ],
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$COMPOZY",
+      1
+    ],
+    [
+      "$PONZI",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$KABUTO",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$AEIS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$AFK",
+        "count": 2
+      },
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$COMPOZY",
+        "count": 1
+      },
+      {
+        "ticker": "$PONZI",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$KABUTO",
+        "count": 1
+      },
+      {
+        "ticker": "$AEIS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2,
+      "gold": 2,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "unemployment": 1,
+      "fed": 1
+    },
+    "industry": {
+      "firing": 1
+    }
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @blockchainbob: You don’t own ENOUGH $BUTTCOIN",
+        "likes": 0,
+        "retweets": 29
+      }
+    ],
+    "$COMPOZY": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @pedronauck verified earnings for $COMPOZY on @BagsApp 💰\n\nhttps://t.co/p7crhvtSkN",
+        "likes": 2,
+        "retweets": 1
+      }
+    ],
+    "$PONZI": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Koyla_sol just bought $1.5K of $PONZI at $133K MC 🐳\n\nhttps://t.co/y73TzsQRmc",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$AFK": [
+      {
+        "author": "LexaproTrader",
+        "text": "RT @Chairman_DN: The reason why $AFK has quickly become one of my biggest conviction bags boils down to three reasons: \n\n1. The narrative —…",
+        "likes": 0,
+        "retweets": 28
+      },
+      {
+        "author": "LexaproTrader",
+        "text": "RT @Chairman_DN: Super Bowl Ad level content from @catisafk \n\n$AFK shows us what we could be living like. Away from screens, away from the…",
+        "likes": 0,
+        "retweets": 4
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.26K of $KABUTO at $1.44M MC 🐳\n\nhttps://t.co/MeAZyagDdH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KABUTO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.26K of $KABUTO at $1.44M MC 🐳\n\nhttps://t.co/MeAZyagDdH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "crypto_bitlord7",
+        "text": "I’m losing hope in $ETH by the day \n\n https://t.co/5tKbsX4z8Z",
+        "likes": 29,
+        "retweets": 2
+      }
+    ],
+    "$AEIS": [
+      {
+        "author": "yieldchad",
+        "text": "$AEIS \nbeat \nn \nraise\n\n✅ Subsystems firing on all cylinders \n✅ Semicap supercycle \n\nhttps://t.co/NfWLzxRehk",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 361,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "lBattleRhino",
+      "text": "This is roughly the 2024 range, accepted back below and went all the way to the bottom, can expect to be stuck here maybe we do the classic breakout deviate higher fakeout into death but yeah this is why I tpd plus stock rally \n\nTime to wait again https://t.co/ZqyxVklJPJ",
+      "likes": 361,
+      "retweets": 13,
+      "url": "https://x.com/lBattleRhino/status/2019854265846784078"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "Rep. McGovern on the SAVE Act: \"I have news for Republicans, Americans don't want to be saved by you, they don't want you screwing up the next elections... Republicans have looked to find fraud, and you know what they found? Someone is more likely to get struck by lightning than ",
+      "likes": 291,
+      "retweets": 80,
+      "url": "https://x.com/HQNewsNow/status/2021339697654436326"
+    },
+    {
+      "author": "HQNewsNow",
+      "text": "Millions of Americans' health care prices just doubled, but the ballroom is \"desperately needed.\"",
+      "likes": 270,
+      "retweets": 76,
+      "url": "https://x.com/HQNewsNow/status/2021340801482227718"
+    },
+    {
+      "author": "traderpow",
+      "text": "How do you expect to win in this bear market if you've already lost confidence in your trading ability? \n\nGet up champ, relearn patience, fundamentals to your own system, and \"less is more\" mentality.",
+      "likes": 203,
+      "retweets": 23,
+      "url": "https://x.com/traderpow/status/2021333034344362261"
+    },
+    {
+      "author": "traderpow",
+      "text": "How do you expect to win in this bear market if you've already lost confidence in your trading ability? \n\nGet up champ, relearn patience, fundamentals to your own system, and \"less is more\" mentality.",
+      "likes": 203,
+      "retweets": 23,
+      "url": "https://x.com/traderpow/status/2021333034344362261"
+    },
+    {
+      "author": "based16z",
+      "text": "For You Page https://t.co/Ix9Sgp8wTw",
+      "likes": 185,
+      "retweets": 6,
+      "url": "https://x.com/based16z/status/2021310238545031499"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Who's old enough to remember SafeMoon?",
+      "likes": 117,
+      "retweets": 5,
+      "url": "https://x.com/CryptoKaleo/status/2021322029199167503"
+    },
+    {
+      "author": "DeItaone",
+      "text": "TRUMP CALLS FOR WORLD’S LOWEST US INTEREST RATES\n\nDonald Trump said the US should have the lowest interest rates globally, arguing that every percentage point cut saves $600 billion and could erase the deficit.\n\nIn a Fox Business interview, he said lower rates are a “paper charge",
+      "likes": 101,
+      "retweets": 15,
+      "url": "https://x.com/DeItaone/status/2021341300197413317"
+    }
+  ]
+}
