@@ -199,10 +199,14 @@ function generateNarrative(sentiment, regime, fear, tickers, momentum) {
     parts.push('CT is running hot. Multiple signals pointing toward risk-on euphoria.');
   } else if (regime.label === 'BULLISH') {
     parts.push(`Structural optimism holds with a ${sentiment.ratio}:1 bull/bear ratio, though the mood is ${sentiment.trend.toLowerCase()}.`);
+  } else if (regime.label === 'LEANING BULL') {
+    parts.push(`Mild optimism with a ${sentiment.ratio}:1 bull/bear ratio. Not euphoria, not conviction — somewhere in between.`);
   } else if (regime.label === 'NEUTRAL') {
     parts.push('Markets are in wait-and-see mode. Neither conviction nor fear dominating.');
+  } else if (regime.label === 'LEANING BEAR') {
+    parts.push('Caution is creeping in. Bears edging above bulls but no panic.');
   } else {
-    parts.push('Caution dominates. Bears have the floor.');
+    parts.push('Fear dominates. Bears have the floor.');
   }
   
   // Fear gauge
