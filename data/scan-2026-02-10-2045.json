@@ -1,0 +1,174 @@
+{
+  "timestamp": "2026-02-10T20:45:31.553Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 23,
+    "bearish": 3,
+    "neutral": 74,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIRAFFES",
+      1
+    ],
+    [
+      "$RUNCLAW",
+      1
+    ],
+    [
+      "$JMAIL",
+      1
+    ],
+    [
+      "$NYLA",
+      1
+    ],
+    [
+      "$OPAL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIRAFFES",
+        "count": 1
+      },
+      {
+        "ticker": "$RUNCLAW",
+        "count": 1
+      },
+      {
+        "ticker": "$JMAIL",
+        "count": 1
+      },
+      {
+        "ticker": "$NYLA",
+        "count": 1
+      },
+      {
+        "ticker": "$OPAL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "corn": 1,
+      "coffee": 2
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    },
+    "industry": {
+      "layoff": 1
+    }
+  },
+  "tickerDetails": {
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $GIRAFFES with a PnL of +716.57%.\n\n$GIRAFFES has been trending on Moby since $234.24K MC. Currently sitting at $1.85M MC. https://t.co/D",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$RUNCLAW": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @yassratti verified earnings for $RUNCLAW on @BagsApp 💰\n\nhttps://t.co/bTGrgLLXyA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JMAIL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @rtvvlz verified earnings for $JMAIL on @BagsApp 💰\n\nhttps://t.co/xyyBQHtfIA",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$NYLA": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $4.4K of $NYLA at $694.88K MC 🐳\n\nhttps://t.co/FhsrT3qqT6",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OPAL": [
+      {
+        "author": "PainCrypt0",
+        "text": "RT @opalbotgg: We're pitching $OPAL live to @a1lon9 and @TimDraper today at 1:30 PM PST on @StreamDraperTV as part of the @pumpfun Hackatho…",
+        "likes": 0,
+        "retweets": 18
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "blknoiz06",
+      "text": "good vid on @bankrbot describing it as a launchpad+infra for ai agents onchain",
+      "likes": 264,
+      "retweets": 30,
+      "url": "https://x.com/blknoiz06/status/2021280089187680486"
+    },
+    {
+      "author": "jessepollak",
+      "text": "reply to this with a QT of your best thesis on a base coin\n\nwant to follow the most based investors",
+      "likes": 222,
+      "retweets": 12,
+      "url": "https://x.com/jessepollak/status/2021311699031056410"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "obviously designed by a 39 year old white male in san francisco",
+      "likes": 209,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2021281609417175186"
+    },
+    {
+      "author": "SolportTom",
+      "text": "&gt;$100,000 in buy backs processed since the update.\n\nInjected directly into the charts to help holders of coins.",
+      "likes": 189,
+      "retweets": 22,
+      "url": "https://x.com/SolportTom/status/2021298004070694920"
+    },
+    {
+      "author": "jessepollak",
+      "text": "good video on why @bankrbot",
+      "likes": 165,
+      "retweets": 17,
+      "url": "https://x.com/jessepollak/status/2021310663327383917"
+    },
+    {
+      "author": "based16z",
+      "text": "For You Page https://t.co/Ix9Sgp8wTw",
+      "likes": 108,
+      "retweets": 0,
+      "url": "https://x.com/based16z/status/2021310238545031499"
+    },
+    {
+      "author": "based16z",
+      "text": "For You Page https://t.co/Ix9Sgp8wTw",
+      "likes": 108,
+      "retweets": 0,
+      "url": "https://x.com/based16z/status/2021310238545031499"
+    }
+  ]
+}

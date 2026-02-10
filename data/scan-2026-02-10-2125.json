@@ -1,0 +1,178 @@
+{
+  "timestamp": "2026-02-10T21:25:32.446Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 16,
+    "bearish": 2,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$JOAKI",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$OPTIMIST",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$JOAKI",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$OPTIMIST",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "corn": 1,
+      "coffee": 1
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @blockchainbob: You don’t own ENOUGH $BUTTCOIN",
+        "likes": 0,
+        "retweets": 26
+      }
+    ],
+    "$JOAKI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @agentwarsgg verified earnings for $JOAKI on @BagsApp 💰\n\nhttps://t.co/eUgSOlgJWr",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "SolportTom",
+        "text": "Noticed there's an issue with buy backs relating to $SOL pairs, will be fixed by the AM. thanks for your patience!",
+        "likes": 41,
+        "retweets": 3
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "imperooterxbt",
+        "text": "Bonk seems to only crime 90% bundles of the worst narratives you ever heard of like $USELESS. It’s useless get it 🤡 https://t.co/AUGLqPPQxb",
+        "likes": 22,
+        "retweets": 0
+      }
+    ],
+    "$OPTIMIST": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPTIMIST with a PnL of +307.42%.\n\n$OPTIMIST has been trending on Moby since $52.15K MC. Currently sitting at $216.46K MC. https://t.co/",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "SolportTom",
+      "text": "Getting a lot of questions about how the buyback works, so pretty much tldr:\n\nFees are claimed every 3 mins. They are then sent to a buyback wallet (for tracking) and then swapped into the coin which the fees are owed to. They are then sent to the bonkfun new multisig address whe",
+      "likes": 217,
+      "retweets": 25,
+      "url": "https://x.com/SolportTom/status/2021004055770763286"
+    },
+    {
+      "author": "SolportTom",
+      "text": "&gt;$100,000 in buy backs processed since the update.\n\nInjected directly into the charts to help holders of coins.",
+      "likes": 213,
+      "retweets": 24,
+      "url": "https://x.com/SolportTom/status/2021298004070694920"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "80k followers.\n\ntime to dox. https://t.co/S0ZoiMn0zM",
+      "likes": 182,
+      "retweets": 0,
+      "url": "https://x.com/DipWheeler/status/2021319682557632725"
+    },
+    {
+      "author": "CookerFlips",
+      "text": "You're shit at trading and you should realize that\n\nYou've never hit 7 figure PNLs let alone 8 because you're shit at trading\n\nNot cuz Lexapro or Marcell has 3% of your coin\n\nYou're just trash",
+      "likes": 160,
+      "retweets": 10,
+      "url": "https://x.com/CookerFlips/status/2021304915092516990"
+    },
+    {
+      "author": "based16z",
+      "text": "For You Page https://t.co/Ix9Sgp8wTw",
+      "likes": 132,
+      "retweets": 0,
+      "url": "https://x.com/based16z/status/2021310238545031499"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "Who's old enough to remember SafeMoon?",
+      "likes": 106,
+      "retweets": 5,
+      "url": "https://x.com/CryptoKaleo/status/2021322029199167503"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "just frame mogged an elderly mexican postmates driver named \"lupita\". https://t.co/Y73TKtk21Q",
+      "likes": 103,
+      "retweets": 9,
+      "url": "https://x.com/DipWheeler/status/2021321037397491963"
+    },
+    {
+      "author": "mert",
+      "text": "this is the most bullish chart in crypto\n\nit shows that a set of insane people believe in the original mission again\n\nget your eyes off my money, it's mine",
+      "likes": 101,
+      "retweets": 2,
+      "url": "https://x.com/mert/status/2021317065689186329"
+    }
+  ]
+}

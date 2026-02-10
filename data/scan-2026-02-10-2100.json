@@ -1,0 +1,223 @@
+{
+  "timestamp": "2026-02-10T21:00:36.212Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 4,
+    "neutral": 82,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BUTTCOIN",
+      1
+    ],
+    [
+      "$AGENTWARS",
+      1
+    ],
+    [
+      "$OPTIMIST",
+      1
+    ],
+    [
+      "$BUCKARU",
+      1
+    ],
+    [
+      "$JOSH",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$GHOSTGIRL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$BUTTCOIN",
+        "count": 1
+      },
+      {
+        "ticker": "$AGENTWARS",
+        "count": 1
+      },
+      {
+        "ticker": "$OPTIMIST",
+        "count": 1
+      },
+      {
+        "ticker": "$BUCKARU",
+        "count": 1
+      },
+      {
+        "ticker": "$JOSH",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$GHOSTGIRL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 4,
+      "corn": 1,
+      "coffee": 1
+    },
+    "metals": {
+      "gold": 4
+    },
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$BUTTCOIN": [
+      {
+        "author": "miragemunny",
+        "text": "RT @blockchainbob: You don’t own ENOUGH $BUTTCOIN",
+        "likes": 0,
+        "retweets": 22
+      }
+    ],
+    "$AGENTWARS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/bgb2sUYci9 verified earnings for $AGENTWARS on @BagsApp 💰\n\nhttps://t.co/8Uvo06VQFd",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OPTIMIST": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPTIMIST with a PnL of +260.27%.\n\n$OPTIMIST has been trending on Moby since $52.15K MC. Currently sitting at $188.19K MC. https://t.co/",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BUCKARU": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @Loopierr just bought $2.05K of $BUCKARU at $382.96K MC 🐳\n\nhttps://t.co/ElnrIDtxLU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JOSH": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @josh_scriptz verified earnings for $JOSH on @BagsApp 💰\n\nhttps://t.co/i3KABGnNyB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "frontrunnersx",
+        "text": "$HYPE is coming home https://t.co/v6c9KXlvNZ",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$GHOSTGIRL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @helen verified earnings for $GHOSTGIRL on @BagsApp 💰\n\nhttps://t.co/55YITR4Qhi",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "coinbase",
+      "text": "𝗜𝘁’𝘀 𝘁𝗮𝘅 𝘀𝗲𝗮𝘀𝗼𝗻.\nSorry for the jump scare.\n\nThis is the first year the IRS is standardizing crypto tax reporting. So we’ve teamed up with @CoinTracker to make it easier for you.\n\nEspecially with the new form, Form 1099-DA. 🧵 https://t.co/UXCeH241ty",
+      "likes": 350,
+      "retweets": 57,
+      "url": "https://x.com/coinbase/status/2021235332264394885"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "good vid on @bankrbot describing it as a launchpad+infra for ai agents onchain",
+      "likes": 275,
+      "retweets": 30,
+      "url": "https://x.com/blknoiz06/status/2021280089187680486"
+    },
+    {
+      "author": "jessepollak",
+      "text": "reply to this with a QT of your best thesis on a base coin\n\nwant to follow the most based investors",
+      "likes": 261,
+      "retweets": 13,
+      "url": "https://x.com/jessepollak/status/2021311699031056410"
+    },
+    {
+      "author": "retardmode",
+      "text": "los angeles 2023-2025 https://t.co/25rW1SMR6y",
+      "likes": 238,
+      "retweets": 1,
+      "url": "https://x.com/retardmode/status/2021281609454923920"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "obviously designed by a 39 year old white male in san francisco",
+      "likes": 219,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2021281609417175186"
+    },
+    {
+      "author": "jessepollak",
+      "text": "good video on why @bankrbot",
+      "likes": 193,
+      "retweets": 23,
+      "url": "https://x.com/jessepollak/status/2021310663327383917"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "A sobering reality in crypto:\n\nOver long time horizons, most things bleed to Bitcoin.\n\nAlts bleed to BTC.\nMining equities bleed to BTC.\nPublic crypto stocks bleed to BTC.\n\nYou can debate the exceptions, but the long-term capital gravity has been towards BTC.",
+      "likes": 147,
+      "retweets": 6,
+      "url": "https://x.com/intocryptoverse/status/2021327521392758893"
+    },
+    {
+      "author": "_Shadow36",
+      "text": "Once we stop shooting down any coin that goes over 40m, stop the pvp’s, stop pushing away retail and web 2 because yall want to take advantage of them, start embracing real communities, stop hating on projects and each other, start supporting one another, start embracing these ne",
+      "likes": 139,
+      "retweets": 26,
+      "url": "https://x.com/_Shadow36/status/2021316247242277223"
+    },
+    {
+      "author": "Grummz",
+      "text": "What’s with the diversity eyebrow shave?",
+      "likes": 136,
+      "retweets": 6,
+      "url": "https://x.com/Grummz/status/2021326905061015714"
+    },
+    {
+      "author": "DipWheeler",
+      "text": "80k followers.\n\ntime to dox. https://t.co/S0ZoiMn0zM",
+      "likes": 131,
+      "retweets": 0,
+      "url": "https://x.com/DipWheeler/status/2021319682557632725"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "timestamp": "2026-02-10T20:07:04.448Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 14,
+    "bearish": 2,
+    "neutral": 84,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$SAFEMOON",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$SAFEMOON",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1,
+      "coffee": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$HYPE": [
+      {
+        "author": "CookerFlips",
+        "text": "Only matter of time $HYPE gets a Saylor/Tom Lee kind of buyer",
+        "likes": 13,
+        "retweets": 0
+      }
+    ],
+    "$SAFEMOON": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $SAFEMOON with a PnL of +319.76%.\n\n$SAFEMOON has been trending on Moby since $94.13K MC. Currently sitting at $661.58K MC. https://t.co/",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "crypto_banter",
+        "text": "📈 We NEED $BTC to pump!\n\n@cryptomanran broke down exactly how low Bitcoin could go in today's show, backed by the data.\n\nIF you're still here in the market, you don't want to miss this one! 👇\n[link ",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "MustStopMurad",
+      "text": "SPX6900 is much more likely to pull a 1000x than any other coin above $50M market cap.\n\nFew understand this. Many soon will.",
+      "likes": 584,
+      "retweets": 115,
+      "url": "https://x.com/MustStopMurad/status/2021303860199907489"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "good vid on @bankrbot describing it as a launchpad+infra for ai agents onchain",
+      "likes": 256,
+      "retweets": 30,
+      "url": "https://x.com/blknoiz06/status/2021280089187680486"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "good vid on @bankrbot describing it as a launchpad+infra for ai agents onchain",
+      "likes": 256,
+      "retweets": 30,
+      "url": "https://x.com/blknoiz06/status/2021280089187680486"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "obviously designed by a 39 year old white male in san francisco",
+      "likes": 168,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2021281609417175186"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Everyone seems to be obsessed with framemogging,\n\nBut normies have yet to \"catch up\" on WRISTMOGGING.\n\nThere is no other BRUTAL MOG like a wristmog and I'll explain why.\n\nFirstly, the size of your wrists are directly correlated with your skeletal structure and ability to pack on ",
+      "likes": 168,
+      "retweets": 2,
+      "url": "https://x.com/trading_axe/status/2021303403889184819"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Everyone seems to be obsessed with framemogging,\n\nBut normies have yet to \"catch up\" on WRISTMOGGING.\n\nThere is no other BRUTAL MOG like a wristmog and I'll explain why.\n\nFirstly, the size of your wrists are directly correlated with your skeletal structure and ability to pack on ",
+      "likes": 168,
+      "retweets": 2,
+      "url": "https://x.com/trading_axe/status/2021303403889184819"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "obviously designed by a 39 year old white male in san francisco",
+      "likes": 168,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2021281609417175186"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "PENGU proliferation",
+      "likes": 145,
+      "retweets": 11,
+      "url": "https://x.com/CryptoKaleo/status/2021295332328604043"
+    },
+    {
+      "author": "CryptoKaleo",
+      "text": "This brainless idiot is way too smug.\n\nThese are the type of headlines you see at the bottom. https://t.co/dh0YMabefu",
+      "likes": 124,
+      "retweets": 5,
+      "url": "https://x.com/CryptoKaleo/status/2021302886328635514"
+    },
+    {
+      "author": "jessepollak",
+      "text": "reply to this with a QT of your best thesis on a base coin\n\nwant to follow the most based investors",
+      "likes": 107,
+      "retweets": 1,
+      "url": "https://x.com/jessepollak/status/2021311699031056410"
+    }
+  ]
+}
