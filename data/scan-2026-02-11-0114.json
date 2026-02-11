@@ -1,0 +1,171 @@
+{
+  "timestamp": "2026-02-11T01:14:01.926Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 13,
+    "bearish": 4,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$GP",
+      1
+    ],
+    [
+      "$WAR",
+      1
+    ],
+    [
+      "$LIQUID",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GP",
+        "count": 1
+      },
+      {
+        "ticker": "$WAR",
+        "count": 1
+      },
+      {
+        "ticker": "$LIQUID",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 2,
+      "copper": 2,
+      "coffee": 1,
+      "crude": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 2
+    },
+    "macro": {
+      "dollar": 1
+    },
+    "industry": {
+      "firing": 1
+    }
+  },
+  "tickerDetails": {
+    "$BTC": [
+      {
+        "author": "1914ad",
+        "text": "Get a load of this loser.\n\nAdmits publicly last week he lost all his Bitcoin trading shitcoins.\n\nNow he says you’re not allowed to have conviction in BIP-110 unless you prove to him that you own 100 $",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $5K of $WAR at $38.76M MC 🐳\n\nhttps://t.co/5f6IpnPjxH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$WAR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $GP whale just bought $5K of $WAR at $38.76M MC 🐳\n\nhttps://t.co/5f6IpnPjxH",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$LIQUID": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $LIQUID with a PnL of +95.92%.\n\n$LIQUID has been trending on Moby since $93.7K MC. Currently sitting at $909.22K MC. https://t.co/VrSvdD",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "When the market turns bullish again we’ll see the benefit of having having 75%+ of $GIGA holders be normies.\n\nCoinbase normies literally own 18% of the supply 😂😂😂\n\nBiggest meme on the planet, most ",
+        "likes": 4,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "CookerFlips",
+      "text": "You're shit at trading and you should realize that\n\nYou've never hit 7 figure PNLs let alone 8 because you're shit at trading\n\nNot cuz Lexapro or Marcell has 3% of your coin\n\nYou're just trash",
+      "likes": 257,
+      "retweets": 12,
+      "url": "https://x.com/CookerFlips/status/2021304915092516990"
+    },
+    {
+      "author": "0xsmac",
+      "text": "ct’s biggest issue is that it’s become infested with spiteful people who don’t want to see others achieve anything\n\n(i don’t even own zro i’m just observing the reaction to a team who has been building for years &amp; is excited about something that should grow the pie)",
+      "likes": 177,
+      "retweets": 22,
+      "url": "https://x.com/0xsmac/status/2021363065225404597"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "there should be a very aggressive zealousness focused towards supporting the few projects in crypto with clearly demonstrable pmf\n\nlayer zero is one of those teams",
+      "likes": 119,
+      "retweets": 7,
+      "url": "https://x.com/blknoiz06/status/2021386193326236134"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "there should be a very aggressive zealousness focused towards supporting the few projects in crypto with clearly demonstrable pmf\n\nlayer zero is one of those teams",
+      "likes": 119,
+      "retweets": 7,
+      "url": "https://x.com/blknoiz06/status/2021386193326236134"
+    },
+    {
+      "author": "frankdegods",
+      "text": "if you're bearish ai, you're bearish america",
+      "likes": 103,
+      "retweets": 5,
+      "url": "https://x.com/frankdegods/status/2021381763139023271"
+    },
+    {
+      "author": "frankdegods",
+      "text": "if you're bearish ai, you're bearish america",
+      "likes": 103,
+      "retweets": 5,
+      "url": "https://x.com/frankdegods/status/2021381763139023271"
+    }
+  ]
+}

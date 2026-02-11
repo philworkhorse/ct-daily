@@ -1,0 +1,199 @@
+{
+  "timestamp": "2026-02-11T01:00:50.260Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 9,
+    "bearish": 4,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIGA",
+      2
+    ],
+    [
+      "$CLAUDE",
+      1
+    ],
+    [
+      "$DOGE",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$ZRO",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$COPPERINU",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIGA",
+        "count": 2
+      },
+      {
+        "ticker": "$CLAUDE",
+        "count": 1
+      },
+      {
+        "ticker": "$ZRO",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$DOGE",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "gold": 1,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 2
+    },
+    "industry": {
+      "firing": 1
+    }
+  },
+  "tickerDetails": {
+    "$CLAUDE": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @zinceth just bought $6.07K of $CLAUDE at $1.59M MC 🐳\n\nhttps://t.co/urdD2wmlhQ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "RT @mstreet81: @coinbase breaks down $GIGA market activity.  Check the Insights and keep accumulating GIGA. https://t.co/K3Y8RYDLT3",
+        "likes": 0,
+        "retweets": 3
+      },
+      {
+        "author": "gigagriff",
+        "text": "Coming to realization that all $GIGA haters are actually just first cyclers.\n\nThey legit think “it’s over”\n\nThey don’t understand that due to the constrained supply, if an asset community never dies, ",
+        "likes": 9,
+        "retweets": 2
+      }
+    ],
+    "$DOGE": [
+      {
+        "author": "gigagriff",
+        "text": "Coming to realization that all $GIGA haters are actually just first cyclers.\n\nThey legit think “it’s over”\n\nThey don’t understand that due to the constrained supply, if an asset community never dies, ",
+        "likes": 9,
+        "retweets": 2
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "gigagriff",
+        "text": "Coming to realization that all $GIGA haters are actually just first cyclers.\n\nThey legit think “it’s over”\n\nThey don’t understand that due to the constrained supply, if an asset community never dies, ",
+        "likes": 9,
+        "retweets": 2
+      }
+    ],
+    "$ZRO": [
+      {
+        "author": "CredibleCrypto",
+        "text": "Thanks to my frend @crypto_condom for bringing my attention to $ZRO.\n\nThey had some big announcements today, a LTF sell off, and now that that catalyst is over and the dust has settled, the chart stil",
+        "likes": 53,
+        "retweets": 6
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $8.34K of $COPPERINU at $13.33M MC 🐳\n\nhttps://t.co/hM21rCMcIU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $8.34K of $COPPERINU at $13.33M MC 🐳\n\nhttps://t.co/hM21rCMcIU",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "patty_fi",
+      "text": "What’s honestly crazy is the best memecoin bag workers either retire or got greedy and blew their port\n\nThese days I see bags being worked and it lacks soul\n\nJust blind leading the blind\n\nThe trenches need better leaders to bring back that magic we once had",
+      "likes": 265,
+      "retweets": 25,
+      "url": "https://x.com/patty_fi/status/2021061024749846907"
+    },
+    {
+      "author": "CookerFlips",
+      "text": "You're shit at trading and you should realize that\n\nYou've never hit 7 figure PNLs let alone 8 because you're shit at trading\n\nNot cuz Lexapro or Marcell has 3% of your coin\n\nYou're just trash",
+      "likes": 254,
+      "retweets": 12,
+      "url": "https://x.com/CookerFlips/status/2021304915092516990"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Bitcoin is already down 30% against Gold this year.\n\nNote that every midterm year, BTC has bled against Gold.\n\nHere is the BTC/Gold valuation over various midterm years:\n\n2014: -55%\n2018: -73%\n2022: -64%\n2026: -32% (so far) https://t.co/rn1DlRVTsW",
+      "likes": 172,
+      "retweets": 12,
+      "url": "https://x.com/intocryptoverse/status/2021383935016776046"
+    },
+    {
+      "author": "0xsmac",
+      "text": "ct’s biggest issue is that it’s become infested with spiteful people who don’t want to see others achieve anything\n\n(i don’t even own zro i’m just observing the reaction to a team who has been building for years &amp; is excited about something that should grow the pie)",
+      "likes": 166,
+      "retweets": 22,
+      "url": "https://x.com/0xsmac/status/2021363065225404597"
+    },
+    {
+      "author": "_Shadow36",
+      "text": "Expecting a lot more of these dm’s. Not just for this coin but coins tryna actually aim for retirement level numbers.\n\nPeople are tired and we need a runner that goes to billions.\n\nObviously would love for it to be a bag im in duh lol but I will champion whichever ends up really ",
+      "likes": 101,
+      "retweets": 15,
+      "url": "https://x.com/_Shadow36/status/2021379023561990541"
+    }
+  ]
+}
