@@ -1,0 +1,98 @@
+{
+  "timestamp": "2026-02-11T01:47:14.097Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 5,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$OPTIMIST",
+      2
+    ],
+    [
+      "$SEAFLOOR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$OPTIMIST",
+        "count": 2
+      },
+      {
+        "ticker": "$SEAFLOOR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$OPTIMIST": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPTIMIST with a PnL of +337.50%.\n\n$OPTIMIST has been trending on Moby since $52.15K MC. Currently sitting at $405.2K MC. https://t.co/3",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @nosanityxbt just bought $1.86K of $OPTIMIST at $358.31K MC 🐳\n\nhttps://t.co/qEs0b1UN1W",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SEAFLOOR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @seafloor_bot verified earnings for $SEAFLOOR on @BagsApp 💰\n\nhttps://t.co/Z94BDaWeyr",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "coinbase",
+      "text": "You saw it on TV. Now it’s on a tee (and a hat).\n\nUse code ‘EVERYBODYCOINBASE’ to snag it for free.\n\nFirst come, first served.\nCrypto is for everybody, but this merch isn’t. Good luck. https://t.co/suGEZGuBZa",
+      "likes": 677,
+      "retweets": 79,
+      "url": "https://x.com/coinbase/status/2020671171239305362"
+    },
+    {
+      "author": "0xsmac",
+      "text": "ct’s biggest issue is that it’s become infested with spiteful people who don’t want to see others achieve anything\n\n(i don’t even own zro i’m just observing the reaction to a team who has been building for years &amp; is excited about something that should grow the pie)",
+      "likes": 205,
+      "retweets": 22,
+      "url": "https://x.com/0xsmac/status/2021363065225404597"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "there should be a very aggressive zealousness focused towards supporting the few projects in crypto with clearly demonstrable pmf\n\nlayer zero is one of those teams",
+      "likes": 189,
+      "retweets": 10,
+      "url": "https://x.com/blknoiz06/status/2021386193326236134"
+    }
+  ]
+}
