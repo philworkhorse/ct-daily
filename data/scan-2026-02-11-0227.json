@@ -1,0 +1,122 @@
+{
+  "timestamp": "2026-02-11T02:27:16.057Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 7,
+    "neutral": 85,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$RTS",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$GIGA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$RTS",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 3
+    },
+    "metals": {},
+    "macro": {},
+    "industry": {
+      "fired": 2
+    }
+  },
+  "tickerDetails": {
+    "$RTS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/FQNzSYx6HF verified earnings for $RTS on @BagsApp 💰\n\nhttps://t.co/LXB41B6tnx",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.14K of $soluna at $1.42M MC 🐳\n\nhttps://t.co/G3n1jcyHYv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GIGA": [
+      {
+        "author": "gigagriff",
+        "text": "In every single coin, there are between 20-50 anonymous individuals that can send the coin down -90%.\n\nThe fewer of these people, the better. \n\nThis why distribution is important.\n\nIn 2024 one singula",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "0xsmac",
+      "text": "ct’s biggest issue is that it’s become infested with spiteful people who don’t want to see others achieve anything\n\n(i don’t even own zro i’m just observing the reaction to a team who has been building for years &amp; is excited about something that should grow the pie)",
+      "likes": 232,
+      "retweets": 26,
+      "url": "https://x.com/0xsmac/status/2021363065225404597"
+    },
+    {
+      "author": "dcfgod",
+      "text": "\"Citadel Securities and Ark Invest have bought LayerZero’s native ZRO token.\"\n\nRIP to the \"all value is in the labs\" take \n\nWould be shocked if tether didn't also buy tokens \n\nSell the news people are wrong on this one, we're adding \n\nTradfi is aligned on the crypto native projec",
+      "likes": 156,
+      "retweets": 18,
+      "url": "https://x.com/dcfgod/status/2021339354778808624"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "claude code has revolutionized my life. i can’t tell you anything im doing yet but understand im cooking. its changed my life. i obviously can’t share why or how but i haven’t felt like this in decades. i just need you to know. decades. more on this later but i just need everyone",
+      "likes": 130,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2021404673589076294"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "claude code has revolutionized my life. i can’t tell you anything im doing yet but understand im cooking. its changed my life. i obviously can’t share why or how but i haven’t felt like this in decades. i just need you to know. decades. more on this later but i just need everyone",
+      "likes": 130,
+      "retweets": 5,
+      "url": "https://x.com/notthreadguy/status/2021404673589076294"
+    },
+    {
+      "author": "himgajria",
+      "text": "Other memes: \nWe’re the next fartcoin. \nWe’re the next white whale. \nWe’re the next dogecoin. \n\nCopper (inu): \nWe’re the first memetic store of value.\n\nWe’re not experimenting with memes.\nWe’re experimenting with hyperstition.",
+      "likes": 110,
+      "retweets": 21,
+      "url": "https://x.com/himgajria/status/2021394449134432334"
+    }
+  ]
+}
