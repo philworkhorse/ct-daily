@@ -1,0 +1,177 @@
+{
+  "timestamp": "2026-02-11T03:46:49.648Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 11,
+    "bearish": 2,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$YUKI",
+      1
+    ],
+    [
+      "$MONIIV",
+      1
+    ],
+    [
+      "$ARGONA",
+      1
+    ],
+    [
+      "$IOR",
+      1
+    ],
+    [
+      "$OPTIMIST",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$YUKI",
+        "count": 1
+      },
+      {
+        "ticker": "$MONIIV",
+        "count": 1
+      },
+      {
+        "ticker": "$ARGONA",
+        "count": 1
+      },
+      {
+        "ticker": "$IOR",
+        "count": 1
+      },
+      {
+        "ticker": "$OPTIMIST",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "oil": 1,
+      "copper": 1
+    },
+    "metals": {},
+    "macro": {
+      "unemployment": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$YUKI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @agentyuki_cloud verified earnings for $YUKI on @BagsApp 💰\n\nhttps://t.co/oXnI7N8TFd",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$MONIIV": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @benny_euro verified earnings for $MONIIV2 on @BagsApp 💰\n\nhttps://t.co/buudP9JuP9",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$ARGONA": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @brenpoliAI verified earnings for $ARGONA0X on @BagsApp 💰\n\nhttps://t.co/cbvw1AlReK",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.65K of $IOR50 at $235.32K MC 🐳\n\nhttps://t.co/0xQIRmz3ES",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $2.1K of $soluna at $1.84M MC 🐳\n\nhttps://t.co/uRhfaL51KJ",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$IOR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $1.65K of $IOR50 at $235.32K MC 🐳\n\nhttps://t.co/0xQIRmz3ES",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$OPTIMIST": [
+      {
+        "author": "whalewatchalert",
+        "text": "Win Alert 📈\n\nA trader on Moby Mobile just closed a position of $OPTIMIST with a PnL of +208.75%.\n\n$OPTIMIST has been trending on Moby since $52.15K MC. Currently sitting at $199.2K MC. https://t.co/1",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "TheNBACentel",
+      "text": "Bronny doing LeBron’s pregame ritual 😭😭https://t.co/7Fsn1o2d1Q",
+      "likes": 225,
+      "retweets": 7,
+      "url": "https://x.com/TheNBACentel/status/2021426657287078344"
+    },
+    {
+      "author": "traderpow",
+      "text": "I for one am bullish on memecoins because it bridges the low/high IQ participants (including dormant money when prices goes higher) together to become opportunists and success story enthusiasts",
+      "likes": 221,
+      "retweets": 18,
+      "url": "https://x.com/traderpow/status/2021415665845010545"
+    },
+    {
+      "author": "traderpow",
+      "text": "I for one am bullish on memecoins because it bridges the low/high IQ participants (including dormant money when prices goes higher) together to become opportunists and success story enthusiasts",
+      "likes": 221,
+      "retweets": 18,
+      "url": "https://x.com/traderpow/status/2021415665845010545"
+    },
+    {
+      "author": "traderpow",
+      "text": "Soluna: the call-to-action",
+      "likes": 126,
+      "retweets": 29,
+      "url": "https://x.com/traderpow/status/2021413676998328466"
+    },
+    {
+      "author": "remusofmars",
+      "text": "It’s been an on chain bear market for a 12-18 months btw. \n\nDon’t worry I didn’t realize till 8 months in either",
+      "likes": 108,
+      "retweets": 1,
+      "url": "https://x.com/remusofmars/status/2021374308375986482"
+    }
+  ]
+}
