@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-02-11T03:07:11.019Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 2,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$OPTIMIST",
+      1
+    ],
+    [
+      "$GOYIM",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$OPTIMIST",
+        "count": 1
+      },
+      {
+        "ticker": "$GOYIM",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {},
+    "metals": {},
+    "macro": {
+      "unemployment": 1,
+      "dollar": 2,
+      "fed": 1
+    },
+    "industry": {
+      "fired": 1,
+      "firing": 1
+    }
+  },
+  "tickerDetails": {
+    "$OPTIMIST": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $Top KOLs whale just bought $1K of $OPTIMIST at $237.92K MC 🐳\n\nhttps://t.co/DITI8tK6TV",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$GOYIM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: https://t.co/7KCUu3YspN verified earnings for $GOYIM on @BagsApp 💰\n\nhttps://t.co/uztjjM1Xg5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "solana",
+      "text": "🔜 https://t.co/qSz8btqXxu",
+      "likes": 518,
+      "retweets": 65,
+      "url": "https://x.com/solana/status/2021403383605891466"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "claude code has revolutionized my life. i can’t tell you anything im doing yet but understand im cooking. its changed my life. i obviously can’t share why or how but i haven’t felt like this in decades. i just need you to know. decades. more on this later but i just need everyone",
+      "likes": 239,
+      "retweets": 7,
+      "url": "https://x.com/notthreadguy/status/2021404673589076294"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "claude code has revolutionized my life. i can’t tell you anything im doing yet but understand im cooking. its changed my life. i obviously can’t share why or how but i haven’t felt like this in decades. i just need you to know. decades. more on this later but i just need everyone",
+      "likes": 239,
+      "retweets": 7,
+      "url": "https://x.com/notthreadguy/status/2021404673589076294"
+    },
+    {
+      "author": "dcfgod",
+      "text": "\"Citadel Securities and Ark Invest have bought LayerZero’s native ZRO token.\"\n\nRIP to the \"all value is in the labs\" take \n\nWould be shocked if tether didn't also buy tokens \n\nSell the news people are wrong on this one, we're adding \n\nTradfi is aligned on the crypto native projec",
+      "likes": 169,
+      "retweets": 18,
+      "url": "https://x.com/dcfgod/status/2021339354778808624"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "just heard someone say “the going to college method got patched” in the wild",
+      "likes": 141,
+      "retweets": 9,
+      "url": "https://x.com/notthreadguy/status/2021410769976557741"
+    },
+    {
+      "author": "jessepollak",
+      "text": "nothing gets me more fired up then talking to @base builders",
+      "likes": 131,
+      "retweets": 1,
+      "url": "https://x.com/jessepollak/status/2021408911690236352"
+    },
+    {
+      "author": "LucaNetz",
+      "text": "Layer Zero team is next level. Congratulations 🐐",
+      "likes": 129,
+      "retweets": 8,
+      "url": "https://x.com/LucaNetz/status/2021406699165569093"
+    },
+    {
+      "author": "growing_daniel",
+      "text": "why is this lady being astroturfed so hard",
+      "likes": 120,
+      "retweets": 1,
+      "url": "https://x.com/growing_daniel/status/2021416789658452133"
+    },
+    {
+      "author": "traderpow",
+      "text": "I for one am bullish on memecoins because it bridges the low/high IQ participants (including dormant money when prices goes higher) together to become opportunists and success story enthusiasts",
+      "likes": 102,
+      "retweets": 8,
+      "url": "https://x.com/traderpow/status/2021415665845010545"
+    },
+    {
+      "author": "traderpow",
+      "text": "I for one am bullish on memecoins because it bridges the low/high IQ participants (including dormant money when prices goes higher) together to become opportunists and success story enthusiasts",
+      "likes": 101,
+      "retweets": 8,
+      "url": "https://x.com/traderpow/status/2021415665845010545"
+    }
+  ]
+}
