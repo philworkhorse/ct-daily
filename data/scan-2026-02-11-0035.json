@@ -1,0 +1,202 @@
+{
+  "timestamp": "2026-02-11T00:35:32.577Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 2,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$USELESS",
+      3
+    ],
+    [
+      "$COPPERINU",
+      3
+    ],
+    [
+      "$HOOD",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$QVC",
+      1
+    ],
+    [
+      "$EA",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$USELESS",
+        "count": 3
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 3
+      },
+      {
+        "ticker": "$HOOD",
+        "count": 1
+      },
+      {
+        "ticker": "$QVC",
+        "count": 1
+      },
+      {
+        "ticker": "$EA",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "gold": 2,
+      "copper": 3
+    },
+    "metals": {
+      "gold": 2
+    },
+    "macro": {
+      "treasury": 1,
+      "bond": 1
+    },
+    "industry": {
+      "firing": 1
+    }
+  },
+  "tickerDetails": {
+    "$HOOD": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Going to be averaging UP on $HOOD here soon. \n\nMissed revenue slightly \nBeat EPS \n\nNumber of funded customer accounts through the roof. \n\nThey noted that platform assets are up 68% to 324 BILLION \n\nTh",
+        "likes": 28,
+        "retweets": 1
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $5.55K of $COPPERINU at $13.94M MC 🐳\n\nhttps://t.co/0oP9zhDbmY",
+        "likes": 3,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $5.55K of $COPPERINU at $13.16M MC 🐳\n\nhttps://t.co/72oOhwOFdW",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $8.31K of $COPPERINU at $12.75M MC 🐳\n\nhttps://t.co/46eqJi6PHJ",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $5.55K of $COPPERINU at $13.94M MC 🐳\n\nhttps://t.co/0oP9zhDbmY",
+        "likes": 3,
+        "retweets": 1
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $5.55K of $COPPERINU at $13.16M MC 🐳\n\nhttps://t.co/72oOhwOFdW",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $8.31K of $COPPERINU at $12.75M MC 🐳\n\nhttps://t.co/46eqJi6PHJ",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "Mindless or Risk adjusted DCA'ing alone is not enough to make it in today's markets.\n\nUsing only $BTC (best returning, yet safe asset), with the recent cycle performing an 8x, and assuming taxes don't",
+        "likes": 46,
+        "retweets": 1
+      }
+    ],
+    "$QVC": [
+      {
+        "author": "junkbondinvest",
+        "text": "Wow, shocked that people don't want to buy jewelry from their TV anymore.\n\nSome business models can't be restructured. They should just end.\n\n$QVC https://t.co/Dy4obUfepG",
+        "likes": 10,
+        "retweets": 0
+      }
+    ],
+    "$EA": [
+      {
+        "author": "junkbondinvest",
+        "text": "EA 2051 bondholders were supposed to get a 101 CoC upon an LBO.\n\nYet after the announcement, the bonds traded only at ~90. Not quite 101.\n\nThere was a reason.\n\nToday we learned why. JPMorgan launched ",
+        "likes": 7,
+        "retweets": 2
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "moonpay",
+      "text": "BREAKING: @Deel and MoonPay partner to help 40,000 businesses pay employees in stablecoins\n\n💰 Your salary, paid in stablecoins\n\n💸 Delivered directly to your non-custodial wallet\n\n🚀 Launching in UK + EU (US next)\n\n⚡️ Powered by @iron\n\nGlobal payroll. Crypto rails. March 2026. h",
+      "likes": 875,
+      "retweets": 169,
+      "url": "https://x.com/moonpay/status/2021222768281354263"
+    },
+    {
+      "author": "a1lon9",
+      "text": "@notthreadguy now he knows!",
+      "likes": 165,
+      "retweets": 2,
+      "url": "https://x.com/a1lon9/status/2021354679767371912"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "yall think tim draper knows what x402 is or nah",
+      "likes": 145,
+      "retweets": 4,
+      "url": "https://x.com/notthreadguy/status/2021347665297203258"
+    },
+    {
+      "author": "0xsmac",
+      "text": "ct’s biggest issue is that it’s become infested with spiteful people who don’t want to see others achieve anything\n\n(i don’t even own zro i’m just observing the reaction to a team who has been building for years &amp; is excited about something that should grow the pie)",
+      "likes": 117,
+      "retweets": 11,
+      "url": "https://x.com/0xsmac/status/2021363065225404597"
+    },
+    {
+      "author": "himgajria",
+      "text": "Imagine looking back a year from now and thinking: \n\n“This is the industry I log into every day, yet I missed its biggest movement even after seeing it on the timeline every single day”\n\nCouldn’t be me.",
+      "likes": 100,
+      "retweets": 11,
+      "url": "https://x.com/himgajria/status/2021358208313590126"
+    }
+  ]
+}
