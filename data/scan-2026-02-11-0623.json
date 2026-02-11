@@ -1,0 +1,217 @@
+{
+  "timestamp": "2026-02-11T06:23:33.731Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 6,
+    "bearish": 7,
+    "neutral": 87,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      3
+    ],
+    [
+      "$USELESS",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$JUPSOL",
+      1
+    ],
+    [
+      "$JUP",
+      1
+    ],
+    [
+      "$SOMETHING",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 3
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$JUPSOL",
+        "count": 1
+      },
+      {
+        "ticker": "$JUP",
+        "count": 1
+      },
+      {
+        "ticker": "$SOMETHING",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 2
+    },
+    "metals": {},
+    "macro": {
+      "yields": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @everyonebpup: $600 For Sparkling Water\n\nSomeone inside a global beverage major saw the $REKT numbers and called bullshit.\n\nAverage orde…",
+        "likes": 0,
+        "retweets": 21
+      },
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/IZrPV5ybws",
+        "likes": 48,
+        "retweets": 0
+      },
+      {
+        "author": "osf_rekt",
+        "text": "RT @timthedrummer: I am not rich by any means and work a blue collar job but $REKT keeps giving me generational wealth entries for cheap \n$…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $5.05K of $PENGUIN at $23.14M MC 🐳\n\nhttps://t.co/tD5t9ggWcD",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $USELESS whale just bought $5.05K of $PENGUIN at $23.14M MC 🐳\n\nhttps://t.co/tD5t9ggWcD",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JUPSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $99.77K of $JupSOL at $390.08M MC 🐳\n\nhttps://t.co/Ol73IelXFv",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$JUP": [
+      {
+        "author": "JupiterExchange",
+        "text": "BREAKING: \n\nJupiter secures a $35M strategic investment into $JUP from ParaFi Capital to accelerate onchain financial infrastructure.\n\nThis deal - which will be settled entirely in $JupUSD - was close",
+        "likes": 1842,
+        "retweets": 302
+      }
+    ],
+    "$SOMETHING": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @DividendBots verified earnings for $SOMETHING on @BagsApp 💰\n\nhttps://t.co/UfvO2OWRvD",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "JupiterExchange",
+      "text": "BREAKING: \n\nJupiter secures a $35M strategic investment into $JUP from ParaFi Capital to accelerate onchain financial infrastructure.\n\nThis deal - which will be settled entirely in $JupUSD - was closed at spot price with ParaFi committing to an extended token lockup. https://t.co",
+      "likes": 1842,
+      "retweets": 302,
+      "url": "https://x.com/JupiterExchange/status/2018191577143747014"
+    },
+    {
+      "author": "youngthug",
+      "text": "Brian Steel…",
+      "likes": 547,
+      "retweets": 48,
+      "url": "https://x.com/youngthug/status/2021464365506101712"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, stop selling https://t.co/pgKyqM26H3",
+      "likes": 201,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2021464435119067245"
+    },
+    {
+      "author": "DonAlt",
+      "text": "1M+ mentions?\nMan isn't in the Epstein files\nHe's the main character",
+      "likes": 180,
+      "retweets": 12,
+      "url": "https://x.com/DonAlt/status/2021462290558861733"
+    },
+    {
+      "author": "boldleonidas",
+      "text": "CZ whenever he’s asked a question about Binance: https://t.co/LuV2qIxC6D",
+      "likes": 141,
+      "retweets": 7,
+      "url": "https://x.com/boldleonidas/status/2021463038193434725"
+    },
+    {
+      "author": "solana",
+      "text": "\"Solana leads all payment platforms across Web2 and Web3 in total payment volume. Growing at 750%, alongside 880% growth in B2B payments.\"\n\n@patkkim from @artemis https://t.co/GSJviBExYB",
+      "likes": 117,
+      "retweets": 26,
+      "url": "https://x.com/solana/status/2021462656021037314"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "things are moving too fast to keep up with again i’ve missed this 2021 ahh feeling",
+      "likes": 115,
+      "retweets": 4,
+      "url": "https://x.com/notthreadguy/status/2021440711628030420"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i landed a mythical interview with the giver on stream tomorrow",
+      "likes": 111,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2021396439054811634"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "nikita bier put crack in the algo this thing is actually perfect rn please change nothing",
+      "likes": 110,
+      "retweets": 2,
+      "url": "https://x.com/notthreadguy/status/2021446354321670466"
+    },
+    {
+      "author": "based16z",
+      "text": "Haven't seen this really take off in crypto but it does seem more likely that the most profitable/powerful entities may have zero humans within a few years https://t.co/IxISb472nR",
+      "likes": 105,
+      "retweets": 13,
+      "url": "https://x.com/based16z/status/2021438019623059486"
+    }
+  ]
+}

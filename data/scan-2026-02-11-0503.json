@@ -1,0 +1,155 @@
+{
+  "timestamp": "2026-02-11T05:03:33.222Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 1,
+    "bearish": 3,
+    "neutral": 96,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$CLICKSTR",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$JUPSOL",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$CLICKSTR",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$JUPSOL",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$ETH",
+        "count": 1
+      },
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1
+    },
+    "metals": {},
+    "macro": {
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$CLICKSTR": [
+      {
+        "author": "jessepollak",
+        "text": "RT @songadaymann: introducing ClickStrategy\n\nclick the button to earn $CLICKSTR\n\nca 0x7ddbd0c4a0383a0f9611b715809f92c90e1d991d\n\nhttps://t.c…",
+        "likes": 0,
+        "retweets": 17
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "fundstrat",
+        "text": "RT @Cryptonnaber: $ETH \nEvery time a massive selling volume spike appeared on the Ethereum chart, it marked a local bottom - without except…",
+        "likes": 0,
+        "retweets": 6
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $5.45K of $1 at $2.72M MC 🐳\n\nhttps://t.co/of2ohyKTIk",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC shorts\n\nAt 67.5k now. Very close to 67.2k  and our third win in a row + a small experiment\n\nAlright! After endless repeating of how I expected 67.2k next, and where I aimed it to be the exact loc",
+        "likes": 45,
+        "retweets": 4
+      }
+    ],
+    "$JUPSOL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $JUPSOL whale just bought $15K of $JupSOL at $391.38M MC 🐳\n\nhttps://t.co/ULrKns9E9f",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "notthreadguy",
+      "text": "claude code has revolutionized my life. i can’t tell you anything im doing yet but understand im cooking. its changed my life. i obviously can’t share why or how but i haven’t felt like this in decades. i just need you to know. decades. more on this later but i just need everyone",
+      "likes": 431,
+      "retweets": 16,
+      "url": "https://x.com/notthreadguy/status/2021404673589076294"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Every memecoin rally is someone else’s liquidity event.\n\nThe only question is whether you’re early distribution or late distribution.",
+      "likes": 159,
+      "retweets": 5,
+      "url": "https://x.com/intocryptoverse/status/2021445173193179476"
+    },
+    {
+      "author": "hoodg3nius",
+      "text": "sigh, AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
+      "likes": 159,
+      "retweets": 5,
+      "url": "https://x.com/hoodg3nius/status/2021443806017507418"
+    },
+    {
+      "author": "solana",
+      "text": "Prediction markets are in a bull market on Solana. 400+ apps building on the @dflow Prediction Markets API since launch in December.\n\n- @DanJablonski https://t.co/4GzL8YXAv1",
+      "likes": 117,
+      "retweets": 35,
+      "url": "https://x.com/solana/status/2021445458930041086"
+    },
+    {
+      "author": "frankdegods",
+      "text": "scrolling timeline is like reading my takes from a month ago",
+      "likes": 102,
+      "retweets": 4,
+      "url": "https://x.com/frankdegods/status/2021416916171346071"
+    }
+  ]
+}

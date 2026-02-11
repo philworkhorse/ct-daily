@@ -1,0 +1,201 @@
+{
+  "timestamp": "2026-02-11T07:04:27.487Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 6,
+    "neutral": 89,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      3
+    ],
+    [
+      "$BLOWFISH",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$SILVER",
+      1
+    ],
+    [
+      "$MOLTGRAM",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 3
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 1
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$MOLTGRAM",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [
+      {
+        "ticker": "$SILVER",
+        "count": 1
+      }
+    ],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 2,
+      "silver": 2,
+      "copper": 1
+    },
+    "metals": {
+      "gold": 2,
+      "silver": 2
+    },
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @everyonebpup: $600 For Sparkling Water\n\nSomeone inside a global beverage major saw the $REKT numbers and called bullshit.\n\nAverage orde…",
+        "likes": 0,
+        "retweets": 23
+      },
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/IZrPV5ybws",
+        "likes": 58,
+        "retweets": 1
+      },
+      {
+        "author": "osf_rekt",
+        "text": "RT @timthedrummer: I am not rich by any means and work a blue collar job but $REKT keeps giving me generational wealth entries for cheap \n$…",
+        "likes": 0,
+        "retweets": 2
+      }
+    ],
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @degnsol just bought $5.56K of $BLOWFISH at $1.06M MC 🐳\n\nhttps://t.co/0Z4OUPXffB",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: Copper is ripping higher\n\nIf you missed $XAU and $SILVER, this might be your chance\n\nThe denominator is valueless; never forg…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$SILVER": [
+      {
+        "author": "0xFinish",
+        "text": "RT @0xFinish: Copper is ripping higher\n\nIf you missed $XAU and $SILVER, this might be your chance\n\nThe denominator is valueless; never forg…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$MOLTGRAM": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Moltgramapps verified earnings for $MOLTGRAM on @BagsApp 💰\n\nhttps://t.co/BOO9IKqIOy",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "astronomer_zero",
+        "text": "$BTC shorts\n\n67.2k reached, TP hit, three wins in a row ✅\n\nAlright! 67.2k hit. Indeed, no front running, no teasing, simply hitting target despite me sharing every single entry and exit (TP or when I ",
+        "likes": 98,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "waleswoosh",
+      "text": "Gm, stop selling https://t.co/pgKyqM26H3",
+      "likes": 408,
+      "retweets": 7,
+      "url": "https://x.com/waleswoosh/status/2021464435119067245"
+    },
+    {
+      "author": "WogTheArtist",
+      "text": "It’s time. \n\nA new beginning. \n\nFebruary 11th, 1 PM EST. \n\n@Pumpfun be ready. https://t.co/NCU1PLKptW",
+      "likes": 199,
+      "retweets": 33,
+      "url": "https://x.com/WogTheArtist/status/2021476352529138106"
+    },
+    {
+      "author": "finnbags",
+      "text": "It’s time for things to change…",
+      "likes": 134,
+      "retweets": 7,
+      "url": "https://x.com/finnbags/status/2021454278217588797"
+    },
+    {
+      "author": "solana",
+      "text": "\"Jupiter is the default first stop for anyone coming to Solana. 100+ strategic partners across crypto and web2, from Coinbase to Robinhood to Ethena to Kalshi and many more\"\n\n@xxjzhu, President @JupiterExchange https://t.co/fNtOTWd9K9",
+      "likes": 126,
+      "retweets": 24,
+      "url": "https://x.com/solana/status/2021473886496489538"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "nikita bier put crack in the algo this thing is actually perfect rn please change nothing",
+      "likes": 125,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2021446354321670466"
+    },
+    {
+      "author": "based16z",
+      "text": "Haven't seen this really take off in crypto but it does seem more likely that the most profitable/powerful entities may have zero humans within a few years https://t.co/IxISb472nR",
+      "likes": 117,
+      "retweets": 13,
+      "url": "https://x.com/based16z/status/2021438019623059486"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i landed a mythical interview with the giver on stream tomorrow",
+      "likes": 116,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2021396439054811634"
+    }
+  ]
+}

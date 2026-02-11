@@ -1,0 +1,439 @@
+{
+  "scans": [
+    {
+      "timestamp": "2026-01-29T05:28:29.049Z",
+      "ts": 1769664509052,
+      "sentiment": {
+        "bullish": 16,
+        "bearish": 8,
+        "neutral": 76,
+        "total": 100
+      },
+      "topTickers": [
+        {
+          "ticker": "$BTC",
+          "count": 15
+        },
+        {
+          "ticker": "$PENGUIN",
+          "count": 4
+        },
+        {
+          "ticker": "$HYPE",
+          "count": 3
+        },
+        {
+          "ticker": "$TRUMP",
+          "count": 3
+        },
+        {
+          "ticker": "$POKEMON",
+          "count": 2
+        },
+        {
+          "ticker": "$ETH",
+          "count": 2
+        },
+        {
+          "ticker": "$SOL",
+          "count": 2
+        },
+        {
+          "ticker": "$CLAWD",
+          "count": 1
+        },
+        {
+          "ticker": "$WIF",
+          "count": 1
+        }
+      ],
+      "narratives": {
+        "metals": 3,
+        "macro": 2
+      }
+    },
+    {
+      "timestamp": "2026-01-29T05:28:34.713Z",
+      "ts": 1769664514713,
+      "sentiment": {
+        "bullish": 16,
+        "bearish": 8,
+        "neutral": 76,
+        "total": 100
+      },
+      "topTickers": [
+        {
+          "ticker": "$BTC",
+          "count": 15
+        },
+        {
+          "ticker": "$PENGUIN",
+          "count": 4
+        },
+        {
+          "ticker": "$HYPE",
+          "count": 3
+        },
+        {
+          "ticker": "$TRUMP",
+          "count": 3
+        },
+        {
+          "ticker": "$POKEMON",
+          "count": 2
+        },
+        {
+          "ticker": "$ETH",
+          "count": 2
+        },
+        {
+          "ticker": "$SOL",
+          "count": 2
+        },
+        {
+          "ticker": "$CLAWD",
+          "count": 1
+        },
+        {
+          "ticker": "$WIF",
+          "count": 1
+        }
+      ],
+      "narratives": {
+        "metals": 3,
+        "macro": 2
+      }
+    },
+    {
+      "timestamp": "2026-01-29T21:56:17.689Z",
+      "ts": 1769723777690,
+      "sentiment": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 0,
+        "total": 0
+      },
+      "topTickers": [],
+      "narratives": {
+        "metals": 0,
+        "macro": 0
+      }
+    },
+    {
+      "timestamp": "2026-01-29T21:56:45.721Z",
+      "ts": 1769723805724,
+      "sentiment": {
+        "bullish": 8,
+        "bearish": 2,
+        "neutral": 90,
+        "total": 100
+      },
+      "topTickers": [
+        {
+          "ticker": "$BTC",
+          "count": 5
+        },
+        {
+          "ticker": "$BUTTCOIN",
+          "count": 2
+        },
+        {
+          "ticker": "$ETH",
+          "count": 2
+        },
+        {
+          "ticker": "$REKT",
+          "count": 1
+        },
+        {
+          "ticker": "$DONALD",
+          "count": 1
+        },
+        {
+          "ticker": "$SEI",
+          "count": 1
+        },
+        {
+          "ticker": "$CANCER",
+          "count": 1
+        }
+      ],
+      "narratives": {
+        "metals": 2,
+        "macro": 0
+      }
+    }
+  ],
+  "tickerHistory": {
+    "$PENGUIN": [
+      {
+        "ts": 1769664509052,
+        "count": 4
+      },
+      {
+        "ts": 1769664514713,
+        "count": 4
+      }
+    ],
+    "$HYPE": [
+      {
+        "ts": 1769664509052,
+        "count": 3
+      },
+      {
+        "ts": 1769664514713,
+        "count": 3
+      },
+      {
+        "ts": 1769723805724,
+        "count": 1
+      }
+    ],
+    "$TRUMP": [
+      {
+        "ts": 1769664509052,
+        "count": 3
+      },
+      {
+        "ts": 1769664514713,
+        "count": 3
+      }
+    ],
+    "$POKEMON": [
+      {
+        "ts": 1769664509052,
+        "count": 2
+      },
+      {
+        "ts": 1769664514713,
+        "count": 2
+      }
+    ],
+    "$CLAWD": [
+      {
+        "ts": 1769664509052,
+        "count": 1
+      },
+      {
+        "ts": 1769664514713,
+        "count": 1
+      }
+    ],
+    "$BUTTCOIN": [
+      {
+        "ts": 1769664509052,
+        "count": 1
+      },
+      {
+        "ts": 1769664514713,
+        "count": 1
+      },
+      {
+        "ts": 1769723805724,
+        "count": 2
+      }
+    ],
+    "$FARTCOIN": [
+      {
+        "ts": 1769664509052,
+        "count": 1
+      },
+      {
+        "ts": 1769664514713,
+        "count": 1
+      }
+    ],
+    "$PIGEON": [
+      {
+        "ts": 1769664509052,
+        "count": 1
+      },
+      {
+        "ts": 1769664514713,
+        "count": 1
+      }
+    ],
+    "$PWOG": [
+      {
+        "ts": 1769664509052,
+        "count": 1
+      },
+      {
+        "ts": 1769664514713,
+        "count": 1
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "ts": 1769664509052,
+        "count": 1
+      },
+      {
+        "ts": 1769664514713,
+        "count": 1
+      }
+    ],
+    "$CHICKEN": [
+      {
+        "ts": 1769664509052,
+        "count": 1
+      },
+      {
+        "ts": 1769664514713,
+        "count": 1
+      }
+    ],
+    "$EGG": [
+      {
+        "ts": 1769664509052,
+        "count": 1
+      },
+      {
+        "ts": 1769664514713,
+        "count": 1
+      }
+    ],
+    "$USER": [
+      {
+        "ts": 1769664509052,
+        "count": 1
+      },
+      {
+        "ts": 1769664514713,
+        "count": 1
+      }
+    ],
+    "$PEPPER": [
+      {
+        "ts": 1769664509052,
+        "count": 1
+      },
+      {
+        "ts": 1769664514713,
+        "count": 1
+      }
+    ],
+    "$BTC": [
+      {
+        "ts": 1769664509052,
+        "count": 15
+      },
+      {
+        "ts": 1769664514713,
+        "count": 15
+      },
+      {
+        "ts": 1769723805724,
+        "count": 5
+      }
+    ],
+    "$ETH": [
+      {
+        "ts": 1769664509052,
+        "count": 2
+      },
+      {
+        "ts": 1769664514713,
+        "count": 2
+      },
+      {
+        "ts": 1769723805724,
+        "count": 2
+      }
+    ],
+    "$SOL": [
+      {
+        "ts": 1769664509052,
+        "count": 2
+      },
+      {
+        "ts": 1769664514713,
+        "count": 2
+      }
+    ],
+    "$WIF": [
+      {
+        "ts": 1769664509052,
+        "count": 1
+      },
+      {
+        "ts": 1769664514713,
+        "count": 1
+      }
+    ],
+    "$REKT": [
+      {
+        "ts": 1769723805724,
+        "count": 1
+      }
+    ],
+    "$DONALD": [
+      {
+        "ts": 1769723805724,
+        "count": 1
+      }
+    ],
+    "$SEI": [
+      {
+        "ts": 1769723805724,
+        "count": 1
+      }
+    ],
+    "$CANCER": [
+      {
+        "ts": 1769723805724,
+        "count": 1
+      }
+    ],
+    "$BP": [
+      {
+        "ts": 1769723805724,
+        "count": 1
+      }
+    ],
+    "$JUP": [
+      {
+        "ts": 1769723805724,
+        "count": 1
+      }
+    ],
+    "$ROHIT": [
+      {
+        "ts": 1769723805724,
+        "count": 1
+      }
+    ],
+    "$GIGA": [
+      {
+        "ts": 1769723805724,
+        "count": 1
+      }
+    ]
+  },
+  "sentimentHistory": [
+    {
+      "ts": 1769664509052,
+      "bullish": 16,
+      "bearish": 8,
+      "total": 100
+    },
+    {
+      "ts": 1769664514713,
+      "bullish": 16,
+      "bearish": 8,
+      "total": 100
+    },
+    {
+      "ts": 1769723777690,
+      "bullish": 0,
+      "bearish": 0,
+      "total": 0
+    },
+    {
+      "ts": 1769723805724,
+      "bullish": 8,
+      "bearish": 2,
+      "total": 100
+    }
+  ]
+}
