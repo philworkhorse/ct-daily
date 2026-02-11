@@ -1,0 +1,225 @@
+{
+  "timestamp": "2026-02-11T04:26:52.942Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 5,
+    "bearish": 2,
+    "neutral": 93,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      3
+    ],
+    [
+      "$CLICKSTR",
+      1
+    ],
+    [
+      "$COPPERINU",
+      1
+    ],
+    [
+      "$COUGAR",
+      1
+    ],
+    [
+      "$BBO",
+      1
+    ],
+    [
+      "$SOL",
+      1
+    ],
+    [
+      "$OSHI",
+      1
+    ],
+    [
+      "$KOL",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 3
+      },
+      {
+        "ticker": "$CLICKSTR",
+        "count": 1
+      },
+      {
+        "ticker": "$COPPERINU",
+        "count": 1
+      },
+      {
+        "ticker": "$COUGAR",
+        "count": 1
+      },
+      {
+        "ticker": "$BBO",
+        "count": 1
+      },
+      {
+        "ticker": "$OSHI",
+        "count": 1
+      },
+      {
+        "ticker": "$KOL",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$SOL",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "copper": 1,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$CLICKSTR": [
+      {
+        "author": "jessepollak",
+        "text": "RT @songadaymann: introducing ClickStrategy\n\nclick the button to earn $CLICKSTR\n\nca 0x7ddbd0c4a0383a0f9611b715809f92c90e1d991d\n\nhttps://t.c…",
+        "likes": 0,
+        "retweets": 15
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.88K of $COPPERINU at $10.13M MC 🐳\n\nhttps://t.co/NTITQQ6l4j",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $0.49K of $BBO at $151.32K MC 🐳\n\nhttps://t.co/JfkoanwqoG",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "crypto_bitlord7",
+        "text": "$PENGUIN is rising https://t.co/WjYI1uQcd2",
+        "likes": 27,
+        "retweets": 3
+      }
+    ],
+    "$COPPERINU": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $6.88K of $COPPERINU at $10.13M MC 🐳\n\nhttps://t.co/NTITQQ6l4j",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$COUGAR": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @ianmiles verified earnings for $COUGAR on @BagsApp 💰\n\nhttps://t.co/WZpQecGF41",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BBO": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $0.49K of $BBO at $151.32K MC 🐳\n\nhttps://t.co/JfkoanwqoG",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SOL": [
+      {
+        "author": "Credib1eGuy",
+        "text": "Hey @mert \n\nDoes this mean $SOL is worth $0?",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$OSHI": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @fxnction verified earnings for $OSHI on @BagsApp 💰\n\nhttps://t.co/npFtx2V7YU",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$KOL": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @onchainrapist verified earnings for $KOL on @BagsApp 💰\n\nhttps://t.co/ZrhZqckRcH",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $4.03K of $丙午 at $2.03M MC 🐳\n\nhttps://t.co/7otLc8ey0I",
+        "likes": 0,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ThinkingUSD",
+      "text": "If you care about the future of Crypto you must move all your trading onchain.",
+      "likes": 458,
+      "retweets": 32,
+      "url": "https://x.com/ThinkingUSD/status/2021288967820206322"
+    },
+    {
+      "author": "TheNBACentel",
+      "text": "WEMBY SCORED 40 POINTS IN THE 1ST QUARTER 😭🔥 https://t.co/ylrephellr",
+      "likes": 412,
+      "retweets": 7,
+      "url": "https://x.com/TheNBACentel/status/2021437193210953900"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "claude code has revolutionized my life. i can’t tell you anything im doing yet but understand im cooking. its changed my life. i obviously can’t share why or how but i haven’t felt like this in decades. i just need you to know. decades. more on this later but i just need everyone",
+      "likes": 382,
+      "retweets": 16,
+      "url": "https://x.com/notthreadguy/status/2021404673589076294"
+    },
+    {
+      "author": "pmarca",
+      "text": "Congratulations to @layerzero_core for launching their new blockchain, Zero - a technical breakthrough that also uses Jolt, the open source zkVM (zero knowledge virtual machine) built by our @a16zcrypto research &amp; engineering teams. ⚡️",
+      "likes": 223,
+      "retweets": 17,
+      "url": "https://x.com/pmarca/status/2021431424872743411"
+    }
+  ]
+}
