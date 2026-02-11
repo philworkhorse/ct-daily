@@ -1,0 +1,227 @@
+{
+  "timestamp": "2026-02-11T10:17:42.658Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 10,
+    "bearish": 4,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$BTC",
+      2
+    ],
+    [
+      "$ZRO",
+      1
+    ],
+    [
+      "$GIRAFFES",
+      1
+    ],
+    [
+      "$CLAWPUMPS",
+      1
+    ],
+    [
+      "$ETH",
+      1
+    ],
+    [
+      "$SKR",
+      1
+    ],
+    [
+      "$STAR",
+      1
+    ],
+    [
+      "$BACKROOMS",
+      1
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$CHUD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$ZRO",
+        "count": 1
+      },
+      {
+        "ticker": "$GIRAFFES",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWPUMPS",
+        "count": 1
+      },
+      {
+        "ticker": "$SKR",
+        "count": 1
+      },
+      {
+        "ticker": "$STAR",
+        "count": 1
+      },
+      {
+        "ticker": "$BACKROOMS",
+        "count": 1
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$CHUD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 2
+      },
+      {
+        "ticker": "$ETH",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 2,
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "treasury": 1,
+      "rate cut": 1
+    },
+    "industry": {
+      "layoff": 1
+    }
+  },
+  "tickerDetails": {
+    "$ZRO": [
+      {
+        "author": "SolidTradesz",
+        "text": "Find strength when the market shows weakness\n$ZRO is up nearly 40% after the recent bullish news\n\nKeeping it on top of my watchlist https://t.co/ew3rNqTFtb",
+        "likes": 89,
+        "retweets": 8
+      }
+    ],
+    "$GIRAFFES": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @f4vel just bought $4.88K of $GIRAFFES at $1.82M MC 🐳\n\nhttps://t.co/U3t6lvcdqN",
+        "likes": 9,
+        "retweets": 0
+      }
+    ],
+    "$CLAWPUMPS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @Pumps_fuel verified earnings for $CLAWPUMPS on @BagsApp 💰\n\nhttps://t.co/ItOLLSb6Gq",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC and $ETH have rebounded from last week’s lows.\n\nAnd on the macro side:\n• Weaker employment data is increasing expectations of a possible March rate cut\n• The Fear and Greed Index remains at 9 (Ex",
+        "likes": 1,
+        "retweets": 1
+      },
+      {
+        "author": "heart_",
+        "text": "gen alpha trading $BTC about to learn this week: https://t.co/rjBXaCSXtG",
+        "likes": 11,
+        "retweets": 0
+      }
+    ],
+    "$ETH": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "$BTC and $ETH have rebounded from last week’s lows.\n\nAnd on the macro side:\n• Weaker employment data is increasing expectations of a possible March rate cut\n• The Fear and Greed Index remains at 9 (Ex",
+        "likes": 1,
+        "retweets": 1
+      }
+    ],
+    "$SKR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $7.65K of $STAR at $700.81K MC 🐳\n\nhttps://t.co/Gf2eXmOlN5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$STAR": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SKR whale just bought $7.65K of $STAR at $700.81K MC 🐳\n\nhttps://t.co/Gf2eXmOlN5",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BACKROOMS": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @hey_ziIIa verified earnings for $BACKROOMS on @BagsApp 💰\n\nhttps://t.co/G30ubIunvl",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.21K of $CHUD at $143.1K MC 🐳\n\nhttps://t.co/cWnkA5QVR6",
+        "likes": 6,
+        "retweets": 0
+      }
+    ],
+    "$CHUD": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.21K of $CHUD at $143.1K MC 🐳\n\nhttps://t.co/cWnkA5QVR6",
+        "likes": 6,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "miragemunny",
+      "text": "i believe it is imperative for your longevity as a meme participant that you take the opportunities to build positions in established memecoins w/ proven communities and bottomed charts ahead of the next bullish wave instead of impatiently gambling your soul away on new-pair slop",
+      "likes": 159,
+      "retweets": 22,
+      "url": "https://x.com/miragemunny/status/2021267802238120282"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Perhaps Gold is just consolidating until the bull market support band catches up https://t.co/SQwYJzrIQo",
+      "likes": 154,
+      "retweets": 6,
+      "url": "https://x.com/intocryptoverse/status/2021525115432038680"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "timestamp": "2026-02-11T08:58:13.897Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 10,
+    "neutral": 83,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$GIGACHAD",
+      1
+    ],
+    [
+      "$BIG",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$BIRD",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$GIGACHAD",
+        "count": 1
+      },
+      {
+        "ticker": "$BIG",
+        "count": 1
+      },
+      {
+        "ticker": "$BIRD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$GIGACHAD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @gigaearnest verified earnings for $GIGACHAD on @BagsApp 💰\n\nhttps://t.co/8NFXEL93OA",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BIG": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @HalibutCrypto just bought $2.1K of $BIG at $216.58K MC 🐳\n\nhttps://t.co/KdPeF50mbg",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "$BTC drops below 67000$.\n\nWhat are the chances we see $50,000 ? https://t.co/LmRhAcqP13",
+        "likes": 29,
+        "retweets": 2
+      }
+    ],
+    "$BIRD": [
+      {
+        "author": "whalewatchalert",
+        "text": "A community member just added a banner image for $BIRD on MobyScreener 🖼️ https://t.co/w96UXU9dVp",
+        "likes": 11,
+        "retweets": 1
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Evan_ss6",
+      "text": "Getting February 2020 vibes here",
+      "likes": 1767,
+      "retweets": 72,
+      "url": "https://x.com/Evan_ss6/status/2021317730696147069"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, stop selling https://t.co/pgKyqM26H3",
+      "likes": 669,
+      "retweets": 11,
+      "url": "https://x.com/waleswoosh/status/2021464435119067245"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "I said the same thing when Monad launched:\n\nA new chain needs an early breakout money-making scheme to attract users.\n\nSomething early adopters can make real money on, a ponzi, memes, NFTs, whatever.\n\nThat’s what pushes the broader crowd to overcome the initial laziness and actua",
+      "likes": 285,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2021484865921876292"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "your aram teammates are on the wrong server on airport wifi @CL207 https://t.co/wjo0SiWsl5",
+      "likes": 279,
+      "retweets": 5,
+      "url": "https://x.com/izebel_eth/status/2021111870170579031"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "your aram teammates are on the wrong server on airport wifi @CL207 https://t.co/wjo0SiWsl5",
+      "likes": 279,
+      "retweets": 5,
+      "url": "https://x.com/izebel_eth/status/2021111870170579031"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Memecoins are the lowest rung in crypto’s capital stack.\n\nWhen liquidity tightens, the lowest rung doesn’t rotate.\nIt disappears.",
+      "likes": 164,
+      "retweets": 6,
+      "url": "https://x.com/intocryptoverse/status/2021505737445560460"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i landed a mythical interview with the giver on stream tomorrow",
+      "likes": 123,
+      "retweets": 7,
+      "url": "https://x.com/notthreadguy/status/2021396439054811634"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "the entire timeline is a variant of “you should read this”\n\ni haven’t",
+      "likes": 112,
+      "retweets": 2,
+      "url": "https://x.com/notthreadguy/status/2021445851776942571"
+    },
+    {
+      "author": "solana",
+      "text": "BREAKING: @solflare announces you can now spend any SPL token or RWA asset when using their card. https://t.co/sEr9IFniXe",
+      "likes": 102,
+      "retweets": 30,
+      "url": "https://x.com/solana/status/2021500955905446179"
+    }
+  ]
+}

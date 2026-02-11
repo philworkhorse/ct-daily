@@ -1,0 +1,178 @@
+{
+  "timestamp": "2026-02-11T10:57:57.626Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 15,
+    "bearish": 6,
+    "neutral": 79,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$PENGUIN",
+      2
+    ],
+    [
+      "$SPX",
+      1
+    ],
+    [
+      "$BLOWFISH",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ],
+    [
+      "$USELESS",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PENGUIN",
+        "count": 2
+      },
+      {
+        "ticker": "$BLOWFISH",
+        "count": 1
+      },
+      {
+        "ticker": "$USELESS",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": [
+      {
+        "ticker": "$SPX",
+        "count": 1
+      }
+    ]
+  },
+  "keywordMentions": {
+    "commodities": {
+      "corn": 1,
+      "gold": 1,
+      "oil": 1,
+      "silver": 1
+    },
+    "metals": {
+      "gold": 1,
+      "silver": 1
+    },
+    "macro": {
+      "dollar": 2,
+      "fed": 1
+    },
+    "industry": {
+      "firing": 1
+    }
+  },
+  "tickerDetails": {
+    "$SPX": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SPX whale just bought $5K of $BLOWFISH at $1.4M MC 🐳\n\nhttps://t.co/cUjSQu36NG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BLOWFISH": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $SPX whale just bought $5K of $BLOWFISH at $1.4M MC 🐳\n\nhttps://t.co/cUjSQu36NG",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "SolidTradesz",
+        "text": "RT @solidintel_x: INTEL: Jack Dorsey’s Cash App will waive fees on large $BTC purchases and recurring buys https://t.co/UlOUDK1RBD",
+        "likes": 0,
+        "retweets": 3
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $4.39K of $PENGUIN at $20.08M MC 🐳\n\nhttps://t.co/Nr5Mf1r1ND",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $PENGUIN whale just bought $5.32K of $PENGUIN at $19.75M MC 🐳\n\nhttps://t.co/GqpaEC176r",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$USELESS": [
+      {
+        "author": "imperooterxbt",
+        "text": "Bonk seems to only crime 90% bundles of the worst narratives you ever heard of like $USELESS. It’s useless get it 🤡 https://t.co/AUGLqPPQxb",
+        "likes": 107,
+        "retweets": 3
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "intocryptoverse",
+      "text": "Memecoins are the lowest rung in crypto’s capital stack.\n\nWhen liquidity tightens, the lowest rung doesn’t rotate.\nIt disappears.",
+      "likes": 640,
+      "retweets": 27,
+      "url": "https://x.com/intocryptoverse/status/2021505737445560460"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "As painful as this is gonna be (and it will be painful, as many of the assets you're holding continue to trend toward zero):\n\nI actually think this is a much-needed cleansing of the space.\n\nAn insane amount of vaporware was launched this cycle. \n\nWe need a reset before another re",
+      "likes": 171,
+      "retweets": 4,
+      "url": "https://x.com/waleswoosh/status/2021528828095422572"
+    },
+    {
+      "author": "himgajria",
+      "text": "Imagine looking back a year from now and thinking: \n\n“This is the industry I log into every day, yet I missed its biggest movement even after seeing it on the timeline every single day”\n\nCouldn’t be me.",
+      "likes": 149,
+      "retweets": 15,
+      "url": "https://x.com/himgajria/status/2021358208313590126"
+    },
+    {
+      "author": "milesdeutscher",
+      "text": "Where do you think we are in the crypto market cycle?\n\nDepression? Disbelief? https://t.co/6GEXIK7RHZ",
+      "likes": 147,
+      "retweets": 11,
+      "url": "https://x.com/milesdeutscher/status/2021418938828194067"
+    },
+    {
+      "author": "imperooterxbt",
+      "text": "Bonk seems to only crime 90% bundles of the worst narratives you ever heard of like $USELESS. It’s useless get it 🤡 https://t.co/AUGLqPPQxb",
+      "likes": 107,
+      "retweets": 3,
+      "url": "https://x.com/imperooterxbt/status/2021333226351165692"
+    },
+    {
+      "author": "SBF_FTX",
+      "text": "New evidence shows that Biden's DOJ threatened multiple witnesses into silence or into changing their testimony. My conviction should be thrown out.\n\nJudge Lewis Kaplan should recuse himself from this motion. Given his pattern of prejudging defendants—including me, @rsalame7926, ",
+      "likes": 102,
+      "retweets": 25,
+      "url": "https://x.com/SBF_FTX/status/2021532733520933015"
+    }
+  ]
+}

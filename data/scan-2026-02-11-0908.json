@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-02-11T09:08:34.660Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 5,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$META",
+      1
+    ],
+    [
+      "$PUMP",
+      1
+    ],
+    [
+      "$YNE",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$PENGUIN",
+      1
+    ],
+    [
+      "$GIGACHAD",
+      1
+    ],
+    [
+      "$BIG",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$PUMP",
+        "count": 1
+      },
+      {
+        "ticker": "$YNE",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$PENGUIN",
+        "count": 1
+      },
+      {
+        "ticker": "$GIGACHAD",
+        "count": 1
+      },
+      {
+        "ticker": "$BIG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [
+      {
+        "ticker": "$META",
+        "count": 1
+      }
+    ],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 3,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 3
+    },
+    "macro": {
+      "dollar": 1
+    },
+    "industry": {
+      "bankruptcy": 1
+    }
+  },
+  "tickerDetails": {
+    "$META": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $10K of $PUMP at $1.86B MC 🐳\n\nhttps://t.co/DB1fAadfyC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$PUMP": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $META whale just bought $10K of $PUMP at $1.86B MC 🐳\n\nhttps://t.co/DB1fAadfyC",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$YNE": [
+      {
+        "author": "yesnoerror",
+        "text": "Small, open multimodal models just got a big boost in spatial reasoning.\n\nHATCH is a new training framework that teaches models to “see” like humans: first, by aligning matching patches across multipl",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $7.72K of $PENGUIN at $21.6M MC 🐳\n\nhttps://t.co/EN2VHrHCff",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$PENGUIN": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $7.72K of $PENGUIN at $21.6M MC 🐳\n\nhttps://t.co/EN2VHrHCff",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$GIGACHAD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @gigaearnest verified earnings for $GIGACHAD on @BagsApp 💰\n\nhttps://t.co/8NFXEL93OA",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$BIG": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @HalibutCrypto just bought $2.1K of $BIG at $216.58K MC 🐳\n\nhttps://t.co/KdPeF50mbg",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Evan_ss6",
+      "text": "Getting February 2020 vibes here",
+      "likes": 1795,
+      "retweets": 72,
+      "url": "https://x.com/Evan_ss6/status/2021317730696147069"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "I said the same thing when Monad launched:\n\nA new chain needs an early breakout money-making scheme to attract users.\n\nSomething early adopters can make real money on, a ponzi, memes, NFTs, whatever.\n\nThat’s what pushes the broader crowd to overcome the initial laziness and actua",
+      "likes": 292,
+      "retweets": 5,
+      "url": "https://x.com/waleswoosh/status/2021484865921876292"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "your aram teammates are on the wrong server on airport wifi @CL207 https://t.co/wjo0SiWsl5",
+      "likes": 279,
+      "retweets": 5,
+      "url": "https://x.com/izebel_eth/status/2021111870170579031"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "your aram teammates are on the wrong server on airport wifi @CL207 https://t.co/wjo0SiWsl5",
+      "likes": 279,
+      "retweets": 5,
+      "url": "https://x.com/izebel_eth/status/2021111870170579031"
+    },
+    {
+      "author": "intocryptoverse",
+      "text": "Memecoins are the lowest rung in crypto’s capital stack.\n\nWhen liquidity tightens, the lowest rung doesn’t rotate.\nIt disappears.",
+      "likes": 252,
+      "retweets": 6,
+      "url": "https://x.com/intocryptoverse/status/2021505737445560460"
+    },
+    {
+      "author": "solana",
+      "text": "BREAKING: @DriftProtocol teases equity perps coming real soon to Solana 👀 https://t.co/pRD057dtDg",
+      "likes": 107,
+      "retweets": 31,
+      "url": "https://x.com/solana/status/2021498439528284595"
+    },
+    {
+      "author": "Ga__ke",
+      "text": "I rly like Sinclair but I’m convinced they don’t like me",
+      "likes": 105,
+      "retweets": 8,
+      "url": "https://x.com/Ga__ke/status/2021445728556703957"
+    }
+  ]
+}

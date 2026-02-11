@@ -1,0 +1,147 @@
+{
+  "timestamp": "2026-02-11T09:38:16.370Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 4,
+    "bearish": 4,
+    "neutral": 92,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$WHITEWHALE",
+      3
+    ],
+    [
+      "$TROLL",
+      1
+    ],
+    [
+      "$CHUD",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 3
+      },
+      {
+        "ticker": "$TROLL",
+        "count": 1
+      },
+      {
+        "ticker": "$CHUD",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1,
+      "corn": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {},
+    "industry": {
+      "layoff": 2
+    }
+  },
+  "tickerDetails": {
+    "$TROLL": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.21K of $CHUD at $143.1K MC 🐳\n\nhttps://t.co/cWnkA5QVR6",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$CHUD": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $TROLL whale just bought $1.21K of $CHUD at $143.1K MC 🐳\n\nhttps://t.co/cWnkA5QVR6",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "heart_",
+        "text": "gen alpha trading $BTC about to learn this week: https://t.co/rjBXaCSXtG",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.03K of $WhiteWhale at $63.99M MC 🐳\n\nhttps://t.co/iNK5NRUH7q",
+        "likes": 1,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $3.8K of $WhiteWhale at $64.05M MC 🐳\n\nhttps://t.co/JWsaCPmnso",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $4.11K of $WhiteWhale at $64.43M MC 🐳\n\nhttps://t.co/jbre2SqT6g",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "ZelenskyyUa",
+      "text": "We are shocked by the news of the shooting at a school in Tumbler Ridge, Canada. When children are killed, no one should remain indifferent. Such tragedies should never happen anywhere, in any country in the world.\n\nWe hope that all those who were injured will recover quickly. On",
+      "likes": 556,
+      "retweets": 87,
+      "url": "https://x.com/ZelenskyyUa/status/2021512477452738785"
+    },
+    {
+      "author": "izebel_eth",
+      "text": "your aram teammates are on the wrong server on airport wifi @CL207 https://t.co/wjo0SiWsl5",
+      "likes": 282,
+      "retweets": 5,
+      "url": "https://x.com/izebel_eth/status/2021111870170579031"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Ми шоковані новиною про стрілянину в школі Тамблер-Ріджа в Канаді. Коли гинуть діти, ніхто не має залишатися байдужим. Такі трагедії ніколи не повинні траплятись – ніде, у жодній країні світу.\n\nСподіваємося, що всі постраждалі швидко одужають. Від імені всіх українців висловлюю щ",
+      "likes": 172,
+      "retweets": 8,
+      "url": "https://x.com/ZelenskyyUa/status/2021512479428202546"
+    },
+    {
+      "author": "trading_axe",
+      "text": "Normally I wouldn’t read a SINGULAR PIXEL from CT drama…\n\nBut this is like the AVENGERS where CZ is desperately trying to nuke everything but blame someone else.\n\nHe began by randomly spawning Cobie into a convo via flamebaiting him [hoping he bites - but Cobie knew this],\n\nAnd n",
+      "likes": 166,
+      "retweets": 7,
+      "url": "https://x.com/trading_axe/status/2021508612137341434"
+    }
+  ]
+}

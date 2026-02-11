@@ -1,0 +1,243 @@
+{
+  "timestamp": "2026-02-11T08:18:17.014Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 6,
+    "neutral": 86,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$GIGACHAD",
+      1
+    ],
+    [
+      "$BNB",
+      1
+    ],
+    [
+      "$WHITEWHALE",
+      1
+    ],
+    [
+      "$CHUD",
+      1
+    ],
+    [
+      "$XAU",
+      1
+    ],
+    [
+      "$HYPE",
+      1
+    ],
+    [
+      "$METASOLBOT",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$GIGACHAD",
+        "count": 1
+      },
+      {
+        "ticker": "$BNB",
+        "count": 1
+      },
+      {
+        "ticker": "$WHITEWHALE",
+        "count": 1
+      },
+      {
+        "ticker": "$CHUD",
+        "count": 1
+      },
+      {
+        "ticker": "$XAU",
+        "count": 1
+      },
+      {
+        "ticker": "$HYPE",
+        "count": 1
+      },
+      {
+        "ticker": "$METASOLBOT",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {},
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @everyonebpup: $600 For Sparkling Water\n\nSomeone inside a global beverage major saw the $REKT numbers and called bullshit.\n\nAverage orde…",
+        "likes": 0,
+        "retweets": 28
+      },
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/IZrPV5ybws",
+        "likes": 74,
+        "retweets": 1
+      }
+    ],
+    "$GIGACHAD": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @gigaernest verified earnings for $GIGACHAD on @BagsApp 💰\n\nhttps://t.co/GqbOjUtNtu",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BNB": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "$BNB loses support.\n\n✍️🤯 https://t.co/B3Cw5p3ayZ",
+        "likes": 26,
+        "retweets": 1
+      }
+    ],
+    "$WHITEWHALE": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $0.44K of $CHUD at $160.63K MC 🐳\n\nhttps://t.co/YczjRleEoa",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$CHUD": [
+      {
+        "author": "whalewatchalert",
+        "text": "A $WHITEWHALE whale just bought $0.44K of $CHUD at $160.63K MC 🐳\n\nhttps://t.co/YczjRleEoa",
+        "likes": 3,
+        "retweets": 0
+      }
+    ],
+    "$XAU": [
+      {
+        "author": "solana",
+        "text": "Josh from @Matrixdock explains how they're bringing LBMA-grade institutional gold to Solana with $XAUm, the only tokenized gold product with full LBMA integration and Asia physical redemption. https:/",
+        "likes": 66,
+        "retweets": 20
+      }
+    ],
+    "$HYPE": [
+      {
+        "author": "kshitizkapoor_",
+        "text": "Perp DEX volume is exploding and $HYPE just printed a new ATH in volume vs Binance and Bybit.\n\nHere’s how I’m playing it:\n• Limit entry at $27.5-$26.5\n• SL: 3.5-3.9%\n• TP1: 30.3\n• TP2: 32\n• Final TP: ",
+        "likes": 1,
+        "retweets": 0
+      }
+    ],
+    "$METASOLBOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @metasolbot verified earnings for $METASOLBOT on @BagsApp 💰\n\nhttps://t.co/bFqs6alm9n",
+        "likes": 2,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Evan_ss6",
+      "text": "Getting February 2020 vibes here",
+      "likes": 1619,
+      "retweets": 64,
+      "url": "https://x.com/Evan_ss6/status/2021317730696147069"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, stop selling https://t.co/pgKyqM26H3",
+      "likes": 607,
+      "retweets": 11,
+      "url": "https://x.com/waleswoosh/status/2021464435119067245"
+    },
+    {
+      "author": "milesdeutscher",
+      "text": "This is getting out of control now...\n\nRead this slowly.\n\nIn the past week alone:\n\n• Head of Anthropic's safety research quit, said \"the world is in peril,\" moved to the UK to \"become invisible\" and write poetry.\n• Half of xAI's co-founders have now left. The latest said \"recursi",
+      "likes": 265,
+      "retweets": 28,
+      "url": "https://x.com/milesdeutscher/status/2021487637299855540"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "I said the same thing when Monad launched:\n\nA new chain needs an early breakout money-making scheme to attract users.\n\nSomething early adopters can make real money on, a ponzi, memes, NFTs, whatever.\n\nThat’s what pushes the broader crowd to overcome the initial laziness and actua",
+      "likes": 229,
+      "retweets": 3,
+      "url": "https://x.com/waleswoosh/status/2021484865921876292"
+    },
+    {
+      "author": "ZelenskyyUa",
+      "text": "Yesterday, the Russians struck a private house in Kharkiv with a drone. They killed three young children. Their father was also killed. My sincere condolences to the family and loved ones. The mother was hospitalized – the woman is pregnant and suffered burns.\n\nThis morning, a ci",
+      "likes": 226,
+      "retweets": 72,
+      "url": "https://x.com/ZelenskyyUa/status/2021496809948864629"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "nikita bier put crack in the algo this thing is actually perfect rn please change nothing",
+      "likes": 137,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2021446354321670466"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i landed a mythical interview with the giver on stream tomorrow",
+      "likes": 121,
+      "retweets": 7,
+      "url": "https://x.com/notthreadguy/status/2021396439054811634"
+    },
+    {
+      "author": "Icebergy",
+      "text": "i have noticed a majority of the ai doomer articles are written by fund managers or neets both people who have never worked a real job",
+      "likes": 120,
+      "retweets": 3,
+      "url": "https://x.com/Icebergy/status/2021459921775231163"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "just watched a youtube video on porcupines",
+      "likes": 120,
+      "retweets": 1,
+      "url": "https://x.com/blknoiz06/status/2021458243307045261"
+    },
+    {
+      "author": "SolportTom",
+      "text": "majors down people saying it's a bear market yet everyone is still here grinding away in the trenches, there's always opportunities in coins just takes some real belief to survive these rough periods.\n\nNext iteration of the flywheel is being coded already, and our first older tok",
+      "likes": 114,
+      "retweets": 15,
+      "url": "https://x.com/SolportTom/status/2021488970136256525"
+    }
+  ]
+}

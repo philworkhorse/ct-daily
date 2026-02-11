@@ -1,0 +1,182 @@
+{
+  "timestamp": "2026-02-11T07:44:04.830Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 7,
+    "bearish": 5,
+    "neutral": 88,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$REKT",
+      2
+    ],
+    [
+      "$METASOLBOT",
+      1
+    ],
+    [
+      "$BIG",
+      1
+    ],
+    [
+      "$BTC",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$REKT",
+        "count": 2
+      },
+      {
+        "ticker": "$METASOLBOT",
+        "count": 1
+      },
+      {
+        "ticker": "$BIG",
+        "count": 1
+      }
+    ],
+    "crypto-major": [
+      {
+        "ticker": "$BTC",
+        "count": 1
+      }
+    ],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "gold": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "fed": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$REKT": [
+      {
+        "author": "osf_rekt",
+        "text": "RT @everyonebpup: $600 For Sparkling Water\n\nSomeone inside a global beverage major saw the $REKT numbers and called bullshit.\n\nAverage orde…",
+        "likes": 0,
+        "retweets": 26
+      },
+      {
+        "author": "osf_rekt",
+        "text": "gm $REKT guys https://t.co/IZrPV5ybws",
+        "likes": 69,
+        "retweets": 1
+      }
+    ],
+    "$METASOLBOT": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @metasolbot verified earnings for $METASOLBOT on @BagsApp 💰\n\nhttps://t.co/bFqs6alm9n",
+        "likes": 0,
+        "retweets": 0
+      }
+    ],
+    "$BIG": [
+      {
+        "author": "whalewatchalert",
+        "text": "KOL @collectible just bought $2.25K of $BIG at $203.46K MC 🐳\n\nhttps://t.co/dgpfFKluug",
+        "likes": 2,
+        "retweets": 0
+      }
+    ],
+    "$BTC": [
+      {
+        "author": "cryptosanthoshK",
+        "text": "RT @cryptosanthoshK: $BTC / USDT ( update )\n\nI warned y'all this exact scenario at 90,000$. Pattern repeats. Bitcoin at crucial levels.\n\n50…",
+        "likes": 0,
+        "retweets": 17
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "Evan_ss6",
+      "text": "Getting February 2020 vibes here",
+      "likes": 1471,
+      "retweets": 59,
+      "url": "https://x.com/Evan_ss6/status/2021317730696147069"
+    },
+    {
+      "author": "Evan_ss6",
+      "text": "Getting February 2020 vibes here",
+      "likes": 1470,
+      "retweets": 59,
+      "url": "https://x.com/Evan_ss6/status/2021317730696147069"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "Gm, stop selling https://t.co/pgKyqM26H3",
+      "likes": 537,
+      "retweets": 10,
+      "url": "https://x.com/waleswoosh/status/2021464435119067245"
+    },
+    {
+      "author": "waleswoosh",
+      "text": "I said the same thing when Monad launched:\n\nA new chain needs an early breakout money-making scheme to attract users.\n\nSomething early adopters can make real money on, a ponzi, memes, NFTs, whatever.\n\nThat’s what pushes the broader crowd to overcome the initial laziness and actua",
+      "likes": 163,
+      "retweets": 2,
+      "url": "https://x.com/waleswoosh/status/2021484865921876292"
+    },
+    {
+      "author": "finnbags",
+      "text": "It’s time for things to change…",
+      "likes": 147,
+      "retweets": 9,
+      "url": "https://x.com/finnbags/status/2021454278217588797"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "nikita bier put crack in the algo this thing is actually perfect rn please change nothing",
+      "likes": 132,
+      "retweets": 3,
+      "url": "https://x.com/notthreadguy/status/2021446354321670466"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "i landed a mythical interview with the giver on stream tomorrow",
+      "likes": 119,
+      "retweets": 6,
+      "url": "https://x.com/notthreadguy/status/2021396439054811634"
+    },
+    {
+      "author": "Icebergy",
+      "text": "i have noticed a majority of the ai doomer articles are written by fund managers or neets both people who have never worked a real job",
+      "likes": 114,
+      "retweets": 3,
+      "url": "https://x.com/Icebergy/status/2021459921775231163"
+    },
+    {
+      "author": "solana",
+      "text": "\"Solana is number one in users, transactions, developer growth, trading volume, and fees with 24+ consecutive months of uptime. A marketplace for financial apps and users. That's how Solana becomes the internet capital markets.\"\n\n- Zheng Jie Lim of @artemis https://t.co/jmRe8O6Us",
+      "likes": 112,
+      "retweets": 31,
+      "url": "https://x.com/solana/status/2021485856398139573"
+    },
+    {
+      "author": "blknoiz06",
+      "text": "just watched a youtube video on porcupines",
+      "likes": 110,
+      "retweets": 1,
+      "url": "https://x.com/blknoiz06/status/2021458243307045261"
+    }
+  ]
+}
