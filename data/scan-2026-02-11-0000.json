@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-02-11T00:00:22.520Z",
+  "stats": {
+    "listTweets": 50,
+    "followingTweets": 50,
+    "totalTweets": 100
+  },
+  "sentiment": {
+    "bullish": 8,
+    "bearish": 1,
+    "neutral": 91,
+    "total": 100
+  },
+  "topTickers": [
+    [
+      "$HOOD",
+      1
+    ],
+    [
+      "$CLAWLANCER",
+      1
+    ],
+    [
+      "$CRALPH",
+      1
+    ]
+  ],
+  "byCategory": {
+    "crypto": [
+      {
+        "ticker": "$HOOD",
+        "count": 1
+      },
+      {
+        "ticker": "$CLAWLANCER",
+        "count": 1
+      },
+      {
+        "ticker": "$CRALPH",
+        "count": 1
+      }
+    ],
+    "crypto-major": [],
+    "stock": [],
+    "commodity": [],
+    "metal": [],
+    "index": []
+  },
+  "keywordMentions": {
+    "commodities": {
+      "coffee": 1,
+      "gold": 1,
+      "copper": 1,
+      "oil": 1
+    },
+    "metals": {
+      "gold": 1
+    },
+    "macro": {
+      "dollar": 1,
+      "fed": 1
+    },
+    "industry": {}
+  },
+  "tickerDetails": {
+    "$HOOD": [
+      {
+        "author": "EasyEatsBodega",
+        "text": "Going to be averaging UP on $HOOD here soon. \n\nMissed revenue slightly \nBeat EPS \n\nNumber of funded customer accounts through the roof. \n\nThey noted that platform assets are up 68% to 324 BILLION \n\nTh",
+        "likes": 27,
+        "retweets": 1
+      }
+    ],
+    "$CLAWLANCER": [
+      {
+        "author": "leftcurvemaxing",
+        "text": "RT @MCGlive: [UPDATED] Schedule on @MCGlive X @AssetDash\nAll times in EST\n\nWed, Feb 11 \n12:00 – $CLAWLANCER w/@clawlancers @coopwrenn (@Bag…",
+        "likes": 0,
+        "retweets": 1
+      }
+    ],
+    "$CRALPH": [
+      {
+        "author": "BagsEarnings",
+        "text": "Earnings Report: @unicodeveloper verified earnings for $CRALPH on @BagsApp 💰\n\nhttps://t.co/5uzWdqekEN",
+        "likes": 1,
+        "retweets": 0
+      }
+    ]
+  },
+  "highEngagement": [
+    {
+      "author": "jessepollak",
+      "text": "PSA: I am making a last minute call to go to @EthereumDenver \n\nwhy? because with prices down, it's more important than ever to be with builders. and because despite what you may have heard on CT, we win together.\n\nsee you there.",
+      "likes": 849,
+      "retweets": 32,
+      "url": "https://x.com/jessepollak/status/2020938767721542005"
+    },
+    {
+      "author": "a1lon9",
+      "text": "@notthreadguy now he knows!",
+      "likes": 155,
+      "retweets": 1,
+      "url": "https://x.com/a1lon9/status/2021354679767371912"
+    },
+    {
+      "author": "notthreadguy",
+      "text": "yall think tim draper knows what x402 is or nah",
+      "likes": 134,
+      "retweets": 2,
+      "url": "https://x.com/notthreadguy/status/2021347665297203258"
+    },
+    {
+      "author": "rektmando",
+      "text": "in agreement - the next move to me seems to be some form of deeper equities correction\n\nTHIS IS A HUGE FCKIN OPPORTUNITY\n\nthere's gonna be chances to put on life-changing trades over the next 6 months",
+      "likes": 118,
+      "retweets": 3,
+      "url": "https://x.com/rektmando/status/2021352005546148148"
+    },
+    {
+      "author": "himgajria",
+      "text": "Copper (inu) is much more likely to pull a 1000x than any other coin under $50M market cap. \n\nInuvestors understand this. \nCoper Inus soon will.",
+      "likes": 116,
+      "retweets": 17,
+      "url": "https://x.com/himgajria/status/2021352531134451904"
+    }
+  ]
+}
